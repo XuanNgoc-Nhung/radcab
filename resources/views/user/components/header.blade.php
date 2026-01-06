@@ -13,7 +13,7 @@
                 <div class="relative" id="about-menu">
                     <button
                         id="about-toggle"
-                        class="inline-flex items-center h-12 font-semibold text-sm md:text-base text-black dark:text-white pr-4 lg:pr-6 hover:text-primary whitespace-nowrap cursor-pointer"
+                        class="inline-flex items-center h-12 font-semibold text-sm md:text-base text-black dark:text-white pr-4 lg:pr-6 hover:text-primary whitespace-nowrap cursor-pointer transition-all duration-300 ease-in-out hover:bg-gray-50 dark:hover:bg-gray-800 rounded-lg px-3 -mx-3"
                         aria-haspopup="true" aria-expanded="false">About</button>
                     <!-- Dropdown Menu -->
                     <div id="about-dropdown" class="fixed w-[80vw] max-w-[1400px] top-[56px] left-1/2 transform -translate-x-1/2 bg-transparent opacity-0 invisible transition-all duration-300 z-50 pointer-events-none hidden">
@@ -76,7 +76,7 @@
                 <div class="relative" id="services-menu">
                     <button
                         id="services-toggle"
-                        class="inline-flex items-center h-12 font-semibold text-sm md:text-base text-black dark:text-white pr-4 lg:pr-6 hover:text-primary whitespace-nowrap cursor-pointer"
+                        class="inline-flex items-center h-12 font-semibold text-sm md:text-base text-black dark:text-white pr-4 lg:pr-6 hover:text-primary whitespace-nowrap cursor-pointer transition-all duration-300 ease-in-out hover:bg-gray-50 dark:hover:bg-gray-800 rounded-lg px-3 -mx-3"
                         aria-haspopup="true" aria-expanded="false">Services</button>
                     <!-- Dropdown Menu -->
                     <div id="services-dropdown" class="fixed w-[80vw] max-w-[1400px] top-[56px] left-1/2 transform -translate-x-1/2 bg-transparent opacity-0 invisible transition-all duration-300 z-50 pointer-events-none hidden">
@@ -187,7 +187,7 @@
                 <div class="relative" id="industries-menu">
                     <button
                         id="industries-toggle"
-                        class="inline-flex items-center h-12 font-semibold text-sm md:text-base text-black dark:text-white pr-4 lg:pr-6 hover:text-primary whitespace-nowrap cursor-pointer"
+                        class="inline-flex items-center h-12 font-semibold text-sm md:text-base text-black dark:text-white pr-4 lg:pr-6 hover:text-primary whitespace-nowrap cursor-pointer transition-all duration-300 ease-in-out hover:bg-gray-50 dark:hover:bg-gray-800 rounded-lg px-3 -mx-3"
                         aria-haspopup="true" aria-expanded="false">Industries</button>
                     <!-- Dropdown Menu -->
                     <div id="industries-dropdown" class="fixed w-[80vw] max-w-[1400px] top-[56px] left-1/2 transform -translate-x-1/2 bg-transparent opacity-0 invisible transition-all duration-300 z-50 pointer-events-none hidden">
@@ -241,7 +241,7 @@
                 <div class="relative" id="resources-menu">
                     <button
                         id="resources-toggle"
-                        class="inline-flex items-center h-12 font-semibold text-sm md:text-base text-black dark:text-white pr-4 lg:pr-6 hover:text-primary whitespace-nowrap cursor-pointer"
+                        class="inline-flex items-center h-12 font-semibold text-sm md:text-base text-black dark:text-white pr-4 lg:pr-6 hover:text-primary whitespace-nowrap cursor-pointer transition-all duration-300 ease-in-out hover:bg-gray-50 dark:hover:bg-gray-800 rounded-lg px-3 -mx-3"
                         aria-haspopup="true" aria-expanded="false">Resources</button>
                     <!-- Dropdown Menu -->
                     <div id="resources-dropdown" class="fixed w-[80vw] max-w-[1400px] top-[56px] left-1/2 transform -translate-x-1/2 bg-transparent opacity-0 invisible transition-all duration-300 z-50 pointer-events-none hidden">
@@ -292,7 +292,7 @@
                 <div class="relative" id="hire-developers-menu">
                     <button
                         id="hire-developers-toggle"
-                        class="inline-flex items-center h-12 font-semibold text-sm md:text-base text-black dark:text-white pr-4 lg:pr-6 hover:text-primary whitespace-nowrap cursor-pointer"
+                        class="inline-flex items-center h-12 font-semibold text-sm md:text-base text-black dark:text-white pr-4 lg:pr-6 hover:text-primary whitespace-nowrap cursor-pointer transition-all duration-300 ease-in-out hover:bg-gray-50 dark:hover:bg-gray-800 rounded-lg px-3 -mx-3"
                         aria-haspopup="true" aria-expanded="false">Hire Developers</button>
                     <!-- Dropdown Menu -->
                     <div id="hire-developers-dropdown" class="fixed w-[80vw] max-w-[1400px] top-[56px] left-1/2 transform -translate-x-1/2 bg-transparent opacity-0 invisible transition-all duration-300 z-50 pointer-events-none hidden">
@@ -362,7 +362,7 @@
                     </div>
                 </div>
                 <div class="relative"><a
-                        class="inline-flex items-center h-12 font-semibold text-sm md:text-base text-black dark:text-white  hover:text-primary whitespace-nowrap"
+                        class="inline-flex items-center h-12 font-semibold text-sm md:text-base text-black dark:text-white hover:text-primary whitespace-nowrap transition-all duration-300 ease-in-out hover:bg-gray-50 dark:hover:bg-gray-800 rounded-lg px-3 -mx-3"
                         aria-haspopup="false" aria-expanded="false" href="/case-study">Portfolio</a></div>
             </nav>
         </div>
