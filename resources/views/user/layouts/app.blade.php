@@ -31,6 +31,20 @@
             display: none
         }
 
+        /* Marquee Animation */
+        @keyframes marquee {
+            0% {
+                transform: translateY(0);
+            }
+            100% {
+                transform: translateY(-50%);
+            }
+        }
+
+        .animate-marquee {
+            animation: marquee linear infinite;
+        }
+
     </style>
 </head>
 

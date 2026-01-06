@@ -8,9 +8,9 @@
             src="/year/2017.jpg?w=3840&amp;q=75"></div>
     <div class="absolute inset-0 z-[2] bg-gradient-to-b from-black/80 via-black/60 to-black/50"></div>
     <div class="relative z-[3] flex flex-col items-center py-16 sm:py-20">
-        <h1 class="lg:leading-snug max-w-7xl font-bold text-xl sm:text-4xl md:text-6xl lg:text-7xl text-center mb-4  "
+        <h1 class="wow animate__animated animate__fadeInUp lg:leading-snug max-w-7xl font-bold text-xl sm:text-4xl md:text-6xl lg:text-7xl text-center mb-4  "
             style="color:#f2f2f2">Blockchain Innovator Powering the Future of Web3</h1>
-        <p class="text-sm sm:text-base md:text-lg mb-4 sm:mb-6 md:mb-6 max-w-5xl  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400"
+        <p class="wow animate__animated animate__fadeInUp animate__delay-1s text-sm sm:text-base md:text-lg mb-4 sm:mb-6 md:mb-6 max-w-5xl  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400"
             style="color:#FFFFFF">From blockchain development to decentralized finance (DeFi) innovation — Nadcab Labs
             has been transforming digital ecosystems since 2017, bridging the gap between crypto and traditional finance
             through innovation and trust.</p>
@@ -18,47 +18,59 @@
     </div>
 </section>
 <div class=" relative z-10 -mt-20 md:-mt-60">
-    <div class="max-w-7xl mx-auto  grid grid-cols-2 gap-4 pt-8 md:grid-cols-4 md:gap-6 px-4">
-        <div class="bg-lime-200 p-5 rounded-2xl text-center  text-black">
-            <div class="flex justify-center items-baseline space-x-1"><span class="text-2xl md:text-4xl font-bold">500+
-                </span></div>
+    <div
+        class="wow animate__animated animate__fadeInUp max-w-7xl mx-auto  grid grid-cols-2 gap-4 pt-8 md:grid-cols-4 md:gap-6 px-4">
+        <div class=" animate__animated  bg-lime-200 p-5 rounded-2xl text-center  text-black">
+            <div class="flex justify-center items-baseline space-x-1">
+                <span class="counter-number text-2xl md:text-4xl font-bold" data-target="500" data-suffix="+">0+</span>
+            </div>
             <div class="text-xs md:text-sm mt-1">Crypto currencies Integrated</div>
         </div>
-        <div class="bg-purple-100 p-5 rounded-2xl text-center text-black">
-            <div class="flex justify-center items-baseline space-x-1"><span
-                    class="text-2xl md:text-4xl font-bold">20+</span></div>
+        <div class=" animate__animated  animate__delay-1s bg-purple-100 p-5 rounded-2xl text-center text-black">
+            <div class="flex justify-center items-baseline space-x-1">
+                <span class="counter-number text-2xl md:text-4xl font-bold" data-target="20" data-suffix="+">0+</span>
+            </div>
             <div class="text-xs md:text-sm mt-1"> Network supported</div>
         </div>
-        <div class="bg-pink-50 p-5 rounded-2xl text-center  text-black">
-            <div class="flex justify-center items-baseline space-x-1"><span class="text-2xl md:text-4xl font-bold">150+
-                </span></div>
+        <div class=" animate__animated  animate__delay-2s bg-pink-50 p-5 rounded-2xl text-center  text-black">
+            <div class="flex justify-center items-baseline space-x-1">
+                <span class="counter-number text-2xl md:text-4xl font-bold" data-target="150" data-suffix="+">0+</span>
+            </div>
             <div class="text-xs md:text-sm mt-1">Currency Listed in CMC &amp; CG</div>
         </div>
-        <div class="bg-purple-100 p-5 rounded-2xl text-center  text-black">
-            <div class="text-2xl md:text-4xl font-bold">$100M</div>
+        <div class=" animate__animated  animate__delay-3s bg-purple-100 p-5 rounded-2xl text-center  text-black">
+            <div>
+                <span class="counter-number text-2xl md:text-4xl font-bold" data-target="100" data-prefix="$"
+                    data-suffix="M">$0M</span>
+            </div>
             <div class="text-xs md:text-sm mt-1">Clients Funds Raising</div>
         </div>
     </div>
 </div>
 <section class="pt-12 sm:py-16">
     <div class="text-center lg:pt-16 px-4">
-        <h2 class="gradient-text lg:leading-snug text-2xl sm:text-3xl md:text-4xl mb-6">Transforming Businesses with
+        <h2
+            class="wow animate__animated animate__fadeInUp gradient-text lg:leading-snug text-2xl sm:text-3xl md:text-4xl mb-6">
+            Transforming Businesses with
             AI-Powered <br>Solutions Across the Globe</h2>
-        <p class="text-muted-foreground text-sm sm:text-sm md:text-base max-w-4xl mx-auto ">Nadcab Labs is a leading
+        <p
+            class="wow animate__animated animate__fadeInUp animate__delay-1s text-muted-foreground text-sm sm:text-sm md:text-base max-w-4xl mx-auto ">
+            Nadcab Labs is a leading
             AI-driven IT service provider, helping companies redefine their digital potential for nearly a decade. With
             a team of 1,600+ tech experts, we build intelligent, AI-native digital infrastructure that empowers our
             clients to become market leaders in their industries.</p>
     </div>
     <div class="max-w-7xl mx-auto py-24 px-4 space-y-16">
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-stretch">
-            <div class="relative lg:col-span-7 h-52 sm:h-64 lg:h-auto"><img alt="Our people make us special"
-                    loading="lazy" decoding="async" data-nimg="fill" class="object-cover rounded-none shadow-md"
+            <div class="wow animate__animated animate__fadeInLeft relative lg:col-span-7 h-52 sm:h-64 lg:h-auto"><img
+                    alt="Our people make us special" loading="lazy" decoding="async" data-nimg="fill"
+                    class="object-cover rounded-none shadow-md"
                     style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"
                     sizes="100vw"
                     srcset="/abouts/fest1.webp?w=640&amp;q=75 640w, /abouts/fest1.webp?w=750&amp;q=75 750w, /abouts/fest1.webp?w=828&amp;q=75 828w, /abouts/fest1.webp?w=1080&amp;q=75 1080w, /abouts/fest1.webp?w=1200&amp;q=75 1200w, /abouts/fest1.webp?w=1920&amp;q=75 1920w, /abouts/fest1.webp?w=2048&amp;q=75 2048w, /abouts/fest1.webp?w=3840&amp;q=75 3840w"
                     src="/abouts/fest1.webp?w=3840&amp;q=75"></div>
             <div
-                class="flex flex-col justify-center lg:p-10 p-4 rounded-none  shadow-md bg-[#f6f6f6] dark:bg-[#242424] lg:col-span-5">
+                class="wow animate__animated animate__fadeInRight flex flex-col justify-center lg:p-10 p-4 rounded-none  shadow-md bg-[#f6f6f6] dark:bg-[#242424] lg:col-span-5">
                 <h2 class="font-normal text-xl md:text-3xl mb-6 leading-snug">Our people make us special</h2>
                 <ul class="space-y-3 mb-8">
                     <li class="flex items-start gap-2 text-base fw-normal">
@@ -101,14 +113,16 @@
             </div>
         </div>
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-stretch">
-            <div class="relative lg:col-span-7 lg:order-2 h-52 sm:h-64 lg:h-auto"><img alt="We Own Responsibilities"
-                    loading="lazy" decoding="async" data-nimg="fill" class="object-cover rounded-none shadow-md"
+            <div
+                class="wow animate__animated animate__fadeInRight relative lg:col-span-7 lg:order-2 h-52 sm:h-64 lg:h-auto">
+                <img alt="We Own Responsibilities" loading="lazy" decoding="async" data-nimg="fill"
+                    class="object-cover rounded-none shadow-md"
                     style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"
                     sizes="100vw"
                     srcset="/abouts/holi.png?w=640&amp;q=75 640w, /abouts/holi.png?w=750&amp;q=75 750w, /abouts/holi.png?w=828&amp;q=75 828w, /abouts/holi.png?w=1080&amp;q=75 1080w, /abouts/holi.png?w=1200&amp;q=75 1200w, /abouts/holi.png?w=1920&amp;q=75 1920w, /abouts/holi.png?w=2048&amp;q=75 2048w, /abouts/holi.png?w=3840&amp;q=75 3840w"
                     src="/abouts/holi.png?w=3840&amp;q=75"></div>
             <div
-                class="flex flex-col justify-center lg:p-10 p-4 rounded-none  shadow-md bg-[#f6f6f6] dark:bg-[#242424] lg:col-span-5 lg:order-1">
+                class="wow animate__animated animate__fadeInLeft flex flex-col justify-center lg:p-10 p-4 rounded-none  shadow-md bg-[#f6f6f6] dark:bg-[#242424] lg:col-span-5 lg:order-1">
                 <h2 class="font-normal text-xl md:text-3xl mb-6 leading-snug">We Own Responsibilities</h2>
                 <ul class="space-y-3 mb-8">
                     <li class="flex items-start gap-2 text-base fw-normal">
@@ -151,14 +165,15 @@
             </div>
         </div>
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-stretch">
-            <div class="relative lg:col-span-7 h-52 sm:h-64 lg:h-auto"><img alt="We Keep Our Eye On The ROI"
-                    loading="lazy" decoding="async" data-nimg="fill" class="object-cover rounded-none shadow-md"
+            <div class="wow animate__animated animate__fadeInLeft relative lg:col-span-7 h-52 sm:h-64 lg:h-auto"><img
+                    alt="We Keep Our Eye On The ROI" loading="lazy" decoding="async" data-nimg="fill"
+                    class="object-cover rounded-none shadow-md"
                     style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"
                     sizes="100vw"
                     srcset="/abouts/christmas.webp?w=640&amp;q=75 640w, /abouts/christmas.webp?w=750&amp;q=75 750w, /abouts/christmas.webp?w=828&amp;q=75 828w, /abouts/christmas.webp?w=1080&amp;q=75 1080w, /abouts/christmas.webp?w=1200&amp;q=75 1200w, /abouts/christmas.webp?w=1920&amp;q=75 1920w, /abouts/christmas.webp?w=2048&amp;q=75 2048w, /abouts/christmas.webp?w=3840&amp;q=75 3840w"
                     src="/abouts/christmas.webp?w=3840&amp;q=75"></div>
             <div
-                class="flex flex-col justify-center lg:p-10 p-4 rounded-none  shadow-md bg-[#f6f6f6] dark:bg-[#242424] lg:col-span-5">
+                class="wow animate__animated animate__fadeInRight flex flex-col justify-center lg:p-10 p-4 rounded-none  shadow-md bg-[#f6f6f6] dark:bg-[#242424] lg:col-span-5">
                 <h2 class="font-normal text-xl md:text-3xl mb-6 leading-snug">We Keep Our Eye On The ROI</h2>
                 <ul class="space-y-3 mb-8">
                     <li class="flex items-start gap-2 text-base fw-normal">
@@ -204,14 +219,16 @@
             </div>
         </div>
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-stretch">
-            <div class="relative lg:col-span-7 lg:order-2 h-52 sm:h-64 lg:h-auto"><img alt="We Work Tirelessly"
-                    loading="lazy" decoding="async" data-nimg="fill" class="object-cover rounded-none shadow-md"
+            <div
+                class="wow animate__animated animate__fadeInRight relative lg:col-span-7 lg:order-2 h-52 sm:h-64 lg:h-auto">
+                <img alt="We Work Tirelessly" loading="lazy" decoding="async" data-nimg="fill"
+                    class="object-cover rounded-none shadow-md"
                     style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"
                     sizes="100vw"
                     srcset="/abouts/dandiya.png?w=640&amp;q=75 640w, /abouts/dandiya.png?w=750&amp;q=75 750w, /abouts/dandiya.png?w=828&amp;q=75 828w, /abouts/dandiya.png?w=1080&amp;q=75 1080w, /abouts/dandiya.png?w=1200&amp;q=75 1200w, /abouts/dandiya.png?w=1920&amp;q=75 1920w, /abouts/dandiya.png?w=2048&amp;q=75 2048w, /abouts/dandiya.png?w=3840&amp;q=75 3840w"
                     src="/abouts/dandiya.png?w=3840&amp;q=75"></div>
             <div
-                class="flex flex-col justify-center lg:p-10 p-4 rounded-none  shadow-md bg-[#f6f6f6] dark:bg-[#242424] lg:col-span-5 lg:order-1">
+                class="wow animate__animated animate__fadeInLeft flex flex-col justify-center lg:p-10 p-4 rounded-none  shadow-md bg-[#f6f6f6] dark:bg-[#242424] lg:col-span-5 lg:order-1">
                 <h2 class="font-normal text-xl md:text-3xl mb-6 leading-snug">We Work Tirelessly</h2>
                 <ul class="space-y-3 mb-8">
                     <li class="flex items-start gap-2 text-base fw-normal">
@@ -261,12 +278,13 @@
     <div class="py-16 mb-12 bg-gradient-to-r from-indigo-500  to-indigo-700">
         <div class="px-4 md:px-4">
             <div class="text-center mb-12">
-                <h2 class="gradient-text-- text-white lg:leading-snug text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-6">
+                <h2
+                    class="wow animate__animated animate__fadeInUp gradient-text-- text-white lg:leading-snug text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-6">
                     What we believe in</h2>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-12 max-w-7xl mx-auto">
                 <div
-                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg shadow-none">
+                    class="wow animate__animated animate__fadeInUp bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg shadow-none">
                     <div
                         class="flex flex-col items-center justify-center text-center space-y-2 p-6 lg:p-6 flex-1 shadow-none">
                         <div
@@ -284,7 +302,7 @@
                     </div>
                 </div>
                 <div
-                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg shadow-none">
+                    class="wow animate__animated animate__fadeInUp animate__delay-1s bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg shadow-none">
                     <div
                         class="flex flex-col items-center justify-center text-center space-y-2 p-6 lg:p-6 flex-1 shadow-none">
                         <div
@@ -300,7 +318,7 @@
                     </div>
                 </div>
                 <div
-                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg shadow-none">
+                    class="wow animate__animated animate__fadeInUp animate__delay-2s bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg shadow-none">
                     <div
                         class="flex flex-col items-center justify-center text-center space-y-2 p-6 lg:p-6 flex-1 shadow-none">
                         <div
@@ -319,7 +337,7 @@
                     </div>
                 </div>
                 <div
-                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg shadow-none">
+                    class="wow animate__animated animate__fadeInUp animate__delay-3s bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg shadow-none">
                     <div
                         class="flex flex-col items-center justify-center text-center space-y-2 p-6 lg:p-6 flex-1 shadow-none">
                         <div
@@ -345,61 +363,108 @@
     </div>
     <section class="w-full py-6 sm:py-16 px-4">
         <div class="max-w-7xl mx-auto flex flex-col lg:flex-row lg:items-center lg:gap-10">
-            <div class="mb-8 lg:mb-0 lg:w-5/12 space-y-4 sm:space-y-6">
+            <div class="wow animate__animated animate__fadeInLeft mb-8 lg:mb-0 lg:w-5/12 space-y-4 sm:space-y-6">
                 <h2 class="text-2xl sm:text-3xl lg:text-4xl font-medium leading-snug">Nadcab Labs: Transforming Finance
                     Through Blockchain</h2>
                 <p class="text-sm sm:text-base text-foreground/90 max-w-md [&amp;_a]:text-blue-600">At Nadcab Labs,
-                    we’re transforming the way the world interacts with money. Since 2017, we’ve been building secure
+                    we're transforming the way the world interacts with money. Since 2017, we've been building secure
                     and innovative blockchain and Web3 solutions that connect the cryptocurrency ecosystem with
                     traditional finance. With teams in the UK and India, our 160+ experts are shaping a transparent,
                     accessible, and decentralized financial future.</p>
             </div>
-            <div class="lg:w-7/12 space-y-4">
-                <div class="bg-card rounded-xl card-shadow overflow-hidden transition-all duration-300"><button
-                        class="w-full flex justify-between items-center pt-3 pb-2 px-4 sm:px-8 focus:outline-none">
+            <div class="wow animate__animated animate__fadeInRight lg:w-7/12 space-y-4">
+                <div class="bg-card rounded-xl card-shadow overflow-hidden transition-all duration-300">
+                    <button
+                        class="accordion-trigger w-full flex justify-between items-center pt-3 pb-2 px-4 sm:px-8 focus:outline-none">
                         <h3 class="text-base text-left sm:text-lg font-semibold">Mission &amp; Innovation</h3>
-                        <div class="w-9 h-9  flex items-center justify-center"></div>
+                        <div class="w-9 h-9 flex items-center justify-center">
+                            <div
+                                class="accordion-icon w-7 h-7 flex items-center justify-center bg-card card-shadow transition-transform duration-300">
+                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"
+                                    class="w-5 h-5 sm:w-6 sm:h-6" height="1em" width="1em"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M128 192l128 128 128-128z"></path>
+                                </svg>
+                            </div>
+                        </div>
                     </button>
-                    <div class="p-4 sm:px-8 sm:pb-4 sm:pt-0 pt-0 text-sm sm:text-base  [&amp;_a]:text-blue-600">We aim
-                        to harness blockchain technology to create transparent, decentralized, and efficient systems
-                        that empower businesses and individuals alike, driving long-term value and innovation.</div>
+                    <div class="accordion-content overflow-hidden transition-all duration-300 max-h-0">
+                        <div class="p-4 sm:px-8 sm:pb-4 sm:pt-0 pt-0 text-sm sm:text-base [&amp;_a]:text-blue-600">We
+                            aim
+                            to harness blockchain technology to create transparent, decentralized, and efficient systems
+                            that empower businesses and individuals alike, driving long-term value and innovation.</div>
+                    </div>
                 </div>
-                <div class="bg-card rounded-xl card-shadow overflow-hidden transition-all duration-300"><button
-                        class="w-full flex justify-between items-center pt-3 pb-2 px-4 sm:px-8 focus:outline-none">
+                <div class="bg-card rounded-xl card-shadow overflow-hidden transition-all duration-300">
+                    <button
+                        class="accordion-trigger w-full flex justify-between items-center pt-3 pb-2 px-4 sm:px-8 focus:outline-none">
                         <h3 class="text-base text-left sm:text-lg font-semibold">Vision for the Future</h3>
                         <div class="w-9 h-9 bg-card card-shadow flex items-center justify-center">
-                            <div class="w-7 h-7 flex items-center justify-center bg-card card-shadow"><svg
-                                    stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"
+                            <div
+                                class="accordion-icon w-7 h-7 flex items-center justify-center bg-card card-shadow transition-transform duration-300">
+                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"
                                     class="w-5 h-5 sm:w-6 sm:h-6" height="1em" width="1em"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path d="M128 192l128 128 128-128z"></path>
-                                </svg></div>
+                                </svg>
+                            </div>
                         </div>
-                    </button></div>
-                <div class="bg-card rounded-xl card-shadow overflow-hidden transition-all duration-300"><button
-                        class="w-full flex justify-between items-center pt-3 pb-2 px-4 sm:px-8 focus:outline-none">
+                    </button>
+                    <div class="accordion-content overflow-hidden transition-all duration-300 max-h-0">
+                        <div class="p-4 sm:px-8 sm:pb-4 sm:pt-0 pt-0 text-sm sm:text-base [&amp;_a]:text-blue-600">Our
+                            vision is to become the global leader in blockchain innovation, making decentralized
+                            technologies accessible to businesses of all sizes. We envision a future where blockchain
+                            seamlessly integrates into everyday operations, creating more transparent, efficient, and
+                            trustworthy digital ecosystems worldwide.</div>
+                    </div>
+                </div>
+                <div class="bg-card rounded-xl card-shadow overflow-hidden transition-all duration-300">
+                    <button
+                        class="accordion-trigger w-full flex justify-between items-center pt-3 pb-2 px-4 sm:px-8 focus:outline-none">
                         <h3 class="text-base text-left sm:text-lg font-semibold">Strategic Approach</h3>
                         <div class="w-9 h-9 bg-card card-shadow flex items-center justify-center">
-                            <div class="w-7 h-7 flex items-center justify-center bg-card card-shadow"><svg
-                                    stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"
+                            <div
+                                class="accordion-icon w-7 h-7 flex items-center justify-center bg-card card-shadow transition-transform duration-300">
+                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"
                                     class="w-5 h-5 sm:w-6 sm:h-6" height="1em" width="1em"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path d="M128 192l128 128 128-128z"></path>
-                                </svg></div>
+                                </svg>
+                            </div>
                         </div>
-                    </button></div>
-                <div class="bg-card rounded-xl card-shadow overflow-hidden transition-all duration-300"><button
-                        class="w-full flex justify-between items-center pt-3 pb-2 px-4 sm:px-8 focus:outline-none">
+                    </button>
+                    <div class="accordion-content overflow-hidden transition-all duration-300 max-h-0">
+                        <div class="p-4 sm:px-8 sm:pb-4 sm:pt-0 pt-0 text-sm sm:text-base [&amp;_a]:text-blue-600">We
+                            take a client-first, research-driven approach to blockchain development. Our strategy
+                            combines cutting-edge technology with deep industry expertise, ensuring that every solution
+                            we build is scalable, secure, and aligned with our clients' long-term business objectives.
+                            We prioritize continuous innovation and maintain strong partnerships across the blockchain
+                            ecosystem.</div>
+                    </div>
+                </div>
+                <div class="bg-card rounded-xl card-shadow overflow-hidden transition-all duration-300">
+                    <button
+                        class="accordion-trigger w-full flex justify-between items-center pt-3 pb-2 px-4 sm:px-8 focus:outline-none">
                         <h3 class="text-base text-left sm:text-lg font-semibold">Culture of Innovation</h3>
                         <div class="w-9 h-9 bg-card card-shadow flex items-center justify-center">
-                            <div class="w-7 h-7 flex items-center justify-center bg-card card-shadow"><svg
-                                    stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"
+                            <div
+                                class="accordion-icon w-7 h-7 flex items-center justify-center bg-card card-shadow transition-transform duration-300">
+                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512"
                                     class="w-5 h-5 sm:w-6 sm:h-6" height="1em" width="1em"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path d="M128 192l128 128 128-128z"></path>
-                                </svg></div>
+                                </svg>
+                            </div>
                         </div>
-                    </button></div>
+                    </button>
+                    <div class="accordion-content overflow-hidden transition-all duration-300 max-h-0">
+                        <div class="p-4 sm:px-8 sm:pb-4 sm:pt-0 pt-0 text-sm sm:text-base [&amp;_a]:text-blue-600">At
+                            Nadcab Labs, innovation is at the heart of everything we do. We foster a culture that
+                            encourages experimentation, continuous learning, and creative problem-solving. Our team
+                            members are empowered to explore new technologies, share knowledge, and contribute to the
+                            evolution of blockchain solutions that make a real impact.</div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -407,7 +472,9 @@
     <section class="relative ">
         <div class="flex items-center justify-center gap-4 mb-4 px-4 mx-auto max-w-4xl">
             <div class="flex-1 h-px bg-gradient-to-r from-transparent via-gray-400 to-transparent"></div>
-            <h2 class="text-lg md:text-xl font-medium text-gray-700 dark:text-gray-300 text-center">Trusted by 100,000+
+            <h2
+                class="wow animate__animated animate__fadeInUp text-lg md:text-xl font-medium text-gray-700 dark:text-gray-300 text-center">
+                Trusted by 100,000+
                 Businesses across 57 Countries</h2>
             <div class="flex-1 h-px bg-gradient-to-r from-transparent via-gray-400 to-transparent"></div>
         </div>
@@ -519,18 +586,21 @@
                 </style>
                 <div class="max-w-7xl relative w-full">
                     <div class="mt-8 lg:p-8 p-4">
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
-                            <div class="relative flex justify-center md:justify-start items-center"><img alt="Year 2017"
-                                    loading="lazy" decoding="async" data-nimg="1"
-                                    class="w-72 h-72 object-cover rounded-xl shadow-xl -rotate-[10deg] transition-transform duration-500 hover:scale-105 animate-content"
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-10 items-center" id="timeline-content">
+                            <div
+                                class="wow animate__animated animate__fadeInLeft relative flex justify-center md:justify-start items-center">
+                                <img id="timeline-image" alt="Year 2017" loading="lazy" decoding="async" data-nimg="1"
+                                    class="w-72 h-72 object-cover rounded-xl shadow-xl -rotate-[10deg] transition-all duration-500 hover:scale-105"
                                     style="color:transparent" sizes="100vw"
                                     srcset="/year/2017.jpg?w=640&amp;q=75 640w, /year/2017.jpg?w=750&amp;q=75 750w, /year/2017.jpg?w=828&amp;q=75 828w, /year/2017.jpg?w=1080&amp;q=75 1080w, /year/2017.jpg?w=1200&amp;q=75 1200w, /year/2017.jpg?w=1920&amp;q=75 1920w, /year/2017.jpg?w=2048&amp;q=75 2048w, /year/2017.jpg?w=3840&amp;q=75 3840w"
                                     src="/year/2017.jpg?w=3840&amp;q=75">
-                                <div
-                                    class="absolute top-10 left-1/2 transform -translate-x-1/2 text-7xl md:text-8xl font-extrabold text-blue-500 opacity-90 drop-shadow-lg animate-year">
+                                <div id="timeline-year-text"
+                                    class="absolute top-10 left-1/2 transform -translate-x-1/2 text-7xl md:text-8xl font-extrabold text-blue-500 opacity-90 drop-shadow-lg transition-all duration-500">
                                     2017</div>
                             </div>
-                            <div class="text-sm lg:text-lg leading-relaxed animate-content">Nadcab Labs was founded in
+                            <div id="timeline-description"
+                                class="wow animate__animated animate__fadeInRight text-sm lg:text-lg leading-relaxed transition-all duration-500">
+                                Nadcab Labs was founded in
                                 the year 2017 with the vision to revolutionize blockchain development in India. Starting
                                 with a small team, we focused on research-oriented services in smart contracts, ICOs,
                                 and custom token creation, providing a base to advance solutions when the Indian market
@@ -540,249 +610,375 @@
                     <div class="relative mt-20 flex flex-col items-center">
                         <div class="w-full h-[2px] bg-gray-600 relative">
                             <div class="absolute top-[-10px] left-0 w-full flex justify-between">
-                                <div class="flex flex-col items-center cursor-pointer select-none group">
+                                <div class="timeline-year-item flex flex-col items-center cursor-pointer select-none group"
+                                    data-year="2017">
                                     <div
-                                        class="lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-blue-500">
+                                        class="timeline-dot lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-blue-500">
                                     </div><span
-                                        class="hidden sm:block mt-3 text-sm transition-all duration-300 text-blue-400 font-semibold">2017</span>
+                                        class="timeline-year-label hidden sm:block mt-3 text-sm transition-all duration-300 text-blue-400 font-semibold">2017</span>
                                 </div>
-                                <div class="flex flex-col items-center cursor-pointer select-none group">
+                                <div class="timeline-year-item flex flex-col items-center cursor-pointer select-none group"
+                                    data-year="2018">
                                     <div
-                                        class="lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
+                                        class="timeline-dot lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
                                     </div><span
-                                        class="hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2018</span>
+                                        class="timeline-year-label hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2018</span>
                                 </div>
-                                <div class="flex flex-col items-center cursor-pointer select-none group">
+                                <div class="timeline-year-item flex flex-col items-center cursor-pointer select-none group"
+                                    data-year="2019">
                                     <div
-                                        class="lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
+                                        class="timeline-dot lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
                                     </div><span
-                                        class="hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2019</span>
+                                        class="timeline-year-label hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2019</span>
                                 </div>
-                                <div class="flex flex-col items-center cursor-pointer select-none group">
+                                <div class="timeline-year-item flex flex-col items-center cursor-pointer select-none group"
+                                    data-year="2020">
                                     <div
-                                        class="lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
+                                        class="timeline-dot lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
                                     </div><span
-                                        class="hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2020</span>
+                                        class="timeline-year-label hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2020</span>
                                 </div>
-                                <div class="flex flex-col items-center cursor-pointer select-none group">
+                                <div class="timeline-year-item flex flex-col items-center cursor-pointer select-none group"
+                                    data-year="2021">
                                     <div
-                                        class="lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
+                                        class="timeline-dot lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
                                     </div><span
-                                        class="hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2021</span>
+                                        class="timeline-year-label hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2021</span>
                                 </div>
-                                <div class="flex flex-col items-center cursor-pointer select-none group">
+                                <div class="timeline-year-item flex flex-col items-center cursor-pointer select-none group"
+                                    data-year="2022">
                                     <div
-                                        class="lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
+                                        class="timeline-dot lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
                                     </div><span
-                                        class="hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2022</span>
+                                        class="timeline-year-label hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2022</span>
                                 </div>
-                                <div class="flex flex-col items-center cursor-pointer select-none group">
+                                <div class="timeline-year-item flex flex-col items-center cursor-pointer select-none group"
+                                    data-year="2023">
                                     <div
-                                        class="lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
+                                        class="timeline-dot lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
                                     </div><span
-                                        class="hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2023</span>
+                                        class="timeline-year-label hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2023</span>
                                 </div>
-                                <div class="flex flex-col items-center cursor-pointer select-none group">
+                                <div class="timeline-year-item flex flex-col items-center cursor-pointer select-none group"
+                                    data-year="2024">
                                     <div
-                                        class="lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
+                                        class="timeline-dot lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
                                     </div><span
-                                        class="hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2024</span>
+                                        class="timeline-year-label hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2024</span>
                                 </div>
-                                <div class="flex flex-col items-center cursor-pointer select-none group">
+                                <div class="timeline-year-item flex flex-col items-center cursor-pointer select-none group"
+                                    data-year="2025">
                                     <div
-                                        class="lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
+                                        class="timeline-dot lg:w-10 lg:h-6 w-5 h-2 rounded-full border-2 transition-all duration-300 group-hover:scale-110 group-active:scale-90 border-blue-500 bg-[#000]">
                                     </div><span
-                                        class="hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2025</span>
+                                        class="timeline-year-label hidden sm:block mt-3 text-sm transition-all duration-300 text-gray-400">2025</span>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+                <script>
+                    // Timeline content data
+                    const timelineData = {
+                        '2017': {
+                            image: '/year/2017.jpg?w=3840&q=75',
+                            imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
+                            description: 'Nadcab Labs was founded in the year 2017 with the vision to revolutionize blockchain development in India. Starting with a small team, we focused on research-oriented services in smart contracts, ICOs, and custom token creation, providing a base to advance solutions when the Indian market was still warming up to decentralized technologies.'
+                        },
+                        '2018': {
+                            image: '/year/2017.jpg?w=3840&q=75',
+                            imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
+                            description: 'In 2018, Nadcab Labs expanded its services and began building stronger partnerships in the blockchain ecosystem. We launched several successful ICO projects and established ourselves as a trusted name in smart contract development, helping clients navigate the rapidly evolving cryptocurrency landscape.'
+                        },
+                        '2019': {
+                            image: '/year/2017.jpg?w=3840&q=75',
+                            imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
+                            description: 'The year 2019 marked significant growth for Nadcab Labs as we diversified into DeFi solutions and cross-chain interoperability. Our team expanded, and we delivered innovative blockchain solutions to clients across multiple industries, solidifying our position as a leading blockchain development company.'
+                        },
+                        '2020': {
+                            image: '/year/2017.jpg?w=3840&q=75',
+                            imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
+                            description: 'Despite global challenges in 2020, Nadcab Labs continued to innovate and adapt. We accelerated our focus on enterprise blockchain solutions and helped businesses transition to digital-first operations. Our remote-first approach enabled us to serve clients globally while maintaining high-quality standards.'
+                        },
+                        '2021': {
+                            image: '/year/2017.jpg?w=3840&q=75',
+                            imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
+                            description: '2021 was a breakthrough year as we launched major NFT marketplace projects and expanded into Web3 development. Our team grew to over 100 experts, and we established offices in the UK and India. We completed over 200 successful blockchain projects, cementing our reputation for excellence.'
+                        },
+                        '2022': {
+                            image: '/year/2017.jpg?w=3840&q=75',
+                            imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
+                            description: 'In 2022, Nadcab Labs became a recognized leader in metaverse development and blockchain gaming solutions. We integrated AI capabilities into our services and launched innovative DeFi protocols. Our client base expanded to 57 countries, and we achieved significant milestones in cross-chain technology.'
+                        },
+                        '2023': {
+                            image: '/year/2017.jpg?w=3840&q=75',
+                            imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
+                            description: '2023 saw Nadcab Labs reach new heights with over 500 cryptocurrencies integrated and 20+ blockchain networks supported. We launched advanced security auditing services and became a trusted partner for major enterprises. Our team of 160+ experts delivered cutting-edge solutions across fintech, healthcare, and supply chain industries.'
+                        },
+                        '2024': {
+                            image: '/year/2017.jpg?w=3840&q=75',
+                            imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
+                            description: 'In 2024, Nadcab Labs continued to push boundaries in blockchain innovation. We expanded our AI-powered solutions and launched comprehensive Web3 platforms. With 150+ currencies listed in CoinMarketCap and CoinGecko, and over $100M in client funds raised, we solidified our position as a global blockchain leader.'
+                        },
+                        '2025': {
+                            image: '/year/2017.jpg?w=3840&q=75',
+                            imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
+                            description: 'Looking ahead to 2025, Nadcab Labs is positioned to lead the next wave of blockchain innovation. We are investing in quantum-resistant cryptography, advanced DeFi protocols, and sustainable blockchain solutions. Our vision is to make Web3 accessible to everyone, everywhere, while maintaining the highest standards of security and innovation.'
+                        }
+                    };
+
+                    // Initialize timeline functionality
+                    document.addEventListener('DOMContentLoaded', function () {
+                        const yearItems = document.querySelectorAll('.timeline-year-item');
+                        const timelineImage = document.getElementById('timeline-image');
+                        const timelineYearText = document.getElementById('timeline-year-text');
+                        const timelineDescription = document.getElementById('timeline-description');
+
+                        function updateTimeline(year) {
+                            const data = timelineData[year];
+                            if (!data) return;
+
+                            // Fade out content
+                            timelineImage.style.opacity = '0';
+                            timelineYearText.style.opacity = '0';
+                            timelineDescription.style.opacity = '0';
+
+                            setTimeout(() => {
+                                // Update content
+                                timelineImage.src = data.image;
+                                timelineImage.srcset = data.imageSrcset;
+                                timelineImage.alt = `Year ${year}`;
+                                timelineYearText.textContent = year;
+                                timelineDescription.textContent = data.description;
+
+                                // Fade in content
+                                timelineImage.style.opacity = '1';
+                                timelineYearText.style.opacity = '0.9';
+                                timelineDescription.style.opacity = '1';
+                            }, 250);
+                        }
+
+                        function setActiveYear(year) {
+                            yearItems.forEach(item => {
+                                const dot = item.querySelector('.timeline-dot');
+                                const label = item.querySelector('.timeline-year-label');
+                                const itemYear = item.getAttribute('data-year');
+
+                                if (itemYear === year) {
+                                    dot.classList.remove('bg-[#000]');
+                                    dot.classList.add('bg-blue-500');
+                                    label.classList.remove('text-gray-400');
+                                    label.classList.add('text-blue-400', 'font-semibold');
+                                } else {
+                                    dot.classList.remove('bg-blue-500');
+                                    dot.classList.add('bg-[#000]');
+                                    label.classList.remove('text-blue-400', 'font-semibold');
+                                    label.classList.add('text-gray-400');
+                                }
+                            });
+                        }
+
+                        // Add click handlers
+                        yearItems.forEach(item => {
+                            item.addEventListener('click', function () {
+                                const year = this.getAttribute('data-year');
+                                updateTimeline(year);
+                                setActiveYear(year);
+                            });
+                        });
+
+                        // Set initial active state
+                        setActiveYear('2017');
+                    });
+
+                </script>
             </div>
         </div>
     </div>
     <div class="lg:py-16">
         <div class="text-center mb-8">
-            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-12">Nadcab Lab continually enhances its
+            <h2
+                class="wow animate__animated animate__fadeInUp gradient-text text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-12">
+                Nadcab Lab continually enhances its
                 workplace to drive<br> innovation, collaboration, and performance</h2>
             <p class="text-muted-foreground text-sm sm:text-sm md:text-base max-w-4xl mx-auto mb-8 sm:mb-12"></p>
         </div>
         <div class="box-border caret-transparent  mx-auto max-w-7xl px-4">
-            <div class="jsx-fab30f2170be9259 flex gap-4 overflow-hidden h-[500px]">
+            <div class="flex gap-4 overflow-hidden h-[500px]">
                 <div style="animation-direction:normal;animation-duration:10s"
-                    class="jsx-fab30f2170be9259 flex flex-col gap-4 animate-marquee flex-shrink-0">
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 0" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    class="flex flex-col gap-4 animate-marquee flex-shrink-0">
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 0" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/team-nadcab.jpg?w=640&amp;q=75 1x, /abouts/team-nadcab.jpg?w=1080&amp;q=75 2x"
                             src="/abouts/team-nadcab.jpg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 1" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 1" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/festival3.jpeg?w=640&amp;q=75 1x, /abouts/festival3.jpeg?w=1080&amp;q=75 2x"
                             src="/abouts/festival3.jpeg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 2" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 2" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/nadcab-diwali.png?w=640&amp;q=75 1x, /abouts/nadcab-diwali.png?w=1080&amp;q=75 2x"
                             src="/abouts/nadcab-diwali.png?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 3" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 3" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/team-nadcab.jpg?w=640&amp;q=75 1x, /abouts/team-nadcab.jpg?w=1080&amp;q=75 2x"
                             src="/abouts/team-nadcab.jpg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 4" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 4" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/festival3.jpeg?w=640&amp;q=75 1x, /abouts/festival3.jpeg?w=1080&amp;q=75 2x"
                             src="/abouts/festival3.jpeg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 5" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 5" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/nadcab-diwali.png?w=640&amp;q=75 1x, /abouts/nadcab-diwali.png?w=1080&amp;q=75 2x"
                             src="/abouts/nadcab-diwali.png?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 6" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 6" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/team-nadcab.jpg?w=640&amp;q=75 1x, /abouts/team-nadcab.jpg?w=1080&amp;q=75 2x"
                             src="/abouts/team-nadcab.jpg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 7" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 7" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/festival3.jpeg?w=640&amp;q=75 1x, /abouts/festival3.jpeg?w=1080&amp;q=75 2x"
                             src="/abouts/festival3.jpeg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 8" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 8" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/nadcab-diwali.png?w=640&amp;q=75 1x, /abouts/nadcab-diwali.png?w=1080&amp;q=75 2x"
                             src="/abouts/nadcab-diwali.png?w=1080&amp;q=75"></div>
                 </div>
                 <div style="animation-direction:reverse;animation-duration:10s"
-                    class="jsx-fab30f2170be9259 flex flex-col gap-4 animate-marquee flex-shrink-0">
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 0" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    class="flex flex-col gap-4 animate-marquee flex-shrink-0">
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 0" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/event.jpeg?w=640&amp;q=75 1x, /abouts/event.jpeg?w=1080&amp;q=75 2x"
                             src="/abouts/event.jpeg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 1" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 1" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/festival2.jpeg?w=640&amp;q=75 1x, /abouts/festival2.jpeg?w=1080&amp;q=75 2x"
                             src="/abouts/festival2.jpeg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 2" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 2" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/festival4.jpeg?w=640&amp;q=75 1x, /abouts/festival4.jpeg?w=1080&amp;q=75 2x"
                             src="/abouts/festival4.jpeg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 3" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 3" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/event.jpeg?w=640&amp;q=75 1x, /abouts/event.jpeg?w=1080&amp;q=75 2x"
                             src="/abouts/event.jpeg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 4" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 4" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/festival2.jpeg?w=640&amp;q=75 1x, /abouts/festival2.jpeg?w=1080&amp;q=75 2x"
                             src="/abouts/festival2.jpeg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 5" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 5" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/festival4.jpeg?w=640&amp;q=75 1x, /abouts/festival4.jpeg?w=1080&amp;q=75 2x"
                             src="/abouts/festival4.jpeg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 6" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 6" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/event.jpeg?w=640&amp;q=75 1x, /abouts/event.jpeg?w=1080&amp;q=75 2x"
                             src="/abouts/event.jpeg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 7" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 7" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/festival2.jpeg?w=640&amp;q=75 1x, /abouts/festival2.jpeg?w=1080&amp;q=75 2x"
                             src="/abouts/festival2.jpeg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 8" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 8" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/festival4.jpeg?w=640&amp;q=75 1x, /abouts/festival4.jpeg?w=1080&amp;q=75 2x"
                             src="/abouts/festival4.jpeg?w=1080&amp;q=75"></div>
                 </div>
                 <div style="animation-direction:normal;animation-duration:10s"
-                    class="jsx-fab30f2170be9259 flex flex-col gap-4 animate-marquee flex-shrink-0">
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 0" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    class="flex flex-col gap-4 animate-marquee flex-shrink-0">
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 0" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/festival1.jpeg?w=640&amp;q=75 1x, /abouts/festival1.jpeg?w=1080&amp;q=75 2x"
                             src="/abouts/festival1.jpeg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 1" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 1" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/nadcab-anniversary-celebrate.png?w=640&amp;q=75 1x, /abouts/nadcab-anniversary-celebrate.png?w=1080&amp;q=75 2x"
                             src="/abouts/nadcab-anniversary-celebrate.png?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 2" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 2" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/team2-nadcab.jpg?w=640&amp;q=75 1x, /abouts/team2-nadcab.jpg?w=1080&amp;q=75 2x"
                             src="/abouts/team2-nadcab.jpg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 3" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 3" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/festival1.jpeg?w=640&amp;q=75 1x, /abouts/festival1.jpeg?w=1080&amp;q=75 2x"
                             src="/abouts/festival1.jpeg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 4" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 4" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/nadcab-anniversary-celebrate.png?w=640&amp;q=75 1x, /abouts/nadcab-anniversary-celebrate.png?w=1080&amp;q=75 2x"
                             src="/abouts/nadcab-anniversary-celebrate.png?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 5" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 5" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/team2-nadcab.jpg?w=640&amp;q=75 1x, /abouts/team2-nadcab.jpg?w=1080&amp;q=75 2x"
                             src="/abouts/team2-nadcab.jpg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 6" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 6" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/festival1.jpeg?w=640&amp;q=75 1x, /abouts/festival1.jpeg?w=1080&amp;q=75 2x"
                             src="/abouts/festival1.jpeg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 7" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 7" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/nadcab-anniversary-celebrate.png?w=640&amp;q=75 1x, /abouts/nadcab-anniversary-celebrate.png?w=1080&amp;q=75 2x"
                             src="/abouts/nadcab-anniversary-celebrate.png?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 8" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 8" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/team2-nadcab.jpg?w=640&amp;q=75 1x, /abouts/team2-nadcab.jpg?w=1080&amp;q=75 2x"
                             src="/abouts/team2-nadcab.jpg?w=1080&amp;q=75"></div>
                 </div>
                 <div style="animation-direction:reverse;animation-duration:10s"
-                    class="jsx-fab30f2170be9259 flex flex-col gap-4 animate-marquee flex-shrink-0">
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 0" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    class="flex flex-col gap-4 animate-marquee flex-shrink-0">
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 0" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/chrismas.jpg?w=640&amp;q=75 1x, /abouts/chrismas.jpg?w=1080&amp;q=75 2x"
                             src="/abouts/chrismas.jpg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 1" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 1" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/team2.jpg?w=640&amp;q=75 1x, /abouts/team2.jpg?w=1080&amp;q=75 2x"
                             src="/abouts/team2.jpg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 2" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 2" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/chrismas.jpg?w=640&amp;q=75 1x, /abouts/chrismas.jpg?w=1080&amp;q=75 2x"
                             src="/abouts/chrismas.jpg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 3" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 3" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/team2.jpg?w=640&amp;q=75 1x, /abouts/team2.jpg?w=1080&amp;q=75 2x"
                             src="/abouts/team2.jpg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 4" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 4" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/chrismas.jpg?w=640&amp;q=75 1x, /abouts/chrismas.jpg?w=1080&amp;q=75 2x"
                             src="/abouts/chrismas.jpg?w=1080&amp;q=75"></div>
-                    <div class="jsx-fab30f2170be9259 relative w-48 md:w-72"><img alt="Gallery image 5" loading="lazy"
-                            width="500" height="500" decoding="async" data-nimg="1"
-                            class="w-full h-auto rounded-lg object-cover" style="color:transparent"
+                    <div class="relative w-48 md:w-72"><img alt="Gallery image 5" loading="lazy" width="500"
+                            height="500" decoding="async" data-nimg="1" class="w-full h-auto rounded-lg object-cover"
+                            style="color:transparent"
                             srcset="/abouts/team2.jpg?w=640&amp;q=75 1x, /abouts/team2.jpg?w=1080&amp;q=75 2x"
                             src="/abouts/team2.jpg?w=1080&amp;q=75"></div>
                 </div>
@@ -793,11 +989,11 @@
         <div class="relative overflow-hidden" style="background-color:#242424">
             <div
                 class="max-w-full-- mx-auto px-4 md:px-0 flex flex-col md:flex-row items-start relative z-10 max-w-7xl">
-                <div class="w-full md:w-1/2 pt-12 pb-12 lg:py-14 px-4">
+                <div class="wow animate__animated animate__fadeInLeft w-full md:w-1/2 pt-12 pb-12 lg:py-14 px-4">
                     <h2 class="text-lg md:text-4xl font-unbounded font-semibold lg:leading-snug mb-2 text-white">Want to
                         meet the founding members and key drivers of our success till now?</h2>
                     <p class="font-medium text-lg mb-6 text-white">Meet the visionary founding members and the key
-                        drivers behind our success, and discover the people shaping Nadcab Labs’ journey. </p><a
+                        drivers behind our success, and discover the people shaping Nadcab Labs' journey. </p><a
                         class="link_button" href="/nadcab-team">Meet Our Core Team</a>
                 </div>
             </div>
@@ -811,11 +1007,13 @@
     </div>
     <section class="w-full lg:py-16 py-16 px-4">
         <div class="max-w-7xl mx-auto">
-            <h2 class="text-center gradient-text font-medium text-xl sm:text-4xl lg:mb-12 mb-6">Frequently Asked
+            <h2
+                class="wow animate__animated animate__fadeInUp text-center gradient-text font-medium text-xl sm:text-4xl lg:mb-12 mb-6">
+                Frequently Asked
                 Questions </h2>
             <div class="grid lg:gap-6 gap-4 grid-cols-1 lg:grid-cols-2">
                 <div class="lg:space-y-6 space-y-2">
-                    <div class="" style="animation-delay:0ms">
+                    <div class="wow animate__animated animate__fadeInUp" style="animation-delay:0ms">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
                                 <h3 class="font-normal text-base md:font-medium md:text-base">When was Nadcab Labs
@@ -823,9 +1021,9 @@
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
-                                        class="w-7 h-7 flex items-center justify-center bg-card card-shadow dark:shadow-none rounded-md ">
+                                        class="accordion-icon w-7 h-7 flex items-center justify-center bg-card card-shadow dark:shadow-none rounded-md">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0"
-                                            viewBox="0 0 512 512" class="w-6 h-6 transition-transform duration-300 "
+                                            viewBox="0 0 512 512" class="w-6 h-6 transition-transform duration-300"
                                             height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M128 192l128 128 128-128z"></path>
                                         </svg></div>
@@ -840,7 +1038,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="" style="animation-delay:100ms">
+                    <div class="wow animate__animated animate__fadeInUp animate__delay-1s"
+                        style="animation-delay:100ms">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
                                 <h3 class="font-normal text-base md:font-medium md:text-base">What industries does
@@ -848,9 +1047,9 @@
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
-                                        class="w-7 h-7 flex items-center justify-center bg-card card-shadow dark:shadow-none rounded-md ">
+                                        class="accordion-icon w-7 h-7 flex items-center justify-center bg-card card-shadow dark:shadow-none rounded-md">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0"
-                                            viewBox="0 0 512 512" class="w-6 h-6 transition-transform duration-300 "
+                                            viewBox="0 0 512 512" class="w-6 h-6 transition-transform duration-300"
                                             height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M128 192l128 128 128-128z"></path>
                                         </svg></div>
@@ -865,7 +1064,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="" style="animation-delay:200ms">
+                    <div class="wow animate__animated animate__fadeInUp animate__delay-2s"
+                        style="animation-delay:200ms">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
                                 <h3 class="font-normal text-base md:font-medium md:text-base">What makes Nadcab Labs
@@ -873,9 +1073,9 @@
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
-                                        class="w-7 h-7 flex items-center justify-center bg-card card-shadow dark:shadow-none rounded-md ">
+                                        class="accordion-icon w-7 h-7 flex items-center justify-center bg-card card-shadow dark:shadow-none rounded-md">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0"
-                                            viewBox="0 0 512 512" class="w-6 h-6 transition-transform duration-300 "
+                                            viewBox="0 0 512 512" class="w-6 h-6 transition-transform duration-300"
                                             height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M128 192l128 128 128-128z"></path>
                                         </svg></div>
@@ -892,7 +1092,7 @@
                     </div>
                 </div>
                 <div class="lg:space-y-6 space-y-2">
-                    <div class="" style="animation-delay:0ms">
+                    <div class="wow animate__animated animate__fadeInUp" style="animation-delay:0ms">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
                                 <h3 class="font-normal text-base md:font-medium md:text-base">Does Nadcab Labs offer
@@ -900,9 +1100,9 @@
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
-                                        class="w-7 h-7 flex items-center justify-center bg-card card-shadow dark:shadow-none rounded-md ">
+                                        class="accordion-icon w-7 h-7 flex items-center justify-center bg-card card-shadow dark:shadow-none rounded-md">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0"
-                                            viewBox="0 0 512 512" class="w-6 h-6 transition-transform duration-300 "
+                                            viewBox="0 0 512 512" class="w-6 h-6 transition-transform duration-300"
                                             height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M128 192l128 128 128-128z"></path>
                                         </svg></div>
@@ -916,7 +1116,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="" style="animation-delay:100ms">
+                    <div class="wow animate__animated animate__fadeInUp animate__delay-1s"
+                        style="animation-delay:100ms">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
                                 <h3 class="font-normal text-base md:font-medium md:text-base">What technologies does
@@ -924,9 +1125,9 @@
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
-                                        class="w-7 h-7 flex items-center justify-center bg-card card-shadow dark:shadow-none rounded-md ">
+                                        class="accordion-icon w-7 h-7 flex items-center justify-center bg-card card-shadow dark:shadow-none rounded-md">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0"
-                                            viewBox="0 0 512 512" class="w-6 h-6 transition-transform duration-300 "
+                                            viewBox="0 0 512 512" class="w-6 h-6 transition-transform duration-300"
                                             height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M128 192l128 128 128-128z"></path>
                                         </svg></div>
@@ -941,7 +1142,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="" style="animation-delay:200ms">
+                    <div class="wow animate__animated animate__fadeInUp animate__delay-2s"
+                        style="animation-delay:200ms">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
                                 <h3 class="font-normal text-base md:font-medium md:text-base">Is Nadcab Labs involved in
@@ -949,9 +1151,9 @@
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
-                                        class="w-7 h-7 flex items-center justify-center bg-card card-shadow dark:shadow-none rounded-md ">
+                                        class="accordion-icon w-7 h-7 flex items-center justify-center bg-card card-shadow dark:shadow-none rounded-md">
                                         <svg stroke="currentColor" fill="currentColor" stroke-width="0"
-                                            viewBox="0 0 512 512" class="w-6 h-6 transition-transform duration-300 "
+                                            viewBox="0 0 512 512" class="w-6 h-6 transition-transform duration-300"
                                             height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M128 192l128 128 128-128z"></path>
                                         </svg></div>
@@ -971,3 +1173,107 @@
         </div>
     </section>
 </section>
+<script>
+    // Counter animation functionality
+    function animateCounter(element) {
+        const target = parseInt(element.getAttribute('data-target'));
+        const prefix = element.getAttribute('data-prefix') || '';
+        const suffix = element.getAttribute('data-suffix') || '';
+        const duration = 2000; // 2 seconds
+        const startTime = performance.now();
+        const startValue = 0;
+
+        function updateCounter(currentTime) {
+            const elapsed = currentTime - startTime;
+            const progress = Math.min(elapsed / duration, 1);
+
+            // Easing function for smooth animation
+            const easeOutQuart = 1 - Math.pow(1 - progress, 4);
+            const currentValue = Math.floor(startValue + (target - startValue) * easeOutQuart);
+
+            element.textContent = prefix + currentValue + suffix;
+
+            if (progress < 1) {
+                requestAnimationFrame(updateCounter);
+            } else {
+                // Ensure final value is set
+                element.textContent = prefix + target + suffix;
+            }
+        }
+
+        requestAnimationFrame(updateCounter);
+    }
+
+    // Intersection Observer for counter animation
+    function initCounterAnimation() {
+        const counters = document.querySelectorAll('.counter-number');
+        const hasAnimated = new Set();
+
+        const observerOptions = {
+            threshold: 0.5,
+            rootMargin: '0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting && !hasAnimated.has(entry.target)) {
+                    hasAnimated.add(entry.target);
+                    animateCounter(entry.target);
+                }
+            });
+        }, observerOptions);
+
+        counters.forEach(counter => {
+            observer.observe(counter);
+        });
+    }
+
+    // Accordion functionality
+    document.addEventListener('DOMContentLoaded', function () {
+        // Initialize counter animation
+        initCounterAnimation();
+
+        // Accordion triggers
+        const accordionTriggers = document.querySelectorAll('.accordion-trigger');
+
+        accordionTriggers.forEach(trigger => {
+            trigger.addEventListener('click', function (e) {
+                e.preventDefault();
+                const accordionItem = this.closest('.accordion-item, .bg-card');
+                const content = accordionItem.querySelector('.accordion-content');
+                const icon = this.querySelector('.accordion-icon svg');
+
+                if (!content) return;
+
+                const isOpen = content.style.maxHeight && content.style.maxHeight !== '0px';
+
+                // Toggle current accordion
+                if (isOpen) {
+                    // Close
+                    content.style.maxHeight = '0px';
+                    if (icon) {
+                        icon.style.transform = 'rotate(0deg)';
+                    }
+                } else {
+                    // Open - first set to auto to get scrollHeight, then set to pixel value
+                    content.style.maxHeight = 'none';
+                    const scrollHeight = content.scrollHeight;
+                    content.style.maxHeight = '0px';
+
+                    // Force reflow
+                    void content.offsetHeight;
+
+                    // Now animate to full height
+                    setTimeout(() => {
+                        content.style.maxHeight = scrollHeight + 'px';
+                    }, 10);
+
+                    if (icon) {
+                        icon.style.transform = 'rotate(180deg)';
+                    }
+                }
+            });
+        });
+    });
+
+</script>
