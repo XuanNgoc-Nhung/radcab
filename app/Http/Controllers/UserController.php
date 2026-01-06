@@ -58,4 +58,8 @@ class UserController extends Controller
     {
         return view('user.about');
     }
+    public function team()
+    {
+        return view('user.team');
+    }
 }
