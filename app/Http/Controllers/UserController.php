@@ -105,4 +105,74 @@ class UserController extends Controller
 
         return view('user.partner', compact('faqs'));
     }
+    public function pressRelease()
+    {
+        $faqs = [
+            [
+                'question' => 'How can I access Nadcab\'s press releases?',
+                'answer' => 'All press releases are available on our Press & Media page. You can view, read, and share the latest updates directly from our website.'
+            ],
+            [
+                'question' => 'Can I use Nadcab\'s logos or media content?',
+                'answer' => 'Yes, media and press assets are available for download in our Media Kit. Please ensure proper attribution when using our logos or content.'
+            ],
+            [
+                'question' => 'Who should I contact for press inquiries?',
+                'answer' => 'For interviews, collaborations, or press inquiries, contact us at info@nadcab.com, and our media team will assist you promptly.'
+            ],
+            [
+                'question' => 'How often are press releases updated?',
+                'answer' => 'We regularly publish press releases and announcements related to company milestones, partnerships, product launches, and industry insights.'
+            ],
+            [
+                'question' => 'Can I subscribe to receive press updates?',
+                'answer' => 'Yes, you can subscribe to our newsletter or press mailing list to stay updated with the latest news and announcements from Nadcab Labs.'
+            ],
+            [
+                'question' => 'Are Nadcab press releases available for syndication?',
+                'answer' => 'Our press releases can be shared on media platforms with proper credit to Nadcab Labs. For partnership or syndication requests, contact info@nadcab.com.'
+            ]
+        ];
+
+        return view('user.press-release', compact('faqs'));
+    }
+    public function contact()
+    {
+        $faqs = [
+            [
+                'question' => 'How can I get a consultation for my blockchain project?',
+                'answer' => 'You can fill out the contact form or reach out via email/WhatsApp. Our experts will schedule a call within 24 hours to discuss your project.'
+            ],
+            [
+                'question' => 'Do you offer support after project delivery?',
+                'answer' => 'Absolutely! We provide post-launch support, maintenance, and upgrades for all blockchain solutions we deliver.'
+            ],
+            [
+                'question' => 'What details should I provide when contacting Nadcab?',
+                'answer' => 'Provide your project idea, timeline, budget, and any technical requirements. The more details you share, the better we can tailor our proposal.'
+            ],
+            [
+                'question' => 'Can I request a Non-Disclosure Agreement (NDA)?',
+                'answer' => 'Yes, Nadcab signs an NDA for all potential projects to ensure your ideas and sensitive information remain fully confidential.'
+            ],
+            [
+                'question' => 'What is the typical response time after submitting a contact form?',
+                'answer' => 'Our team usually responds within 24–48 hours to discuss your project requirements and next steps.'
+            ],
+            [
+                'question' => 'Do you provide custom blockchain development solutions?',
+                'answer' => 'Yes, Nadcab specializes in end-to-end custom blockchain solutions, including smart contracts, DApps, DeFi platforms, and NFT projects.'
+            ],
+            [
+                'question' => 'How can I follow up on my existing project inquiry?',
+                'answer' => 'You can reach out via the email you used in the contact form or connect with our support team through WhatsApp or phone. We track all inquiries to provide timely updates.'
+            ],
+            [
+                'question' => 'Which communication channels are available for project discussion?',
+                'answer' => 'We are available via email, phone, WhatsApp, and Telegram. You can choose whichever is most convenient for you.'
+            ]
+        ];
+
+        return view('user.contact', compact('faqs'));
+    }
 }

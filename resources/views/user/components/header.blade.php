@@ -78,7 +78,7 @@
                                                 <p class="text-sm text-gray-600 dark:text-gray-400">Collaborate and grow
                                                     with Nadcab Labs.</p>
                                             </a>
-                                            <a href="#"
+                                            <a href="{{ route('pressRelease') }}"
                                                 class="block group p-4 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
                                                 <h4
                                                     class="text-base font-semibold text-black dark:text-white mb-1 group-hover:text-primary transition-colors">
@@ -86,7 +86,7 @@
                                                 <p class="text-sm text-gray-600 dark:text-gray-400">Get the latest
                                                     company updates.</p>
                                             </a>
-                                            <a href="#"
+                                            <a href="{{ route('contact') }}"
                                                 class="block group p-4 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
                                                 <h4
                                                     class="text-base font-semibold text-black dark:text-white mb-1 group-hover:text-primary transition-colors">
