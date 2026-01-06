@@ -53,4 +53,9 @@ class UserController extends Controller
 
         return view('user.homepage', compact('faqs'));
     }
+
+    public function about()
+    {
+        return view('user.about');
+    }
 }
