@@ -42,7 +42,7 @@
                                             Automate and easily manage your customers' pre- and post-purchase experience.
                                         </p>
                                         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                                            <a href="#" class="block group p-4 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
+                                            <a href="{{ route('about') }}" class="block group p-4 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
                                                 <h4 class="text-base font-semibold text-black dark:text-white mb-1 group-hover:text-primary transition-colors">About Us</h4>
                                                 <p class="text-sm text-gray-600 dark:text-gray-400">Know who we are and what drives us.</p>
                                             </a>
