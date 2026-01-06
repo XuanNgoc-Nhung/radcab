@@ -1,6 +1,6 @@
     <section class="sm:px-4">
         <section class="max-w-7xl mx-auto lg:pt-12 px-4 sm:py-16 py-4">
-            <div class="text-center mb-8">
+            <div class="text-center mb-8 wow animate__animated animate__fadeInUp">
                 <h2 class="gradient-text lg:leading-snug text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-6">Global
                     Transformation Through Intelligent Digital Innovation</h2>
                 <p
@@ -13,7 +13,7 @@
             <div
                 class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 max-w-7xl mx-auto mb-5">
                 <div
-                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg">
+                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg wow animate__animated animate__fadeInUp" data-wow-delay="0.1s">
                     <div class="flex flex-col space-y-2 p-6 lg:p-8 flex-1">
                         <div
                             class=" w-16 h-10 sm:w-16 sm:h-10 rounded-sm  flex mb-2 sm:mb-2.5 items-center justify-center bg-blue-600 text-white ">
@@ -27,7 +27,7 @@
                     </div>
                 </div>
                 <div
-                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg">
+                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg wow animate__animated animate__fadeInUp" data-wow-delay="0.2s">
                     <div class="flex flex-col space-y-2 p-6 lg:p-8 flex-1">
                         <div
                             class=" w-16 h-10 sm:w-16 sm:h-10 rounded-sm  flex mb-2 sm:mb-2.5 items-center justify-center bg-blue-600 text-white ">
@@ -42,7 +42,7 @@
                     </div>
                 </div>
                 <div
-                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg">
+                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg wow animate__animated animate__fadeInUp" data-wow-delay="0.3s">
                     <div class="flex flex-col space-y-2 p-6 lg:p-8 flex-1">
                         <div
                             class=" w-16 h-10 sm:w-16 sm:h-10 rounded-sm  flex mb-2 sm:mb-2.5 items-center justify-center bg-blue-600 text-white ">
@@ -57,7 +57,7 @@
                     </div>
                 </div>
                 <div
-                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg">
+                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg wow animate__animated animate__fadeInUp" data-wow-delay="0.4s">
                     <div class="flex flex-col space-y-2 p-6 lg:p-8 flex-1">
                         <div
                             class=" w-16 h-10 sm:w-16 sm:h-10 rounded-sm  flex mb-2 sm:mb-2.5 items-center justify-center bg-blue-600 text-white ">
@@ -71,7 +71,7 @@
                     </div>
                 </div>
                 <div
-                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg">
+                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg wow animate__animated animate__fadeInUp" data-wow-delay="0.5s">
                     <div class="flex flex-col space-y-2 p-6 lg:p-8 flex-1">
                         <div
                             class=" w-16 h-10 sm:w-16 sm:h-10 rounded-sm  flex mb-2 sm:mb-2.5 items-center justify-center bg-blue-600 text-white ">
@@ -85,7 +85,7 @@
                     </div>
                 </div>
                 <div
-                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg">
+                    class="bg-card text-card-foreground card-shadow flex flex-col items-center justify-center rounded-lg wow animate__animated animate__fadeInUp" data-wow-delay="0.6s">
                     <div class="flex flex-col space-y-2 p-6 lg:p-8 flex-1">
                         <div
                             class=" w-16 h-10 sm:w-16 sm:h-10 rounded-sm  flex mb-2 sm:mb-2.5 items-center justify-center bg-blue-600 text-white ">
@@ -100,7 +100,7 @@
                     </div>
                 </div>
             </div>
-            <div class="rounded-xl bg-card text-card-foreground card-shadow max-w-7xl mx-auto">
+            <div class="rounded-xl bg-card text-card-foreground card-shadow max-w-7xl mx-auto wow animate__animated animate__fadeInUp" data-wow-delay="0.7s">
                 <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between p-6">
                     <div class="tracking-tight text-lg sm:text-2xl font-medium flex items-center gap-4">
                         <div class="flex-shrink-0"><img alt="CTA icon" loading="lazy" width="50" height="50"
@@ -112,11 +112,8 @@
                 </div>
             </div>
         </section>
-        <section>
-            <div class="min-h-[400px]" aria-hidden="true"></div>
-        </section>
         <section class="px-4 sm:px-6 lg:py-16 sm:mb-16">
-            <div class="text-center mb-8 mx-auto max-w-5xl sm:mb-12">
+            <div class="text-center mb-8 mx-auto max-w-5xl sm:mb-12 wow animate__animated animate__fadeInUp">
                 <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-4">Innovative Digital Solutions
                     Powered by Blockchain, AI, Cloud &amp; Custom Software Excellence</h2>
                 <p
@@ -129,7 +126,7 @@
                     </span></p>
             </div>
             <div class="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-3 gap-4 sm:gap-6 mx-auto max-w-7xl">
-                <div class="bg-card text-card-foreground card-shadow flex flex-col rounded-lg">
+                <div class="bg-card text-card-foreground card-shadow flex flex-col rounded-lg wow animate__animated animate__fadeInLeft" data-wow-delay="0.1s">
                     <div class="p-0 flex flex-col flex-grow space-y-3 px-6 py-8 items-center text-center">
                         <div
                             class=" w-10 h-10 sm:w-12 sm:h-12 rounded-lg flex items-center justify-center bg-white/20 backdrop-blur-md dark:bg-white/90 transition-all duration-500 ">
@@ -146,7 +143,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="bg-card text-card-foreground card-shadow flex flex-col rounded-lg">
+                <div class="bg-card text-card-foreground card-shadow flex flex-col rounded-lg wow animate__animated animate__fadeInUp" data-wow-delay="0.2s">
                     <div class="p-0 flex flex-col flex-grow space-y-3 px-6 py-8 items-center text-center">
                         <div
                             class=" w-10 h-10 sm:w-12 sm:h-12 rounded-lg flex items-center justify-center bg-white/20 backdrop-blur-md dark:bg-white/90 transition-all duration-500 ">
@@ -164,7 +161,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="bg-card text-card-foreground card-shadow flex flex-col rounded-lg">
+                <div class="bg-card text-card-foreground card-shadow flex flex-col rounded-lg wow animate__animated animate__fadeInRight" data-wow-delay="0.3s">
                     <div class="p-0 flex flex-col flex-grow space-y-3 px-6 py-8 items-center text-center">
                         <div
                             class=" w-10 h-10 sm:w-12 sm:h-12 rounded-lg flex items-center justify-center bg-white/20 backdrop-blur-md dark:bg-white/90 transition-all duration-500 ">
@@ -182,7 +179,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="bg-card text-card-foreground card-shadow flex flex-col rounded-lg">
+                <div class="bg-card text-card-foreground card-shadow flex flex-col rounded-lg wow animate__animated animate__fadeInLeft" data-wow-delay="0.4s">
                     <div class="p-0 flex flex-col flex-grow space-y-3 px-6 py-8 items-center text-center">
                         <div
                             class=" w-10 h-10 sm:w-12 sm:h-12 rounded-lg flex items-center justify-center bg-white/20 backdrop-blur-md dark:bg-white/90 transition-all duration-500 ">
@@ -199,7 +196,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="bg-card text-card-foreground card-shadow flex flex-col rounded-lg">
+                <div class="bg-card text-card-foreground card-shadow flex flex-col rounded-lg wow animate__animated animate__fadeInUp" data-wow-delay="0.5s">
                     <div class="p-0 flex flex-col flex-grow space-y-3 px-6 py-8 items-center text-center">
                         <div
                             class=" w-10 h-10 sm:w-12 sm:h-12 rounded-lg flex items-center justify-center bg-white/20 backdrop-blur-md dark:bg-white/90 transition-all duration-500 ">
@@ -217,7 +214,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="bg-card text-card-foreground card-shadow flex flex-col rounded-lg">
+                <div class="bg-card text-card-foreground card-shadow flex flex-col rounded-lg wow animate__animated animate__fadeInRight" data-wow-delay="0.6s">
                     <div class="p-0 flex flex-col flex-grow space-y-3 px-6 py-8 items-center text-center">
                         <div
                             class=" w-10 h-10 sm:w-12 sm:h-12 rounded-lg flex items-center justify-center bg-white/20 backdrop-blur-md dark:bg-white/90 transition-all duration-500 ">
@@ -241,12 +238,12 @@
     </section>
     <section class="py-16 mb-12 bg-[#2A63FB]">
         <div class="px-4 md:px-4">
-            <div class="text-center mb-12">
+            <div class="text-center mb-12 wow animate__animated animate__fadeInUp">
                 <h2 class=" text-white lg:leading-snug text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-6">The ROI of
                     Intelligent Digital Transformation</h2>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-3  sm:grid-cols-3 sm:gap-4 gap-8 mb-12 max-w-7xl mx-auto">
-                <div class="flex bg-white text-black flex-col items-center justify-center rounded-lg min-h-[240px]">
+                <div class="flex bg-white text-black flex-col items-center justify-center rounded-lg min-h-[240px] wow animate__animated animate__fadeInLeft" data-wow-delay="0.1s">
                     <div class="flex flex-col items-center justify-center text-center space-y-2 p-6 lg:p-6 flex-1">
                         <div
                             class="w-36 h-10 rounded-sm flex mb-2 sm:mb-2.5 items-center justify-center  bg-black text-white font-bold gap-2">
@@ -264,7 +261,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="flex bg-white text-black flex-col items-center justify-center rounded-lg min-h-[240px]">
+                <div class="flex bg-white text-black flex-col items-center justify-center rounded-lg min-h-[240px] wow animate__animated animate__fadeInUp" data-wow-delay="0.2s">
                     <div class="flex flex-col items-center justify-center text-center space-y-2 p-6 lg:p-6 flex-1">
                         <div
                             class="w-36 h-10 rounded-sm flex mb-2 sm:mb-2.5 items-center justify-center  bg-black text-white font-bold gap-2">
@@ -281,7 +278,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="flex bg-white text-black flex-col items-center justify-center rounded-lg min-h-[240px]">
+                <div class="flex bg-white text-black flex-col items-center justify-center rounded-lg min-h-[240px] wow animate__animated animate__fadeInRight" data-wow-delay="0.3s">
                     <div class="flex flex-col items-center justify-center text-center space-y-2 p-6 lg:p-6 flex-1">
                         <div
                             class="w-36 h-10 rounded-sm flex mb-2 sm:mb-2.5 items-center justify-center  bg-black text-white font-bold gap-2">
@@ -300,19 +297,19 @@
                     </div>
                 </div>
             </div>
-            <div class="text-center"><a class="mt-3 link_button" href="/contact">Talk to Expert</a></div>
+            <div class="text-center wow animate__animated animate__fadeInUp" data-wow-delay="0.4s"><a class="mt-3 link_button" href="/contact">Talk to Expert</a></div>
         </div>
     </section>
     <section class="sm:px-4">
         <section class="py-14 px-4">
             <div class="max-w-7xl mx-auto">
-                <div class="text-center mb-12 sm:mb-16">
+                <div class="text-center mb-12 sm:mb-16 wow animate__animated animate__fadeInUp">
                     <h1 class="text-2xl sm:text-4xl font-medium dark:text-white leading-tight max-w-5xl mx-auto">
                         Transforming Solutions with Leading-Edge, Rapid Technologies</h1>
                     <div class="w-32 h-1 bg-gradient-to-r from-blue-500 to-purple-600 mx-auto mt-6 rounded-full"></div>
                 </div>
                 <div class="grid grid-cols-1 sm:grid-cols-2 gap-12 lg:gap-20 sm:gap-6 sm:min-h-[800px]">
-                    <div class="sm:sticky sm:top-24 h-fit">
+                    <div class="sm:sticky sm:top-24 h-fit wow animate__animated animate__fadeInLeft" data-wow-delay="0.1s">
                         <div
                             class="text-card-foreground card-shadow bg-gradient-to-br from-blue-600 via-blue-700 to-indigo-800 border-0 shadow-2xl shadow-blue-500/30 rounded-3xl overflow-hidden transition-all duration-500">
                             <div class="flex flex-col items-center text-center p-6 sm:p-12 gap-6 text-white">
@@ -337,7 +334,7 @@
                     </div>
                     <div class="space-y-4 sm:overflow-y-scroll sm:max-h-[800px] hide-scrollbar px-2">
                         <div
-                            class="bg-card text-card-foreground card-shadow flex items-start gap-4 sm:gap-6 px-4 sm:px-8 py-4 rounded-xl transition">
+                            class="bg-card text-card-foreground card-shadow flex items-start gap-4 sm:gap-6 px-4 sm:px-8 py-4 rounded-xl transition wow animate__animated animate__fadeInRight" data-wow-delay="0.2s">
                             <div class="w-12 h-12 mt-1 flex-shrink-0 flex items-center justify-center"></div>
                             <div class="flex-1">
                                 <h4 class="text-lg font-medium text-gray-900 dark:text-white mb-2">Blockchain</h4>
@@ -349,7 +346,7 @@
                             </div>
                         </div>
                         <div
-                            class="bg-card text-card-foreground card-shadow flex items-start gap-4 sm:gap-6 px-4 sm:px-8 py-4 rounded-xl transition">
+                            class="bg-card text-card-foreground card-shadow flex items-start gap-4 sm:gap-6 px-4 sm:px-8 py-4 rounded-xl transition wow animate__animated animate__fadeInRight" data-wow-delay="0.3s">
                             <div class="w-12 h-12 mt-1 flex-shrink-0 flex items-center justify-center"></div>
                             <div class="flex-1">
                                 <h4 class="text-lg font-medium text-gray-900 dark:text-white mb-2">Artificial
@@ -362,7 +359,7 @@
                             </div>
                         </div>
                         <div
-                            class="bg-card text-card-foreground card-shadow flex items-start gap-4 sm:gap-6 px-4 sm:px-8 py-4 rounded-xl transition">
+                            class="bg-card text-card-foreground card-shadow flex items-start gap-4 sm:gap-6 px-4 sm:px-8 py-4 rounded-xl transition wow animate__animated animate__fadeInRight" data-wow-delay="0.4s">
                             <div class="w-12 h-12 mt-1 flex-shrink-0 flex items-center justify-center"></div>
                             <div class="flex-1">
                                 <h4 class="text-lg font-medium text-gray-900 dark:text-white mb-2">Smart Contracts</h4>
@@ -374,7 +371,7 @@
                             </div>
                         </div>
                         <div
-                            class="bg-card text-card-foreground card-shadow flex items-start gap-4 sm:gap-6 px-4 sm:px-8 py-4 rounded-xl transition">
+                            class="bg-card text-card-foreground card-shadow flex items-start gap-4 sm:gap-6 px-4 sm:px-8 py-4 rounded-xl transition wow animate__animated animate__fadeInRight" data-wow-delay="0.5s">
                             <div class="w-12 h-12 mt-1 flex-shrink-0 flex items-center justify-center"></div>
                             <div class="flex-1">
                                 <h4 class="text-lg font-medium text-gray-900 dark:text-white mb-2">AI-Powered Analytics
@@ -389,7 +386,7 @@
                     </div>
                 </div>
                 <div class="mt-20">
-                    <div class="rounded-xl bg-card text-card-foreground card-shadow max-w-7xl mx-auto overflow-hidden">
+                    <div class="rounded-xl bg-card text-card-foreground card-shadow max-w-7xl mx-auto overflow-hidden wow animate__animated animate__fadeInUp" data-wow-delay="0.2s">
                         <div class="flex flex-col lg:flex-row sm:flex-row">
                             <div
                                 class="w-full lg:w-7/12 flex items-center dark:bg-white dark:text-black dark:shadow-none">
@@ -418,7 +415,7 @@
         <div class="lg:py-12">
             <section class="w-full relative py-12 px-4 sm:px-0">
                 <div class="max-w-7xl mx-auto">
-                    <div class="text-center mb-10">
+                    <div class="text-center mb-10 wow animate__animated animate__fadeInUp">
                         <h2
                             class="gradient-text text-xl sm:text-2xl md:text-4xl font-medium mb-4 leading-snug max-w-5xl mx-auto">
                             A High-Performance Tech Stack Engineered for Your Vision</h2>
