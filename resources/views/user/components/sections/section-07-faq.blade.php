@@ -30,9 +30,9 @@
                                 </div>
                             </button>
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
-                                <p class="text-muted-foreground [&_a]:text-blue-600 dark:[&_a]:text-blue-400 font-normal">
+                                <div class="text-muted-foreground [&_a]:text-blue-600 [&_ul]:list-disc [&_ul]:ml-5 [&_ol]:list-decimal [&_ol]:ml-5 [&_a:hover]:underline dark:[&_a]:text-blue-400">
                                     {!! $faq['answer'] !!}
-                                </p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -56,9 +56,9 @@
                                 </div>
                             </button>
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
-                                <p class="text-muted-foreground [&_a]:text-blue-600 dark:[&_a]:text-blue-400 font-normal">
+                                <div class="text-muted-foreground [&_a]:text-blue-600 [&_ul]:list-disc [&_ul]:ml-5 [&_ol]:list-decimal [&_ol]:ml-5 [&_a:hover]:underline dark:[&_a]:text-blue-400">
                                     {!! $faq['answer'] !!}
-                                </p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -71,18 +71,41 @@
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-        // Get all accordion triggers
+        // Get all accordion triggers and items
         const accordionTriggers = document.querySelectorAll('.accordion-trigger');
+        const accordionItems = document.querySelectorAll('.accordion-item');
+        
+        // Function to close all accordions
+        function closeAllAccordions() {
+            accordionItems.forEach(function(item) {
+                const content = item.querySelector('.accordion-content');
+                const icon = item.querySelector('svg');
+                if (content) {
+                    content.style.maxHeight = '0px';
+                    content.classList.remove('py-4');
+                    content.classList.add('max-h-0');
+                }
+                if (icon) {
+                    icon.classList.remove('rotate-180');
+                }
+            });
+        }
         
         accordionTriggers.forEach(function(trigger) {
-            trigger.addEventListener('click', function() {
+            trigger.addEventListener('click', function(e) {
+                e.preventDefault();
+                
                 // Get the accordion item (parent container)
                 const accordionItem = this.closest('.accordion-item');
                 const accordionContent = accordionItem.querySelector('.accordion-content');
                 const accordionIcon = accordionItem.querySelector('svg');
                 
-                // Check if accordion is currently open by checking scrollHeight
-                const isOpen = accordionContent.style.maxHeight && accordionContent.style.maxHeight !== '0px';
+                if (!accordionContent) return;
+                
+                // Check if accordion is currently open
+                const isOpen = accordionContent.style.maxHeight && 
+                              accordionContent.style.maxHeight !== '0px' && 
+                              accordionContent.style.maxHeight !== '';
                 
                 // Toggle current accordion
                 if (isOpen) {
@@ -94,22 +117,45 @@
                         accordionIcon.classList.remove('rotate-180');
                     }
                 } else {
-                    // Open accordion - set maxHeight to scrollHeight for smooth animation
-                    accordionContent.classList.remove('max-h-0');
-                    accordionContent.style.maxHeight = accordionContent.scrollHeight + 'px';
-                    accordionContent.classList.add('py-4');
-                    if (accordionIcon) {
-                        accordionIcon.classList.add('rotate-180');
-                    }
+                    // Close all other accordions first
+                    closeAllAccordions();
                     
-                    // After transition, set to auto to allow content to grow if needed
+                    // Small delay to ensure other accordions are closed before opening this one
                     setTimeout(function() {
-                        if (accordionContent.style.maxHeight !== '0px') {
-                            accordionContent.style.maxHeight = 'none';
+                        // Open accordion
+                        accordionContent.classList.remove('max-h-0');
+                        // First, set max-height to none to get the actual scrollHeight
+                        accordionContent.style.maxHeight = 'none';
+                        const scrollHeight = accordionContent.scrollHeight;
+                        
+                        // Reset to 0 for animation
+                        accordionContent.style.maxHeight = '0px';
+                        accordionContent.classList.add('py-4');
+                        
+                        // Force reflow
+                        void accordionContent.offsetHeight;
+                        
+                        // Now animate to full height
+                        setTimeout(function() {
+                            accordionContent.style.maxHeight = scrollHeight + 'px';
+                        }, 10);
+                        
+                        if (accordionIcon) {
+                            accordionIcon.classList.add('rotate-180');
                         }
-                    }, 300);
+                        
+                        // After transition, set to auto to allow content to grow if needed
+                        setTimeout(function() {
+                            if (accordionContent.style.maxHeight !== '0px') {
+                                accordionContent.style.maxHeight = 'none';
+                            }
+                        }, 300);
+                    }, 50);
                 }
             });
         });
+        
+        // Initialize all accordions as closed
+        closeAllAccordions();
     });
 </script>

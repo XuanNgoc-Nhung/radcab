@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f3bc36;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <g id="Flat_Color" data-name="Flat Color">
+        <g id="Binance_BNB_" data-name="Binance BNB ">
+          <circle class="cls-1" cx="75" cy="75" r="75"/>
+          <path class="cls-2" d="M58.73,68.29l16.27-16.27,16.31,16.31,9.47-9.47-25.79-25.79-25.75,25.74,9.48,9.48ZM33.07,75l9.47-9.47,9.47,9.47-9.47,9.47-9.47-9.47ZM58.73,81.75l16.27,16.23,16.31-16.31,9.47,9.47-25.79,25.79-25.75-25.75,9.48-9.44ZM97.98,75l9.47-9.47,9.48,9.47-9.48,9.47-9.47-9.47ZM84.65,75l-9.65,9.6-9.6-9.6,1.67-1.68.84-.83,7.09-7.09,9.65,9.6Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

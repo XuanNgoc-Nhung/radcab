@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: .8;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: lime;
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        opacity: .6;
+      }
+
+      .cls-3 {
+        opacity: .45;
+      }
+    </style>
+  </defs>
+  <g id="Page-1">
+    <g id="solidity">
+      <g id="Group">
+        <path id="Shape" class="cls-3" d="M98.98,0l-24.12,42.86H26.67L50.77,0h48.22"/>
+        <path id="Shape-2" data-name="Shape" class="cls-2" d="M74.87,42.86h48.22L98.98,0h-48.22l24.1,42.86Z"/>
+        <path id="Shape-3" data-name="Shape" class="cls-1" d="M50.77,85.71l24.1-42.85L50.77,0l-24.1,42.86,24.1,42.85Z"/>
+        <path id="Shape-4" data-name="Shape" class="cls-3" d="M51,150l24.12-42.86h48.22l-24.12,42.86h-48.22"/>
+        <path id="Shape-5" data-name="Shape" class="cls-2" d="M75.12,107.14H26.9l24.1,42.86h48.22l-24.1-42.86Z"/>
+        <path id="Shape-6" data-name="Shape" class="cls-1" d="M99.22,64.29l-24.1,42.85,24.1,42.86,24.12-42.86-24.12-42.85Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

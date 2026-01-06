@@ -2,6 +2,7 @@
 <html lang="en" class="inter_e73ca43f-module__lUsY7a__variable">
 
 <head>
+    <base href="{{ asset('/') }}">
     <link rel="stylesheet" href="/_next/static/chunks/a7db655d40ea196a.css?dpl=dpl_BQX6JcjCNdC3UL3EwQ7zkMCA2ViD"
         data-precedence="next">
     <link rel="stylesheet" href="/_next/static/chunks/b984ac06f245fbf5.css?dpl=dpl_BQX6JcjCNdC3UL3EwQ7zkMCA2ViD"

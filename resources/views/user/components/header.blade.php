@@ -118,8 +118,8 @@
                                     <div class="min-w-0 lg:col-span-1">
                                         <h3 class="text-xl font-bold text-black dark:text-white mb-4">Categories</h3>
                                         <div class="space-y-2">
-                                            <a href="#"
-                                                class="flex items-center gap-3 px-4 py-3 bg-blue-50 dark:bg-blue-900/20 rounded-lg hover:bg-blue-100 dark:hover:bg-blue-900/30 transition-colors text-black dark:text-white font-medium text-sm">
+                                            <a href="#" data-category="blockchain"
+                                                class="category-link flex items-center gap-3 px-4 py-3 bg-blue-50 dark:bg-blue-900/20 rounded-lg hover:bg-blue-100 dark:hover:bg-blue-900/30 transition-colors text-black dark:text-white font-medium text-sm active">
                                                 <svg class="w-5 h-5" fill="none" stroke="currentColor"
                                                     viewBox="0 0 24 24">
                                                     <path stroke-linecap="round" stroke-linejoin="round"
@@ -129,8 +129,8 @@
                                                 </svg>
                                                 <span>Blockchain</span>
                                             </a>
-                                            <a href="#"
-                                                class="flex items-center gap-3 px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm">
+                                            <a href="#" data-category="apps-games"
+                                                class="category-link flex items-center gap-3 px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm">
                                                 <svg class="w-5 h-5" fill="none" stroke="currentColor"
                                                     viewBox="0 0 24 24">
                                                     <path stroke-linecap="round" stroke-linejoin="round"
@@ -140,8 +140,8 @@
                                                 </svg>
                                                 <span>Apps & Games</span>
                                             </a>
-                                            <a href="#"
-                                                class="flex items-center gap-3 px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm">
+                                            <a href="#" data-category="ai-ml"
+                                                class="category-link flex items-center gap-3 px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm">
                                                 <svg class="w-5 h-5" fill="none" stroke="currentColor"
                                                     viewBox="0 0 24 24">
                                                     <path stroke-linecap="round" stroke-linejoin="round"
@@ -151,8 +151,8 @@
                                                 </svg>
                                                 <span>AI & ML</span>
                                             </a>
-                                            <a href="#"
-                                                class="flex items-center gap-3 px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm">
+                                            <a href="#" data-category="custom-software"
+                                                class="category-link flex items-center gap-3 px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm">
                                                 <svg class="w-5 h-5" fill="none" stroke="currentColor"
                                                     viewBox="0 0 24 24">
                                                     <path stroke-linecap="round" stroke-linejoin="round"
@@ -161,8 +161,8 @@
                                                 </svg>
                                                 <span>Custom Software</span>
                                             </a>
-                                            <a href="#"
-                                                class="flex items-center gap-3 px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm">
+                                            <a href="#" data-category="big-data"
+                                                class="category-link flex items-center gap-3 px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm">
                                                 <svg class="w-5 h-5" fill="none" stroke="currentColor"
                                                     viewBox="0 0 24 24">
                                                     <path stroke-linecap="round" stroke-linejoin="round"
@@ -172,8 +172,8 @@
                                                 </svg>
                                                 <span>Big Data & Analytics</span>
                                             </a>
-                                            <a href="#"
-                                                class="flex items-center gap-3 px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm">
+                                            <a href="#" data-category="cloud-services"
+                                                class="category-link flex items-center gap-3 px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm">
                                                 <svg class="w-5 h-5" fill="none" stroke="currentColor"
                                                     viewBox="0 0 24 24">
                                                     <path stroke-linecap="round" stroke-linejoin="round"
@@ -188,67 +188,67 @@
 
                                     <!-- Right Section: Services Grid -->
                                     <div class="min-w-0 lg:col-span-2">
-                                        <h3 class="text-2xl font-bold text-black dark:text-white mb-4">End-to-end
+                                        <h3 id="services-title" class="text-2xl font-bold text-black dark:text-white mb-4">End-to-end
                                             blockchain solutions for enterprises and startups</h3>
-                                        <div class="grid grid-cols-3 gap-3">
-                                            <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                        <div id="services-grid" class="grid grid-cols-3 gap-3">
+                                            <a href="{{ route('blockchainDevelopment') }}"
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 Blockchain Development
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 ICO Development
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 Smart Contract
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 Token & Coin
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 DApp Development
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 DeFi Development
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 Cryptocurrency Exchange
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 Cryptocurrency Bank
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 P2P Exchange
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 Decentralized Exchange
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 Cryptocurrency MLM
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 Real Estate Tokenization
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 Asset Tokenization
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 Gold Tokenization
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 Meme Coin
                                             </a>
                                         </div>
@@ -930,6 +930,23 @@
         pointer-events: auto !important;
     }
 
+    /* Category link active state */
+    .category-link.active {
+        background-color: rgb(239 246 255) !important;
+    }
+
+    .dark .category-link.active {
+        background-color: rgba(30, 58, 138, 0.2) !important;
+    }
+
+    .category-link.active:hover {
+        background-color: rgb(219 234 254) !important;
+    }
+
+    .dark .category-link.active:hover {
+        background-color: rgba(30, 58, 138, 0.3) !important;
+    }
+
 </style>
 
 <script>
@@ -962,6 +979,165 @@
         const resourcesDropdown = document.getElementById('resources-dropdown');
         const hireDevelopersToggle = document.getElementById('hire-developers-toggle');
         const hireDevelopersDropdown = document.getElementById('hire-developers-dropdown');
+
+        // Services data for each category
+        const servicesData = {
+            'blockchain': {
+                title: 'End-to-end blockchain solutions for enterprises and startups',
+                services: [
+                    'Blockchain Development',
+                    'ICO Development',
+                    'Smart Contract',
+                    'Token & Coin',
+                    'DApp Development',
+                    'DeFi Development',
+                    'Cryptocurrency Exchange',
+                    'Cryptocurrency Bank',
+                    'P2P Exchange',
+                    'Decentralized Exchange',
+                    'Cryptocurrency MLM',
+                    'Real Estate Tokenization',
+                    'Asset Tokenization',
+                    'Gold Tokenization',
+                    'Meme Coin'
+                ]
+            },
+            'apps-games': {
+                title: 'Mobile and web applications for all platforms',
+                services: [
+                    'iOS App Development',
+                    'Android App Development',
+                    'Cross-Platform Apps',
+                    'Web Application',
+                    'Game Development',
+                    'Unity Game Development',
+                    'AR/VR Applications',
+                    'Progressive Web Apps',
+                    'E-commerce Apps',
+                    'Social Media Apps',
+                    'Fitness Apps',
+                    'Educational Apps'
+                ]
+            },
+            'ai-ml': {
+                title: 'Artificial Intelligence and Machine Learning solutions',
+                services: [
+                    'AI Chatbot Development',
+                    'Machine Learning Models',
+                    'Deep Learning Solutions',
+                    'Natural Language Processing',
+                    'Computer Vision',
+                    'Predictive Analytics',
+                    'AI Integration',
+                    'LLM Development',
+                    'AI Consulting',
+                    'Data Science Services',
+                    'Neural Networks',
+                    'AI Automation'
+                ]
+            },
+            'custom-software': {
+                title: 'Custom software solutions tailored to your business',
+                services: [
+                    'Enterprise Software',
+                    'CRM Development',
+                    'ERP Solutions',
+                    'SaaS Development',
+                    'API Development',
+                    'Microservices',
+                    'Legacy System Migration',
+                    'System Integration',
+                    'Workflow Automation',
+                    'Business Intelligence',
+                    'Custom Dashboard',
+                    'Reporting Systems'
+                ]
+            },
+            'big-data': {
+                title: 'Big Data and Analytics solutions for insights',
+                services: [
+                    'Data Analytics',
+                    'Business Intelligence',
+                    'Data Warehousing',
+                    'ETL Development',
+                    'Data Visualization',
+                    'Predictive Analytics',
+                    'Real-time Analytics',
+                    'Data Mining',
+                    'Data Pipeline',
+                    'Reporting Tools',
+                    'Dashboard Development',
+                    'Data Strategy Consulting'
+                ]
+            },
+            'cloud-services': {
+                title: 'Cloud infrastructure and services for scalability',
+                services: [
+                    'Cloud Migration',
+                    'AWS Services',
+                    'Azure Solutions',
+                    'Google Cloud',
+                    'Cloud Architecture',
+                    'DevOps Services',
+                    'Containerization',
+                    'Kubernetes',
+                    'Serverless Solutions',
+                    'Cloud Security',
+                    'Cloud Monitoring',
+                    'Backup & Recovery'
+                ]
+            }
+        };
+
+        // Function to update services grid
+        function updateServicesGrid(category) {
+            const servicesGrid = document.getElementById('services-grid');
+            const servicesTitle = document.getElementById('services-title');
+            
+            if (!servicesGrid || !servicesTitle || !servicesData[category]) return;
+
+            const categoryData = servicesData[category];
+            
+            // Update title
+            servicesTitle.textContent = categoryData.title;
+            
+            // Clear existing services
+            servicesGrid.innerHTML = '';
+            
+            // Add new services
+            categoryData.services.forEach(service => {
+                const serviceLink = document.createElement('a');
+                serviceLink.href = '#';
+                serviceLink.className = 'px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left';
+                serviceLink.textContent = service;
+                servicesGrid.appendChild(serviceLink);
+            });
+        }
+
+        // Function to handle category click
+        function handleCategoryClick(event) {
+            event.preventDefault();
+            const categoryLink = event.currentTarget;
+            const category = categoryLink.getAttribute('data-category');
+            
+            // Remove active class from all category links
+            document.querySelectorAll('.category-link').forEach(link => {
+                link.classList.remove('active', 'bg-blue-50', 'dark:bg-blue-900/20');
+                link.classList.add('bg-gray-50', 'dark:bg-gray-800');
+            });
+            
+            // Add active class to clicked category
+            categoryLink.classList.add('active', 'bg-blue-50', 'dark:bg-blue-900/20');
+            categoryLink.classList.remove('bg-gray-50', 'dark:bg-gray-800');
+            
+            // Update services grid
+            updateServicesGrid(category);
+        }
+
+        // Add click handlers to category links
+        document.querySelectorAll('.category-link').forEach(link => {
+            link.addEventListener('click', handleCategoryClick);
+        });
 
         // Function to close all desktop dropdowns
         function closeAllDesktopDropdowns() {
