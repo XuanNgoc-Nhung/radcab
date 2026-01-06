@@ -286,8 +286,8 @@
         </div>
         <div class="relative w-full lg:w-5/12 h-72"><img alt="Nadcab Team" loading="lazy" decoding="async"
                 data-nimg="fill" class="object-cover" sizes="100vw"
-                srcset="/about/team-nadcab.jpg?w=640&amp;q=75 640w, /about/team-nadcab.jpg?w=750&amp;q=75 750w, /about/team-nadcab.jpg?w=828&amp;q=75 828w, /about/team-nadcab.jpg?w=1080&amp;q=75 1080w, /about/team-nadcab.jpg?w=1200&amp;q=75 1200w, /about/team-nadcab.jpg?w=1920&amp;q=75 1920w, /about/team-nadcab.jpg?w=2048&amp;q=75 2048w, /about/team-nadcab.jpg?w=3840&amp;q=75 3840w"
-                src="/about/team-nadcab.jpg?w=3840&amp;q=75"
+                srcset="/abouts/team-nadcab.jpg?w=640&amp;q=75 640w, /abouts/team-nadcab.jpg?w=750&amp;q=75 750w, /abouts/team-nadcab.jpg?w=828&amp;q=75 828w, /abouts/team-nadcab.jpg?w=1080&amp;q=75 1080w, /abouts/team-nadcab.jpg?w=1200&amp;q=75 1200w, /abouts/team-nadcab.jpg?w=1920&amp;q=75 1920w, /abouts/team-nadcab.jpg?w=2048&amp;q=75 2048w, /abouts/team-nadcab.jpg?w=3840&amp;q=75 3840w"
+                src="/abouts/team-nadcab.jpg?w=3840&amp;q=75"
                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
     </div>
 </div>
@@ -305,8 +305,8 @@
                 <div class="relative w-full md:w-72 h-64 sm:h-48 md:h-auto flex-shrink-0"><img
                         alt="Growth-Focused Environment" loading="lazy" decoding="async" data-nimg="fill"
                         class="object-cover" sizes="100vw"
-                        srcset="/about/2025.jpg?w=640&amp;q=75 640w, /about/2025.jpg?w=750&amp;q=75 750w, /about/2025.jpg?w=828&amp;q=75 828w, /about/2025.jpg?w=1080&amp;q=75 1080w, /about/2025.jpg?w=1200&amp;q=75 1200w, /about/2025.jpg?w=1920&amp;q=75 1920w, /about/2025.jpg?w=2048&amp;q=75 2048w, /about/2025.jpg?w=3840&amp;q=75 3840w"
-                        src="/about/2025.jpg?w=3840&amp;q=75"
+                        srcset="/abouts/2025.jpg?w=640&amp;q=75 640w, /abouts/2025.jpg?w=750&amp;q=75 750w, /abouts/2025.jpg?w=828&amp;q=75 828w, /abouts/2025.jpg?w=1080&amp;q=75 1080w, /abouts/2025.jpg?w=1200&amp;q=75 1200w, /abouts/2025.jpg?w=1920&amp;q=75 1920w, /abouts/2025.jpg?w=2048&amp;q=75 2048w, /abouts/2025.jpg?w=3840&amp;q=75 3840w"
+                        src="/abouts/2025.jpg?w=3840&amp;q=75"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
                 <div class="flex-1 flex flex-col justify-between p-6">
                     <div
@@ -354,8 +354,8 @@
                 <div class="relative w-full md:w-72 h-64 sm:h-48 md:h-auto flex-shrink-0"><img
                         alt="Collaborative Culture" loading="lazy" decoding="async" data-nimg="fill"
                         class="object-cover" sizes="100vw"
-                        srcset="/about/2019.jpg?w=640&amp;q=75 640w, /about/2019.jpg?w=750&amp;q=75 750w, /about/2019.jpg?w=828&amp;q=75 828w, /about/2019.jpg?w=1080&amp;q=75 1080w, /about/2019.jpg?w=1200&amp;q=75 1200w, /about/2019.jpg?w=1920&amp;q=75 1920w, /about/2019.jpg?w=2048&amp;q=75 2048w, /about/2019.jpg?w=3840&amp;q=75 3840w"
-                        src="/about/2019.jpg?w=3840&amp;q=75"
+                        srcset="/abouts/2019.jpg?w=640&amp;q=75 640w, /abouts/2019.jpg?w=750&amp;q=75 750w, /abouts/2019.jpg?w=828&amp;q=75 828w, /abouts/2019.jpg?w=1080&amp;q=75 1080w, /abouts/2019.jpg?w=1200&amp;q=75 1200w, /abouts/2019.jpg?w=1920&amp;q=75 1920w, /abouts/2019.jpg?w=2048&amp;q=75 2048w, /abouts/2019.jpg?w=3840&amp;q=75 3840w"
+                        src="/abouts/2019.jpg?w=3840&amp;q=75"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
                 <div class="flex-1 flex flex-col justify-between p-6">
                     <div
@@ -389,8 +389,8 @@
         </div>
         <div class="hidden md:block absolute right-0 bottom-0 w-[40%] h-full"><img alt="Join Our Team Banner"
                 loading="lazy" decoding="async" data-nimg="fill" class="object-cover object-bottom-right" sizes="100vw"
-                srcset="/about/team-nadcab.jpg?w=640&amp;q=75 640w, /about/team-nadcab.jpg?w=750&amp;q=75 750w, /about/team-nadcab.jpg?w=828&amp;q=75 828w, /about/team-nadcab.jpg?w=1080&amp;q=75 1080w, /about/team-nadcab.jpg?w=1200&amp;q=75 1200w, /about/team-nadcab.jpg?w=1920&amp;q=75 1920w, /about/team-nadcab.jpg?w=2048&amp;q=75 2048w, /about/team-nadcab.jpg?w=3840&amp;q=75 3840w"
-                src="/about/team-nadcab.jpg?w=3840&amp;q=75"
+                srcset="/abouts/team-nadcab.jpg?w=640&amp;q=75 640w, /abouts/team-nadcab.jpg?w=750&amp;q=75 750w, /abouts/team-nadcab.jpg?w=828&amp;q=75 828w, /abouts/team-nadcab.jpg?w=1080&amp;q=75 1080w, /abouts/team-nadcab.jpg?w=1200&amp;q=75 1200w, /abouts/team-nadcab.jpg?w=1920&amp;q=75 1920w, /abouts/team-nadcab.jpg?w=2048&amp;q=75 2048w, /abouts/team-nadcab.jpg?w=3840&amp;q=75 3840w"
+                src="/abouts/team-nadcab.jpg?w=3840&amp;q=75"
                 style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
     </div>
 </div>
