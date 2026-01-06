@@ -35,10 +35,10 @@
 </head>
 
 <body class="font-sans antialiased" cz-shortcut-listen="true">
-    @include('user.components.header')
-    @include('user.components.hero')
+    {{-- @include('user.components.header') --}}
+    {{-- @include('user.components.hero') --}}
     @include('user.components.content')
-    @include('user.components.footer')
+    {{-- @include('user.components.footer') --}}
 
     <!-- WOW.js for scroll animations -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
