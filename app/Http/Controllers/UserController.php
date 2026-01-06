@@ -66,4 +66,8 @@ class UserController extends Controller
     {
         return view('user.career');
     }
+    public function partner()
+    {
+        return view('user.partner');
+    }
 }
