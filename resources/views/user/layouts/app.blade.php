@@ -54,8 +54,8 @@
     @include('user.components.footer')
 
     <!-- WOW.js for scroll animations -->
-    {{-- <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script> --}}
-    {{-- <script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+    <script>
         // Initialize WOW.js
         new WOW({
             boxClass: 'wow',
@@ -64,7 +64,7 @@
             mobile: true,
             live: true
         }).init();
-    </script> --}}
+    </script>
 </body>
 
 </html>

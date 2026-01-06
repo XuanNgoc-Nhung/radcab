@@ -68,6 +68,41 @@ class UserController extends Controller
     }
     public function partner()
     {
-        return view('user.partner');
+        $faqs = [
+            [
+                'question' => 'Who can become a partner with Nadcab Labs?',
+                'answer' => 'Nadcab Labs welcomes Web3 startups, enterprises, agencies, investors, NGOs, educational institutions, and accelerators who aim to collaborate on blockchain, Web3, or SaaS-based innovations.'
+            ],
+            [
+                'question' => 'What are the benefits of partnering with Nadcab Labs?',
+                'answer' => 'Partners gain access to our global network, expert blockchain developers, white-label solutions, co-marketing support, and opportunities for joint product development and revenue growth.'
+            ],
+            [
+                'question' => 'How can I apply to become a Nadcab Labs partner?',
+                'answer' => 'You can submit your partnership request through the \'Become a Partner\' form on our website. Our partnership team will connect with you within 48 hours to discuss collaboration opportunities.'
+            ],
+            [
+                'question' => 'Do you offer white-label blockchain solutions for partners?',
+                'answer' => 'Yes, we offer customizable white-label blockchain and SaaS products that partners can rebrand and resell to their clients with full technical and post-deployment support.'
+            ],
+            [
+                'question' => 'What types of partnership programs are available?',
+                'answer' => 'We offer multiple partnership programs, including Strategic Alliance, Incubation Support, SaaS Reseller, and Education & Training partnerships to suit different collaboration goals.'
+            ],
+            [
+                'question' => 'Is there any cost to join as a partner?',
+                'answer' => 'Joining Nadcab Labs as a partner typically has no upfront cost. Some programs, like SaaS reselling or incubation support, may have revenue-sharing or licensing terms based on collaboration scope.'
+            ],
+            [
+                'question' => 'Can startups and small businesses partner with Nadcab Labs?',
+                'answer' => 'Absolutely. We actively collaborate with startups and small businesses to provide blockchain infrastructure, mentorship, and technical support for faster go-to-market execution.'
+            ],
+            [
+                'question' => 'Do you provide technical and marketing support to partners?',
+                'answer' => 'Yes. Nadcab Labs offers end-to-end technical, marketing, and training support to ensure smooth collaboration, seamless delivery, and brand visibility for all our partners.'
+            ]
+        ];
+
+        return view('user.partner', compact('faqs'));
     }
 }
