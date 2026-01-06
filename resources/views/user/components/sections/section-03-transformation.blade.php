@@ -260,7 +260,7 @@
                                 class="p-0 w-1/2 px-10 sm:px-2 lg:px-10 py-12 bg-blue-500 text-white border-r border-gray-200 dark:border-gray-700 overflow-y-auto max-h-[400px] custom-scrollbar">
                                 <div class="space-y-4">
                                     <div>
-                                        <div class="clickable-row bg-blue-400">
+                                        <div class="clickable-row bg-blue-400" data-category="uiux">
                                             <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">UI/UX Design</h3>
                                             <span class="ml-auto text-xl sm:text-2xl lg:text-3xl"><svg
                                                     stroke="currentColor" fill="currentColor" stroke-width="0"
@@ -274,117 +274,65 @@
                                         <div class="my-4"></div>
                                     </div>
                                     <div>
-                                        <div class="clickable-row hover:bg-blue-400">
+                                        <div class="clickable-row hover:bg-blue-400" data-category="frontend">
                                             <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">Front-End</h3>
                                         </div>
                                         <div class="my-4"></div>
                                     </div>
                                     <div>
-                                        <div class="clickable-row hover:bg-blue-400">
+                                        <div class="clickable-row hover:bg-blue-400" data-category="backend">
                                             <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">Backend</h3>
                                         </div>
                                         <div class="my-4"></div>
                                     </div>
                                     <div>
-                                        <div class="clickable-row hover:bg-blue-400">
+                                        <div class="clickable-row hover:bg-blue-400" data-category="devops">
                                             <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">DevOps</h3>
                                         </div>
                                         <div class="my-4"></div>
                                     </div>
                                     <div>
-                                        <div class="clickable-row hover:bg-blue-400">
+                                        <div class="clickable-row hover:bg-blue-400" data-category="blockchain">
                                             <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">Blockchain</h3>
                                         </div>
                                         <div class="my-4"></div>
                                     </div>
                                     <div>
-                                        <div class="clickable-row hover:bg-blue-400">
+                                        <div class="clickable-row hover:bg-blue-400" data-category="aiml">
                                             <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">AI/ML</h3>
                                         </div>
                                         <div class="my-4"></div>
                                     </div>
                                     <div>
-                                        <div class="clickable-row hover:bg-blue-400">
+                                        <div class="clickable-row hover:bg-blue-400" data-category="bigdata">
                                             <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">Big Data</h3>
                                         </div>
                                         <div class="my-4"></div>
                                     </div>
                                     <div>
-                                        <div class="clickable-row hover:bg-blue-400">
+                                        <div class="clickable-row hover:bg-blue-400" data-category="cloud">
                                             <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">Cloud</h3>
                                         </div>
                                         <div class="my-4"></div>
                                     </div>
                                     <div>
-                                        <div class="clickable-row hover:bg-blue-400">
+                                        <div class="clickable-row hover:bg-blue-400" data-category="arvr">
                                             <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">AR/VR</h3>
                                         </div>
                                         <div class="my-4"></div>
                                     </div>
                                     <div>
-                                        <div class="clickable-row hover:bg-blue-400">
+                                        <div class="clickable-row hover:bg-blue-400" data-category="gamedev">
                                             <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">Game Dev</h3>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div
-                                class="w-1/2 p-6 sm:p-2 lg:p-6 overflow-y-auto max-h-[400px] custom-scrollbar dark:bg-white">
-                                <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                                    <div
-                                        class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
-                                        <img alt="Figma" loading="lazy" width="30" height="30" decoding="async"
-                                            data-nimg="1" class="flex-shrink-0 "
-                                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Figma.webp?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Figma.webp?w=64&amp;q=75 2x"
-                                            src="https://img.nadcab.com/wp-content/uploads/2025/11/Figma.webp?w=64&amp;q=75"
-                                            style="color: transparent;"><span
-                                            class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Figma</span>
-                                    </div>
-                                    <div
-                                        class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
-                                        <img alt="Adobe XD" loading="lazy" width="30" height="30" decoding="async"
-                                            data-nimg="1" class="flex-shrink-0 "
-                                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/adobe-xd.svg?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/adobe-xd.svg?w=64&amp;q=75 2x"
-                                            src="https://img.nadcab.com/wp-content/uploads/2025/11/adobe-xd.svg?w=64&amp;q=75"
-                                            style="color: transparent;"><span
-                                            class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Adobe
-                                            XD</span></div>
-                                    <div
-                                        class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
-                                        <img alt="Sketch" loading="lazy" width="30" height="30" decoding="async"
-                                            data-nimg="1" class="flex-shrink-0 "
-                                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/sketch.svg?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/sketch.svg?w=64&amp;q=75 2x"
-                                            src="https://img.nadcab.com/wp-content/uploads/2025/11/sketch.svg?w=64&amp;q=75"
-                                            style="color: transparent;"><span
-                                            class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Sketch</span>
-                                    </div>
-                                    <div
-                                        class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
-                                        <img alt="Framer" loading="lazy" width="30" height="30" decoding="async"
-                                            data-nimg="1" class="flex-shrink-0 "
-                                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/framer.svg?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/framer.svg?w=64&amp;q=75 2x"
-                                            src="https://img.nadcab.com/wp-content/uploads/2025/11/framer.svg?w=64&amp;q=75"
-                                            style="color: transparent;"><span
-                                            class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Framer</span>
-                                    </div>
-                                    <div
-                                        class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
-                                        <img alt="Illustrator" loading="lazy" width="30" height="30" decoding="async"
-                                            data-nimg="1" class="flex-shrink-0 "
-                                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/illustrator-original.svg?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/illustrator-original.svg?w=64&amp;q=75 2x"
-                                            src="https://img.nadcab.com/wp-content/uploads/2025/11/illustrator-original.svg?w=64&amp;q=75"
-                                            style="color: transparent;"><span
-                                            class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Illustrator</span>
-                                    </div>
-                                    <div
-                                        class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
-                                        <img alt="Photoshop" loading="lazy" width="30" height="30" decoding="async"
-                                            data-nimg="1" class="flex-shrink-0 "
-                                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/photoshop.svg?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/photoshop.svg?w=64&amp;q=75 2x"
-                                            src="https://img.nadcab.com/wp-content/uploads/2025/11/photoshop.svg?w=64&amp;q=75"
-                                            style="color: transparent;"><span
-                                            class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Photoshop</span>
-                                    </div>
+                                class="w-1/2 p-6 sm:p-2 lg:p-6 overflow-y-auto max-h-[400px] custom-scrollbar dark:bg-white"
+                                id="tech-stack-content">
+                                <div class="grid grid-cols-1 sm:grid-cols-2 gap-4" id="tech-items-container">
+                                    <!-- Content will be rendered by JavaScript -->
                                 </div>
                             </div>
                         </div>
@@ -392,6 +340,166 @@
                 </div>
             </section>
         </div>
+        <script>
+            (function() {
+                // Dữ liệu các công nghệ theo từng category
+                const techStackData = {
+                    uiux: [
+                        { name: 'Figma', image: 'https://img.nadcab.com/wp-content/uploads/2025/11/Figma.webp?w=64&q=75' },
+                        { name: 'Adobe XD', image: 'https://img.nadcab.com/wp-content/uploads/2025/11/adobe-xd.svg?w=64&q=75' },
+                        { name: 'Sketch', image: 'https://img.nadcab.com/wp-content/uploads/2025/11/sketch.svg?w=64&q=75' },
+                        { name: 'Framer', image: 'https://img.nadcab.com/wp-content/uploads/2025/11/framer.svg?w=64&q=75' },
+                        { name: 'Illustrator', image: 'https://img.nadcab.com/wp-content/uploads/2025/11/illustrator-original.svg?w=64&q=75' },
+                        { name: 'Photoshop', image: 'https://img.nadcab.com/wp-content/uploads/2025/11/photoshop.svg?w=64&q=75' }
+                    ],
+                    frontend: [
+                        { name: 'React', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' },
+                        { name: 'Vue.js', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg' },
+                        { name: 'Angular', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg' },
+                        { name: 'Next.js', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg' },
+                        { name: 'TypeScript', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' },
+                        { name: 'Tailwind CSS', image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png' }
+                    ],
+                    backend: [
+                        { name: 'Node.js', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' },
+                        { name: 'Python', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' },
+                        { name: 'Java', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' },
+                        { name: 'PHP', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' },
+                        { name: 'Laravel', image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png' },
+                        { name: 'Django', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg' }
+                    ],
+                    devops: [
+                        { name: 'Docker', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' },
+                        { name: 'Kubernetes', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg' },
+                        { name: 'AWS', image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png' },
+                        { name: 'Git', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' },
+                        { name: 'Jenkins', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg' },
+                        { name: 'Terraform', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg' }
+                    ],
+                    blockchain: [
+                        { name: 'Ethereum', image: 'https://upload.wikimedia.org/wikipedia/commons/f/fd/Ethereum_Logo.png' },
+                        { name: 'Solidity', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg' },
+                        { name: 'Web3.js', image: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/web3js/web3js-original.svg' },
+                        { name: 'Truffle', image: 'https://archive.trufflesuite.com/assets/logo.png' },
+                        { name: 'Hardhat', image: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg' },
+                        { name: 'IPFS', image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ipfs-logo-1024-ice-text.png/500px-Ipfs-logo-1024-ice-text.png' }
+                    ],
+                    aiml: [
+                        { name: 'TensorFlow', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg' },
+                        { name: 'PyTorch', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg' },
+                        { name: 'Scikit-learn', image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png' },
+                        { name: 'OpenAI', image: 'https://cdn.worldvectorlogo.com/logos/openai-2.svg' },
+                        { name: 'Hugging Face', image: 'https://drmowinckels.io/blog/2024/ai-blog-summary/images/hf-logo.png' },
+                        { name: 'Pandas', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg' }
+                    ],
+                    bigdata: [
+                        { name: 'Apache Spark', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg' },
+                        { name: 'Hadoop', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg' },
+                        { name: 'Kafka', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg' },
+                        { name: 'Elasticsearch', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg' },
+                        { name: 'MongoDB', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' },
+                        { name: 'Cassandra', image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1280px-Cassandra_logo.svg.png' }
+                    ],
+                    cloud: [
+                        { name: 'AWS', image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png' },
+                        { name: 'Azure', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg' },
+                        { name: 'GCP', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg' },
+                        { name: 'DigitalOcean', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg' },
+                        { name: 'Heroku', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg' },
+                        { name: 'Vercel', image: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg' }
+                    ],
+                    arvr: [
+                        { name: 'Unity', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg' },
+                        { name: 'Unreal Engine', image: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg' },
+                        { name: 'ARCore', image: 'https://developers.google.com/static/ar/images/logo.svg?hl=vi' },
+                        { name: 'ARKit', image: 'https://developer.apple.com/assets/elements/icons/arkit/arkit-128x128_2x.png' },
+                        { name: 'Three.js', image: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg' },
+                        { name: 'WebXR', image: 'https://www.nextzelatech.com/_next/image?url=%2Fassets%2Ftech-stack%2Fwebxr-icon.png&w=256&q=75' }
+                    ],
+                    gamedev: [
+                        { name: 'Unity', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg' },
+                        { name: 'Unreal Engine', image: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg' },
+                        { name: 'Godot', image: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg' },
+                        { name: 'Cocos2d', image: 'https://icons.iconarchive.com/icons/simpleicons-team/simple/256/cocos-icon.png' },
+                        { name: 'Phaser', image: 'https://cdn.phaser.io/images/logo/logo-download.png' },
+                        { name: 'GameMaker', image: 'https://alternative.me/media/256/gamemaker-icon-l3s22cd91hciaaym-c.png' }
+                    ]
+                };
+
+                // Hàm render danh sách công nghệ
+                function renderTechStack(category) {
+                    const container = document.getElementById('tech-items-container');
+                    const techs = techStackData[category] || techStackData.uiux;
+                    
+                    container.innerHTML = techs.map(tech => {
+                        // Handle srcset for images with query strings
+                        let srcset = tech.image;
+                        if (tech.image.includes('?w=')) {
+                            srcset = tech.image.replace('?w=64&q=75', '?w=32&q=75') + ' 1x, ' + tech.image + ' 2x';
+                        }
+                        
+                        return `
+                            <div class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
+                                <img alt="${tech.name}" loading="lazy" width="30" height="30" decoding="async"
+                                    data-nimg="1" class="flex-shrink-0"
+                                    ${tech.image.includes('?w=') ? `srcset="${srcset}"` : ''}
+                                    src="${tech.image}"
+                                    style="color: transparent;">
+                                <span class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">${tech.name}</span>
+                            </div>
+                        `;
+                    }).join('');
+                }
+
+                // Xử lý click vào các clickable-row
+                document.addEventListener('DOMContentLoaded', function() {
+                    const clickableRows = document.querySelectorAll('.clickable-row');
+                    
+                    clickableRows.forEach(row => {
+                        row.addEventListener('click', function() {
+                            const category = this.getAttribute('data-category');
+                            
+                            // Xóa active state từ tất cả các row
+                            clickableRows.forEach(r => {
+                                r.classList.remove('bg-blue-400');
+                                r.classList.add('hover:bg-blue-400');
+                                // Xóa icon arrow từ các row khác
+                                const icon = r.querySelector('span.ml-auto');
+                                if (icon && r !== this) {
+                                    icon.remove();
+                                }
+                            });
+                            
+                            // Thêm active state cho row được click
+                            this.classList.remove('hover:bg-blue-400');
+                            this.classList.add('bg-blue-400');
+                            
+                            // Thêm icon arrow nếu chưa có
+                            if (!this.querySelector('span.ml-auto')) {
+                                const icon = document.createElement('span');
+                                icon.className = 'ml-auto text-xl sm:text-2xl lg:text-3xl';
+                                icon.innerHTML = `<svg stroke="currentColor" fill="currentColor" stroke-width="0"
+                                    viewBox="0 0 16 16" height="1em" width="1em"
+                                    xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd"
+                                        d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8">
+                                    </path>
+                                </svg>`;
+                                this.appendChild(icon);
+                            }
+                            
+                            // Render lại danh sách công nghệ
+                            if (category) {
+                                renderTechStack(category);
+                            }
+                        });
+                    });
+                    
+                    // Render mặc định danh sách UI/UX Design khi trang load
+                    renderTechStack('uiux');
+                });
+            })();
+        </script>
         <div class="mb-16">
             <section class="lg:py-16 px-4">
                 <div class="text-center mb-12 space-y-4 max-w-5xl mx-auto wow animate__animated animate__fadeInUp">
