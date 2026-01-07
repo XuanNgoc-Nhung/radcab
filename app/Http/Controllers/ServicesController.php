@@ -113,4 +113,8 @@ class ServicesController extends Controller
     {
         return view('user.services.ico-development');
     }
+    public function smartContract()
+    {
+        return view('user.services.smart-contract');
+    }
 }

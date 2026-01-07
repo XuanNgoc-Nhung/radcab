@@ -21,8 +21,8 @@
             <div class="rounded-xl lg:rounded-2xl overflow-hidden max-w-7xl mx-auto">
                 <div class="relative aspect-video w-full overflow-hidden">
                     <div class=""><video class="w-full h-full object-contain rounded-xl bg-black absolute inset-0"
-                            autoplay="" loop="" playsinline="" preload="none"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/12/ico-development-company.mp4"></video>
+                             autoplay loop playsinline muted preload="auto"
+                            src="/wp-content/uploads/2025/12/ico-development-company.mp4"></video>
                     </div>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                                 class="w-32 h-10 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                                 sizes="(max-width:640px) 120px, (max-width:1024px) 140px, 160px"
                                 srcset="/partners/Coinccino.webp?w=16&amp;q=75 16w, /partners/Coinccino.webp?w=32&amp;q=75 32w, /partners/Coinccino.webp?w=48&amp;q=75 48w, /partners/Coinccino.webp?w=64&amp;q=75 64w, /partners/Coinccino.webp?w=96&amp;q=75 96w, /partners/Coinccino.webp?w=128&amp;q=75 128w, /partners/Coinccino.webp?w=256&amp;q=75 256w, /partners/Coinccino.webp?w=384&amp;q=75 384w, /partners/Coinccino.webp?w=640&amp;q=75 640w, /partners/Coinccino.webp?w=750&amp;q=75 750w, /partners/Coinccino.webp?w=828&amp;q=75 828w, /partners/Coinccino.webp?w=1080&amp;q=75 1080w, /partners/Coinccino.webp?w=1200&amp;q=75 1200w, /partners/Coinccino.webp?w=1920&amp;q=75 1920w, /partners/Coinccino.webp?w=2048&amp;q=75 2048w, /partners/Coinccino.webp?w=3840&amp;q=75 3840w"
-                                src="https://www.nadcab.com/partners/Coinccino.webp?w=3840&amp;q=75"
+                                src="/partners/Coinccino.webp"
                                 style="color: transparent;"></div>
                         <div
                             class="flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-1 lg:p-3 w-32 h-12 md:h-16 lg:h-14 md:w-36 lg:w-40">
@@ -53,7 +53,7 @@
                                 class="w-32 h-10 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                                 sizes="(max-width:640px) 120px, (max-width:1024px) 140px, 160px"
                                 srcset="/partners/Phantashma.webp?w=16&amp;q=75 16w, /partners/Phantashma.webp?w=32&amp;q=75 32w, /partners/Phantashma.webp?w=48&amp;q=75 48w, /partners/Phantashma.webp?w=64&amp;q=75 64w, /partners/Phantashma.webp?w=96&amp;q=75 96w, /partners/Phantashma.webp?w=128&amp;q=75 128w, /partners/Phantashma.webp?w=256&amp;q=75 256w, /partners/Phantashma.webp?w=384&amp;q=75 384w, /partners/Phantashma.webp?w=640&amp;q=75 640w, /partners/Phantashma.webp?w=750&amp;q=75 750w, /partners/Phantashma.webp?w=828&amp;q=75 828w, /partners/Phantashma.webp?w=1080&amp;q=75 1080w, /partners/Phantashma.webp?w=1200&amp;q=75 1200w, /partners/Phantashma.webp?w=1920&amp;q=75 1920w, /partners/Phantashma.webp?w=2048&amp;q=75 2048w, /partners/Phantashma.webp?w=3840&amp;q=75 3840w"
-                                src="https://www.nadcab.com/partners/Phantashma.webp?w=3840&amp;q=75"
+                                src="/partners/Phantashma.webp"
                                 style="color: transparent;"></div>
                         <div
                             class="flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-1 lg:p-3 w-32 h-12 md:h-16 lg:h-14 md:w-36 lg:w-40">
@@ -61,7 +61,7 @@
                                 class="w-32 h-10 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                                 sizes="(max-width:640px) 120px, (max-width:1024px) 140px, 160px"
                                 srcset="/partners/SeedX.webp?w=16&amp;q=75 16w, /partners/SeedX.webp?w=32&amp;q=75 32w, /partners/SeedX.webp?w=48&amp;q=75 48w, /partners/SeedX.webp?w=64&amp;q=75 64w, /partners/SeedX.webp?w=96&amp;q=75 96w, /partners/SeedX.webp?w=128&amp;q=75 128w, /partners/SeedX.webp?w=256&amp;q=75 256w, /partners/SeedX.webp?w=384&amp;q=75 384w, /partners/SeedX.webp?w=640&amp;q=75 640w, /partners/SeedX.webp?w=750&amp;q=75 750w, /partners/SeedX.webp?w=828&amp;q=75 828w, /partners/SeedX.webp?w=1080&amp;q=75 1080w, /partners/SeedX.webp?w=1200&amp;q=75 1200w, /partners/SeedX.webp?w=1920&amp;q=75 1920w, /partners/SeedX.webp?w=2048&amp;q=75 2048w, /partners/SeedX.webp?w=3840&amp;q=75 3840w"
-                                src="https://www.nadcab.com/partners/SeedX.webp?w=3840&amp;q=75"
+                                src="/partners/SeedX.webp"
                                 style="color: transparent;"></div>
                         <div
                             class="flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-1 lg:p-3 w-32 h-12 md:h-16 lg:h-14 md:w-36 lg:w-40">
@@ -69,7 +69,7 @@
                                 class="w-32 h-10 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                                 sizes="(max-width:640px) 120px, (max-width:1024px) 140px, 160px"
                                 srcset="/partners/INRx.webp?w=16&amp;q=75 16w, /partners/INRx.webp?w=32&amp;q=75 32w, /partners/INRx.webp?w=48&amp;q=75 48w, /partners/INRx.webp?w=64&amp;q=75 64w, /partners/INRx.webp?w=96&amp;q=75 96w, /partners/INRx.webp?w=128&amp;q=75 128w, /partners/INRx.webp?w=256&amp;q=75 256w, /partners/INRx.webp?w=384&amp;q=75 384w, /partners/INRx.webp?w=640&amp;q=75 640w, /partners/INRx.webp?w=750&amp;q=75 750w, /partners/INRx.webp?w=828&amp;q=75 828w, /partners/INRx.webp?w=1080&amp;q=75 1080w, /partners/INRx.webp?w=1200&amp;q=75 1200w, /partners/INRx.webp?w=1920&amp;q=75 1920w, /partners/INRx.webp?w=2048&amp;q=75 2048w, /partners/INRx.webp?w=3840&amp;q=75 3840w"
-                                src="https://www.nadcab.com/partners/INRx.webp?w=3840&amp;q=75"
+                                src="/partners/INRx.webp"
                                 style="color: transparent;"></div>
                         <div
                             class="flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-1 lg:p-3 w-32 h-12 md:h-16 lg:h-14 md:w-36 lg:w-40">
@@ -77,7 +77,7 @@
                                 class="w-32 h-10 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                                 sizes="(max-width:640px) 120px, (max-width:1024px) 140px, 160px"
                                 srcset="/partners/Tarality.webp?w=16&amp;q=75 16w, /partners/Tarality.webp?w=32&amp;q=75 32w, /partners/Tarality.webp?w=48&amp;q=75 48w, /partners/Tarality.webp?w=64&amp;q=75 64w, /partners/Tarality.webp?w=96&amp;q=75 96w, /partners/Tarality.webp?w=128&amp;q=75 128w, /partners/Tarality.webp?w=256&amp;q=75 256w, /partners/Tarality.webp?w=384&amp;q=75 384w, /partners/Tarality.webp?w=640&amp;q=75 640w, /partners/Tarality.webp?w=750&amp;q=75 750w, /partners/Tarality.webp?w=828&amp;q=75 828w, /partners/Tarality.webp?w=1080&amp;q=75 1080w, /partners/Tarality.webp?w=1200&amp;q=75 1200w, /partners/Tarality.webp?w=1920&amp;q=75 1920w, /partners/Tarality.webp?w=2048&amp;q=75 2048w, /partners/Tarality.webp?w=3840&amp;q=75 3840w"
-                                src="https://www.nadcab.com/partners/Tarality.webp?w=3840&amp;q=75"
+                                src="/partners/Tarality.webp"
                                 style="color: transparent;"></div>
                         <div
                             class="flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-1 lg:p-3 w-32 h-12 md:h-16 lg:h-14 md:w-36 lg:w-40">
@@ -85,7 +85,7 @@
                                 class="w-32 h-10 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                                 sizes="(max-width:640px) 120px, (max-width:1024px) 140px, 160px"
                                 srcset="/partners/O3Swap.webp?w=16&amp;q=75 16w, /partners/O3Swap.webp?w=32&amp;q=75 32w, /partners/O3Swap.webp?w=48&amp;q=75 48w, /partners/O3Swap.webp?w=64&amp;q=75 64w, /partners/O3Swap.webp?w=96&amp;q=75 96w, /partners/O3Swap.webp?w=128&amp;q=75 128w, /partners/O3Swap.webp?w=256&amp;q=75 256w, /partners/O3Swap.webp?w=384&amp;q=75 384w, /partners/O3Swap.webp?w=640&amp;q=75 640w, /partners/O3Swap.webp?w=750&amp;q=75 750w, /partners/O3Swap.webp?w=828&amp;q=75 828w, /partners/O3Swap.webp?w=1080&amp;q=75 1080w, /partners/O3Swap.webp?w=1200&amp;q=75 1200w, /partners/O3Swap.webp?w=1920&amp;q=75 1920w, /partners/O3Swap.webp?w=2048&amp;q=75 2048w, /partners/O3Swap.webp?w=3840&amp;q=75 3840w"
-                                src="https://www.nadcab.com/partners/O3Swap.webp?w=3840&amp;q=75"
+                                src="/partners/O3Swap.webp"
                                 style="color: transparent;"></div>
                         <div
                             class="flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-1 lg:p-3 w-32 h-12 md:h-16 lg:h-14 md:w-36 lg:w-40">
@@ -93,7 +93,7 @@
                                 class="w-32 h-10 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                                 sizes="(max-width:640px) 120px, (max-width:1024px) 140px, 160px"
                                 srcset="/partners/Merckel-Chain.webp?w=16&amp;q=75 16w, /partners/Merckel-Chain.webp?w=32&amp;q=75 32w, /partners/Merckel-Chain.webp?w=48&amp;q=75 48w, /partners/Merckel-Chain.webp?w=64&amp;q=75 64w, /partners/Merckel-Chain.webp?w=96&amp;q=75 96w, /partners/Merckel-Chain.webp?w=128&amp;q=75 128w, /partners/Merckel-Chain.webp?w=256&amp;q=75 256w, /partners/Merckel-Chain.webp?w=384&amp;q=75 384w, /partners/Merckel-Chain.webp?w=640&amp;q=75 640w, /partners/Merckel-Chain.webp?w=750&amp;q=75 750w, /partners/Merckel-Chain.webp?w=828&amp;q=75 828w, /partners/Merckel-Chain.webp?w=1080&amp;q=75 1080w, /partners/Merckel-Chain.webp?w=1200&amp;q=75 1200w, /partners/Merckel-Chain.webp?w=1920&amp;q=75 1920w, /partners/Merckel-Chain.webp?w=2048&amp;q=75 2048w, /partners/Merckel-Chain.webp?w=3840&amp;q=75 3840w"
-                                src="https://www.nadcab.com/partners/Merckel-Chain.webp?w=3840&amp;q=75"
+                                src="/partners/Merckel-Chain.webp"
                                 style="color: transparent;"></div>
                         <div
                             class="flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-1 lg:p-3 w-32 h-12 md:h-16 lg:h-14 md:w-36 lg:w-40">
@@ -101,7 +101,7 @@
                                 class="w-32 h-10 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                                 sizes="(max-width:640px) 120px, (max-width:1024px) 140px, 160px"
                                 srcset="/partners/Certick.webp?w=16&amp;q=75 16w, /partners/Certick.webp?w=32&amp;q=75 32w, /partners/Certick.webp?w=48&amp;q=75 48w, /partners/Certick.webp?w=64&amp;q=75 64w, /partners/Certick.webp?w=96&amp;q=75 96w, /partners/Certick.webp?w=128&amp;q=75 128w, /partners/Certick.webp?w=256&amp;q=75 256w, /partners/Certick.webp?w=384&amp;q=75 384w, /partners/Certick.webp?w=640&amp;q=75 640w, /partners/Certick.webp?w=750&amp;q=75 750w, /partners/Certick.webp?w=828&amp;q=75 828w, /partners/Certick.webp?w=1080&amp;q=75 1080w, /partners/Certick.webp?w=1200&amp;q=75 1200w, /partners/Certick.webp?w=1920&amp;q=75 1920w, /partners/Certick.webp?w=2048&amp;q=75 2048w, /partners/Certick.webp?w=3840&amp;q=75 3840w"
-                                src="https://www.nadcab.com/partners/Certick.webp?w=3840&amp;q=75"
+                                src="/partners/Certick.webp"
                                 style="color: transparent;"></div>
                         <div
                             class="flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-1 lg:p-3 w-32 h-12 md:h-16 lg:h-14 md:w-36 lg:w-40">
@@ -110,7 +110,7 @@
                                 class="w-32 h-10 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                                 sizes="(max-width:640px) 120px, (max-width:1024px) 140px, 160px"
                                 srcset="/partners/spectrum.webp?w=16&amp;q=75 16w, /partners/spectrum.webp?w=32&amp;q=75 32w, /partners/spectrum.webp?w=48&amp;q=75 48w, /partners/spectrum.webp?w=64&amp;q=75 64w, /partners/spectrum.webp?w=96&amp;q=75 96w, /partners/spectrum.webp?w=128&amp;q=75 128w, /partners/spectrum.webp?w=256&amp;q=75 256w, /partners/spectrum.webp?w=384&amp;q=75 384w, /partners/spectrum.webp?w=640&amp;q=75 640w, /partners/spectrum.webp?w=750&amp;q=75 750w, /partners/spectrum.webp?w=828&amp;q=75 828w, /partners/spectrum.webp?w=1080&amp;q=75 1080w, /partners/spectrum.webp?w=1200&amp;q=75 1200w, /partners/spectrum.webp?w=1920&amp;q=75 1920w, /partners/spectrum.webp?w=2048&amp;q=75 2048w, /partners/spectrum.webp?w=3840&amp;q=75 3840w"
-                                src="https://www.nadcab.com/partners/spectrum.webp?w=3840&amp;q=75"
+                                src="/partners/spectrum.webp"
                                 style="color: transparent;"></div>
                     </div>
                 </div>
@@ -307,8 +307,8 @@
                             class="w-10 h-10 sm:w-12 sm:h-12 rounded-lg border bg-white flex items-center justify-center relative">
                             <img alt="ICO Strategy &amp; Consultancy" loading="lazy" width="32" height="28"
                                 decoding="async" data-nimg="1" class="object-contain"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/ICO-Software-Development.webp?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/ICO-Software-Development.webp?w=64&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/ICO-Software-Development.webp?w=64&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/ICO-Software-Development.webp?w=32&amp;q=75 1x, /wp-content/uploads/2025/11/ICO-Software-Development.webp 2x"
+                                src="/wp-content/uploads/2025/11/ICO-Software-Development.webp"
                                 style="color: transparent;"></div>
                         <p
                             class="text-sm sm:text-base md:text-lg leading-relaxed text-muted-foreground   [&amp;_a]:text-blue-600">
@@ -360,8 +360,8 @@
                         <div class="absolute rounded-3xl"></div><img alt="ico launchpad development service"
                             loading="lazy" decoding="async" data-nimg="fill" class="object-cover-- rounded-2xl"
                             sizes="100vw"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=3840&amp;q=75 3840w"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=3840&amp;q=75"
+                            srcset="/wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/12/ico-presale-dashboard.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/12/ico-presale-dashboard.webp 3840w"
+                            src="/wp-content/uploads/2025/12/ico-presale-dashboard.webp"
                             style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;">
                     </div>
                 </div>
@@ -386,8 +386,8 @@
                         class=" w-10 h-10 sm:w-12 sm:h-12 rounded-lg flex items-center justify-center bg-white/20 backdrop-blur-md dark:bg-white/90 transition-all duration-500 ">
                         <img alt="Multi-Currency Support" loading="lazy" width="40" height="40" decoding="async"
                             data-nimg="1" class="object-contain" sizes="40px"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=16&amp;q=75 16w, https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=32&amp;q=75 32w, https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=48&amp;q=75 48w, https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=64&amp;q=75 64w, https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=96&amp;q=75 96w, https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=128&amp;q=75 128w, https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=3840&amp;q=75 3840w"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=3840&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=16&amp;q=75 16w, /wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=32&amp;q=75 32w, /wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=48&amp;q=75 48w, /wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=64&amp;q=75 64w, /wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=96&amp;q=75 96w, /wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=128&amp;q=75 128w, /wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=256&amp;q=75 256w, /wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=384&amp;q=75 384w, /wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/Multi-Currency-Support-1.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/Multi-Currency-Support-1.webp 3840w"
+                            src="/wp-content/uploads/2025/11/Multi-Currency-Support-1.webp"
                             style="color: transparent;"></div>
                     <h3 class="font-medium  text-lg sm:text-base md:text-xl lg:line-clamp-2 flex-shrink-0">
                         Multi-Currency Support</h3>
@@ -405,8 +405,8 @@
                         class=" w-10 h-10 sm:w-12 sm:h-12 rounded-lg flex items-center justify-center bg-white/20 backdrop-blur-md dark:bg-white/90 transition-all duration-500 ">
                         <img alt="Legal and Risk Compliance" loading="lazy" width="40" height="40" decoding="async"
                             data-nimg="1" class="object-contain" sizes="40px"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=16&amp;q=75 16w, https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=32&amp;q=75 32w, https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=48&amp;q=75 48w, https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=64&amp;q=75 64w, https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=96&amp;q=75 96w, https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=128&amp;q=75 128w, https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=3840&amp;q=75 3840w"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=3840&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=16&amp;q=75 16w, /wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=32&amp;q=75 32w, /wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=48&amp;q=75 48w, /wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=64&amp;q=75 64w, /wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=96&amp;q=75 96w, /wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=128&amp;q=75 128w, /wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=256&amp;q=75 256w, /wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=384&amp;q=75 384w, /wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp 3840w"
+                            src="/wp-content/uploads/2025/11/Legal-and-Risk-Compliance.webp"
                             style="color: transparent;"></div>
                     <h3 class="font-medium  text-lg sm:text-base md:text-xl lg:line-clamp-2 flex-shrink-0">Legal and
                         Risk Compliance</h3>
@@ -424,8 +424,8 @@
                         class=" w-10 h-10 sm:w-12 sm:h-12 rounded-lg flex items-center justify-center bg-white/20 backdrop-blur-md dark:bg-white/90 transition-all duration-500 ">
                         <img alt="Token Wallet Integration" loading="lazy" width="40" height="40" decoding="async"
                             data-nimg="1" class="object-contain" sizes="40px"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=16&amp;q=75 16w, https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=32&amp;q=75 32w, https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=48&amp;q=75 48w, https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=64&amp;q=75 64w, https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=96&amp;q=75 96w, https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=128&amp;q=75 128w, https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=3840&amp;q=75 3840w"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=3840&amp;q=75"
+                            srcset="/wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=16&amp;q=75 16w, /wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=32&amp;q=75 32w, /wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=48&amp;q=75 48w, /wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=64&amp;q=75 64w, /wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=96&amp;q=75 96w, /wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=128&amp;q=75 128w, /wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=256&amp;q=75 256w, /wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=384&amp;q=75 384w, /wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=640&amp;q=75 640w, /wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=750&amp;q=75 750w, /wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=828&amp;q=75 828w, /wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/08/Token-Wallet-Integration.png?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/08/Token-Wallet-Integration.png 3840w"
+                            src="/wp-content/uploads/2025/08/Token-Wallet-Integration.png"
                             style="color: transparent;"></div>
                     <h3 class="font-medium  text-lg sm:text-base md:text-xl lg:line-clamp-2 flex-shrink-0">Token Wallet
                         Integration</h3>
@@ -443,8 +443,8 @@
                         class=" w-10 h-10 sm:w-12 sm:h-12 rounded-lg flex items-center justify-center bg-white/20 backdrop-blur-md dark:bg-white/90 transition-all duration-500 ">
                         <img alt="Tight Security Protocols" loading="lazy" width="40" height="40" decoding="async"
                             data-nimg="1" class="object-contain" sizes="40px"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=16&amp;q=75 16w, https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=32&amp;q=75 32w, https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=48&amp;q=75 48w, https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=64&amp;q=75 64w, https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=96&amp;q=75 96w, https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=128&amp;q=75 128w, https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=3840&amp;q=75 3840w"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=3840&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=16&amp;q=75 16w, /wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=32&amp;q=75 32w, /wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=48&amp;q=75 48w, /wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=64&amp;q=75 64w, /wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=96&amp;q=75 96w, /wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=128&amp;q=75 128w, /wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=256&amp;q=75 256w, /wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=384&amp;q=75 384w, /wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/Tight-Security-Protocols.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/Tight-Security-Protocols.webp 3840w"
+                            src="/wp-content/uploads/2025/11/Tight-Security-Protocols.webp"
                             style="color: transparent;"></div>
                     <h3 class="font-medium  text-lg sm:text-base md:text-xl lg:line-clamp-2 flex-shrink-0">Tight
                         Security Protocols</h3>
@@ -462,8 +462,8 @@
                         class=" w-10 h-10 sm:w-12 sm:h-12 rounded-lg flex items-center justify-center bg-white/20 backdrop-blur-md dark:bg-white/90 transition-all duration-500 ">
                         <img alt="Bounty Programs" loading="lazy" width="40" height="40" decoding="async" data-nimg="1"
                             class="object-contain" sizes="40px"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=16&amp;q=75 16w, https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=32&amp;q=75 32w, https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=48&amp;q=75 48w, https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=64&amp;q=75 64w, https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=96&amp;q=75 96w, https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=128&amp;q=75 128w, https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=3840&amp;q=75 3840w"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/Bounty-Programs.webp?w=3840&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/Bounty-Programs.webp?w=16&amp;q=75 16w, /wp-content/uploads/2025/11/Bounty-Programs.webp?w=32&amp;q=75 32w, /wp-content/uploads/2025/11/Bounty-Programs.webp?w=48&amp;q=75 48w, /wp-content/uploads/2025/11/Bounty-Programs.webp?w=64&amp;q=75 64w, /wp-content/uploads/2025/11/Bounty-Programs.webp?w=96&amp;q=75 96w, /wp-content/uploads/2025/11/Bounty-Programs.webp?w=128&amp;q=75 128w, /wp-content/uploads/2025/11/Bounty-Programs.webp?w=256&amp;q=75 256w, /wp-content/uploads/2025/11/Bounty-Programs.webp?w=384&amp;q=75 384w, /wp-content/uploads/2025/11/Bounty-Programs.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/Bounty-Programs.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/Bounty-Programs.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/Bounty-Programs.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/Bounty-Programs.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/Bounty-Programs.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/Bounty-Programs.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/Bounty-Programs.webp 3840w"
+                            src="/wp-content/uploads/2025/11/Bounty-Programs.webp"
                             style="color: transparent;"></div>
                     <h3 class="font-medium  text-lg sm:text-base md:text-xl lg:line-clamp-2 flex-shrink-0">Bounty
                         Programs</h3>
@@ -481,8 +481,8 @@
                         class=" w-10 h-10 sm:w-12 sm:h-12 rounded-lg flex items-center justify-center bg-white/20 backdrop-blur-md dark:bg-white/90 transition-all duration-500 ">
                         <img alt="KYC Verification" loading="lazy" width="40" height="40" decoding="async" data-nimg="1"
                             class="object-contain" sizes="40px"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=16&amp;q=75 16w, https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=32&amp;q=75 32w, https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=48&amp;q=75 48w, https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=64&amp;q=75 64w, https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=96&amp;q=75 96w, https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=128&amp;q=75 128w, https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=3840&amp;q=75 3840w"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/KYC-Verification.webp?w=3840&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/KYC-Verification.webp?w=16&amp;q=75 16w, /wp-content/uploads/2025/11/KYC-Verification.webp?w=32&amp;q=75 32w, /wp-content/uploads/2025/11/KYC-Verification.webp?w=48&amp;q=75 48w, /wp-content/uploads/2025/11/KYC-Verification.webp?w=64&amp;q=75 64w, /wp-content/uploads/2025/11/KYC-Verification.webp?w=96&amp;q=75 96w, /wp-content/uploads/2025/11/KYC-Verification.webp?w=128&amp;q=75 128w, /wp-content/uploads/2025/11/KYC-Verification.webp?w=256&amp;q=75 256w, /wp-content/uploads/2025/11/KYC-Verification.webp?w=384&amp;q=75 384w, /wp-content/uploads/2025/11/KYC-Verification.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/KYC-Verification.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/KYC-Verification.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/KYC-Verification.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/KYC-Verification.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/KYC-Verification.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/KYC-Verification.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/KYC-Verification.webp 3840w"
+                            src="/wp-content/uploads/2025/11/KYC-Verification.webp"
                             style="color: transparent;"></div>
                     <h3 class="font-medium  text-lg sm:text-base md:text-xl lg:line-clamp-2 flex-shrink-0">KYC
                         Verification</h3>
@@ -509,8 +509,8 @@
                 <div class="relative w-14 h-14 sm:w-20 sm:h-20 mb-4 flex items-center justify-center"><img
                         alt="SOC 2 Type II" loading="lazy" decoding="async" data-nimg="fill" class="object-contain"
                         sizes="(max-width: 768px) 25vw, 15vw"
-                        srcset="https://img.nadcab.com/wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=96&amp;q=75 96w, https://img.nadcab.com/wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=128&amp;q=75 128w, https://img.nadcab.com/wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=3840&amp;q=75 3840w"
-                        src="https://img.nadcab.com/wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=3840&amp;q=75"
+                        srcset="/wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=96&amp;q=75 96w, /wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=128&amp;q=75 128w, /wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=256&amp;q=75 256w, /wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=384&amp;q=75 384w, /wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/aicpa-soc-two-security.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/aicpa-soc-two-security.webp 3840w"
+                        src="/wp-content/uploads/2025/11/aicpa-soc-two-security.webp"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
                 <h3 class="text-sm sm:text-base max-w-[180px] sm:max-w-[200px]">SOC 2 Type II</h3>
             </div>
@@ -518,8 +518,8 @@
                 <div class="relative w-14 h-14 sm:w-20 sm:h-20 mb-4 flex items-center justify-center"><img
                         alt="ISO 27002" loading="lazy" decoding="async" data-nimg="fill" class="object-contain"
                         sizes="(max-width: 768px) 25vw, 15vw"
-                        srcset="https://img.nadcab.com/wp-content/uploads/2025/11/iso-27001.webp?w=96&amp;q=75 96w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-27001.webp?w=128&amp;q=75 128w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-27001.webp?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-27001.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-27001.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-27001.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-27001.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-27001.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-27001.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-27001.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-27001.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-27001.webp?w=3840&amp;q=75 3840w"
-                        src="https://img.nadcab.com/wp-content/uploads/2025/11/iso-27001.webp?w=3840&amp;q=75"
+                        srcset="/wp-content/uploads/2025/11/iso-27001.webp?w=96&amp;q=75 96w, /wp-content/uploads/2025/11/iso-27001.webp?w=128&amp;q=75 128w, /wp-content/uploads/2025/11/iso-27001.webp?w=256&amp;q=75 256w, /wp-content/uploads/2025/11/iso-27001.webp?w=384&amp;q=75 384w, /wp-content/uploads/2025/11/iso-27001.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/iso-27001.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/iso-27001.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/iso-27001.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/iso-27001.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/iso-27001.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/iso-27001.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/iso-27001.webp 3840w"
+                        src="/wp-content/uploads/2025/11/iso-27001.webp"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
                 <h3 class="text-sm sm:text-base max-w-[180px] sm:max-w-[200px]">ISO 27001</h3>
             </div>
@@ -527,8 +527,8 @@
                 <div class="relative w-14 h-14 sm:w-20 sm:h-20 mb-4 flex items-center justify-center"><img
                         alt="NIST AI Risk Management Framework" loading="lazy" decoding="async" data-nimg="fill"
                         class="object-contain" sizes="(max-width: 768px) 25vw, 15vw"
-                        srcset="https://img.nadcab.com/wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=96&amp;q=75 96w, https://img.nadcab.com/wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=128&amp;q=75 128w, https://img.nadcab.com/wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=3840&amp;q=75 3840w"
-                        src="https://img.nadcab.com/wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=3840&amp;q=75"
+                        srcset="/wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=96&amp;q=75 96w, /wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=128&amp;q=75 128w, /wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=256&amp;q=75 256w, /wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=384&amp;q=75 384w, /wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/NIST_AI_RMF.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/NIST_AI_RMF.webp 3840w"
+                        src="/wp-content/uploads/2025/11/NIST_AI_RMF.webp"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
                 <h3 class="text-sm sm:text-base max-w-[180px] sm:max-w-[200px]">NIST</h3>
             </div>
@@ -537,8 +537,8 @@
                         alt="ISO 22301 business continuity certification badge ensuring operational resilience and disaster recovery readiness"
                         loading="lazy" decoding="async" data-nimg="fill" class="object-contain"
                         sizes="(max-width: 768px) 25vw, 15vw"
-                        srcset="https://img.nadcab.com/wp-content/uploads/2025/11/iso-2-secirity.webp?w=96&amp;q=75 96w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-2-secirity.webp?w=128&amp;q=75 128w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-2-secirity.webp?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-2-secirity.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-2-secirity.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-2-secirity.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-2-secirity.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-2-secirity.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-2-secirity.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-2-secirity.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-2-secirity.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/iso-2-secirity.webp?w=3840&amp;q=75 3840w"
-                        src="https://img.nadcab.com/wp-content/uploads/2025/11/iso-2-secirity.webp?w=3840&amp;q=75"
+                        srcset="/wp-content/uploads/2025/11/iso-2-secirity.webp?w=96&amp;q=75 96w, /wp-content/uploads/2025/11/iso-2-secirity.webp?w=128&amp;q=75 128w, /wp-content/uploads/2025/11/iso-2-secirity.webp?w=256&amp;q=75 256w, /wp-content/uploads/2025/11/iso-2-secirity.webp?w=384&amp;q=75 384w, /wp-content/uploads/2025/11/iso-2-secirity.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/iso-2-secirity.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/iso-2-secirity.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/iso-2-secirity.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/iso-2-secirity.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/iso-2-secirity.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/iso-2-secirity.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/iso-2-secirity.webp 3840w"
+                        src="/wp-content/uploads/2025/11/iso-2-secirity.webp"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
                 <h3 class="text-sm sm:text-base max-w-[180px] sm:max-w-[200px]">ISO 22301</h3>
             </div>
@@ -546,8 +546,8 @@
                 <div class="relative w-14 h-14 sm:w-20 sm:h-20 mb-4 flex items-center justify-center"><img
                         alt="HIPAA Security" loading="lazy" decoding="async" data-nimg="fill" class="object-contain"
                         sizes="(max-width: 768px) 25vw, 15vw"
-                        srcset="https://img.nadcab.com/wp-content/uploads/2025/11/hipaa-security.webp?w=96&amp;q=75 96w, https://img.nadcab.com/wp-content/uploads/2025/11/hipaa-security.webp?w=128&amp;q=75 128w, https://img.nadcab.com/wp-content/uploads/2025/11/hipaa-security.webp?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/11/hipaa-security.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/11/hipaa-security.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/hipaa-security.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/hipaa-security.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/hipaa-security.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/hipaa-security.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/hipaa-security.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/hipaa-security.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/hipaa-security.webp?w=3840&amp;q=75 3840w"
-                        src="https://img.nadcab.com/wp-content/uploads/2025/11/hipaa-security.webp?w=3840&amp;q=75"
+                        srcset="/wp-content/uploads/2025/11/hipaa-security.webp?w=96&amp;q=75 96w, /wp-content/uploads/2025/11/hipaa-security.webp?w=128&amp;q=75 128w, /wp-content/uploads/2025/11/hipaa-security.webp?w=256&amp;q=75 256w, /wp-content/uploads/2025/11/hipaa-security.webp?w=384&amp;q=75 384w, /wp-content/uploads/2025/11/hipaa-security.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/hipaa-security.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/hipaa-security.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/hipaa-security.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/hipaa-security.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/hipaa-security.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/hipaa-security.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/hipaa-security.webp 3840w"
+                        src="/wp-content/uploads/2025/11/hipaa-security.webp"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
                 <h3 class="text-sm sm:text-base max-w-[180px] sm:max-w-[200px]">HIPAA</h3>
             </div>
@@ -555,8 +555,8 @@
                 <div class="relative w-14 h-14 sm:w-20 sm:h-20 mb-4 flex items-center justify-center"><img
                         alt="PCI DSS Security" loading="lazy" decoding="async" data-nimg="fill" class="object-contain"
                         sizes="(max-width: 768px) 25vw, 15vw"
-                        srcset="https://img.nadcab.com/wp-content/uploads/2025/11/pci-dss-security.webp?w=96&amp;q=75 96w, https://img.nadcab.com/wp-content/uploads/2025/11/pci-dss-security.webp?w=128&amp;q=75 128w, https://img.nadcab.com/wp-content/uploads/2025/11/pci-dss-security.webp?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/11/pci-dss-security.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/11/pci-dss-security.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/pci-dss-security.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/pci-dss-security.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/pci-dss-security.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/pci-dss-security.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/pci-dss-security.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/pci-dss-security.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/pci-dss-security.webp?w=3840&amp;q=75 3840w"
-                        src="https://img.nadcab.com/wp-content/uploads/2025/11/pci-dss-security.webp?w=3840&amp;q=75"
+                        srcset="/wp-content/uploads/2025/11/pci-dss-security.webp?w=96&amp;q=75 96w, /wp-content/uploads/2025/11/pci-dss-security.webp?w=128&amp;q=75 128w, /wp-content/uploads/2025/11/pci-dss-security.webp?w=256&amp;q=75 256w, /wp-content/uploads/2025/11/pci-dss-security.webp?w=384&amp;q=75 384w, /wp-content/uploads/2025/11/pci-dss-security.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/pci-dss-security.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/pci-dss-security.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/pci-dss-security.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/pci-dss-security.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/pci-dss-security.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/pci-dss-security.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/pci-dss-security.webp 3840w"
+                        src="/wp-content/uploads/2025/11/pci-dss-security.webp"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
                 <h3 class="text-sm sm:text-base max-w-[180px] sm:max-w-[200px]">PCI DSS</h3>
             </div>
@@ -564,8 +564,8 @@
                 <div class="relative w-14 h-14 sm:w-20 sm:h-20 mb-4 flex items-center justify-center"><img
                         alt="Strengthen Your CCPA Compliance" loading="lazy" decoding="async" data-nimg="fill"
                         class="object-contain" sizes="(max-width: 768px) 25vw, 15vw"
-                        srcset="https://img.nadcab.com/wp-content/uploads/2025/11/ccpa-security.webp?w=96&amp;q=75 96w, https://img.nadcab.com/wp-content/uploads/2025/11/ccpa-security.webp?w=128&amp;q=75 128w, https://img.nadcab.com/wp-content/uploads/2025/11/ccpa-security.webp?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/11/ccpa-security.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/11/ccpa-security.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/ccpa-security.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/ccpa-security.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/ccpa-security.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/ccpa-security.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/ccpa-security.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/ccpa-security.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/ccpa-security.webp?w=3840&amp;q=75 3840w"
-                        src="https://img.nadcab.com/wp-content/uploads/2025/11/ccpa-security.webp?w=3840&amp;q=75"
+                        srcset="/wp-content/uploads/2025/11/ccpa-security.webp?w=96&amp;q=75 96w, /wp-content/uploads/2025/11/ccpa-security.webp?w=128&amp;q=75 128w, /wp-content/uploads/2025/11/ccpa-security.webp?w=256&amp;q=75 256w, /wp-content/uploads/2025/11/ccpa-security.webp?w=384&amp;q=75 384w, /wp-content/uploads/2025/11/ccpa-security.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/ccpa-security.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/ccpa-security.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/ccpa-security.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/ccpa-security.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/ccpa-security.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/ccpa-security.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/ccpa-security.webp 3840w"
+                        src="/wp-content/uploads/2025/11/ccpa-security.webp"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
                 <h3 class="text-sm sm:text-base max-w-[180px] sm:max-w-[200px]">CCPA</h3>
             </div>
@@ -573,8 +573,8 @@
                 <div class="relative w-14 h-14 sm:w-20 sm:h-20 mb-4 flex items-center justify-center"><img
                         alt="GDPR Security" loading="lazy" decoding="async" data-nimg="fill" class="object-contain"
                         sizes="(max-width: 768px) 25vw, 15vw"
-                        srcset="https://img.nadcab.com/wp-content/uploads/2025/11/gdpr-security.webp?w=96&amp;q=75 96w, https://img.nadcab.com/wp-content/uploads/2025/11/gdpr-security.webp?w=128&amp;q=75 128w, https://img.nadcab.com/wp-content/uploads/2025/11/gdpr-security.webp?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/11/gdpr-security.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/11/gdpr-security.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/gdpr-security.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/gdpr-security.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/gdpr-security.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/gdpr-security.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/gdpr-security.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/gdpr-security.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/gdpr-security.webp?w=3840&amp;q=75 3840w"
-                        src="https://img.nadcab.com/wp-content/uploads/2025/11/gdpr-security.webp?w=3840&amp;q=75"
+                        srcset="/wp-content/uploads/2025/11/gdpr-security.webp?w=96&amp;q=75 96w, /wp-content/uploads/2025/11/gdpr-security.webp?w=128&amp;q=75 128w, /wp-content/uploads/2025/11/gdpr-security.webp?w=256&amp;q=75 256w, /wp-content/uploads/2025/11/gdpr-security.webp?w=384&amp;q=75 384w, /wp-content/uploads/2025/11/gdpr-security.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/gdpr-security.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/gdpr-security.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/gdpr-security.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/gdpr-security.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/gdpr-security.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/gdpr-security.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/gdpr-security.webp 3840w"
+                        src="/wp-content/uploads/2025/11/gdpr-security.webp"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
                 <h3 class="text-sm sm:text-base max-w-[180px] sm:max-w-[200px]">GDPR</h3>
             </div>
@@ -595,8 +595,8 @@
                     <div class="relative w-full md:w-72 h-64 sm:h-48 md:h-auto flex-shrink-0"><img
                             alt="Advanced Security Protocols" loading="lazy" decoding="async" data-nimg="fill"
                             class="object-cover" sizes="100vw"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=3840&amp;q=75 3840w"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=3840&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp 3840w"
+                            src="/wp-content/uploads/2025/11/Advanced-Security-Protocols-5.webp"
                             style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;">
                     </div>
                     <div class="flex-1 flex flex-col justify-between p-6">
@@ -604,8 +604,8 @@
                             class="w-10 h-10 sm:w-12 sm:h-12 rounded text-black button-shadow  bg-gradient-to-b from-white to-gray-200 dark:from-gray-100 dark:to-gray-300  flex items-center justify-center mb-4 sm:mb-6">
                             <img alt="Advanced Security Protocols" loading="lazy" width="40" height="40"
                                 decoding="async" data-nimg="1"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/12/advanced-security-protocols.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/12/advanced-security-protocols.webp?w=96&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/12/advanced-security-protocols.webp?w=96&amp;q=75"
+                                srcset="/wp-content/uploads/2025/12/advanced-security-protocols.webp?w=48&amp;q=75 1x, /wp-content/uploads/2025/12/advanced-security-protocols.webp 2x"
+                                src="/wp-content/uploads/2025/12/advanced-security-protocols.webp"
                                 style="color: transparent;"></div>
                         <h3 class="font-medium text-lg sm:text-xl md:text-2xl mb-2 sm:mb-4">Advanced Security Protocols
                         </h3>
@@ -653,8 +653,8 @@
                     <div class="relative w-full md:w-72 h-64 sm:h-48 md:h-auto flex-shrink-0"><img
                             alt="Airdrop Campaign for ICO" loading="lazy" decoding="async" data-nimg="fill"
                             class="object-cover" sizes="100vw"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=3840&amp;q=75 3840w"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=3840&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp 3840w"
+                            src="/wp-content/uploads/2025/11/airdrop-campaign-for-ico.webp"
                             style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;">
                     </div>
                     <div class="flex-1 flex flex-col justify-between p-6">
@@ -662,8 +662,8 @@
                             class="w-10 h-10 sm:w-12 sm:h-12 rounded text-black button-shadow  bg-gradient-to-b from-white to-gray-200 dark:from-gray-100 dark:to-gray-300  flex items-center justify-center mb-4 sm:mb-6">
                             <img alt="Airdrop Campaign for ICO" loading="lazy" width="40" height="40" decoding="async"
                                 data-nimg="1"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/12/airdrop-campaign.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/12/airdrop-campaign.webp?w=96&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/12/airdrop-campaign.webp?w=96&amp;q=75"
+                                srcset="/wp-content/uploads/2025/12/airdrop-campaign.webp?w=48&amp;q=75 1x, /wp-content/uploads/2025/12/airdrop-campaign.webp 2x"
+                                src="/wp-content/uploads/2025/12/airdrop-campaign.webp"
                                 style="color: transparent;"></div>
                         <h3 class="font-medium text-lg sm:text-xl md:text-2xl mb-2 sm:mb-4">Airdrop Campaign for ICO
                         </h3>
@@ -696,8 +696,8 @@
                     class=" relative w-full sm:w-5/12 md:w-4/12 lg:w-5/12 h-64 sm:h-80 md:h-[380px] lg:h-[420px] flex-shrink-0 overflow-hidden rounded-tl-xl sm:rounded-bl-xl sm:rounded-tr-none ">
                     <img alt="EverRise Blockchain" loading="lazy" decoding="async" data-nimg="fill"
                         class="object-cover rounded-tl-xl sm:rounded-bl-xl" sizes="(max-width:768px) 100vw, 40vw"
-                        srcset="https://img.nadcab.com/wp-content/uploads/2025/05/everrise-brandimage.webp?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/05/everrise-brandimage.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/05/everrise-brandimage.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/05/everrise-brandimage.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/05/everrise-brandimage.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/05/everrise-brandimage.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/05/everrise-brandimage.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/05/everrise-brandimage.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/05/everrise-brandimage.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/05/everrise-brandimage.webp?w=3840&amp;q=75 3840w"
-                        src="https://img.nadcab.com/wp-content/uploads/2025/05/everrise-brandimage.webp?w=3840&amp;q=75"
+                        srcset="/wp-content/uploads/2025/05/everrise-brandimage.webp?w=256&amp;q=75 256w, /wp-content/uploads/2025/05/everrise-brandimage.webp?w=384&amp;q=75 384w, /wp-content/uploads/2025/05/everrise-brandimage.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/05/everrise-brandimage.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/05/everrise-brandimage.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/05/everrise-brandimage.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/05/everrise-brandimage.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/05/everrise-brandimage.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/05/everrise-brandimage.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/05/everrise-brandimage.webp 3840w"
+                        src="/wp-content/uploads/2025/05/everrise-brandimage.webp"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
                 <div
                     class=" w-full sm:w-7/12 md:w-8/12 lg:w-7/12 flex flex-col gap-4 p-6 sm:p-6 md:p-8 lg:p-10 text-center sm:text-left items-center sm:items-start justify-center ">
@@ -746,14 +746,14 @@
                         <div class="flex justify-center sm:justify-start text-yellow-400 mt-1"><img alt="5 star rating"
                                 loading="lazy" width="80" height="20" decoding="async" data-nimg="1"
                                 class="object-contain"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/5star.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/5star.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/5star.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/5star.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/5star.webp 2x"
+                                src="/wp-content/uploads/2025/11/5star.webp"
                                 style="color: transparent;"></div>
                     </div>
                     <div class="flex items-center justify-center sm:justify-end"><img alt="clutch" loading="lazy"
                             width="50" height="20" decoding="async" data-nimg="1" class="object-contain"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/clutch-1.webp?w=64&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/clutch-1.webp?w=128&amp;q=75 2x"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/clutch-1.webp?w=128&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/clutch-1.webp?w=64&amp;q=75 1x, /wp-content/uploads/2025/11/clutch-1.webp 2x"
+                            src="/wp-content/uploads/2025/11/clutch-1.webp"
                             style="color: transparent;"></div>
                 </a><a target="_blank" rel="noopener noreferrer"
                     class="bg-[#1A1A1C] flex flex-col sm:flex-row items-center justify-between p-4 rounded-xl shadow-lg hover:bg-[#222225] transition-all duration-300"
@@ -763,14 +763,14 @@
                         <div class="flex justify-center sm:justify-start text-yellow-400 mt-1"><img
                                 alt="4.9 Star Rating" loading="lazy" width="80" height="20" decoding="async"
                                 data-nimg="1" class="object-contain"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/4.9-Star-Rating.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/4.9-Star-Rating.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/4.9-Star-Rating.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/4.9-Star-Rating.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/4.9-Star-Rating.webp 2x"
+                                src="/wp-content/uploads/2025/11/4.9-Star-Rating.webp"
                                 style="color: transparent;"></div>
                     </div>
                     <div class="flex items-center justify-center sm:justify-end"><img alt="Ambition Box" loading="lazy"
                             width="50" height="20" decoding="async" data-nimg="1" class="object-contain"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/ambition-box.webp?w=64&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/ambition-box.webp?w=128&amp;q=75 2x"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/ambition-box.webp?w=128&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/ambition-box.webp?w=64&amp;q=75 1x, /wp-content/uploads/2025/11/ambition-box.webp 2x"
+                            src="/wp-content/uploads/2025/11/ambition-box.webp"
                             style="color: transparent;"></div>
                 </a><a target="_blank" rel="noopener noreferrer"
                     class="bg-[#1A1A1C] flex flex-col sm:flex-row items-center justify-between p-4 rounded-xl shadow-lg hover:bg-[#222225] transition-all duration-300"
@@ -780,14 +780,14 @@
                         <div class="flex justify-center sm:justify-start text-yellow-400 mt-1"><img alt="5 star rating"
                                 loading="lazy" width="80" height="20" decoding="async" data-nimg="1"
                                 class="object-contain"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/5star.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/5star.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/5star.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/5star.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/5star.webp 2x"
+                                src="/wp-content/uploads/2025/11/5star.webp"
                                 style="color: transparent;"></div>
                     </div>
                     <div class="flex items-center justify-center sm:justify-end"><img alt="Good Firms" loading="lazy"
                             width="50" height="20" decoding="async" data-nimg="1" class="object-contain"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/good-firm.webp?w=64&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/good-firm.webp?w=128&amp;q=75 2x"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/good-firm.webp?w=128&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/good-firm.webp?w=64&amp;q=75 1x, /wp-content/uploads/2025/11/good-firm.webp 2x"
+                            src="/wp-content/uploads/2025/11/good-firm.webp"
                             style="color: transparent;"></div>
                 </a><a target="_blank" rel="noopener noreferrer"
                     class="bg-[#1A1A1C] flex flex-col sm:flex-row items-center justify-between p-4 rounded-xl shadow-lg hover:bg-[#222225] transition-all duration-300"
@@ -797,14 +797,14 @@
                         <div class="flex justify-center sm:justify-start text-yellow-400 mt-1"><img
                                 alt="4.9 Star Rating" loading="lazy" width="80" height="20" decoding="async"
                                 data-nimg="1" class="object-contain"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/4.9-Star-Rating.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/4.9-Star-Rating.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/4.9-Star-Rating.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/4.9-Star-Rating.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/4.9-Star-Rating.webp 2x"
+                                src="/wp-content/uploads/2025/11/4.9-Star-Rating.webp"
                                 style="color: transparent;"></div>
                     </div>
                     <div class="flex items-center justify-center sm:justify-end"><img alt="Glassdoor" loading="lazy"
                             width="50" height="20" decoding="async" data-nimg="1" class="object-contain"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/glassdoor.webp?w=64&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/glassdoor.webp?w=128&amp;q=75 2x"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/glassdoor.webp?w=128&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/glassdoor.webp?w=64&amp;q=75 1x, /wp-content/uploads/2025/11/glassdoor.webp 2x"
+                            src="/wp-content/uploads/2025/11/glassdoor.webp"
                             style="color: transparent;"></div>
                 </a></div>
         </div>
@@ -824,8 +824,8 @@
                             class="w-10 sm:w-16 h-10 sm:h-16 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center">
                             <img alt="Real Estate" loading="lazy" width="40" height="40" decoding="async" data-nimg="1"
                                 class="object-contain dark:invert"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Real-Estate-1.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Real-Estate-1.webp?w=96&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/Real-Estate-1.webp?w=96&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/Real-Estate-1.webp?w=48&amp;q=75 1x, /wp-content/uploads/2025/11/Real-Estate-1.webp 2x"
+                                src="/wp-content/uploads/2025/11/Real-Estate-1.webp"
                                 style="color: transparent;"></div>
                     </div>
                     <h3 class="font-semibold text-base sm:text-xl mb-2 ">Real Estate</h3>
@@ -846,8 +846,8 @@
                             class="w-10 sm:w-16 h-10 sm:h-16 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center">
                             <img alt="Healthcare" loading="lazy" width="40" height="40" decoding="async" data-nimg="1"
                                 class="object-contain dark:invert"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/healthcare-5.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/healthcare-5.webp?w=96&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/healthcare-5.webp?w=96&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/healthcare-5.webp?w=48&amp;q=75 1x, /wp-content/uploads/2025/11/healthcare-5.webp 2x"
+                                src="/wp-content/uploads/2025/11/healthcare-5.webp"
                                 style="color: transparent;"></div>
                     </div>
                     <h3 class="font-semibold text-base sm:text-xl mb-2 ">Healthcare</h3>
@@ -868,8 +868,8 @@
                             class="w-10 sm:w-16 h-10 sm:h-16 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center">
                             <img alt="Education" loading="lazy" width="40" height="40" decoding="async" data-nimg="1"
                                 class="object-contain dark:invert"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Education-1.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Education-1.webp?w=96&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/Education-1.webp?w=96&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/Education-1.webp?w=48&amp;q=75 1x, /wp-content/uploads/2025/11/Education-1.webp 2x"
+                                src="/wp-content/uploads/2025/11/Education-1.webp"
                                 style="color: transparent;"></div>
                     </div>
                     <h3 class="font-semibold text-base sm:text-xl mb-2 ">Education</h3>
@@ -890,8 +890,8 @@
                             class="w-10 sm:w-16 h-10 sm:h-16 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center">
                             <img alt="Insurance" loading="lazy" width="40" height="40" decoding="async" data-nimg="1"
                                 class="object-contain dark:invert"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/12/insurance.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/12/insurance.webp?w=96&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/12/insurance.webp?w=96&amp;q=75"
+                                srcset="/wp-content/uploads/2025/12/insurance.webp?w=48&amp;q=75 1x, /wp-content/uploads/2025/12/insurance.webp 2x"
+                                src="/wp-content/uploads/2025/12/insurance.webp"
                                 style="color: transparent;"></div>
                     </div>
                     <h3 class="font-semibold text-base sm:text-xl mb-2 ">Insurance</h3>
@@ -912,8 +912,8 @@
                             class="w-10 sm:w-16 h-10 sm:h-16 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center">
                             <img alt="Supply Chain &amp; Logistics" loading="lazy" width="40" height="40"
                                 decoding="async" data-nimg="1" class="object-contain dark:invert"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/logistics-and-supply-chain.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/logistics-and-supply-chain.webp?w=96&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/logistics-and-supply-chain.webp?w=96&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/logistics-and-supply-chain.webp?w=48&amp;q=75 1x, /wp-content/uploads/2025/11/logistics-and-supply-chain.webp 2x"
+                                src="/wp-content/uploads/2025/11/logistics-and-supply-chain.webp"
                                 style="color: transparent;"></div>
                     </div>
                     <h3 class="font-semibold text-base sm:text-xl mb-2 ">Supply Chain &amp; Logistics</h3>
@@ -933,8 +933,8 @@
                             class="w-10 sm:w-16 h-10 sm:h-16 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center">
                             <img alt="Entertainment &amp; Media" loading="lazy" width="40" height="40" decoding="async"
                                 data-nimg="1" class="object-contain dark:invert"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Web3-Entertainment-.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Web3-Entertainment-.webp?w=96&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/Web3-Entertainment-.webp?w=96&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/Web3-Entertainment-.webp?w=48&amp;q=75 1x, /wp-content/uploads/2025/11/Web3-Entertainment-.webp 2x"
+                                src="/wp-content/uploads/2025/11/Web3-Entertainment-.webp"
                                 style="color: transparent;"></div>
                     </div>
                     <h3 class="font-semibold text-base sm:text-xl mb-2 ">Entertainment &amp; Media</h3>
@@ -955,8 +955,8 @@
                             class="w-10 sm:w-16 h-10 sm:h-16 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center">
                             <img alt="Energy &amp; Utilities" loading="lazy" width="40" height="40" decoding="async"
                                 data-nimg="1" class="object-contain dark:invert"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/energy-and-utilities.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/energy-and-utilities.webp?w=96&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/energy-and-utilities.webp?w=96&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/energy-and-utilities.webp?w=48&amp;q=75 1x, /wp-content/uploads/2025/11/energy-and-utilities.webp 2x"
+                                src="/wp-content/uploads/2025/11/energy-and-utilities.webp"
                                 style="color: transparent;"></div>
                     </div>
                     <h3 class="font-semibold text-base sm:text-xl mb-2 ">Energy &amp; Utilities</h3>
@@ -977,8 +977,8 @@
                             class="w-10 sm:w-16 h-10 sm:h-16 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center">
                             <img alt="Retail" loading="lazy" width="40" height="40" decoding="async" data-nimg="1"
                                 class="object-contain dark:invert"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/ecommerce-2.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/ecommerce-2.webp?w=96&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/ecommerce-2.webp?w=96&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/ecommerce-2.webp?w=48&amp;q=75 1x, /wp-content/uploads/2025/11/ecommerce-2.webp 2x"
+                                src="/wp-content/uploads/2025/11/ecommerce-2.webp"
                                 style="color: transparent;"></div>
                     </div>
                     <h3 class="font-semibold text-base sm:text-xl mb-2 ">Retail</h3>
@@ -1014,8 +1014,8 @@
                             class="w-12 h-12 bg-card dark:bg-white dark:shadow-none rounded-xl card-shadow flex items-center justify-center mb-3">
                             <img alt="Real Estate" loading="lazy" width="35" height="35" decoding="async" data-nimg="1"
                                 class="object-contain"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Real-Estate-1.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Real-Estate-1.webp?w=96&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/Real-Estate-1.webp?w=96&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/Real-Estate-1.webp?w=48&amp;q=75 1x, /wp-content/uploads/2025/11/Real-Estate-1.webp 2x"
+                                src="/wp-content/uploads/2025/11/Real-Estate-1.webp"
                                 style="color: transparent;"></div>
                         <h3 class="font-semibold text-lg mb-2 line-clamp-2">Real Estate</h3>
                         <p
@@ -1033,8 +1033,8 @@
                             class="w-12 h-12 bg-card dark:bg-white dark:shadow-none rounded-xl card-shadow flex items-center justify-center mb-3">
                             <img alt="Healthcare" loading="lazy" width="35" height="35" decoding="async" data-nimg="1"
                                 class="object-contain"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/healthcare-5.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/healthcare-5.webp?w=96&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/healthcare-5.webp?w=96&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/healthcare-5.webp?w=48&amp;q=75 1x, /wp-content/uploads/2025/11/healthcare-5.webp 2x"
+                                src="/wp-content/uploads/2025/11/healthcare-5.webp"
                                 style="color: transparent;"></div>
                         <h3 class="font-semibold text-lg mb-2 line-clamp-2">Healthcare</h3>
                         <p
@@ -1115,8 +1115,8 @@
                 </div>
                 <div class="w-full md:w-5/12 relative h-64 lg:h-auto"><img alt="ico launch services" loading="lazy"
                         decoding="async" data-nimg="fill" class="object-cover" sizes="100vw"
-                        srcset="https://img.nadcab.com/wp-content/uploads/2025/12/ico-development-servicce.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-development-servicce.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-development-servicce.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-development-servicce.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-development-servicce.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-development-servicce.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-development-servicce.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-development-servicce.webp?w=3840&amp;q=75 3840w"
-                        src="https://img.nadcab.com/wp-content/uploads/2025/12/ico-development-servicce.webp?w=3840&amp;q=75"
+                        srcset="/wp-content/uploads/2025/12/ico-development-servicce.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/12/ico-development-servicce.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/12/ico-development-servicce.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/12/ico-development-servicce.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/12/ico-development-servicce.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/12/ico-development-servicce.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/12/ico-development-servicce.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/12/ico-development-servicce.webp 3840w"
+                        src="/wp-content/uploads/2025/12/ico-development-servicce.webp"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
             </div>
         </div>
@@ -1139,8 +1139,8 @@
                             class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-full card-shadow dark:bg-transparent dark:shadow-none flex items-center justify-center">
                             <img alt="Ethereum" loading="lazy" width="70" height="70" decoding="async" data-nimg="1"
                                 class="object-contain rounded-full"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Ethereum-1.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Ethereum-1.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/Ethereum-1.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/Ethereum-1.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/Ethereum-1.webp 2x"
+                                src="/wp-content/uploads/2025/11/Ethereum-1.webp"
                                 style="color: transparent;"></div>
                     </div><span
                         class=" absolute -bottom-10 left-1/2 -translate-x-1/2 bg-black text-white text-[10px] sm:text-xs py-1 px-2 font-medium rounded max-w-[110px] sm:max-w-none text-center break-words opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10">Ethereum</span>
@@ -1152,8 +1152,8 @@
                             class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-full card-shadow dark:bg-transparent dark:shadow-none flex items-center justify-center">
                             <img alt="Avalanche" loading="lazy" width="70" height="70" decoding="async" data-nimg="1"
                                 class="object-contain rounded-full"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Avalanche-2.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Avalanche-2.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/Avalanche-2.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/Avalanche-2.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/Avalanche-2.webp 2x"
+                                src="/wp-content/uploads/2025/11/Avalanche-2.webp"
                                 style="color: transparent;"></div>
                     </div><span
                         class=" absolute -bottom-10 left-1/2 -translate-x-1/2 bg-black text-white text-[10px] sm:text-xs py-1 px-2 font-medium rounded max-w-[110px] sm:max-w-none text-center break-words opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10">Avalanche</span>
@@ -1165,8 +1165,8 @@
                             class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-full card-shadow dark:bg-transparent dark:shadow-none flex items-center justify-center">
                             <img alt="Tron" loading="lazy" width="70" height="70" decoding="async" data-nimg="1"
                                 class="object-contain rounded-full"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/tron-icon.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/tron-icon.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/tron-icon.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/tron-icon.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/tron-icon.webp 2x"
+                                src="/wp-content/uploads/2025/11/tron-icon.webp"
                                 style="color: transparent;"></div>
                     </div><span
                         class=" absolute -bottom-10 left-1/2 -translate-x-1/2 bg-black text-white text-[10px] sm:text-xs py-1 px-2 font-medium rounded max-w-[110px] sm:max-w-none text-center break-words opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10">Tron</span>
@@ -1178,8 +1178,8 @@
                             class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-full card-shadow dark:bg-transparent dark:shadow-none flex items-center justify-center">
                             <img alt="Solana" loading="lazy" width="70" height="70" decoding="async" data-nimg="1"
                                 class="object-contain rounded-full"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Solana-1.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Solana-1.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/Solana-1.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/Solana-1.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/Solana-1.webp 2x"
+                                src="/wp-content/uploads/2025/11/Solana-1.webp"
                                 style="color: transparent;"></div>
                     </div><span
                         class=" absolute -bottom-10 left-1/2 -translate-x-1/2 bg-black text-white text-[10px] sm:text-xs py-1 px-2 font-medium rounded max-w-[110px] sm:max-w-none text-center break-words opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10">Solana</span>
@@ -1191,8 +1191,8 @@
                             class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-full card-shadow dark:bg-transparent dark:shadow-none flex items-center justify-center">
                             <img alt="Polygon" loading="lazy" width="70" height="70" decoding="async" data-nimg="1"
                                 class="object-contain rounded-full"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/polygon.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/polygon.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/polygon.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/polygon.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/polygon.webp 2x"
+                                src="/wp-content/uploads/2025/11/polygon.webp"
                                 style="color: transparent;"></div>
                     </div><span
                         class=" absolute -bottom-10 left-1/2 -translate-x-1/2 bg-black text-white text-[10px] sm:text-xs py-1 px-2 font-medium rounded max-w-[110px] sm:max-w-none text-center break-words opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10">Polygon</span>
@@ -1204,8 +1204,8 @@
                             class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-full card-shadow dark:bg-transparent dark:shadow-none flex items-center justify-center">
                             <img alt="Arbitrum" loading="lazy" width="70" height="70" decoding="async" data-nimg="1"
                                 class="object-contain rounded-full"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Arbitrum-Chain-Hero-Image-1.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Arbitrum-Chain-Hero-Image-1.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/Arbitrum-Chain-Hero-Image-1.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/Arbitrum-Chain-Hero-Image-1.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/Arbitrum-Chain-Hero-Image-1.webp 2x"
+                                src="/wp-content/uploads/2025/11/Arbitrum-Chain-Hero-Image-1.webp"
                                 style="color: transparent;"></div>
                     </div><span
                         class=" absolute -bottom-10 left-1/2 -translate-x-1/2 bg-black text-white text-[10px] sm:text-xs py-1 px-2 font-medium rounded max-w-[110px] sm:max-w-none text-center break-words opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10">Arbitrum</span>
@@ -1217,8 +1217,8 @@
                             class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-full card-shadow dark:bg-transparent dark:shadow-none flex items-center justify-center">
                             <img alt="Binance" loading="lazy" width="70" height="70" decoding="async" data-nimg="1"
                                 class="object-contain rounded-full"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/binance-2.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/binance-2.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/binance-2.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/binance-2.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/binance-2.webp 2x"
+                                src="/wp-content/uploads/2025/11/binance-2.webp"
                                 style="color: transparent;"></div>
                     </div><span
                         class=" absolute -bottom-10 left-1/2 -translate-x-1/2 bg-black text-white text-[10px] sm:text-xs py-1 px-2 font-medium rounded max-w-[110px] sm:max-w-none text-center break-words opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10">Binance</span>
@@ -1230,8 +1230,8 @@
                             class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-full card-shadow dark:bg-transparent dark:shadow-none flex items-center justify-center">
                             <img alt="EOS" loading="lazy" width="70" height="70" decoding="async" data-nimg="1"
                                 class="object-contain rounded-full"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/EOS.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/EOS.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/EOS.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/EOS.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/EOS.webp 2x"
+                                src="/wp-content/uploads/2025/11/EOS.webp"
                                 style="color: transparent;"></div>
                     </div><span
                         class=" absolute -bottom-10 left-1/2 -translate-x-1/2 bg-black text-white text-[10px] sm:text-xs py-1 px-2 font-medium rounded max-w-[110px] sm:max-w-none text-center break-words opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10">EOS</span>
@@ -1243,8 +1243,8 @@
                             class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-full card-shadow dark:bg-transparent dark:shadow-none flex items-center justify-center">
                             <img alt="Cardano" loading="lazy" width="70" height="70" decoding="async" data-nimg="1"
                                 class="object-contain rounded-full"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Cardano-2.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Cardano-2.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/Cardano-2.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/Cardano-2.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/Cardano-2.webp 2x"
+                                src="/wp-content/uploads/2025/11/Cardano-2.webp"
                                 style="color: transparent;"></div>
                     </div><span
                         class=" absolute -bottom-10 left-1/2 -translate-x-1/2 bg-black text-white text-[10px] sm:text-xs py-1 px-2 font-medium rounded max-w-[110px] sm:max-w-none text-center break-words opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10">Cardano</span>
@@ -1256,8 +1256,8 @@
                             class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-full card-shadow dark:bg-transparent dark:shadow-none flex items-center justify-center">
                             <img alt="Stellar" loading="lazy" width="70" height="70" decoding="async" data-nimg="1"
                                 class="object-contain rounded-full"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Stellar-4.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Stellar-4.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/Stellar-4.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/Stellar-4.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/Stellar-4.webp 2x"
+                                src="/wp-content/uploads/2025/11/Stellar-4.webp"
                                 style="color: transparent;"></div>
                     </div><span
                         class=" absolute -bottom-10 left-1/2 -translate-x-1/2 bg-black text-white text-[10px] sm:text-xs py-1 px-2 font-medium rounded max-w-[110px] sm:max-w-none text-center break-words opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10">Stellar</span>
@@ -1269,8 +1269,8 @@
                             class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-full card-shadow dark:bg-transparent dark:shadow-none flex items-center justify-center">
                             <img alt="Wax" loading="lazy" width="70" height="70" decoding="async" data-nimg="1"
                                 class="object-contain rounded-full"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Wax.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Wax.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/Wax.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/Wax.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/Wax.webp 2x"
+                                src="/wp-content/uploads/2025/11/Wax.webp"
                                 style="color: transparent;"></div>
                     </div><span
                         class=" absolute -bottom-10 left-1/2 -translate-x-1/2 bg-black text-white text-[10px] sm:text-xs py-1 px-2 font-medium rounded max-w-[110px] sm:max-w-none text-center break-words opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10">Wax</span>
@@ -1282,8 +1282,8 @@
                             class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-full card-shadow dark:bg-transparent dark:shadow-none flex items-center justify-center">
                             <img alt="Fantom" loading="lazy" width="70" height="70" decoding="async" data-nimg="1"
                                 class="object-contain rounded-full"
-                                srcset="https://img.nadcab.com/wp-content/uploads/2025/11/fantom.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/fantom.webp?w=256&amp;q=75 2x"
-                                src="https://img.nadcab.com/wp-content/uploads/2025/11/fantom.webp?w=256&amp;q=75"
+                                srcset="/wp-content/uploads/2025/11/fantom.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/fantom.webp 2x"
+                                src="/wp-content/uploads/2025/11/fantom.webp"
                                 style="color: transparent;"></div>
                     </div><span
                         class=" absolute -bottom-10 left-1/2 -translate-x-1/2 bg-black text-white text-[10px] sm:text-xs py-1 px-2 font-medium rounded max-w-[110px] sm:max-w-none text-center break-words opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10">Fantom</span>
@@ -1438,8 +1438,8 @@
                                 class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
                                 <img alt="Ethereum Mainnet" loading="lazy" width="30" height="30" decoding="async"
                                     data-nimg="1" class="flex-shrink-0 "
-                                    srcset="https://img.nadcab.com/wp-content/uploads/2025/11/ethereum-mainnet.svg?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/ethereum-mainnet.svg?w=64&amp;q=75 2x"
-                                    src="https://img.nadcab.com/wp-content/uploads/2025/11/ethereum-mainnet.svg?w=64&amp;q=75"
+                                    srcset="/wp-content/uploads/2025/11/ethereum-mainnet.svg?w=32&amp;q=75 1x, /wp-content/uploads/2025/11/ethereum-mainnet.svg 2x"
+                                    src="/wp-content/uploads/2025/11/ethereum-mainnet.svg"
                                     style="color: transparent;"><span
                                     class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Ethereum
                                     Mainnet</span></div>
@@ -1447,8 +1447,8 @@
                                 class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
                                 <img alt="BNB Chain" loading="lazy" width="30" height="30" decoding="async"
                                     data-nimg="1" class="flex-shrink-0 "
-                                    srcset="https://img.nadcab.com/wp-content/uploads/2025/11/bnb-chain.svg?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/bnb-chain.svg?w=64&amp;q=75 2x"
-                                    src="https://img.nadcab.com/wp-content/uploads/2025/11/bnb-chain.svg?w=64&amp;q=75"
+                                    srcset="/wp-content/uploads/2025/11/bnb-chain.svg?w=32&amp;q=75 1x, /wp-content/uploads/2025/11/bnb-chain.svg 2x"
+                                    src="/wp-content/uploads/2025/11/bnb-chain.svg"
                                     style="color: transparent;"><span
                                     class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">BNB Chain</span>
                             </div>
@@ -1456,24 +1456,24 @@
                                 class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
                                 <img alt="Solana" loading="lazy" width="30" height="30" decoding="async" data-nimg="1"
                                     class="flex-shrink-0 "
-                                    srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Solana_logo.svg?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Solana_logo.svg?w=64&amp;q=75 2x"
-                                    src="https://img.nadcab.com/wp-content/uploads/2025/11/Solana_logo.svg?w=64&amp;q=75"
+                                    srcset="/wp-content/uploads/2025/11/Solana_logo.svg?w=32&amp;q=75 1x, /wp-content/uploads/2025/11/Solana_logo.svg 2x"
+                                    src="/wp-content/uploads/2025/11/Solana_logo.svg"
                                     style="color: transparent;"><span
                                     class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Solana</span></div>
                             <div
                                 class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
                                 <img alt="Polygon" loading="lazy" width="30" height="30" decoding="async" data-nimg="1"
                                     class="flex-shrink-0 "
-                                    srcset="https://img.nadcab.com/wp-content/uploads/2025/11/polygon-1.svg?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/polygon-1.svg?w=64&amp;q=75 2x"
-                                    src="https://img.nadcab.com/wp-content/uploads/2025/11/polygon-1.svg?w=64&amp;q=75"
+                                    srcset="/wp-content/uploads/2025/11/polygon-1.svg?w=32&amp;q=75 1x, /wp-content/uploads/2025/11/polygon-1.svg 2x"
+                                    src="/wp-content/uploads/2025/11/polygon-1.svg"
                                     style="color: transparent;"><span
                                     class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Polygon</span></div>
                             <div
                                 class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
                                 <img alt="Cardano" loading="lazy" width="30" height="30" decoding="async" data-nimg="1"
                                     class="flex-shrink-0 "
-                                    srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Cardano.webp?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Cardano.webp?w=64&amp;q=75 2x"
-                                    src="https://img.nadcab.com/wp-content/uploads/2025/11/Cardano.webp?w=64&amp;q=75"
+                                    srcset="/wp-content/uploads/2025/11/Cardano.webp?w=32&amp;q=75 1x, /wp-content/uploads/2025/11/Cardano.webp 2x"
+                                    src="/wp-content/uploads/2025/11/Cardano.webp"
                                     style="color: transparent;"><span
                                     class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Cardano</span></div>
                         </div>
@@ -1550,8 +1550,8 @@
                         class=" relative w-full h-[220px] sm:h-[420px] lg:h-[480px] rounded-2xl overflow-hidden bg-gradient-to-br from-gray-50 via-gray-100 to-gray-200 dark:from-[#121524]/70 dark:via-[#0A0C14]/60 dark:to-[#1C1F2F]/70 border border-gray-200 dark:border-white/10  transition-all duration-500 ">
                         <img alt="token presale service" loading="lazy" decoding="async" data-nimg="fill"
                             class="object-cover object-center" sizes="100vw"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/12/token-presale-services.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/12/token-presale-services.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/12/token-presale-services.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/12/token-presale-services.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/12/token-presale-services.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/12/token-presale-services.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/12/token-presale-services.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/12/token-presale-services.webp?w=3840&amp;q=75 3840w"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/12/token-presale-services.webp?w=3840&amp;q=75"
+                            srcset="/wp-content/uploads/2025/12/token-presale-services.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/12/token-presale-services.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/12/token-presale-services.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/12/token-presale-services.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/12/token-presale-services.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/12/token-presale-services.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/12/token-presale-services.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/12/token-presale-services.webp 3840w"
+                            src="/wp-content/uploads/2025/12/token-presale-services.webp"
                             style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;">
                     </div>
                 </div>
@@ -1639,8 +1639,8 @@
                     </div>
                     <div class="relative w-full lg:w-5/12 h-72"><img alt="Feature Image" loading="lazy" decoding="async"
                             data-nimg="fill" class="object-cover" sizes="100vw"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=3840&amp;q=75 3840w"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=3840&amp;q=75"
+                            srcset="/wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/12/meme-coin-presale-service.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/12/meme-coin-presale-service.webp 3840w"
+                            src="/wp-content/uploads/2025/12/meme-coin-presale-service.webp"
                             style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;">
                     </div>
                 </div>
@@ -1663,8 +1663,8 @@
                     <div class="flex-col space-y-1.5 flex-1 flex items-center justify-center p-0"><img
                             alt="best value software world award" loading="lazy" width="96" height="96" decoding="async"
                             data-nimg="1" class="object-contain w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/best-value-software-world-award.svg?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/best-value-software-world-award.svg?w=256&amp;q=75 2x"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/best-value-software-world-award.svg?w=256&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/best-value-software-world-award.svg?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/best-value-software-world-award.svg 2x"
+                            src="/wp-content/uploads/2025/11/best-value-software-world-award.svg"
                             style="color: transparent;"></div>
                     <div class="p-0 pt-0 text-center space-y-1 mt-2">
                         <div class="tracking-tight text-sm sm:text-base lg:text-lg font-semibold">Outstanding ICO
@@ -1679,8 +1679,8 @@
                     <div class="flex-col space-y-1.5 flex-1 flex items-center justify-center p-0"><img
                             alt="Top Customer Choice 2025 Award" loading="lazy" width="96" height="96" decoding="async"
                             data-nimg="1" class="object-contain w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/customer-choice.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/customer-choice.webp?w=256&amp;q=75 2x"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/customer-choice.webp?w=256&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/customer-choice.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/customer-choice.webp 2x"
+                            src="/wp-content/uploads/2025/11/customer-choice.webp"
                             style="color: transparent;"></div>
                     <div class="p-0 pt-0 text-center space-y-1 mt-2">
                         <div class="tracking-tight text-sm sm:text-base lg:text-lg font-semibold">Trusted ICO Technology
@@ -1696,8 +1696,8 @@
                             alt="RightFirms Top Service Provider 2025" loading="lazy" width="96" height="96"
                             decoding="async" data-nimg="1"
                             class="object-contain w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/resizecom_badge-company-2.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/resizecom_badge-company-2.webp?w=256&amp;q=75 2x"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/resizecom_badge-company-2.webp?w=256&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/resizecom_badge-company-2.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/resizecom_badge-company-2.webp 2x"
+                            src="/wp-content/uploads/2025/11/resizecom_badge-company-2.webp"
                             style="color: transparent;"></div>
                     <div class="p-0 pt-0 text-center space-y-1 mt-2">
                         <div class="tracking-tight text-sm sm:text-base lg:text-lg font-semibold">Top ICO Platform
@@ -1713,8 +1713,8 @@
                             alt="TechImply-Top-Blockchain-Development-Company" loading="lazy" width="96" height="96"
                             decoding="async" data-nimg="1"
                             class="object-contain w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/top-blockchain-development-company-Techimplfy-1.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/top-blockchain-development-company-Techimplfy-1.webp?w=256&amp;q=75 2x"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/top-blockchain-development-company-Techimplfy-1.webp?w=256&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/top-blockchain-development-company-Techimplfy-1.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/top-blockchain-development-company-Techimplfy-1.webp 2x"
+                            src="/wp-content/uploads/2025/11/top-blockchain-development-company-Techimplfy-1.webp"
                             style="color: transparent;"></div>
                     <div class="p-0 pt-0 text-center space-y-1 mt-2">
                         <div class="tracking-tight text-sm sm:text-base lg:text-lg font-semibold">Excellence in ICO
@@ -1730,8 +1730,8 @@
                             alt="Top Software Development Company 2025" loading="lazy" width="96" height="96"
                             decoding="async" data-nimg="1"
                             class="object-contain w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/resizecom_software-development-companies-round-square-badge-2.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/resizecom_software-development-companies-round-square-badge-2.webp?w=256&amp;q=75 2x"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/resizecom_software-development-companies-round-square-badge-2.webp?w=256&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/resizecom_software-development-companies-round-square-badge-2.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/resizecom_software-development-companies-round-square-badge-2.webp 2x"
+                            src="/wp-content/uploads/2025/11/resizecom_software-development-companies-round-square-badge-2.webp"
                             style="color: transparent;"></div>
                     <div class="p-0 pt-0 text-center space-y-1 mt-2">
                         <div class="tracking-tight text-sm sm:text-base lg:text-lg font-semibold">Leading ICO Solutions
@@ -1746,8 +1746,8 @@
                     <div class="flex-col space-y-1.5 flex-1 flex items-center justify-center p-0"><img alt="Clutch"
                             loading="lazy" width="96" height="96" decoding="async" data-nimg="1"
                             class="object-contain w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24"
-                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/resizecom_top_clutch.co_smart_contract_development_company_india_2025-2.webp?w=96&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/resizecom_top_clutch.co_smart_contract_development_company_india_2025-2.webp?w=256&amp;q=75 2x"
-                            src="https://img.nadcab.com/wp-content/uploads/2025/11/resizecom_top_clutch.co_smart_contract_development_company_india_2025-2.webp?w=256&amp;q=75"
+                            srcset="/wp-content/uploads/2025/11/resizecom_top_clutch.co_smart_contract_development_company_india_2025-2.webp?w=96&amp;q=75 1x, /wp-content/uploads/2025/11/resizecom_top_clutch.co_smart_contract_development_company_india_2025-2.webp 2x"
+                            src="/wp-content/uploads/2025/11/resizecom_top_clutch.co_smart_contract_development_company_india_2025-2.webp"
                             style="color: transparent;"></div>
                     <div class="p-0 pt-0 text-center space-y-1 mt-2">
                         <div class="tracking-tight text-sm sm:text-base lg:text-lg font-semibold">Best ICO Tech
@@ -1846,8 +1846,8 @@
                 </div>
                 <div class="lg:w-1/2 relative"><img alt="ico marketing service" loading="lazy" decoding="async"
                         data-nimg="fill" class="object-cover" sizes="(max-width: 1024px) 100vw, 50vw"
-                        srcset="https://img.nadcab.com/wp-content/uploads/2025/12/ico-marketing-service.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-marketing-service.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-marketing-service.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-marketing-service.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-marketing-service.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-marketing-service.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-marketing-service.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-marketing-service.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/12/ico-marketing-service.webp?w=3840&amp;q=75 3840w"
-                        src="https://img.nadcab.com/wp-content/uploads/2025/12/ico-marketing-service.webp?w=3840&amp;q=75"
+                        srcset="/wp-content/uploads/2025/12/ico-marketing-service.webp?w=384&amp;q=75 384w, /wp-content/uploads/2025/12/ico-marketing-service.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/12/ico-marketing-service.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/12/ico-marketing-service.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/12/ico-marketing-service.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/12/ico-marketing-service.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/12/ico-marketing-service.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/12/ico-marketing-service.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/12/ico-marketing-service.webp 3840w"
+                        src="/wp-content/uploads/2025/12/ico-marketing-service.webp"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
             </div>
         </div>
@@ -2169,8 +2169,8 @@
             <div class="hidden md:block absolute right-0 bottom-0 w-[40%] h-full"><img
                     alt="How Our ICO Development Process Ensures Success" loading="lazy" decoding="async"
                     data-nimg="fill" class="object-cover object-bottom-right" sizes="100vw"
-                    srcset="https://img.nadcab.com/wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=3840&amp;q=75 3840w"
-                    src="https://img.nadcab.com/wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=3840&amp;q=75"
+                    srcset="/wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/11/how-ico-are-evolving-today.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/11/how-ico-are-evolving-today.webp 3840w"
+                    src="/wp-content/uploads/2025/11/how-ico-are-evolving-today.webp"
                     style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
         </div>
     </div>
@@ -2189,8 +2189,8 @@
                                         decoding="async" data-nimg="fill"
                                         class="object-cover transition-transform duration-500 group-hover:scale-105"
                                         sizes="100vw"
-                                        srcset="https://img.nadcab.com/wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=3840&amp;q=75 3840w"
-                                        src="https://img.nadcab.com/wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=3840&amp;q=75"
+                                        srcset="/wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp 3840w"
+                                        src="/wp-content/uploads/2025/12/A-Complete-Guide-to-ICO-Service-Market-Size-Growth-Trends.webp"
                                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;">
                                     <div
                                         class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent md:hidden">
@@ -2225,8 +2225,8 @@
                                         data-nimg="fill"
                                         class="object-cover transition-transform duration-500 group-hover:scale-105"
                                         sizes="100vw"
-                                        srcset="https://img.nadcab.com/wp-content/uploads/2025/09/launch-successful-ico.jpg?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/09/launch-successful-ico.jpg?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/09/launch-successful-ico.jpg?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/09/launch-successful-ico.jpg?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/09/launch-successful-ico.jpg?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/09/launch-successful-ico.jpg?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/09/launch-successful-ico.jpg?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/09/launch-successful-ico.jpg?w=3840&amp;q=75 3840w"
-                                        src="https://img.nadcab.com/wp-content/uploads/2025/09/launch-successful-ico.jpg?w=3840&amp;q=75"
+                                        srcset="/wp-content/uploads/2025/09/launch-successful-ico.jpg?w=640&amp;q=75 640w, /wp-content/uploads/2025/09/launch-successful-ico.jpg?w=750&amp;q=75 750w, /wp-content/uploads/2025/09/launch-successful-ico.jpg?w=828&amp;q=75 828w, /wp-content/uploads/2025/09/launch-successful-ico.jpg?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/09/launch-successful-ico.jpg?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/09/launch-successful-ico.jpg?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/09/launch-successful-ico.jpg?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/09/launch-successful-ico.jpg 3840w"
+                                        src="/wp-content/uploads/2025/09/launch-successful-ico.jpg"
                                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;">
                                     <div
                                         class="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent md:hidden">
