@@ -109,4 +109,8 @@ class ServicesController extends Controller
 
         return view('user.services.token-coin', compact('faqs'));
     }
+    public function icoDevelopment()
+    {
+        return view('user.services.ico-development');
+    }
 }
