@@ -18,4 +18,8 @@ class IndustriesController extends Controller
     {
         return view('user.industries.transport-logistics');
     }
+    public function supplyChain()
+    {
+        return view('user.industries.supply-chain');
+    }
 }
