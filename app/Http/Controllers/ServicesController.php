@@ -125,4 +125,8 @@ class ServicesController extends Controller
     {
         return view('user.services.defi-development');
     }
+    public function cryptocurrencyExchange()
+    {
+        return view('user.services.cryptocurrency-exchange');
+    }
 }

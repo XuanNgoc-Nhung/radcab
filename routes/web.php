@@ -18,4 +18,5 @@ Route::group(['prefix' => 'services'], function () {
     Route::get('/smart-contract', [Services::class, 'smartContract'])->name('smartContract');
     Route::get('/dapp-development', [Services::class, 'dappDevelopment'])->name('dappDevelopment');
     Route::get('/defi-development', [Services::class, 'defiDevelopment'])->name('defiDevelopment');
+    Route::get('/cryptocurrency-exchange', [Services::class, 'cryptocurrencyExchange'])->name('cryptocurrencyExchange');
 });
