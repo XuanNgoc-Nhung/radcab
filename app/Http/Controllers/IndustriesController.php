@@ -22,4 +22,8 @@ class IndustriesController extends Controller
     {
         return view('user.industries.supply-chain');
     }
+    public function healthCare()
+    {
+        return view('user.industries.health-care');
+    }
 }

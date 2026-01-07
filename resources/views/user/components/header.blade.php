@@ -4,8 +4,7 @@
         <a class="shrink-0" href="/">
             <div class="relative h-10 w-40 shrink-0"><img alt="Nadcab logo" width="160" height="40" decoding="async"
                     data-nimg="1" class="object-contain" sizes="160px"
-                    src="/wp-content/uploads/2025/11/black-logo.png?w=3840&amp;q=75"
-                    style="color: transparent;"></div>
+                    src="/wp-content/uploads/2025/11/black-logo.png?w=3840&amp;q=75" style="color: transparent;"></div>
         </a>
         <div class="hidden lg:flex items-center relative">
             <nav class="flex items-center space-x-4 lg:space-x-6 xl:space-x-8">
@@ -187,7 +186,8 @@
 
                                     <!-- Right Section: Services Grid -->
                                     <div class="min-w-0 lg:col-span-2">
-                                        <h3 id="services-title" class="text-2xl font-bold text-black dark:text-white mb-4">End-to-end
+                                        <h3 id="services-title"
+                                            class="text-2xl font-bold text-black dark:text-white mb-4">End-to-end
                                             blockchain solutions for enterprises and startups</h3>
                                         <div id="services-grid" class="grid grid-cols-3 gap-3">
                                             <a href="{{ route('blockchainDevelopment') }}"
@@ -295,23 +295,23 @@
                                         </p>
                                         <div class="grid grid-cols-2 gap-3">
                                             <a href="{{ route('entertainment') }}"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Entertainment
                                             </a>
                                             <a href="{{ route('education') }}"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Education
                                             </a>
                                             <a href="{{ route('transportLogistics') }}"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Transport & Logistics
                                             </a>
                                             <a href="{{ route('supplyChain') }}"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Supply Chain
                                             </a>
-                                            <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                            <a href="{{ route('healthCare') }}"
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Health Care
                                             </a>
                                         </div>
@@ -358,19 +358,19 @@
                                         </p>
                                         <div class="grid grid-cols-2 gap-3">
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Freshwork
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Podcast
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Blog
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Press Release
                                             </a>
                                         </div>
@@ -416,47 +416,47 @@
                                         </p>
                                         <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Application Developers
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 UI/UX Designer
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Frontend Developers
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Backend Developers
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Blockchain Developers
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Smart Contract Developers
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 ML Engineer
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 LLM Engineer
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 DevOps Engineers
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Game Developers
                                             </a>
                                             <a href="#"
-                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
+                                                class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 E-commerce Developers
                                             </a>
                                         </div>
@@ -702,7 +702,7 @@
                         Portfolio
                     </a>
                     <a href="/contact"
-                        class="mobile-menu-item block px-4 py-3 mt-4 text-center text-sm font-semibold bg-gray-900 dark:bg-white rounded-md text-white dark:text-black transition-all duration-200 opacity-0 transform translate-x-4">
+                        class="mobile-menu-item block px-4 py-3 mt-4  text-sm font-semibold bg-gray-900 dark:bg-white rounded-md text-white dark:text-black transition-all duration-200 opacity-0 transform translate-x-4">
                         Consult Our Expert
                     </a>
                 </div>
@@ -1111,24 +1111,24 @@
         function updateServicesGrid(category) {
             const servicesGrid = document.getElementById('services-grid');
             const servicesTitle = document.getElementById('services-title');
-            
+
             if (!servicesGrid || !servicesTitle || !servicesData[category]) return;
 
             const categoryData = servicesData[category];
-            
+
             // Update title
             servicesTitle.textContent = categoryData.title;
-            
+
             // Clear existing services
             servicesGrid.innerHTML = '';
-            
+
             // Get all routes from blockchainServiceRoutes as an array for random selection
             const allBlockchainRoutes = Object.values(blockchainServiceRoutes);
-            
+
             // Add new services
             categoryData.services.forEach(service => {
                 const serviceLink = document.createElement('a');
-                
+
                 // For blockchain category, use the specific route for each service
                 // For other categories, use a random route from blockchainServiceRoutes
                 if (category === 'blockchain' && blockchainServiceRoutes[service]) {
@@ -1138,8 +1138,9 @@
                     const randomIndex = Math.floor(Math.random() * allBlockchainRoutes.length);
                     serviceLink.href = allBlockchainRoutes[randomIndex];
                 }
-                
-                serviceLink.className = 'px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left';
+
+                serviceLink.className =
+                    'px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left';
                 serviceLink.textContent = service;
                 servicesGrid.appendChild(serviceLink);
             });
@@ -1150,17 +1151,17 @@
             event.preventDefault();
             const categoryLink = event.currentTarget;
             const category = categoryLink.getAttribute('data-category');
-            
+
             // Remove active class from all category links
             document.querySelectorAll('.category-link').forEach(link => {
                 link.classList.remove('active', 'bg-blue-50', 'dark:bg-blue-900/20');
                 link.classList.add('bg-gray-50', 'dark:bg-gray-800');
             });
-            
+
             // Add active class to clicked category
             categoryLink.classList.add('active', 'bg-blue-50', 'dark:bg-blue-900/20');
             categoryLink.classList.remove('bg-gray-50', 'dark:bg-gray-800');
-            
+
             // Update services grid
             updateServicesGrid(category);
         }

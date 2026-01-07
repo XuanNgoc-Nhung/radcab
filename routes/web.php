@@ -34,4 +34,5 @@ Route::group(['prefix' => 'industries'], function () {
     Route::get('/education', [Industries::class, 'education'])->name('education');
     Route::get('/transport-logistics', [Industries::class, 'transportLogistics'])->name('transportLogistics');
     Route::get('/supply-chain', [Industries::class, 'supplyChain'])->name('supplyChain');
+    Route::get('/health-care', [Industries::class, 'healthCare'])->name('healthCare');
 });
