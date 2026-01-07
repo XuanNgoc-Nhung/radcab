@@ -133,4 +133,8 @@ class ServicesController extends Controller
     {
         return view('user.services.cryptocurrency-bank');
     }
+    public function p2pExchange()
+    {
+        return view('user.services.p2p-exchange');
+    }
 }
