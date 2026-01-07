@@ -10,4 +10,8 @@ class ResourcesController extends Controller
     {
         return view('user.resources.freshworks');
     }
+    public function blogs()
+    {
+        return view('user.resources.blogs');
+    }
 }
