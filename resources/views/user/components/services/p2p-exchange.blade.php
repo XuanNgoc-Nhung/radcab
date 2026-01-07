@@ -21,8 +21,9 @@
         <div class="relative z-10 container px-4 lg:px-8 mx-auto mt-12">
             <div class="rounded-xl lg:rounded-2xl overflow-hidden max-w-7xl mx-auto">
                 <div class="relative aspect-video w-full overflow-hidden">
-                    <div class=""><video class="w-full h-full object-contain rounded-xl bg-black absolute inset-0"
-                            autoplay="" loop="" playsinline="" preload="none"
+                    <div class="">
+                        <video class="w-full h-full object-contain rounded-xl bg-black absolute inset-0"
+                            autoplay loop playsinline muted preload="auto"
                             src="/wp-content/uploads/2025/12/p2p-exchange-development-company.mp4"></video>
                     </div>
                 </div>

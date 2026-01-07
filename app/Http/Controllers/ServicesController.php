@@ -137,4 +137,8 @@ class ServicesController extends Controller
     {
         return view('user.services.p2p-exchange');
     }
+    public function decentralizedExchangeDevelopment()
+    {
+        return view('user.services.decentralized-exchange-development');
+    }
 }
