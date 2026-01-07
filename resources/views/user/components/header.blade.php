@@ -1088,6 +1088,25 @@
             }
         };
 
+        // Mapping of blockchain services to their routes
+        const blockchainServiceRoutes = {
+            'Blockchain Development': '{{ route("blockchainDevelopment") }}',
+            'ICO Development': '{{ route("icoDevelopment") }}',
+            'Smart Contract': '{{ route("smartContract") }}',
+            'Token & Coin': '{{ route("tokenCoin") }}',
+            'DApp Development': '{{ route("dappDevelopment") }}',
+            'DeFi Development': '{{ route("defiDevelopment") }}',
+            'Cryptocurrency Exchange': '{{ route("cryptocurrencyExchange") }}',
+            'Cryptocurrency Bank': '{{ route("cryptocurrencyBank") }}',
+            'P2P Exchange': '{{ route("p2pExchange") }}',
+            'Decentralized Exchange': '{{ route("decentralizedExchangeDevelopment") }}',
+            'Cryptocurrency MLM': '{{ route("cryptocurrencyMlmSoftware") }}',
+            'Real Estate Tokenization': '{{ route("realEstateTokenization") }}',
+            'Asset Tokenization': '{{ route("assetTokenization") }}',
+            'Gold Tokenization': '{{ route("goldTokenization") }}',
+            'Meme Coin': '{{ route("memeCoin") }}'
+        };
+
         // Function to update services grid
         function updateServicesGrid(category) {
             const servicesGrid = document.getElementById('services-grid');
@@ -1103,10 +1122,23 @@
             // Clear existing services
             servicesGrid.innerHTML = '';
             
+            // Get all routes from blockchainServiceRoutes as an array for random selection
+            const allBlockchainRoutes = Object.values(blockchainServiceRoutes);
+            
             // Add new services
             categoryData.services.forEach(service => {
                 const serviceLink = document.createElement('a');
-                serviceLink.href = '#';
+                
+                // For blockchain category, use the specific route for each service
+                // For other categories, use a random route from blockchainServiceRoutes
+                if (category === 'blockchain' && blockchainServiceRoutes[service]) {
+                    serviceLink.href = blockchainServiceRoutes[service];
+                } else {
+                    // Select a random route from blockchainServiceRoutes
+                    const randomIndex = Math.floor(Math.random() * allBlockchainRoutes.length);
+                    serviceLink.href = allBlockchainRoutes[randomIndex];
+                }
+                
                 serviceLink.className = 'px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left';
                 serviceLink.textContent = service;
                 servicesGrid.appendChild(serviceLink);
