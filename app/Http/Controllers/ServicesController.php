@@ -117,4 +117,8 @@ class ServicesController extends Controller
     {
         return view('user.services.smart-contract');
     }
+    public function dappDevelopment()
+    {
+        return view('user.services.dapp-development');
+    }
 }
