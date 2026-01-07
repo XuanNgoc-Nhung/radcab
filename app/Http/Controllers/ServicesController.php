@@ -121,4 +121,8 @@ class ServicesController extends Controller
     {
         return view('user.services.dapp-development');
     }
+    public function defiDevelopment()
+    {
+        return view('user.services.defi-development');
+    }
 }
