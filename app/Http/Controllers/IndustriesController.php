@@ -10,4 +10,8 @@ class IndustriesController extends Controller
     {
         return view('user.industries.entertainment');
     }
+    public function education()
+    {
+        return view('user.industries.education');
+    }
 }
