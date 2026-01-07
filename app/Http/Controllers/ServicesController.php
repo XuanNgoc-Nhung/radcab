@@ -129,4 +129,8 @@ class ServicesController extends Controller
     {
         return view('user.services.cryptocurrency-exchange');
     }
+    public function cryptocurrencyBank()
+    {
+        return view('user.services.cryptocurrency-bank');
+    }
 }
