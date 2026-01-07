@@ -149,4 +149,8 @@ class ServicesController extends Controller
     {
         return view('user.services.real-estate-tokenization');
     }
+    public function assetTokenization()
+    {
+        return view('user.services.asset-tokenization');
+    }
 }
