@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #17313b;
+      }
+
+      .cls-1, .cls-3 {
+        font-size: 4px;
+      }
+
+      .cls-6 {
+        stroke-width: 2px;
+      }
+
+      .cls-6, .cls-7 {
+        stroke: #17313b;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+
+      .cls-2, .cls-4 {
+        font-size: 3.11px;
+      }
+
+      .cls-3, .cls-9 {
+        letter-spacing: .1em;
+      }
+
+      .cls-4, .cls-10 {
+        letter-spacing: .1em;
+      }
+
+      .cls-11 {
+        fill: #ff3d2e;
+      }
+
+      .cls-12 {
+        fill: #6a797d;
+      }
+
+      .cls-13 {
+        letter-spacing: .1em;
+      }
+
+      .cls-14 {
+        letter-spacing: .08em;
+      }
+
+      .cls-15 {
+        letter-spacing: .06em;
+      }
+
+      .cls-16 {
+        letter-spacing: .03em;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-8" points="76.8 20.17 76.8 59.83 40.1 79.66 3.4 59.83 3.4 20.17 40.1 .34 76.8 20.17"/>
+  <path class="cls-12" d="M40,80l-.14-.08L3,60.01V20l.16-.08L40,0l.14.08,36.86,19.92v40.02l-37,19.98ZM3.6,59.65l36.4,19.67,36.4-19.67V20.35L40,.69,3.6,20.35v39.29Z"/>
+  <polygon class="cls-12" points="75 21.25 75 58.75 40 77.5 5 58.75 5 21.25 40 2.5 75 21.25"/>
+  <rect class="cls-5" x="5" y="29" width="70" height="22"/>
+  <polygon class="cls-6" points="71.6 22.75 71.6 57.25 40.1 74.5 8.6 57.25 8.6 22.75 40.1 5.5 71.6 22.75"/>
+  <rect class="cls-5" x="6" y="31" width="68" height="18"/>
+  <line class="cls-7" x1="13.5" y1="51" x2="66.5" y2="51"/>
+  <line class="cls-7" x1="13.5" y1="29" x2="66.5" y2="29"/>
+  <rect class="cls-8" x="31.02" y="35.2" width="1.8" height="9.4"/>
+  <path class="cls-8" d="M38.62,41.8c0,1.46-1.39,1.58-1.77,1.58-.97,0-1.23-.86-1.23-1.37v-3.61h-1.4v3.6c0,.91.29,1.66.82,2.16.52.46,1.2.71,1.9.68.6-.01,1.18-.19,1.68-.51v.27h1.6v-6.2h-1.6v3.4h0Z"/>
+  <polygon class="cls-8" points="43.62 36.2 41.82 36.2 41.82 38.4 40.82 38.4 40.82 39.6 41.82 39.6 41.82 44.6 43.62 44.6 43.62 39.6 44.82 39.6 44.82 38.4 43.62 38.4 43.62 36.2"/>
+  <path class="cls-8" d="M50,42.88c-.38.31-.85.47-1.34.47-1.14,0-1.98-.78-1.98-1.86s.8-1.82,1.98-1.82c.49,0,.97.15,1.35.46l.25.2,1.1-1.03-.28-.23c-.69-.57-1.55-.87-2.44-.86-2.05,0-3.53,1.38-3.53,3.28s1.52,3.32,3.53,3.32c.89.01,1.76-.29,2.45-.87l.27-.23-1.12-1.03-.24.21h0Z"/>
+  <path class="cls-8" d="M57.25,38.98c-.53-.46-1.22-.71-1.93-.68-.61,0-1.2.17-1.7.51v-3.61h-1.6v9.4h1.6v-3.26c0-1.46,1.29-1.58,1.67-1.58.97,0,1.13.86,1.13,1.37v3.47h1.6v-3.46c0-.91-.23-1.66-.77-2.16h0Z"/>
+  <ellipse class="cls-11" cx="48.59" cy="41.5" rx="1.18" ry="1.11"/>
+  <path class="cls-8" d="M29.04,42.42c-.64.6-1.48.93-2.36.92-1.82,0-3.15-1.34-3.15-3.18s1.33-3.19,3.15-3.19c.87,0,1.71.32,2.35.92l.25.23,1.09-1.02-.24-.23c-.93-.88-2.17-1.36-3.45-1.35-2.69,0-4.71,2-4.71,4.65s2.03,4.63,4.71,4.63c1.29.01,2.53-.47,3.46-1.36l.24-.23-1.09-1.04-.26.25h0Z"/>
+  <g>
+    <text class="cls-2" transform="translate(36.55 12.35)"><tspan class="cls-14" x="0" y="0">T</tspan><tspan class="cls-13" x="2.16" y="0">O</tspan><tspan class="cls-14" x="4.89" y="0">P</tspan></text>
+    <text class="cls-4" transform="translate(33.85 17.17)"><tspan x="0" y="0">SMART</tspan></text>
+    <text class="cls-4" transform="translate(16.04 21.98)"><tspan x="0" y="0">CONTRACT DEVELOPMENT</tspan></text>
+    <text class="cls-2" transform="translate(31.23 26.8)"><tspan class="cls-10" x="0" y="0">COM</tspan><tspan class="cls-16" x="8.19" y="0">P</tspan><tspan class="cls-10" x="10.35" y="0">AN</tspan><tspan class="cls-14" x="15.46" y="0">Y</tspan></text>
+  </g>
+  <g>
+    <text class="cls-1" transform="translate(33.53 57.41)"><tspan class="cls-9" x="0" y="0">INDI</tspan><tspan class="cls-15" x="9.6" y="0">A</tspan></text>
+    <text class="cls-3" transform="translate(34.71 64.07)"><tspan x="0" y="0">2025</tspan></text>
+  </g>
+</svg>

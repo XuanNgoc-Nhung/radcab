@@ -145,4 +145,8 @@ class ServicesController extends Controller
     {
         return view('user.services.cryptocurrency-mlm-software');
     }
+    public function realEstateTokenization()
+    {
+        return view('user.services.real-estate-tokenization');
+    }
 }
