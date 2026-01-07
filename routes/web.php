@@ -41,4 +41,6 @@ Route::group(['prefix' => 'resources'], function () {
     Route::get('/freshworks', [Resources::class, 'freshworks'])->name('freshworks');
     Route::get('/blogs', [Resources::class, 'blogs'])->name('blogs');
     Route::get('/podcasts', [Resources::class, 'podcasts'])->name('podcasts');
+    Route::get('/press-release', [Resources::class, 'pressRelease'])->name('pressRelease');
+
 });

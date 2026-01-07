@@ -18,4 +18,8 @@ class ResourcesController extends Controller
     {
         return view('user.resources.podcasts');
     }
+    public function pressRelease()
+    {
+        return view('user.resources.press-release');
+    }
 }

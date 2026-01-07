@@ -97,8 +97,8 @@
                             loading="lazy" decoding="async" data-nimg="fill" class="object-cover"
                             style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent"
                             sizes="100vw"
-                            srcset="/wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=640&amp;q=75 640w, /wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=750&amp;q=75 750w, /wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=828&amp;q=75 828w, /wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=1080&amp;q=75 1080w, /wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=1200&amp;q=75 1200w, /wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=1920&amp;q=75 1920w, /wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=2048&amp;q=75 2048w, /wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=3840&amp;q=75 3840w"
-                            src="/wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=3840&amp;q=75">
+                            srcset="https://img.nadcab.com/wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=3840&amp;q=75 3840w"
+                            src="https://img.nadcab.com/wp-content/uploads/2025/08/Crypto-Tax-In-India-1.webp?w=3840&amp;q=75">
                         <div class="absolute inset-0 flex items-center justify-center">
                             <div
                                 class="bg-red-600 rounded-full p-3 shadow-md transition-transform duration-300 group-hover:scale-110">
@@ -151,8 +151,8 @@
                         decoding="async" data-nimg="1"
                         class="object-cover w-full h-full group-hover:scale-102 transition-transform duration-500"
                         style="color:transparent"
-                        srcset="/wp-content/uploads/2025/08/tracing-crypto-crimes.webp?w=640&amp;q=75 1x, /wp-content/uploads/2025/08/tracing-crypto-crimes.webp?w=1080&amp;q=75 2x"
-                        src="/wp-content/uploads/2025/08/tracing-crypto-crimes.webp?w=1080&amp;q=75">
+                        srcset="https://img.nadcab.com/wp-content/uploads/2025/08/tracing-crypto-crimes.webp?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/08/tracing-crypto-crimes.webp?w=1080&amp;q=75 2x"
+                        src="https://img.nadcab.com/wp-content/uploads/2025/08/tracing-crypto-crimes.webp?w=1080&amp;q=75">
                 </div>
                 <h3 class="mt-4 text-lg font-bold">Blockchain Forensics - Tracing Crypto Crimes</h3>
                 <p
@@ -164,8 +164,8 @@
                         decoding="async" data-nimg="1"
                         class="object-cover w-full h-full group-hover:scale-102 transition-transform duration-500"
                         style="color:transparent"
-                        srcset="/wp-content/uploads/2025/08/what-is-web5.jpg?w=640&amp;q=75 1x, /wp-content/uploads/2025/08/what-is-web5.jpg?w=1080&amp;q=75 2x"
-                        src="/wp-content/uploads/2025/08/what-is-web5.jpg?w=1080&amp;q=75"></div>
+                        srcset="https://img.nadcab.com/wp-content/uploads/2025/08/what-is-web5.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/08/what-is-web5.jpg?w=1080&amp;q=75 2x"
+                        src="https://img.nadcab.com/wp-content/uploads/2025/08/what-is-web5.jpg?w=1080&amp;q=75"></div>
                 <h3 class="mt-4 text-lg font-bold">Web5 And The Future Of Digital Identity</h3>
                 <p
                     class="mt-2 text-sm text-gray-800 dark:text-white/80 leading-relaxed  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
@@ -176,8 +176,8 @@
                         height="500" decoding="async" data-nimg="1"
                         class="object-cover w-full h-full group-hover:scale-102 transition-transform duration-500"
                         style="color:transparent"
-                        srcset="/wp-content/uploads/2025/06/carbon-credits-tokens.jpg?w=640&amp;q=75 1x, /wp-content/uploads/2025/06/carbon-credits-tokens.jpg?w=1080&amp;q=75 2x"
-                        src="/wp-content/uploads/2025/06/carbon-credits-tokens.jpg?w=1080&amp;q=75">
+                        srcset="https://img.nadcab.com/wp-content/uploads/2025/06/carbon-credits-tokens.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/carbon-credits-tokens.jpg?w=1080&amp;q=75 2x"
+                        src="https://img.nadcab.com/wp-content/uploads/2025/06/carbon-credits-tokens.jpg?w=1080&amp;q=75">
                 </div>
                 <h3 class="mt-4 text-lg font-bold">Carbon Credit Tokens Explained | Blockchain Meets Climate</h3>
                 <p
