@@ -14,4 +14,8 @@ class IndustriesController extends Controller
     {
         return view('user.industries.education');
     }
+    public function transportLogistics()
+    {
+        return view('user.industries.transport-logistics');
+    }
 }
