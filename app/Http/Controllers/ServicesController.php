@@ -153,4 +153,8 @@ class ServicesController extends Controller
     {
         return view('user.services.asset-tokenization');
     }
+    public function goldTokenization()
+    {
+        return view('user.services.gold-tokenization');
+    }
 }
