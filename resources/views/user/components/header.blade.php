@@ -203,7 +203,7 @@
                                                 class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 Smart Contract
                                             </a>
-                                            <a href="#"
+                                            <a href="{{ route('tokenCoin') }}"
                                                 class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-left">
                                                 Token & Coin
                                             </a>
