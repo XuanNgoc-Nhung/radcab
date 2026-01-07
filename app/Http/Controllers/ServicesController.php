@@ -157,4 +157,8 @@ class ServicesController extends Controller
     {
         return view('user.services.gold-tokenization');
     }
+    public function memeCoin()
+    {
+        return view('user.services.meme-coin');
+    }
 }

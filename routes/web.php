@@ -26,4 +26,5 @@ Route::group(['prefix' => 'services'], function () {
     Route::get('/real-estate-tokenization', [Services::class, 'realEstateTokenization'])->name('realEstateTokenization');
     Route::get('/asset-tokenization', [Services::class, 'assetTokenization'])->name('assetTokenization');
     Route::get('/gold-tokenization', [Services::class, 'goldTokenization'])->name('goldTokenization');
+    Route::get('/meme-coin', [Services::class, 'memeCoin'])->name('memeCoin');
 });
