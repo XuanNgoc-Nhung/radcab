@@ -4,8 +4,7 @@
         <a class="shrink-0" href="/">
             <div class="relative h-10 w-40 shrink-0"><img alt="Nadcab logo" width="160" height="40" decoding="async"
                     data-nimg="1" class="object-contain" sizes="160px"
-                    srcset="https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=16&amp;q=75 16w, https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=32&amp;q=75 32w, https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=48&amp;q=75 48w, https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=64&amp;q=75 64w, https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=96&amp;q=75 96w, https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=128&amp;q=75 128w, https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=256&amp;q=75 256w, https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=3840&amp;q=75 3840w"
-                    src="https://img.nadcab.com/wp-content/uploads/2025/11/black-logo.svg?w=3840&amp;q=75"
+                    src="/wp-content/uploads/2025/11/black-logo.png?w=3840&amp;q=75"
                     style="color: transparent;"></div>
         </a>
         <div class="hidden lg:flex items-center relative">
@@ -26,7 +25,7 @@
                                     <!-- Left Section: Image and About Information -->
                                     <div class="min-w-0 lg:col-span-1">
                                         <div class="mb-6">
-                                            <img src="bs-img5.jpg" alt="About Nadcab Labs"
+                                            <img src="/bs-img5.jpg" alt="About Nadcab Labs"
                                                 class="w-full h-48 rounded-lg object-cover">
                                         </div>
                                         <h3 class="text-xl font-bold text-black dark:text-white mb-2">About Nadcab Labs
@@ -274,7 +273,7 @@
                                     <!-- Left Section: Image and Industry Solutions -->
                                     <div class="min-w-0 lg:col-span-1">
                                         <div class="mb-6">
-                                            <img src="industries-use-cases.jpg"
+                                            <img src="/industries-use-cases.jpg"
                                                 alt="Blockchain Use Cases in Major Industries"
                                                 class="w-full h-48 rounded-lg">
                                         </div>
@@ -295,7 +294,7 @@
                                             expertise.
                                         </p>
                                         <div class="grid grid-cols-2 gap-3">
-                                            <a href="#"
+                                            <a href="{{ route('entertainment') }}"
                                                 class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm text-center">
                                                 Entertainment
                                             </a>

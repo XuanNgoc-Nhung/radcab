@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\UserController as User;
 use App\Http\Controllers\ServicesController as Services;
+use App\Http\Controllers\IndustriesController as Industries;
 
 Route::get('/', [User::class, 'homepage']);
 Route::get('/about', [User::class, 'about'])->name('about');
@@ -27,4 +28,7 @@ Route::group(['prefix' => 'services'], function () {
     Route::get('/asset-tokenization', [Services::class, 'assetTokenization'])->name('assetTokenization');
     Route::get('/gold-tokenization', [Services::class, 'goldTokenization'])->name('goldTokenization');
     Route::get('/meme-coin', [Services::class, 'memeCoin'])->name('memeCoin');
+});
+Route::group(['prefix' => 'industries'], function () {
+    Route::get('/entertainment', [Industries::class, 'entertainment'])->name('entertainment');
 });
