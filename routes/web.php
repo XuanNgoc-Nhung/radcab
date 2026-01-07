@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\UserController as User;
 use App\Http\Controllers\ServicesController as Services;
 use App\Http\Controllers\IndustriesController as Industries;
+use App\Http\Controllers\ResourcesController as Resources;
 
 Route::get('/', [User::class, 'homepage']);
 Route::get('/about', [User::class, 'about'])->name('about');
@@ -35,4 +36,7 @@ Route::group(['prefix' => 'industries'], function () {
     Route::get('/transport-logistics', [Industries::class, 'transportLogistics'])->name('transportLogistics');
     Route::get('/supply-chain', [Industries::class, 'supplyChain'])->name('supplyChain');
     Route::get('/health-care', [Industries::class, 'healthCare'])->name('healthCare');
+});
+Route::group(['prefix' => 'resources'], function () {
+    Route::get('/freshworks', [Resources::class, 'freshworks'])->name('freshworks');
 });
