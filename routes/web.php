@@ -22,4 +22,5 @@ Route::group(['prefix' => 'services'], function () {
     Route::get('/cryptocurrency-bank', [Services::class, 'cryptocurrencyBank'])->name('cryptocurrencyBank');
     Route::get('/p2p-exchange', [Services::class, 'p2pExchange'])->name('p2pExchange');
     Route::get('/decentralized-exchange-development', [Services::class, 'decentralizedExchangeDevelopment'])->name('decentralizedExchangeDevelopment');
+    Route::get('/cryptocurrency-mlm-software', [Services::class, 'cryptocurrencyMlmSoftware'])->name('cryptocurrencyMlmSoftware');
 });

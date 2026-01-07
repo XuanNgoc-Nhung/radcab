@@ -141,4 +141,8 @@ class ServicesController extends Controller
     {
         return view('user.services.decentralized-exchange-development');
     }
+    public function cryptocurrencyMlmSoftware()
+    {
+        return view('user.services.cryptocurrency-mlm-software');
+    }
 }
