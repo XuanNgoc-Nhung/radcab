@@ -14,4 +14,8 @@ class ResourcesController extends Controller
     {
         return view('user.resources.blogs');
     }
+    public function podcasts()
+    {
+        return view('user.resources.podcasts');
+    }
 }
