@@ -717,10 +717,10 @@
     </section>
     <section class="py-12 px-4 sm:py-16">
         <div class="text-center mb-10 sm:mb-12">
-            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Nadcab Labs Is the
+            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Veridaxlabs Is the
                 Right Partner for Real Estate Tokenization</h2>
             <p class="text-muted-foreground text-base max-w-2xl mx-auto [&amp;_a]:text-blue-600">
-                <p>Nadcab Labs offers real estate tokenization development services that transform real estate into
+                <p>Veridaxlabs offers real estate tokenization development services that transform real estate into
                     digital shares, making property investment simple, accessible, and global for developers, funds, and
                     investors.</p>
             </p>

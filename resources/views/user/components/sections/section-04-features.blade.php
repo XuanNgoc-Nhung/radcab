@@ -6,7 +6,7 @@
                         <h6 class="text-lg sm:text-xl font-normal text-blue-400 tracking-tight">#LifeAtNadcab</h6>
                         <p class="text-xl sm:text-2xl font-medium">People Who Build the Future</p>
                         <p class="text-base sm:text-lg max-w-2xl">
-                            <p>At Nadcab, we empower talented minds to innovate, grow, and create global impact
+                            <p>At Veridaxlabs, we empower talented minds to innovate, grow, and create global impact
                                 together.</p>
                         </p>
                     </div>

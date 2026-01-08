@@ -6,7 +6,7 @@
     <div class="absolute inset-0 z-[2] bg-gradient-to-b from-black/30 via-black/40 to-black/50"></div>
     <div class="relative z-[3] flex flex-col items-center py-16 sm:py-20">
         <h1 class="wow animate__animated animate__fadeInUp lg:leading-snug max-w-7xl font-bold text-xl sm:text-4xl md:text-6xl lg:text-7xl text-center mb-4  "
-            style="color:#f2f2f2">Partner With Nadcab Labs for a Decentralized Future</h1>
+            style="color:#f2f2f2">Partner With Veridaxlabs for a Decentralized Future</h1>
         <p class="wow animate__animated animate__fadeInUp animate__delay-1s text-sm sm:text-base md:text-lg mb-4 sm:mb-6 md:mb-6 max-w-5xl  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400"
             style="color:#FFFFFF">Together, let's accelerate blockchain innovation and empower global businesses through
             trusted partnerships, technical expertise, and shared success.</p>
@@ -23,10 +23,10 @@
 <div class="mt-8 md:my-16 px-4 md:px-0 max-w-7xl mx-auto">
     <h2 class="wow animate__animated animate__fadeInUp text-3xl md:text-5xl font-unbounded text-center mb-2 lg:mb-12 leading-snug md:leading-loose"><span
             class="text-3xl font-normal leading-[28.8px] md:text-[56px] md:leading-[67.2px]">Why Partner with<span
-                class="font-bold"> Nadcab?</span></span></h2>
+                class="font-bold"> Veridaxlabs?</span></span></h2>
     <div class="flex flex-col md:flex-row gap-8">
         <div class="wow animate__animated animate__fadeInLeft w-full md:w-1/2">
-            <p class="text-sm md:text-lg text-muted-foreground mb-4">Partnering with Nadcab Labs opens doors to
+            <p class="text-sm md:text-lg text-muted-foreground mb-4">Partnering with Veridaxlabs opens doors to
                 innovative blockchain and Web3 solutions, enabling you to scale your business with cutting-edge
                 technology.</p>
             <p class="text-sm md:text-lg text-muted-foreground">Gain access to our experienced team, global network, and
@@ -168,7 +168,7 @@
         <h2 class="wow animate__animated animate__fadeInUp gradient-text text-xl sm:text-2xl md:text-4xl md:leading-snug mb-2 max-w-5xl mx-auto">Who Should
             Partner With Us?</h2>
         <p class="wow animate__animated animate__fadeInUp animate__delay-1s text-muted-foreground text-sm sm:text-base md:text-lg max-w-4xl mx-auto  [&amp;_a]:text-blue-600">
-            Nadcab is a trusted blockchain development company, helping clients since 2017 to launch secure, scalable
+            Veridaxlabs is a trusted blockchain development company, helping clients since 2017 to launch secure, scalable
             tech and drive growth by 25% worldwide.</p>
     </div>
     <div class="hidden sm:grid sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6 max-w-7xl mx-auto">
@@ -225,7 +225,7 @@
                 <h3 class="font-semibold text-base sm:text-xl mb-2 ">Agencies &amp; Consultants</h3>
                 <p
                     class="text-muted-foreground [&amp;_a]:text-blue-600  [&amp;_a:hover]:underline   dark:text-white/80 text-xs sm:text-base text-center flex-1">
-                    Expand your offerings and services by reselling or co-delivering Nadcab Labs’ blockchain solutions
+                    Expand your offerings and services by reselling or co-delivering Veridaxlabs’ blockchain solutions
                     under your brand, with both technical and marketing support from us.</p>
             </div>
         </div>
@@ -282,7 +282,7 @@
                 <h3 class="font-semibold text-base sm:text-xl mb-2 ">Blockchain Communities</h3>
                 <p
                     class="text-muted-foreground [&amp;_a]:text-blue-600  [&amp;_a:hover]:underline   dark:text-white/80 text-xs sm:text-base text-center flex-1">
-                    Collaborate with Nadcab Labs now to accelerate adoption, improve developer tooling, and deliver
+                    Collaborate with Veridaxlabs now to accelerate adoption, improve developer tooling, and deliver
                     impactful real-world use cases for your blockchain or Layer-1 network.</p>
             </div>
         </div>
@@ -302,7 +302,7 @@
                 <p
                     class="text-muted-foreground [&amp;_a]:text-blue-600  [&amp;_a:hover]:underline   dark:text-white/80 text-xs sm:text-base text-center flex-1">
                     Deliver certified blockchain courses, immersive developer bootcamps, and research collaborations
-                    through Nadcab’s dedicated blockchain education and training division.</p>
+                    through Veridaxlabs’s dedicated blockchain education and training division.</p>
             </div>
         </div>
         <div
@@ -391,9 +391,9 @@
         <div class="flex flex-col lg:flex-row sm:flex-row">
             <div class="w-full lg:w-7/12 flex items-center dark:bg-white dark:text-black dark:shadow-none">
                 <div class="p-6 lg:p-8 space-y-3">
-                    <h4 class="font-medium text-xl sm:text-xl md:text-3xl"> Join Nadcab Labs as a Trusted Partner</h4>
+                    <h4 class="font-medium text-xl sm:text-xl md:text-3xl"> Join Veridaxlabs as a Trusted Partner</h4>
                     <p class="text-base sm:text-sm [&amp;_a]:text-blue-600 ">Accelerate your business growth and
-                        innovation by partnering with Nadcab Labs. Leverage our blockchain expertise, Web3 solutions,
+                        innovation by partnering with Veridaxlabs. Leverage our blockchain expertise, Web3 solutions,
                         and global network to co-create secure, scalable, and cutting-edge technologies. Together, we
                         can shape the decentralized future and unlock new opportunities.</p>
                     <div class="pt-2"><a class="link_button_blue" href="#partner-form">Become a Partner Today</a></div>
@@ -433,7 +433,7 @@
                     <div>
                         <h4 class="font-medium text-lg sm:text-xl md:text-2xl line-clamp-2">Strategic Alliance
                             Partnership</h4>
-                        <p class="font-normal text-base text-muted-foreground mt-1">Collaborate with Nadcab Labs on
+                        <p class="font-normal text-base text-muted-foreground mt-1">Collaborate with Veridaxlabs on
                             multi-vertical initiatives including blockchain, AI, and smart contract deployments. Drive
                             long-term innovation, market expansion, and mutual client success with shared vision and
                             execution.</p>
@@ -474,7 +474,7 @@
                         <h4 class="font-medium text-lg sm:text-xl md:text-2xl line-clamp-2">SaaS Reseller Partnership
                         </h4>
                         <p class="font-normal text-base text-muted-foreground mt-1">Resell SaaS-based blockchain tools,
-                            applications, and platforms built by Nadcab to enterprises and developers. Get white-label
+                            applications, and platforms built by Veridaxlabs to enterprises and developers. Get white-label
                             options, technical support, and exclusive pricing to scale recurring revenue streams
                             effectively.</p>
                     </div>
@@ -493,7 +493,7 @@
                     <div>
                         <h4 class="font-medium text-lg sm:text-xl md:text-2xl line-clamp-2">Education &amp; Training
                             Partnership</h4>
-                        <p class="font-normal text-base text-muted-foreground mt-1">Partner with Nadcab to offer
+                        <p class="font-normal text-base text-muted-foreground mt-1">Partner with Veridaxlabs to offer
                             certified blockchain development training, workshops, and hands-on developer programs.
                             Co-create learning pathways for educational institutions, enterprises, and technology
                             upskillers globally.</p>
@@ -508,7 +508,7 @@
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center max-w-7xl mx-auto lg:p-4 p-4 ">
         <div class="wow animate__animated animate__fadeInLeft mx-auto lg:mx-0">
             <h2 class="font-medium text-white text-3xl lg:text-5xl mb-4">Would you like to join us as a partner?</h2>
-            <p class="text-base lg:text-base text-white">Become a part of Nadcab's growing ecosystem. Fill out the form
+            <p class="text-base lg:text-base text-white">Become a part of Veridaxlabs's growing ecosystem. Fill out the form
                 and let's explore how we can collaborate to drive innovation, grow your business, and create impactful
                 blockchain solutions together.</p>
         </div>

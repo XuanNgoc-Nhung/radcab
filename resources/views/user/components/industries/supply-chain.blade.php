@@ -8,7 +8,7 @@
                 <p
                     class="mt-4 text-base sm:text-lg md:text-lg lg:text-lg mb-5 font-light  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
                     <p><span style="font-weight: 400;">Get live visibility, automated traceability, and secure data
-                            sharing all in one trusted ecosystem with Nadcab Labs.</span></p>
+                            sharing all in one trusted ecosystem with Veridaxlabs.</span></p>
                 </p>
             </div><a class="link_button_blue" href="/contact">Consult Now For Free<svg stroke="currentColor" fill="none"
                     stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round"
@@ -520,7 +520,7 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-16">
                 <p class="text-blue-400 font-semibold text-sm uppercase tracking-wider mb-3">KEY BENEFITS</p>
-                <h2 class="text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-4">What Nadcab Offers to the Supply Chain
+                <h2 class="text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-4">What Veridaxlabs Offers to the Supply Chain
                     Industry?</h2>
                 <p class="text-white/80 text-lg max-w-3xl mx-auto">
                     <p>Our platforms help businesses optimize procurement processes, monitor suppliers in real time,
@@ -540,7 +540,7 @@
                     </div>
                     <h3 class="text-xl font-bold mb-3">Custom Solutions Built for Your Supply Chain</h3>
                     <p class="text-white/80 text-sm">
-                        <p>Every supply chain network operates differently. At Nadcab, we design systems based on your
+                        <p>Every supply chain network operates differently. At Veridaxlabs, we design systems based on your
                             supplier structure, procurement rules, inventory requirements, and distribution model, so
                             your teams work the way they already do without forcing changes to proven workflows.</p>
                     </p>
@@ -708,10 +708,10 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2
                     class="text-3xl sm:text-4xl md:text-4xl lg:text-4xl font-normal text-white text-center  leading-tight mb-4">
-                    Real Stories Real Results Hear from Nadcab Labs Clients</h2>
+                    Real Stories Real Results Hear from Veridaxlabs Clients</h2>
                 <h3
                     class="text-sm sm:text-base md:text-lg lg:text-xl font-light text-white/80 text-center  leading-relaxed max-w-3xl mx-auto  mb-8 md:mb-10">
-                    <p>Our clients share their real experiences of working with Nadcab Labs&nbsp; stories of
+                    <p>Our clients share their real experiences of working with Veridaxlabs&nbsp; stories of
                         collaboration, innovation, and success that go beyond words.</p>
                 </h3>
             </div>
@@ -765,7 +765,7 @@
                                                 <div
                                                     class="text-gray-300 text-sm md:text-sm leading-relaxed  line-clamp-3  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
                                                     <p>Watch our clients story of creating a next-gen P2P Crypto
-                                                        Exchange with Nadcab Labs where technology met trust.</p>
+                                                        Exchange with Veridaxlabs where technology met trust.</p>
                                                 </div>
                                                 <div class="flex justify-center lg:justify-start"><a target="_self"
                                                         class="inline-block px-4 py-2 bg-blue-200 text-black text-sm md:text-sm font-light rounded-full"
@@ -818,7 +818,7 @@
                                                     Emily Rodriguez </h2>
                                                 <div
                                                     class="text-gray-300 text-sm md:text-sm leading-relaxed  line-clamp-3  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                                                    <p>Nadcab Labs made Smart Contract Development effortless for us.
+                                                    <p>Veridaxlabs made Smart Contract Development effortless for us.
                                                         Their expertise and support turned our idea into a working
                                                         product faster than we imagined.</p>
                                                 </div>
@@ -1155,7 +1155,7 @@
                                     Management</h4>
                                 <p class="text-sm sm:text-base leading-relaxed [&amp;_a]:text-blue-600">
                                     <p>AI helps understand stock movement and consumption patterns in real time. At
-                                        Nadcab, these insights guide inventory control decisions that reduce excess
+                                        Veridaxlabs, these insights guide inventory control decisions that reduce excess
                                         stock and prevent shortages.</p>
                                 </p>
                             </div>
@@ -1194,7 +1194,7 @@
                                 <h4 class="text-lg font-medium text-gray-900 dark:text-white mb-2">Early Risk Detection
                                     and Response</h4>
                                 <p class="text-sm sm:text-base leading-relaxed [&amp;_a]:text-blue-600">
-                                    <p>AI identifies unusual patterns that signal delays or disruptions. At Nadcab, we
+                                    <p>AI identifies unusual patterns that signal delays or disruptions. At Veridaxlabs, we
                                         build alert systems that allow teams to respond early and adjust supply chain
                                         plans.</p>
                                 </p>
@@ -1418,7 +1418,7 @@
     </div>
     <section class="py-12 px-4 sm:py-16">
         <div class="text-center mb-10 sm:mb-12">
-            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Nadcab is the Right
+            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Veridaxlabs is the Right
                 Choice?</h2>
             <p class="text-muted-foreground text-base max-w-2xl mx-auto [&amp;_a]:text-blue-600">
                 <p>We deliver Supply Chain Software Development Services that streamline operations, secure data,
@@ -2035,7 +2035,7 @@
                             class="text-3xl sm:text-4xl lg:text-5xl font-bold leading-snug  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
                             Acclaimed by<br>Pioneers,<br>Chosen by You!</h2>
                         <div class="h-[2px] w-20 bg-white mt-6 mb-6"></div>
-                        <p class="text-white/90 text-base leading-relaxed">Nadcab Labs' trail of awards is an example of
+                        <p class="text-white/90 text-base leading-relaxed">Veridaxlabs' trail of awards is an example of
                             our championing excellence and innovations that speak volumes.</p>
                     </div>
                     <div class="bg-[#0B5BDE] rounded-2xl p-8 md:p-10">
@@ -2170,10 +2170,10 @@
                                         <div class="mb-8">
                                             <h3 class="text-lg font-thin mb-3 line-clamp-2">Review</h3>
                                             <p class="text-base font-normal leading-relaxed mb-10 line-clamp-3">
-                                                <p>“NADCAB LABS’s work reduced transaction processing time by 30%,
+                                                <p>“Veridaxlabs’s work reduced transaction processing time by 30%,
                                                     administrative costs by 25%, and improved client satisfaction by
                                                     90%. The team delivered on time, maintained clear communication, and
-                                                    was highly responsive. NADCAB LABS’s custom solutions and prompt
+                                                    was highly responsive. Veridaxlabs’s custom solutions and prompt
                                                     responses were commendable.”</p>
                                             </p>
                                         </div>
@@ -2219,10 +2219,10 @@
                                         <div class="mb-8">
                                             <h3 class="text-lg font-thin mb-3 line-clamp-2">Review</h3>
                                             <p class="text-base font-normal leading-relaxed mb-10 line-clamp-3">
-                                                <p>“NADCAB LABS’s efforts resulted in issuing NFT certificates for the
+                                                <p>“Veridaxlabs’s efforts resulted in issuing NFT certificates for the
                                                     client’s courses, with over 90% of learners adopting them. The team
                                                     managed the project exceptionally, delivered timely items, and
-                                                    quickly adapted to the client’s needs. NADCAB LABS’s expertise in
+                                                    quickly adapted to the client’s needs. Veridaxlabs’s expertise in
                                                     Web3 solutions stood out.”</p>
                                             </p>
                                         </div>
@@ -2270,7 +2270,7 @@
                                             <p class="text-base font-normal leading-relaxed mb-10 line-clamp-3">
                                                 <p>“After implementing the new system, the client has reduced contract
                                                     administration time by over 40% and automated milestone payments,
-                                                    resulting in improved efficiency and transparency. NADCAB LABS
+                                                    resulting in improved efficiency and transparency. Veridaxlabs
                                                     achieves milestones on time and is quick to adapt to changes. Their
                                                     blockchain knowledge stands out.”</p>
                                             </p>
@@ -2319,7 +2319,7 @@
                                             <p class="text-base font-normal leading-relaxed mb-10 line-clamp-3">
                                                 <p>“The project achieved great results, as evidenced by the client
                                                     expanding their reach and increasing student engagement and
-                                                    proficiency. NADCAB LABS delivered all milestones on time,
+                                                    proficiency. Veridaxlabs delivered all milestones on time,
                                                     communicated proactively, and responded quickly to feedback. They
                                                     also provided helpful advice as needed.”</p>
                                             </p>
@@ -2366,7 +2366,7 @@
                                         <div class="mb-8">
                                             <h3 class="text-lg font-thin mb-3 line-clamp-2">Review</h3>
                                             <p class="text-base font-normal leading-relaxed mb-10 line-clamp-3">
-                                                <p>“Thanks to NADCAB LABS’ work, the platform reduced manual
+                                                <p>“Thanks to Veridaxlabs’ work, the platform reduced manual
                                                     verification time by 70% and contract execution time by 60%. Client
                                                     trust and placement rates increased, and data security improved. The
                                                     team delivered on time, communicated proactively, and adapted to
@@ -2414,7 +2414,7 @@
                                         <div class="mb-8">
                                             <h3 class="text-lg font-thin mb-3 line-clamp-2">Review</h3>
                                             <p class="text-base font-normal leading-relaxed mb-10 line-clamp-3">
-                                                <p>“NADCAB LABS’ work reduced invoice processing time by over 40%,
+                                                <p>“Veridaxlabs’ work reduced invoice processing time by over 40%,
                                                     eliminated manual errors and duplicate payments, and provided full
                                                     transparency. The team delivered on time, communicated clearly, and
                                                     was highly responsive. Their deep blockchain expertise and proactive
@@ -2462,11 +2462,11 @@
                                         <div class="mb-8">
                                             <h3 class="text-lg font-thin mb-3 line-clamp-2">Review</h3>
                                             <p class="text-base font-normal leading-relaxed mb-10 line-clamp-3">
-                                                <p>“NADCAB LABS’s work led to a portfolio tokenization, reduced
+                                                <p>“Veridaxlabs’s work led to a portfolio tokenization, reduced
                                                     transaction time by 60%, and a 40% increase in platform
                                                     interactions. The team managed the project effectively, provided
                                                     timely, on-scope deliverables, and communicated transparently.
-                                                    NADCAB LABS’s proactivity and dependability stood out.”</p>
+                                                    Veridaxlabs’s proactivity and dependability stood out.”</p>
                                             </p>
                                         </div>
                                         <div class="mb-6">

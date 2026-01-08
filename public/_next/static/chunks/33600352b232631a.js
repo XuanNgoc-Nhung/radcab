@@ -1247,7 +1247,7 @@
                     acf: {
                         category_name: "India"
                     },
-                    Heading: "Nadcab Labs",
+                    Heading: "Veridaxlabs",
                     Address: "3rd Floor, Oyster Complex Greenlands Road Somajiguda, Begumpet, Hyderabad, Telangana 500016",
                     phonenumber: "88404 90443"
                 }, {
@@ -1265,7 +1265,7 @@
                     acf: {
                         category_name: "India"
                     },
-                    Heading: "Nadcab Labs",
+                    Heading: "Veridaxlabs",
                     Address: "A24, A Block, Sector 16, Noida, Uttar Pradesh 201301",
                     phonenumber: "80810 59613"
                 }, {
@@ -1319,7 +1319,7 @@
                     acf: {
                         category_name: "India"
                     },
-                    Heading: "Nadcab Labs",
+                    Heading: "Veridaxlabs",
                     Address: "Pratapgarh Rd, Barrister Mullah Colony, MNNIT Allahabad Campus, Teliarganj, Prayagraj, Uttar Pradesh 211002",
                     phonenumber: "79852 02681"
                 }, {

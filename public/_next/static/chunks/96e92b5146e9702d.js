@@ -661,39 +661,39 @@
     let r = () => {
         let e = [{
                 year: 2017,
-                content: "Nadcab Labs was founded in the year 2017 with the vision to revolutionize blockchain development in India. Starting with a small team, we focused on research-oriented services in smart contracts, ICOs, and custom token creation, providing a base to advance solutions when the Indian market was still warming up to decentralized technologies.",
+                content: "Veridaxlabs was founded in the year 2017 with the vision to revolutionize blockchain development in India. Starting with a small team, we focused on research-oriented services in smart contracts, ICOs, and custom token creation, providing a base to advance solutions when the Indian market was still warming up to decentralized technologies.",
                 image: "/year/2017.jpg"
             }, {
                 year: 2018,
-                content: "With the exponential rise in global demand, Nadcab broadened the spectrum of its services to international clients. Our team designed secure, scalable blockchain networks for startups and began working on Ethereum-based token platforms. Strategic partnerships and consistent delivery helped build early credibility across industries like fintech, supply chain, and healthcare.",
+                content: "With the exponential rise in global demand, Veridaxlabs broadened the spectrum of its services to international clients. Our team designed secure, scalable blockchain networks for startups and began working on Ethereum-based token platforms. Strategic partnerships and consistent delivery helped build early credibility across industries like fintech, supply chain, and healthcare.",
                 image: "/year/2018.jpg"
             }, {
                 year: 2019,
-                content: "In 2019, Nadcab Labs moved beyond services into product R&D, developing proprietary blockchain development tools and frameworks. Our team launched MVPs for DApps, exchanges, and wallet services. This year also marked our successful entry into the DeFi space, as the company placed itself at the junction of innovation and utility.",
+                content: "In 2019, Veridaxlabs moved beyond services into product R&D, developing proprietary blockchain development tools and frameworks. Our team launched MVPs for DApps, exchanges, and wallet services. This year also marked our successful entry into the DeFi space, as the company placed itself at the junction of innovation and utility.",
                 image: "/year/2019.jpeg"
             }, {
                 year: 2020,
-                content: "Despite the global pandemic, Nadcab Labs doubled down on tech talent and remote operations. The company launched several white-label DeFi solutions, NFT marketplaces, and a resilient tokenomics advisory wing. Innovations in security auditing and blockchain consulting made us a trusted name for projects seeking launch-readiness during the crisis.",
+                content: "Despite the global pandemic, Veridaxlabs doubled down on tech talent and remote operations. The company launched several white-label DeFi solutions, NFT marketplaces, and a resilient tokenomics advisory wing. Innovations in security auditing and blockchain consulting made us a trusted name for projects seeking launch-readiness during the crisis.",
                 image: "/year/2020.jpg"
             }, {
                 year: 2021,
-                content: "This year saw exponential team growth and the opening of a dedicated R&D division. Nadcab Labs onboarded clients from the U.S., UAE, and Southeast Asia. It launched governance solutions for DAOs and cross-chain DEXs. Industry awards and blockchain community recognition followed, cementing our role as the most trustworthy and reliable blockchain development company.",
+                content: "This year saw exponential team growth and the opening of a dedicated R&D division. Veridaxlabs onboarded clients from the U.S., UAE, and Southeast Asia. It launched governance solutions for DAOs and cross-chain DEXs. Industry awards and blockchain community recognition followed, cementing our role as the most trustworthy and reliable blockchain development company.",
                 image: "/year/2021.webp"
             }, {
                 year: 2022,
-                content: "With Web3 taking the main stage, Nadcab Labs continued its innovation and introduced development services for the metaverse and smart contract automation tools. Custom blockchain networks and NFT 2.0 platforms were launched. The company also expanded into Layer 2 solutions and began offering cross-chain integrations to improve dApp interoperability.",
+                content: "With Web3 taking the main stage, Veridaxlabs continued its innovation and introduced development services for the metaverse and smart contract automation tools. Custom blockchain networks and NFT 2.0 platforms were launched. The company also expanded into Layer 2 solutions and began offering cross-chain integrations to improve dApp interoperability.",
                 image: "/year/2022.jpg"
             }, {
                 year: 2023,
-                content: "Nadcab Labs started integrating AI into its blockchain services, offering predictive tokenomics, autonomous NFT interactions, and intelligent auditing systems. We also introduced blockchain-based real-world asset tokenization, AI chatbots for crypto platforms, and seamless Web3 onboarding tools, establishing ourselves as an innovative hub for decentralized tech.",
+                content: "Veridaxlabs started integrating AI into its blockchain services, offering predictive tokenomics, autonomous NFT interactions, and intelligent auditing systems. We also introduced blockchain-based real-world asset tokenization, AI chatbots for crypto platforms, and seamless Web3 onboarding tools, establishing ourselves as an innovative hub for decentralized tech.",
                 image: "/year/2023.png"
             }, {
                 year: 2024,
-                content: "Nadcab Labs focused on ecosystem building, launching incubator programs, educational workshops, and blockchain-as-a-service platforms. Our vision for 2025 is to enable 500+ global businesses with modern blockchain infrastructure, expand AI in DeFi, and lead real-world asset tokenization with large-scale business integration as the key growth catalyst.",
+                content: "Veridaxlabs focused on ecosystem building, launching incubator programs, educational workshops, and blockchain-as-a-service platforms. Our vision for 2025 is to enable 500+ global businesses with modern blockchain infrastructure, expand AI in DeFi, and lead real-world asset tokenization with large-scale business integration as the key growth catalyst.",
                 image: "/year/2024.jpg"
             }, {
                 year: 2025,
-                content: "In 2025, Nadcab Labs aims to integrate advanced AI frameworks and real-world asset tokenization at scale, enabling enterprises to onboard seamlessly into the decentralized future while accelerating innovation across Web3 industries.",
+                content: "In 2025, Veridaxlabs aims to integrate advanced AI frameworks and real-world asset tokenization at scale, enabling enterprises to onboard seamlessly into the decentralized future while accelerating innovation across Web3 industries.",
                 image: "/year/2025.jpg"
             }],
             [r, a] = (0, n.useState)(e[0].year),

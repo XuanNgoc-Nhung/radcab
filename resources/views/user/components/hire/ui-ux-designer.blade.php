@@ -207,7 +207,7 @@
         <div class="max-w-7xl mx-auto">
             <div class="max-w-6xl mx-auto px-6 text-center">
                 <h2 class="text-3xl md:text-5xl font-unbounded mb-2 md:leading-snug">Hire UI/UX Designers in 4 Simple
-                    Steps at Nadcab Labs</h2>
+                    Steps at Veridaxlabs</h2>
                 <div
                     class="max-w-4xl mx-auto mb-12 text-lg text-muted-foreground  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
                     <p><span style="font-weight: 400;">Need some of our talents to glorify your development team? Follow
@@ -671,7 +671,7 @@
         <div class="max-w-7xl mx-auto">
             <h2 class="text-3xl lg:text-5xl font-bold mb-4">Approx Cost To Hire Dedicated UI/UX Designers</h2>
             <div class="text-base mb-12  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                <p>Hire Dedicated resources from Nadcab Labs Starts from</p>
+                <p>Hire Dedicated resources from Veridaxlabs Starts from</p>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div class="relative rounded-2xl p-8 border border-gray-700 bg-white text-black">

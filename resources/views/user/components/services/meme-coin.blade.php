@@ -580,7 +580,7 @@
             <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl mb-3">Certified Standards and Government
                 Compliance In Meme Coin Development</h2>
             <p class="text-muted-foreground text-base max-w-2xl mx-auto">As a leading meme coin development company,
-                Nadcab Labs is backed by trusted security, quality, and compliance recognitions that highlight our
+                Veridaxlabs is backed by trusted security, quality, and compliance recognitions that highlight our
                 reliability and technical excellence</p>
         </div>
         <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-4 gap-8 sm:gap-10 container mx-auto">
@@ -1828,7 +1828,7 @@
         <div class="container mx-auto grid grid-cols-1 lg:grid-cols-3 gap-12 items-start">
             <div class="space-y-6 ">
                 <h2 class="text-3xl sm:text-4xl font-medium">Awards Reflect Our Meme Coin Development Excellence</h2>
-                <p class="text-base sm:text-lg font-normal text-muted-foreground">At Nadcab Labs, we’re proud to be
+                <p class="text-base sm:text-lg font-normal text-muted-foreground">At Veridaxlabs, we’re proud to be
                     recognized as a leading meme coin development Company and blockchain innovation. Our commitment to
                     delivering secure, scalable, and future-ready meme coin solutions has earned us acknowledgment from
                     top global platforms. These achievements highlight our dedication to technical excellence, creative

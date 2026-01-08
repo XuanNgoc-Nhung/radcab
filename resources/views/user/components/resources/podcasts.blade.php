@@ -35,10 +35,10 @@
 <div class="mt-8 md:my-16 px-4  max-w-7xl mx-auto pb-12">
     <h2 class="text-3xl md:text-5xl font-unbounded text-center mb-2 lg:mb-12 leading-snug md:leading-loose"><span
             class="text-3xl font-normal leading-[28.8px] md:text-[56px] md:leading-[67.2px]">Decoding Innovation with
-            <span class="font-bold"> Nadcab Labs! </span></span></h2>
+            <span class="font-bold"> Veridaxlabs! </span></span></h2>
     <div class="flex flex-col md:flex-row gap-8">
         <div class="w-full md:w-1/2">
-            <p class="text-sm md:text-lg text-muted-foreground mb-4">At Nadcab Labs, we dive deep into the world of
+            <p class="text-sm md:text-lg text-muted-foreground mb-4">At Veridaxlabs, we dive deep into the world of
                 blockchain, Web3, and digital innovation — exploring how technology is shaping the future of industries
                 across the globe.</p>
             <p class="text-sm md:text-lg text-muted-foreground">Our podcast brings together visionary entrepreneurs,
@@ -269,9 +269,9 @@
 <div class="py-8 lg:pt-24 px-4">
     <div class="grid grid-cols-1 lg:grid-cols-2 lg:gap-16 gap-8 max-w-7xl mx-auto items-start sm:items-center">
         <div>
-            <h2 class="text-3xl md:text-6xl font-unbounded mb-6 md:leading-snug">Why Nadcab Podcasts <br> Are a<strong>
+            <h2 class="text-3xl md:text-6xl font-unbounded mb-6 md:leading-snug">Why Veridaxlabs Podcasts <br> Are a<strong>
                     Must-Listen</strong></h2>
-            <p class="text-sm sm:text-base md:text-lg max-w-3xl mb-8">Explore the Nadcab Podcast Series to gain expert
+            <p class="text-sm sm:text-base md:text-lg max-w-3xl mb-8">Explore the Veridaxlabs Podcast Series to gain expert
                 insights, uncover emerging trends, and learn practical strategies from blockchain, Web3, and tech
                 leaders. Whether you're a developer, entrepreneur, or tech enthusiast, our podcasts bring the future of
                 innovation directly to your ears—anytime, anywhere.</p>
@@ -321,7 +321,7 @@
                     <div>
                         <h4 class="font-medium text-lg sm:text-xl md:text-2xl">Practical Use Cases</h4>
                         <p class="font-normal text-base text-muted-foreground mt-1">Learn from detailed case studies,
-                            success stories, and lessons learned from projects executed by Nadcab Labs and global tech
+                            success stories, and lessons learned from projects executed by Veridaxlabs and global tech
                             leaders.</p>
                     </div>
                 </div>

@@ -5,7 +5,7 @@
                 <h1 class="font-bold text-3xl sm:text-4xl lg:text-5xl lg:leading-snug ">Blockchain &amp; Web3 Project
                     Developed by us!</h1>
                 <p class="text-foreground/80 text-sm sm:text-base md:text-lg leading-relaxed">
-                    <p>Nadcab Labs empowers 25,000+ blockchain projects, enhancing functionality and aesthetics.</p>
+                    <p>Veridaxlabs empowers 25,000+ blockchain projects, enhancing functionality and aesthetics.</p>
                 </p>
                 <div class="mt-6 sm:mt-8 flex flex-col sm:flex-row gap-4"><a class="inline-flex link_button_blue"
                         href="/contact">Get in Touch</a><a class="inline-flex link_button_outline"
@@ -408,7 +408,7 @@
                     </div>
                     <div>
                         <p class="text-xl  [&amp;_a]:text-blue-600 [&amp;_a:hover]:underline ">
-                            <p>Nadcab Labs empowers 25,000+ blockchain projects.</p>
+                            <p>Veridaxlabs empowers 25,000+ blockchain projects.</p>
                         </p>
                     </div>
                 </div>

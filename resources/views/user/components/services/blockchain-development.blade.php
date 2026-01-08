@@ -6,7 +6,7 @@
                         class="inline-block bg-[#fafafa] dark:bg-black px-4 py-2 rounded-lg">Blockchain Development
                         Company</span></h1>
                 <p class="text-base lg:mt-4 md:w-2/3 mx-auto"><span
-                        class="inline-block bg-[#fafafa] dark:bg-black px-4 py-2 rounded-lg">At Nadcab Labs, we design
+                        class="inline-block bg-[#fafafa] dark:bg-black px-4 py-2 rounded-lg">At Veridaxlabs, we design
                         and develop custom blockchain networks, consensus mechanisms, and enterprise-grade blockchain
                         systems.</span></p>
                 <div class="flex justify-center mt-6"><span class="link_button_blue">Schedule a Call <svg
@@ -783,7 +783,7 @@
                                 12, 2025</span></div>
                         <h3 class="text-2xl sm:text-3xl md:text-4xl font-semibold">RoninChain</h3>
                         <p class="text-muted-foreground dark:text-white/80 text-sm sm:text-base md:text-lg">Wondering how to
-                            build a Layer-1 blockchain for gaming? Nadcab Labs developed RoninChain for Web3 games. Read
+                            build a Layer-1 blockchain for gaming? Veridaxlabs developed RoninChain for Web3 games. Read
                             full case study.</p><a class="link_button_outline mt-2"
                             href="/case-study/roninchain-blockchain-for-gaming">View</a>
                     </div>
@@ -1043,7 +1043,7 @@
                 <h4 class=" text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-6 max-w-4xl mx-auto lg:leading-snug">Recognized
                     Excellence Across Leading Platforms</h4>
                 <p class="text-white/80 text-sm md:text-base leading-relaxed">With top-rated reviews on major industry
-                    platforms, Nadcab Labs stands as a trusted name in blockchain innovation. Our consistent track
+                    platforms, Veridaxlabs stands as a trusted name in blockchain innovation. Our consistent track
                     record of delivering scalable, secure, and future-ready solutions has made us the preferred
                     technology partner for startups and enterprises worldwide.</p>
             </div>
@@ -1141,7 +1141,7 @@
                     <h3 class="font-semibold text-base sm:text-xl mb-2 ">Real Estate</h3>
                     <p
                         class="text-muted-foreground [&amp;_a]:text-blue-600  [&amp;_a:hover]:underline   dark:text-white/80 text-xs sm:text-base text-center flex-1">
-                        <p>Nadcab Labs upgrades real estate operations by using blockchain to secure property records,
+                        <p>Veridaxlabs upgrades real estate operations by using blockchain to secure property records,
                             prevent document tampering, simplify transactions, and ensure transparent ownership.</p>
                     </p>
                 </div>
@@ -1184,7 +1184,7 @@
                     <h3 class="font-semibold text-base sm:text-xl mb-2 ">Agriculture</h3>
                     <p
                         class="text-muted-foreground [&amp;_a]:text-blue-600  [&amp;_a:hover]:underline   dark:text-white/80 text-xs sm:text-base text-center flex-1">
-                        <p data-start="237" data-end="439">Nadcab Labs support agriculture by using blockchain to
+                        <p data-start="237" data-end="439">Veridaxlabs support agriculture by using blockchain to
                             coordinate crop distribution, record harvest agreements, automate cooperative settlements,
                             and streamline farmer–buyer contract fulfillment.</p>
                         <p data-start="441" data-end="636">
@@ -1208,7 +1208,7 @@
                     <h3 class="font-semibold text-base sm:text-xl mb-2 ">Education</h3>
                     <p
                         class="text-muted-foreground [&amp;_a]:text-blue-600  [&amp;_a:hover]:underline   dark:text-white/80 text-xs sm:text-base text-center flex-1">
-                        <p>Nadcab Labs brings efficiency to education by enabling verifiable credentials,
+                        <p>Veridaxlabs brings efficiency to education by enabling verifiable credentials,
                             tamper-resistant student histories, automated record exchanges, and trusted academic
                             achievements through blockchain.</p>
                     </p>
@@ -1333,7 +1333,7 @@
                         <h3 class="font-semibold text-lg mb-2 line-clamp-2">Real Estate</h3>
                         <p
                             class="text-muted-foreground dark:text-white/80 text-base text-center  [&amp;_a]:text-blue-600  [&amp;_a:hover]:underline ">
-                            <p>Nadcab Labs upgrades real estate operations by using blockchain to secure property
+                            <p>Veridaxlabs upgrades real estate operations by using blockchain to secure property
                                 records, prevent document tampering, simplify transactions, and ensure transparent
                                 ownership.</p>
                         </p>
@@ -1916,7 +1916,7 @@
                 <h2 class="text-2xl sm:text-3xl lg:text-4xl font-medium leading-snug">Our Proven Blockchain Development
                     Process</h2>
                 <p class="text-sm sm:text-base text-foreground/90 max-w-md [&amp;_a]:text-blue-600">
-                    <p>At Nadcab Labs, we follow a clear, structured, and highly transparent blockchain development
+                    <p>At Veridaxlabs, we follow a clear, structured, and highly transparent blockchain development
                         workflow designed to deliver reliable results. Every stage of our process focuses on quality,
                         scalability, and long-term security. By combining technical expertise with strategic planning,
                         we build robust blockchain solutions tailored for startups, enterprises, and global brands. Our
@@ -2046,7 +2046,7 @@
             <div class="space-y-6 ">
                 <h2 class="text-3xl sm:text-4xl font-medium">Awards and Achievements That Reflect Our Commitment to
                     Excellence</h2>
-                <p class="text-base sm:text-lg font-normal text-muted-foreground">At Nadcab Labs, we take pride in the
+                <p class="text-base sm:text-lg font-normal text-muted-foreground">At Veridaxlabs, we take pride in the
                     recognition we’ve earned for driving innovation in blockchain and digital transformation. Our
                     dedication to building secure, scalable, and future-ready blockchain solutions has been acknowledged
                     by leading global platforms. These awards represent our continuous pursuit of excellence, technical

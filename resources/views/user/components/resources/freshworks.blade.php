@@ -8,7 +8,7 @@
         </div>
         <div class="relative z-10">
             <h1 class="text-3xl text-white sm:text-6xl font-extrabold mb-6 lg:pt-24">Discover Our Latest Freshwork</h1>
-            <p class="text-white/80 max-w-3xl mx-auto lg:text-lg text-sm leading-relaxed">Stay updated with Nadcab's
+            <p class="text-white/80 max-w-3xl mx-auto lg:text-lg text-sm leading-relaxed">Stay updated with Veridaxlabs's
                 newest initiatives and innovations. From cutting-edge blockchain solutions to breakthrough tech
                 experiments, our Freshwork section highlights projects that are shaping the future of the digital
                 ecosystem.</p>
@@ -207,7 +207,7 @@
                 <div class="w-full md:w-1/2 pt-12 pb-12 lg:py-14 px-4">
                     <h2 class="text-lg md:text-4xl font-unbounded font-semibold lg:leading-snug mb-2 text-white">
                         Inspired by Our Latest Innovations?</h2>
-                    <p class="font-medium text-lg mb-6 text-white">Explore how Nadcab transforms bold ideas into
+                    <p class="font-medium text-lg mb-6 text-white">Explore how Veridaxlabs transforms bold ideas into
                         breakthrough blockchain solutions. From research to real-world impact, our Freshwork projects
                         redefine what's possible in Web3 and beyond.</p><a class="link_button"
                         href="/case-study">Explore Our Innovations</a>

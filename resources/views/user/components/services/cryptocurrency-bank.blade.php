@@ -616,7 +616,7 @@
     </section>
     <section class="py-12 px-4 sm:py-16">
         <div class="text-center mb-10 sm:mb-12">
-            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Choose Nadcab Labs as
+            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Choose Veridaxlabs as
                 Your Best Crypto Banking Solutions?</h2>
             <p class="text-muted-foreground text-base max-w-2xl mx-auto [&amp;_a]:text-blue-600">
                 <p><span style="font-weight: 400;">Enhance your assets with a Banking Software Development Company that
@@ -2141,7 +2141,7 @@
                     <div class="" style="animation-delay: 100ms;">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">What role does Nadcab Labs
+                                <h3 class="font-normal text-base md:font-medium md:text-base">What role does Veridaxlabs
                                     play in cross-border payments for businesses?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
@@ -2157,7 +2157,7 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    <p><span style="font-weight: 400;">Nadcab Labs enables instant crypto-based
+                                    <p><span style="font-weight: 400;">Veridaxlabs enables instant crypto-based
                                             cross-border transactions, bypassing traditional banking delays, reducing
                                             costs, and ensuring secure settlements</span><span
                                             style="font-weight: 400;"><br>
@@ -2224,7 +2224,7 @@
                     <div class="" style="animation-delay: 400ms;">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">How does Nadcab Labs help
+                                <h3 class="font-normal text-base md:font-medium md:text-base">How does Veridaxlabs help
                                     businesses with crypto banking?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
@@ -2240,7 +2240,7 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    <p><span style="font-weight: 400;">Nadcab Labs provides white-label crypto wallet
+                                    <p><span style="font-weight: 400;">Veridaxlabs provides white-label crypto wallet
                                             solutions, secure multi-cryptocurrency custody, and blockchain-based banking
                                             tools, enabling businesses to offer crypto services seamlessly</span></p>
                                 </div>

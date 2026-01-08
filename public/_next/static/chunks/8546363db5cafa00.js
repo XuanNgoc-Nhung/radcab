@@ -836,7 +836,7 @@
                                     children: "Recognized by TechBehemoths 2025"
                                 }), (0, t.jsx)("p", {
                                     className: "text-muted-foreground text-lg mb-4",
-                                    children: "Nadcab Labs has been honored as a winner in three prestigious categories at the TechBehemoths Global Excellence Awards 2025."
+                                    children: "Veridaxlabs has been honored as a winner in three prestigious categories at the TechBehemoths Global Excellence Awards 2025."
                                 })]
                             }), (0, t.jsx)("div", {
                                 className: "space-y-3",

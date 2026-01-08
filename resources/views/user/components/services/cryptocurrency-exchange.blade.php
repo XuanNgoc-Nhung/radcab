@@ -557,7 +557,7 @@
     </section>
     <section class="py-12 px-4 sm:py-16">
         <div class="text-center mb-10 sm:mb-12">
-            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Choose Nadcab Labs for
+            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Choose Veridaxlabs for
                 Your Cryptocurrency Exchange Development?</h2>
             <p class="text-muted-foreground text-base max-w-2xl mx-auto [&amp;_a]:text-blue-600">
                 <p><span style="font-weight: 400;">We are more than just a crypto exchange development company; we are
@@ -646,7 +646,7 @@
                             Development Expertise</h3>
                         <p
                             class="text-gray-800 dark:text-white/80 font-normal text-sm sm:text-base md:text-base flex-1  [&amp;_a]:text-blue-600">
-                            <p><span style="font-weight: 400;">From strategy to post-launch support, Nadcab Labs stands
+                            <p><span style="font-weight: 400;">From strategy to post-launch support, Veridaxlabs stands
                                     as a trusted crypto exchange development company offering end-to-end solutions. Our
                                     dedicated experts build exchanges that are fast, compliant, and future-ready for
                                     global cryptocurrency markets.</span></p>
@@ -1122,7 +1122,7 @@
                                         clip-rule="evenodd"></path>
                                 </svg></div>
                             <div class="text-sm sm:text-lg leading-relaxed [&amp;_a]:text-blue-600"><span>
-                                    <p>Nadcab Labs follows strict AML and KYC procedures, including PEP screening,
+                                    <p>Veridaxlabs follows strict AML and KYC procedures, including PEP screening,
                                         Enhanced Due Diligence (EDD), and real-time transaction monitoring, to prevent
                                         money laundering, verify user identities, and maintain transparent and secure
                                         transactions across every crypto exchange platform.</p>
@@ -1262,7 +1262,7 @@
                 class="max-w-4xl mx-auto font-normal text-foreground/80 text-sm sm:text-base text-center [&amp;_a]:text-blue-600 ">
                 <p><span style="font-weight: 400;">We power next-generation crypto exchange development with advanced <a
                             href="https://www.nadcab.com/blockchain-development-company">blockchain</a> networks. At
-                        Nadcab Labs, we deliver secure and feature-rich trading platforms supporting everything from
+                        Veridaxlabs, we deliver secure and feature-rich trading platforms supporting everything from
                         spot trading to margin trading, helping your business stay ahead in the fast-evolving digital
                         trading era.</span></p>
             </p>
@@ -1623,7 +1623,7 @@
                             <p><span style="font-weight: 400;">Building your own crypto exchange platform is more than a
                                     tech trend; it’s a profitable step toward long-term business growth. As global
                                     demand rises, choosing a professional cryptocurrency exchange development company
-                                    like Nadcab Labs ensures you enter the market with a powerful, compliant, and
+                                    like Veridaxlabs ensures you enter the market with a powerful, compliant, and
                                     scalable system.</span></p>
                         </p>
                     </div>
@@ -1792,7 +1792,7 @@
             <div class="space-y-6 ">
                 <h2 class="text-3xl sm:text-4xl font-medium">Awards and Achievements That Define Our Leadership in
                     Crypto Exchange Development</h2>
-                <p class="text-base sm:text-lg font-normal text-muted-foreground">Nadcab Labs’ excellence in building
+                <p class="text-base sm:text-lg font-normal text-muted-foreground">Veridaxlabs’ excellence in building
                     secure, high-performance cryptocurrency exchanges has earned multiple global recognitions and
                     industry awards a true reflection of our commitment to innovation and trust.</p>
             </div>
@@ -2235,7 +2235,7 @@
                     <h2 class="text-lg md:text-4xl font-unbounded font-semibold lg:leading-snug mb-2 text-white">Stay
                         Ahead with the $108 Trillion Crypto Boom with Our Advanced Crypto Exchange Solutions</h2>
                     <p class="font-medium text-lg mb-6 text-white">The crypto market is evolving faster than ever, and
-                        Nadcab Labs provides top-level crypto exchange development services to help you stay ahead. Our
+                        Veridaxlabs provides top-level crypto exchange development services to help you stay ahead. Our
                         team builds advanced cryptocurrency exchange platforms designed for high performance, global
                         reach, and long-term success in a $108 trillion trading landscape.</p><a class="link_button"
                         href="https://www.nadcab.com/contact">Get a Free Consultation</a>

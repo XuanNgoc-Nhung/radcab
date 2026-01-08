@@ -784,7 +784,7 @@
                         class="font-semibold text-2xl md:text-3xl lg:text-4xl lg:leading-snug text-black dark:text-white">
                         Ready to Discuss Your Project with our developers?</h2>
                     <p class="text-base leading-6 text-black dark:text-white [&amp;_a]:text-blue-600">Let’s build the
-                        future together. Reach out today and get started with Nadcab’s expert team.</p>
+                        future together. Reach out today and get started with Veridaxlabs’s expert team.</p>
                     <div class="grid grid-cols-1 sm:grid-cols-2  gap-y-4">
                         <div class="flex items-start gap-3">
                             <div

@@ -611,7 +611,7 @@
     </section>
     <section class="py-12 px-4 sm:py-16">
         <div class="text-center mb-10 sm:mb-12">
-            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Choose Nadcab Labs for
+            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Choose Veridaxlabs for
                 P2P Exchange Development Company</h2>
             <p class="text-muted-foreground text-base max-w-2xl mx-auto [&amp;_a]:text-blue-600">
                 <p>We specialize in developing next-generation P2P crypto trading platforms that combine speed,
@@ -2000,7 +2000,7 @@
                 <div class="w-full md:w-1/2 pt-12 pb-12 lg:py-14 px-4">
                     <h2 class="text-lg md:text-4xl font-unbounded font-semibold lg:leading-snug mb-2 text-white">Build
                         Intermediary-Free Trading with a Robust P2P Exchange</h2>
-                    <p class="font-medium text-lg mb-6 text-white">At Nadcab Labs, we develop scalable P2P trading
+                    <p class="font-medium text-lg mb-6 text-white">At Veridaxlabs, we develop scalable P2P trading
                         platforms with secure architecture, intuitive UI/UX, and reliable core features for seamless
                         peer-to-peer transactions.</p><a class="link_button"
                         href="https://www.nadcab.com/contact">Request a Free Quote</a>

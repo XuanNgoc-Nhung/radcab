@@ -7,7 +7,7 @@
                         Company</span></h1>
                 <p class="text-base lg:mt-4 md:w-2/3 mx-auto"><span
                         class="inline-block bg-[#fafafa] dark:bg-black px-4 py-2 rounded-lg">As a trusted blockchain
-                        dApp development company, Nadcab Labs develops decentralized applications that connect business
+                        dApp development company, Veridaxlabs develops decentralized applications that connect business
                         logic with blockchain networks. We create user-focused dApps for DeFi, NFT, and Web3 ecosystems,
                         combining strong architecture with seamless user experiences.</span></p>
                 <div class="flex justify-center mt-6"><span class="link_button_blue">Schedule a Call <svg
@@ -661,7 +661,7 @@
                     <div class="flex flex-col sm:flex-row gap-2 mb-2"><span class="text-muted-foreground text-sm">Jun
                             02, 2025</span></div>
                     <h3 class="text-2xl sm:text-3xl md:text-4xl font-semibold">Athene Network</h3>
-                    <p class="text-muted-foreground dark:text-white/80 text-sm sm:text-base md:text-lg">Learn how Nadcab
+                    <p class="text-muted-foreground dark:text-white/80 text-sm sm:text-base md:text-lg">Learn how Veridaxlabs
                         Labs developed Athene Network’s crypto mining app, making digital asset mining efficient,
                         secure, and user-friendly. Read full case study.</p><a class="link_button_outline mt-2"
                         href="/case-study/athene-network-mining-app-development">View</a>
@@ -1800,7 +1800,7 @@
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
                                     <p><span style="font-weight: 400;">The cost depends on features, blockchain network,
                                             smart contract complexity, integrations, and UI/UX requirements. After
-                                            understanding your business needs, Nadcab Labs provides a detailed custom
+                                            understanding your business needs, Veridaxlabs provides a detailed custom
                                             quote to ensure transparency and accurate budgeting.</span></p>
                                 </div>
                             </div>
@@ -1885,7 +1885,7 @@
                                     <p><span style="font-weight: 400;">Development timelines depend on project
                                             complexity, smart contract logic, integrations, and network selection.
                                             Typically, small dApps take a few weeks, while enterprise-grade solutions
-                                            may take several months. Nadcab Labs provides a clear roadmap after
+                                            may take several months. Veridaxlabs provides a clear roadmap after
                                             requirement analysis.</span></p>
                                 </div>
                             </div>
@@ -1921,7 +1921,7 @@
                     <div class="" style="animation-delay: 200ms;">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">What makes Nadcab Labs the
+                                <h3 class="font-normal text-base md:font-medium md:text-base">What makes Veridaxlabs the
                                     right choice for dApp development?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
@@ -1937,7 +1937,7 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    <p><span style="font-weight: 400;">Nadcab Labs offers experienced dApp developers,
+                                    <p><span style="font-weight: 400;">Veridaxlabs offers experienced dApp developers,
                                             proven blockchain expertise, end-to-end development, secure smart contracts,
                                             and scalable architectures. We deliver practical, user-focused dApps that
                                             align with your business goals and real-world adoption requirements.</span>
@@ -1984,7 +1984,7 @@
                 <div class="w-full md:w-1/2 pt-12 pb-12 lg:py-14 px-4">
                     <h2 class="text-lg md:text-4xl font-unbounded font-semibold lg:leading-snug mb-2 text-white">Your
                         Vision, Our dApp Development Expertise</h2>
-                    <p class="font-medium text-lg mb-6 text-white">At Nadcab Labs, we turn your vision into a fully
+                    <p class="font-medium text-lg mb-6 text-white">At Veridaxlabs, we turn your vision into a fully
                         functional decentralized application designed for your business needs. Our expert team delivers
                         secure blockchain integration, optimized smart contracts, seamless wallet connectivity, and
                         scalable architecture, providing decentralized solutions that create real-world impact and

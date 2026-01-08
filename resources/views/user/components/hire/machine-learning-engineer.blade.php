@@ -144,7 +144,7 @@
             <div class="w-full md:w-8/12 lg:w-7/12">
                 <div
                     class="text-sm md:text-lg text-muted-foreground mb-4 prose prose-lg max-w-none  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                    <p>Hire dedicated ML Engineers from Nadcab Labs to build custom AI and machine learning solutions
+                    <p>Hire dedicated ML Engineers from Veridaxlabs to build custom AI and machine learning solutions
                         that boost automation, decision-making, and user experience across diverse industries.</p>
                 </div>
                 <div
@@ -781,7 +781,7 @@
                         Ready to Discuss Your Project with our developers?</h2>
                     <p class="text-base leading-6 text-black dark:text-white [&amp;_a]:text-blue-600">Let’s build
                         intelligent, automated, and data-driven solutions together. Reach out today and get started with
-                        Nadcab’s ML experts.</p>
+                        Veridaxlabs’s ML experts.</p>
                     <div class="grid grid-cols-1 sm:grid-cols-2  gap-y-4">
                         <div class="flex items-start gap-3">
                             <div
@@ -1118,7 +1118,7 @@
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
                                 <h3 class="font-normal text-base md:font-medium md:text-base">Why should I hire ML
-                                    developers from Nadcab Labs?</h3>
+                                    developers from Veridaxlabs?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
@@ -1133,7 +1133,7 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    Nadcab Labs offers experienced in-house ML Developers with proven expertise in AI
+                                    Veridaxlabs offers experienced in-house ML Developers with proven expertise in AI
                                     model development, cloud integration, and continuous learning systems.</div>
                             </div>
                         </div>

@@ -582,7 +582,7 @@
     </section>
     <section class="py-12 px-4 sm:py-16">
         <div class="text-center mb-10 sm:mb-12">
-            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Nadcab Labs is Your
+            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Veridaxlabs is Your
                 Trusted ICO Development Company?</h2>
             <p class="text-muted-foreground text-base max-w-2xl mx-auto [&amp;_a]:text-blue-600">
                 <p>Our ICO Development Services stands out for secure, scalable, and customized token solutions that
@@ -671,7 +671,7 @@
                             class="text-gray-800 dark:text-white/80 font-normal text-sm sm:text-base md:text-base flex-1  [&amp;_a]:text-blue-600">
                             <p><span style="font-weight: 400;">Launch a successful ICO with a strategic Airdrop
                                     Campaign. Engage early investors, expand your community, and accelerate token
-                                    adoption. Nadcab Labs provides secure, compliant, and highly effective airdrop
+                                    adoption. Veridaxlabs provides secure, compliant, and highly effective airdrop
                                     solutions to ensure your ICO achieves maximum reach and impact.</span></p>
                         </p>
                     </div>
@@ -704,7 +704,7 @@
                     <div class="flex flex-col sm:flex-row gap-2 mb-2"><span class="text-muted-foreground text-sm">May
                             31, 2025</span></div>
                     <h3 class="text-2xl sm:text-3xl md:text-4xl font-semibold">EverRise Blockchain</h3>
-                    <p class="text-muted-foreground dark:text-white/80 text-sm sm:text-base md:text-lg">See how Nadcab
+                    <p class="text-muted-foreground dark:text-white/80 text-sm sm:text-base md:text-lg">See how Veridaxlabs
                         Labs created EverRise token &amp; blockchain solutions, enhancing security, scalability, and
                         seamless digital asset management. Read full case study.</p><a class="link_button_outline mt-2"
                         href="/case-study/everrise">View</a>
@@ -731,7 +731,7 @@
             <div class="md:w-1/2">
                 <h4 class=" text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-6 max-w-4xl mx-auto lg:leading-snug">Top Client
                     Ratings That Highlight Our Strength in ICO Software Development</h4>
-                <p class="text-white/80 text-sm md:text-base leading-relaxed">Nadcab Labs stands out as a highly trusted
+                <p class="text-white/80 text-sm md:text-base leading-relaxed">Veridaxlabs stands out as a highly trusted
                     name in expert-driven ICO development, supported by outstanding client reviews and a proven history
                     of successful launches. Our advanced ICO service solutions and fully customizable ICO software
                     offerings enable startups and enterprises to build secure, scalable, and future-ready fundraising
@@ -1653,7 +1653,7 @@
             <div class="space-y-6 ">
                 <h2 class="text-3xl sm:text-4xl font-medium">Achievements That Spark Innovation and Set Standards</h2>
                 <p class="text-base sm:text-lg font-normal text-muted-foreground">Our expertise in developing advanced
-                    ICO platforms and token solutions has earned Nadcab Labs global recognition and industry awards,
+                    ICO platforms and token solutions has earned Veridaxlabs global recognition and industry awards,
                     showcasing our excellence as a trusted ICO development company committed to innovation,
                     transparency, and scalability.</p>
             </div>
@@ -1769,7 +1769,7 @@
                         class="font-semibold text-2xl md:text-3xl lg:text-4xl lg:leading-snug text-black dark:text-white">
                         Get a Custom Quote and Start Your ICO Journey Today</h2>
                     <p class="text-base leading-6 text-black dark:text-white [&amp;_a]:text-blue-600">
-                        <p>As a top ICO software development company in globally, Nadcab Labs carefully evaluates your
+                        <p>As a top ICO software development company in globally, Veridaxlabs carefully evaluates your
                             technical needs, tokenomics, and company goals to provide clear pricing, accurate cost
                             estimates, and personalised ICO solutions that drive&nbsp;long-term growth and investor
                             confidence.</p>
@@ -2081,7 +2081,7 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    <p><span style="font-weight: 400;">Nadcab Labs offers secure, fully audited smart
+                                    <p><span style="font-weight: 400;">Veridaxlabs offers secure, fully audited smart
                                             contracts, transparent fundraising software, and complete ICO launch
                                             solutions. Our expert team ensures full compliance, fast go-to-market
                                             execution, and investor-ready tokens, helping your ICO stand out, gain
@@ -2141,7 +2141,7 @@
                                     <p><span style="font-weight: 400;">The leading ICO developers are teams that combine
                                             deep blockchain expertise with secure token creation, strong technical
                                             infrastructure, and clear compliance support. A trusted ICO software-focused
-                                            development partner like Nadcab Labs delivers smooth, end-to-end ICO
+                                            development partner like Veridaxlabs delivers smooth, end-to-end ICO
                                             development services, helping projects launch faster, scale reliably, and
                                             build long-term investor confidence.</span></p>
                                 </div>
@@ -2160,7 +2160,7 @@
                     <h2 class="text-lg md:text-4xl font-unbounded font-semibold lg:leading-snug mb-2 text-white">How ICO
                         Are Becoming Safer and More Transparent?</h2>
                     <p class="font-medium text-lg mb-6 text-white">ICOs are evolving with advanced smart contract
-                        security, transparent fundraising, and regulatory alignment. With Nadcab Labs delivering
+                        security, transparent fundraising, and regulatory alignment. With Veridaxlabs delivering
                         scalable blockchain infrastructure and audited token launches, global investors gain trust,
                         accessibility, liquidity, and long-term growth opportunities.</p><a class="link_button"
                         href="/contact">Launch ICO Now</a>

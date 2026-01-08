@@ -4,7 +4,7 @@
                 <h1 class="text-4xl md:text-6xl font-extrabold text-white mb-5">Hire Blockchain Developers</h1>
                 <p class="text-base md:text-lg text-gray-300 mb-8 leading-relaxed">
                     <div>
-                        <p>Hire Blockchain Developers <span style="font-weight: 400;">at Nadcab Labs and tap into your
+                        <p>Hire Blockchain Developers <span style="font-weight: 400;">at Veridaxlabs and tap into your
                                 business’s full potential to achieve real growth.</span></p>
                     </div>
                 </p><a class="link_button_blue" href="#hire-developer-form">Hire Blockchain Experts</a>
@@ -142,7 +142,7 @@
             <div class="w-full md:w-8/12 lg:w-7/12">
                 <div
                     class="text-sm md:text-lg text-muted-foreground mb-4 prose prose-lg max-w-none  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                    <p>At Nadcab Labs we combine human understanding with blockchain expertise. Our developers listen to
+                    <p>At Veridaxlabs we combine human understanding with blockchain expertise. Our developers listen to
                         your goals and focus on your users ensuring solutions stay simple practical secure scalable and
                         usable.</p>
                 </div>
@@ -216,7 +216,7 @@
         <div class="max-w-7xl mx-auto">
             <div class="max-w-6xl mx-auto px-6 text-center">
                 <h2 class="text-3xl md:text-5xl font-unbounded mb-2 md:leading-snug">Streamlined Hiring Process for
-                    Blockchain Developers at Nadcab Labs</h2>
+                    Blockchain Developers at Veridaxlabs</h2>
                 <div
                     class="max-w-4xl mx-auto mb-12 text-lg text-muted-foreground  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
                     <p><span style="font-weight: 400;">Looking to accelerate your web project with experienced
@@ -887,7 +887,7 @@
             <h2 class="gradient-text text-3xl sm:text-4xl md:text-5xl font-medium lg:leading-snug">Projects Built by Our
                 Blockchain Experts</h2>
             <p class="text-muted-foreground text-sm sm:text-base md:text-lg max-w-4xl mx-auto">Explore real blockchain
-                solutions crafted by Nadcab Labs developers—delivering innovation, reliability, and measurable results
+                solutions crafted by Veridaxlabs developers—delivering innovation, reliability, and measurable results
                 for clients across DeFi, exchanges, and enterprise platforms.</p>
         </div>
         <div class="lg:-mt-12">
@@ -914,7 +914,7 @@
                                     class="text-muted-foreground text-sm">Jun 13, 2025</span></div>
                             <h3 class="text-2xl sm:text-3xl md:text-4xl font-semibold">Open Campus</h3>
                             <p class="text-muted-foreground dark:text-white/80 text-sm sm:text-base md:text-lg">See how
-                                Nadcab Labs transformed education with Open Campus, using blockchain for secure records
+                                Veridaxlabs transformed education with Open Campus, using blockchain for secure records
                                 &amp; scalable learning. Read full case study.</p><a class="link_button_outline mt-2"
                                 href="https://www.nadcab.com/case-study/open-campus-blockchain-education">View</a>
                         </div><button aria-label="Previous Slide"
@@ -943,7 +943,7 @@
                 <h1 class="text-3xl sm:text-5xl md:text-6xl font-semibold mb-6">Trusted Blockchain Experts Team</h1>
                 <div
                     class="text-gray-300 mb-6 prose prose-invert  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                    <p>With Nadcab Labs, you collaborate with experts who bring empathy, integrity, and innovation to
+                    <p>With Veridaxlabs, you collaborate with experts who bring empathy, integrity, and innovation to
                         every project. Our blockchain developers are driven by purpose — to craft solutions that are
                         technically brilliant, business-aligned, and built on genuine human trust.</p>
                 </div>

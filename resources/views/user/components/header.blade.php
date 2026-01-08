@@ -24,10 +24,10 @@
                                     <!-- Left Section: Image and About Information -->
                                     <div class="min-w-0 lg:col-span-1">
                                         <div class="mb-6">
-                                            <img src="/bs-img5.jpg" alt="About Nadcab Labs"
+                                            <img src="/bs-img5.jpg" alt="About Veridaxlabs"
                                                 class="w-full h-48 rounded-lg object-cover">
                                         </div>
-                                        <h3 class="text-xl font-bold text-black dark:text-white mb-2">About Nadcab Labs
+                                        <h3 class="text-xl font-bold text-black dark:text-white mb-2">About Veridaxlabs
                                         </h3>
                                         <p class="text-gray-600 dark:text-gray-400 text-sm leading-relaxed">
                                             A leading blockchain company delivering innovative digital solutions
@@ -56,7 +56,7 @@
                                                 class="block group p-4 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
                                                 <h4
                                                     class="text-base font-semibold text-black dark:text-white mb-1 group-hover:text-primary transition-colors">
-                                                    Nadcab Labs Team</h4>
+                                                    Veridaxlabs Team</h4>
                                                 <p class="text-sm text-gray-600 dark:text-gray-400">Meet the innovators
                                                     behind our success.</p>
                                             </a>
@@ -74,7 +74,7 @@
                                                     class="text-base font-semibold text-black dark:text-white mb-1 group-hover:text-primary transition-colors">
                                                     Partner with Us</h4>
                                                 <p class="text-sm text-gray-600 dark:text-gray-400">Collaborate and grow
-                                                    with Nadcab Labs.</p>
+                                                    with Veridaxlabs.</p>
                                             </a>
                                             <a href="{{ route('pressRelease') }}"
                                                 class="block group p-4 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
@@ -473,7 +473,7 @@
             </nav>
         </div>
         <div class="flex items-center gap-3">
-            <div class="lg:hidden flex items-center gap-3"><a aria-label="Call Nadcab Labs" href="tel:+919870635001">
+            <div class="lg:hidden flex items-center gap-3"><a aria-label="Call Veridaxlabs" href="tel:+919870635001">
                     <div class="w-10 h-10 flex items-center justify-center bg-black text-white shadow-lg rounded-lg">
                         <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24"
                             stroke-linecap="round" stroke-linejoin="round" height="20" width="20"
@@ -526,7 +526,7 @@
                             </a>
                             <a href="#"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
-                                Nadcab Labs Team
+                                Veridaxlabs Team
                             </a>
                             <a href="#"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">

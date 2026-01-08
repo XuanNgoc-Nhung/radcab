@@ -799,7 +799,7 @@
                         Ready to Discuss Your Project?</h2>
                     <p class="text-base leading-6 text-black dark:text-white [&amp;_a]:text-blue-600">Let’s build
                         innovative, scalable, and high-performing applications together. Reach out today and get started
-                        with Nadcab’s expert team.</p>
+                        with Veridaxlabs’s expert team.</p>
                     <div class="grid grid-cols-1 sm:grid-cols-2  gap-y-4">
                         <div class="flex items-start gap-3">
                             <div
@@ -1107,7 +1107,7 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    Yes. Nadcab Labs offers complete post-launch support, including updates,
+                                    Yes. Veridaxlabs offers complete post-launch support, including updates,
                                     maintenance, performance optimization, and security monitoring to keep your app
                                     running smoothly.</div>
                             </div>
@@ -1142,7 +1142,7 @@
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
                                 <h3 class="font-normal text-base md:font-medium md:text-base">Why should I hire
-                                    application developers from Nadcab Labs?</h3>
+                                    application developers from Veridaxlabs?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
@@ -1167,7 +1167,7 @@
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
                                 <h3 class="font-normal text-base md:font-medium md:text-base">How do I hire dedicated
-                                    application developers from Nadcab Labs?</h3>
+                                    application developers from Veridaxlabs?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div

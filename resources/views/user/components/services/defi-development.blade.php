@@ -719,10 +719,10 @@
     </section>
     <section class="py-12 px-4 sm:py-16">
         <div class="text-center mb-10 sm:mb-12">
-            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Choose Nadcab Labs for
+            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Choose Veridaxlabs for
                 Scalable &amp; Secure DeFi Solutions?</h2>
             <p class="text-muted-foreground text-base max-w-2xl mx-auto [&amp;_a]:text-blue-600">
-                <p><span style="font-weight: 400;">With deep blockchain expertise, Nadcab Labs builds DeFi platforms
+                <p><span style="font-weight: 400;">With deep blockchain expertise, Veridaxlabs builds DeFi platforms
                         that prioritize security, compliance, and long-term reliability. Our proven DeFi development
                         approach ensures asset protection, stable performance, and future-ready decentralized solutions
                         for modern businesses.</span></p>
@@ -750,7 +750,7 @@
                         </h3>
                         <p
                             class="text-gray-800 dark:text-white/80 font-normal text-sm sm:text-base md:text-base flex-1  [&amp;_a]:text-blue-600">
-                            <p>Nadcab Labs follows a security-driven approach across all its DeFi development services,
+                            <p>Veridaxlabs follows a security-driven approach across all its DeFi development services,
                                 ensuring complete protection of digital assets through multiple defense layers, <a
                                     href="https://www.nadcab.com/smart-contract-audit">smart contract audits</a>, and
                                 continuous monitoring. These practices strengthen DeFi platforms with essential
@@ -766,7 +766,7 @@
                         <h3 class="font-medium text-lg sm:text-xl md:text-2xl mb-2 sm:mb-4">Regulatory Compliance</h3>
                         <p
                             class="text-gray-800 dark:text-white/80 font-normal text-sm sm:text-base md:text-base flex-1  [&amp;_a]:text-blue-600">
-                            <p>Nadcab Labs ensures DeFi platforms operate legally by following global Web3 rules,
+                            <p>Veridaxlabs ensures DeFi platforms operate legally by following global Web3 rules,
                                 maintaining transparent governance, enforcing on-chain audit standards, and implementing
                                 compliant frameworks to deliver secure, regulated, and fully trustworthy platform
                                 operations without loopholes or policy risks.</p>
@@ -780,7 +780,7 @@
                         <h3 class="font-medium text-lg sm:text-xl md:text-2xl mb-2 sm:mb-4">Custom DeFi Solutions</h3>
                         <p
                             class="text-gray-800 dark:text-white/80 font-normal text-sm sm:text-base md:text-base flex-1  [&amp;_a]:text-blue-600">
-                            <p><span style="font-weight: 400;">Nadcab Labs develops personalized DeFi solutions
+                            <p><span style="font-weight: 400;">Veridaxlabs develops personalized DeFi solutions
                                     according to company objectives, thus guaranteeing agility, top performance and
                                     smooth UX from tokenization through liquidity management giving rise to,
                                     facilitating, and making the DPR ecosystem more robust with novelties and
@@ -809,7 +809,7 @@
                         <h3 class="font-medium text-lg sm:text-xl md:text-2xl mb-2 sm:mb-4">End-to-End Support</h3>
                         <p
                             class="text-gray-800 dark:text-white/80 font-normal text-sm sm:text-base md:text-base flex-1  [&amp;_a]:text-blue-600">
-                            <p><span style="font-weight: 400;">Nadcab Labs supplies complete DeFi lifecycle support from
+                            <p><span style="font-weight: 400;">Veridaxlabs supplies complete DeFi lifecycle support from
                                     initial idea to launch and post-launch support. Our committed team guarantees
                                     ongoing optimization, high uptime, and dependable updates and maintains your
                                     decentralized platform to be efficient, secure, and ready for the future.</span></p>
@@ -826,7 +826,7 @@
             <h2 class="gradient-text text-3xl sm:text-4xl md:text-[2.5rem] font-medium mx-auto mb-2 max-w-4xl">Real
                 Success Stories from Our DeFi Projects</h2>
             <p class="text-muted-foreground text-base max-w-2xl mx-auto">Our DeFi development projects reflect the real
-                success of businesses we work with. Nadcab Labs delivers secure, scalable, and transparent DeFi
+                success of businesses we work with. Veridaxlabs delivers secure, scalable, and transparent DeFi
                 development solutions that help clients build confidence, achieve sustainable growth, and succeed in the
                 decentralized finance market.</p>
         </div>
@@ -872,7 +872,7 @@
                 <h4 class=" text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-6 max-w-4xl mx-auto lg:leading-snug">What Our
                     Clients Say About Working With Us</h4>
                 <p class="text-white/80 text-sm md:text-base leading-relaxed">Clients across trusted review platforms
-                    consistently rate Nadcab Labs highly for our DeFi development services. They appreciate our
+                    consistently rate Veridaxlabs highly for our DeFi development services. They appreciate our
                     transparent communication, strong security practices, and well-structured development approach. From
                     initial consultation to final delivery, we focus on reliability, performance, and long-term value.
                     These client ratings and feedback reflect the trust we earn through quality work, timely execution,
@@ -2001,9 +2001,9 @@
     <section class="w-full lg:py-16 px-4">
         <div class="container mx-auto grid grid-cols-1 lg:grid-cols-3 gap-12 items-start">
             <div class="space-y-6 ">
-                <h2 class="text-3xl sm:text-4xl font-medium">Award Recognized DeFi Development Excellence by Nadcab Labs
+                <h2 class="text-3xl sm:text-4xl font-medium">Award Recognized DeFi Development Excellence by Veridaxlabs
                 </h2>
-                <p class="text-base sm:text-lg font-normal text-muted-foreground">At Nadcab Labs, our position as a top
+                <p class="text-base sm:text-lg font-normal text-muted-foreground">At Veridaxlabs, our position as a top
                     DeFi development company&nbsp;has earned multiple awards for creating secure, scalable, and
                     high-performance decentralized financial platforms. Our achievements reflect our dedication to
                     delivering innovative blockchain solutions that empower businesses and strengthen the global DeFi
@@ -2483,7 +2483,7 @@
                     <div class="" style="animation-delay: 400ms;">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">Why choose Nadcab Labs as
+                                <h3 class="font-normal text-base md:font-medium md:text-base">Why choose Veridaxlabs as
                                     your DeFi Development Company?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
@@ -2499,7 +2499,7 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    <p><span style="font-weight: 400;">Choosing Nadcab Labs as your DeFi development
+                                    <p><span style="font-weight: 400;">Choosing Veridaxlabs as your DeFi development
                                             partner means working with a team focused on quality, security, and real
                                             business value. We combine technical expertise with a clear understanding of
                                             DeFi use cases to build reliable and scalable platforms. Our transparent
@@ -2520,7 +2520,7 @@
                 <div class="w-full md:w-1/2 pt-12 pb-12 lg:py-14 px-4">
                     <h2 class="text-lg md:text-4xl font-unbounded font-semibold lg:leading-snug mb-2 text-white">Ready
                         to Launch Your High-Impact DeFi Platform?</h2>
-                    <p class="font-medium text-lg mb-6 text-white">Launch your high-impact DeFi platform with Nadcab
+                    <p class="font-medium text-lg mb-6 text-white">Launch your high-impact DeFi platform with Veridaxlabs
                         Labs, a trusted DeFi development platform partner.&nbsp;Our DeFi development services are
                         designed to build secure, scalable, and user-friendly solutions for lending, staking, trading,
                         and tokenized assets. From planning and smart contract development to front-end design and

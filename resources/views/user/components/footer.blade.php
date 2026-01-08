@@ -70,7 +70,7 @@
                                                 <div>
                                                     <h4
                                                         class=" text-xl lg:text-3xl font-bold text-white tracking-tight">
-                                                        Nadcab Labs</h4>
+                                                        Veridaxlabs</h4>
                                                     <p class="text-sm font-medium text-white tracking-tight">3rd Floor,
                                                         Oyster Complex Greenlands Road Somajiguda, Begumpet, Hyderabad,
                                                         Telangana 500016</p>
@@ -282,7 +282,7 @@
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
                                 href="/partners">Partner with us</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/nadcab-team">Nadcab Labs Team</a></nav>
+                                href="/nadcab-team">Veridaxlabs Team</a></nav>
                     </div>
                     <div class="text-left min-h-[180px]">
                         <h3 class="font-semibold text-base lg:text-xl mb-4">Services</h3>
@@ -389,7 +389,7 @@
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
                                 href="/partners">Partner with us</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/nadcab-team">Nadcab Labs Team</a></nav>
+                                href="/nadcab-team">Veridaxlabs Team</a></nav>
                     </details>
                     <details class="group border-b border-gray-200 dark:border-gray-700">
                         <summary
@@ -676,7 +676,7 @@
                         href="/privacy-policy">Privacy Policy</a><a class="hover:text-foreground transition-colors"
                         href="/terms-conditions">Terms &amp; Conditions</a><a
                         class="hover:text-foreground transition-colors" href="/help">Help</a></div><span>Copyright ©
-                    2026 Nadcab Labs Pvt. Ltd.</span>
+                    2026 Veridaxlabs Pvt. Ltd.</span>
             </div>
         </div>
     </footer>

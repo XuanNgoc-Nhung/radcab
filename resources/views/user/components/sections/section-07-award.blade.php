@@ -13,7 +13,7 @@
                             <polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"></polyline>
                         </svg>Award Winning</div>
                     <h2 class="text-2xl md:text-4xl font-bold mb-4">Recognized by TechBehemoths 2025</h2>
-                    <p class="text-muted-foreground text-lg mb-4">Nadcab Labs has been honored as a winner in
+                    <p class="text-muted-foreground text-lg mb-4">Veridaxlabs has been honored as a winner in
                         three prestigious categories at the TechBehemoths Global Excellence Awards 2025.</p>
                 </div>
                 <div class="space-y-3">

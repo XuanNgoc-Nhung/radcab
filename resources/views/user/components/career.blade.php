@@ -7,7 +7,7 @@
     <div class="absolute inset-0 z-10 bg-black/60"></div>
     <div class="relative z-20 flex flex-col items-center justify-center text-center px-4">
         <h1 class="wow animate__animated animate__fadeInUp text-white text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-4">Shape the Future of
-            Blockchain</h1><a class="wow animate__animated animate__fadeInUp animate__delay-1s link_button" href="#ApplyJob">Join Nadcab Labs Team <svg stroke="currentColor"
+            Blockchain</h1><a class="wow animate__animated animate__fadeInUp animate__delay-1s link_button" href="#ApplyJob">Join Veridaxlabs Team <svg stroke="currentColor"
                 fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round"
                 class="text-xl sm:text-2xl" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
                 <path d="M7 7h10v10"></path>
@@ -21,7 +21,7 @@
                 class="font-bold">Nadcab?</span></span></h2>
     <div class="flex flex-col md:flex-row gap-8">
         <div class="wow animate__animated animate__fadeInLeft w-full md:w-1/2">
-            <p class="text-sm md:text-lg text-muted-foreground mb-4">Nadcab Labs promotes a culture of impacting users'
+            <p class="text-sm md:text-lg text-muted-foreground mb-4">Veridaxlabs promotes a culture of impacting users'
                 lives with our innovations. We are looking for people who share, understand our vision and contribute to
                 it.</p>
             <p class="text-sm md:text-lg text-muted-foreground">We're passionate about constantly expanding and forever
@@ -73,7 +73,7 @@
         <div class="flex flex-col lg:flex-row">
             <div class="wow animate__animated animate__fadeInLeft lg:w-1/2 flex flex-col justify-center space-y-4 px-6 sm:px-8 lg:px-10 py-8">
                 <h2 class="font-semibold text-2xl md:text-3xl lg:text-4xl lg:leading-snug text-black dark:text-white">
-                    Nadcab At A Glance!</h2>
+                    Veridaxlabs At A Glance!</h2>
                 <p class="text-base leading-6 text-black dark:text-white [&amp;_a]:text-blue-600">We take a strategic
                     approach to delivering tailored blockchain and software solutions.</p>
                 <div class="grid grid-cols-1 sm:grid-cols-2  gap-y-4">
@@ -246,7 +246,7 @@
                     </svg></div>
                 <h3 class="font-semibold text-xl">Profile Evaluation</h3>
                 <p class="text-muted-foreground text-base">Our team screens resumes to ensure your profile matches
-                    Nadcab's needs.</p>
+                    Veridaxlabs's needs.</p>
             </div>
         </div>
         <div class="wow animate__animated animate__fadeInUp animate__delay-1s bg-card text-card-foreground card-shadow rounded-lg">
@@ -310,7 +310,7 @@
 </div>
 <section class="max-w-7xl mx-auto px-4 py-16" id="ApplyJob">
     <h3 class="wow animate__animated animate__fadeInUp text-3xl md:text-4xl font-semibold mb-2">Current Openings</h3>
-    <p class="wow animate__animated animate__fadeInUp animate__delay-1s text-gray-600 mb-12">Explore current job openings at Nadcab Labs and find your next career move.</p>
+    <p class="wow animate__animated animate__fadeInUp animate__delay-1s text-gray-600 mb-12">Explore current job openings at Veridaxlabs and find your next career move.</p>
     <div class="space-y-4">
         <div class="wow animate__animated animate__fadeInUp flex justify-between py-3 border-b group"><span
                 class="text-lg group-hover:text-blue-700 transition">Full Stack Developer</span><a
@@ -343,7 +343,7 @@
                 <div class="wow animate__animated animate__fadeInLeft w-full lg:w-7/12 flex items-center dark:bg-white dark:text-black dark:shadow-none">
                     <div class="p-6 lg:p-8 space-y-3">
                         <h4 class="font-medium text-xl sm:text-xl md:text-3xl">Internship &amp; Apprentice Programme at
-                            Nadcab</h4>
+                            Veridaxlabs</h4>
                         <p class="text-base sm:text-sm [&amp;_a]:text-blue-600 ">Join our Internship &amp; Apprentice
                             Program to gain hands-on experience in blockchain, Web3, and emerging tech.</p>
                         <div class="pt-2"><a class="link_button_blue" href="/career">Apply Today</a></div>

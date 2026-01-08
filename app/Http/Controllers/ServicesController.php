@@ -39,7 +39,7 @@ class ServicesController extends Controller
                 'answer' => '<p><span style="font-weight: 400;">To choose the best blockchain development company, evaluate their expertise in private blockchain development, ethereum blockchain development, and hyperledger blockchain development. Also check if they offer advanced services like Hashgraph Development or Direct Acyclic Graph Development. A reliable company should also have experience in delivering enterprise solutions such as Procure To Pay Services and supply chain management platforms.</span></p>'
             ],
             [
-                'question' => 'Why Choose Nadcab Labs as Your Blockchain Development Partner?',
+                'question' => 'Why Choose Veridaxlabs as Your Blockchain Development Partner?',
                 'answer' => '<ul><li data-pm-slice="0 0 []">Proven track record backed by many years of blockchain innovation.</li><li>Extensive portfolio of successfully delivered Web3 and blockchain solutions.</li><li>Dedicated specialists in development, auditing, architecture, and consulting.</li><li>Custom engineered solutions for businesses of every size.</li><li>Worldwide presence enabling seamless global collaboration.</li></ul>'
             ],
             [

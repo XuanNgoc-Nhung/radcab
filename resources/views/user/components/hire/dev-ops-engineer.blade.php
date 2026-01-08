@@ -797,7 +797,7 @@
                         Ready to Discuss Your Project?</h2>
                     <p class="text-base leading-6 text-black dark:text-white [&amp;_a]:text-blue-600">Let’s build
                         secure, automated, and scalable infrastructure together. Reach out today and get started with
-                        Nadcab’s DevOps experts.</p>
+                        Veridaxlabs’s DevOps experts.</p>
                     <div class="grid grid-cols-1 sm:grid-cols-2  gap-y-4">
                         <div class="flex items-start gap-3">
                             <div
@@ -1140,7 +1140,7 @@
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
                                 <h3 class="font-normal text-base md:font-medium md:text-base">Why should I hire DevOps
-                                    engineers from Nadcab Labs?</h3>
+                                    engineers from Veridaxlabs?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
@@ -1155,7 +1155,7 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    At Nadcab Labs, our DevOps engineers are experts in CI/CD, cloud architecture,
+                                    At Veridaxlabs, our DevOps engineers are experts in CI/CD, cloud architecture,
                                     containerization, and automation. They ensure your systems are secure, scalable, and
                                     optimized for consistent, high-performance results.</div>
                             </div>

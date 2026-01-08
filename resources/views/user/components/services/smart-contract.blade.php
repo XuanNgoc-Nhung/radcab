@@ -727,10 +727,10 @@
     </section>
     <section class="py-12 px-4 sm:py-16">
         <div class="text-center mb-10 sm:mb-12">
-            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Choose Nadcab Labs as
+            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Choose Veridaxlabs as
                 Your Smart Contract Development Company?</h2>
             <p class="text-muted-foreground text-base max-w-2xl mx-auto [&amp;_a]:text-blue-600">
-                <p>At Nadcab Labs, we offer easy and reliable smart contract development services that make business
+                <p>At Veridaxlabs, we offer easy and reliable smart contract development services that make business
                     operations faster and safer. Our experts create secure, transparent, and flexible blockchain
                     solutions that help your business grow with confidence and trust.</p>
             </p>
@@ -846,7 +846,7 @@
                     <div class="flex flex-col sm:flex-row gap-2 mb-2"><span class="text-muted-foreground text-sm">Jun
                             02, 2025</span></div>
                     <h3 class="text-2xl sm:text-3xl md:text-4xl font-semibold">Athene Network</h3>
-                    <p class="text-muted-foreground dark:text-white/80 text-sm sm:text-base md:text-lg">Learn how Nadcab
+                    <p class="text-muted-foreground dark:text-white/80 text-sm sm:text-base md:text-lg">Learn how Veridaxlabs
                         Labs developed Athene Network’s crypto mining app, making digital asset mining efficient,
                         secure, and user-friendly. Read full case study.</p><a class="link_button_outline mt-2"
                         href="/case-study/athene-network-mining-app-development">View</a>
@@ -977,7 +977,7 @@
                     <h3 class="font-semibold text-base sm:text-xl mb-2 ">Banking</h3>
                     <p
                         class="text-muted-foreground [&amp;_a]:text-blue-600  [&amp;_a:hover]:underline   dark:text-white/80 text-xs sm:text-base text-center flex-1">
-                        <p>Nadcab Labs uses smart contracts to handle payments, loans, and transactions automatically.
+                        <p>Veridaxlabs uses smart contracts to handle payments, loans, and transactions automatically.
                             This reduces paperwork, avoids mistakes, speeds up banking, and makes financial operations
                             safer, faster, and more reliable for everyone.</p>
                     </p>
@@ -1024,7 +1024,7 @@
                     <h3 class="font-semibold text-base sm:text-xl mb-2 ">Education</h3>
                     <p
                         class="text-muted-foreground [&amp;_a]:text-blue-600  [&amp;_a:hover]:underline   dark:text-white/80 text-xs sm:text-base text-center flex-1">
-                        <p>Nadcab Labs uses smart contracts to protect <a href="/blockchain-education-software">student
+                        <p>Veridaxlabs uses smart contracts to protect <a href="/blockchain-education-software">student
                                 records</a> and verify certificates automatically. This reduces paperwork, saves time,
                             and makes school and college record-keeping faster, safer, and more trustworthy for
                             everyone.</p>
@@ -1174,7 +1174,7 @@
                         <h3 class="font-semibold text-lg mb-2 line-clamp-2">Banking</h3>
                         <p
                             class="text-muted-foreground dark:text-white/80 text-base text-center  [&amp;_a]:text-blue-600  [&amp;_a:hover]:underline ">
-                            <p>Nadcab Labs uses smart contracts to handle payments, loans, and transactions
+                            <p>Veridaxlabs uses smart contracts to handle payments, loans, and transactions
                                 automatically. This reduces paperwork, avoids mistakes, speeds up banking, and makes
                                 financial operations safer, faster, and more reliable for everyone.</p>
                         </p>
@@ -2494,12 +2494,12 @@
                 <div class="w-full md:w-1/2 pt-12 pb-12 lg:py-14 px-4">
                     <h2 class="text-lg md:text-4xl font-unbounded font-semibold lg:leading-snug mb-2 text-white">The
                         Future Roadmap for Smart Contracts After 2025</h2>
-                    <p class="font-medium text-lg mb-6 text-white">Nadcab Labs has 8+ years of experience in blockchain
+                    <p class="font-medium text-lg mb-6 text-white">Veridaxlabs has 8+ years of experience in blockchain
                         and has built smart contracts for clients in 21+ countries. Through our smart contract
                         development services, we focus on secure, transparent, and high-quality solutions. Our smart
                         contracts automate business rules, reduce manual work, and help companies grow with trust,
                         security, and confidence in the Web3 world.</p><a class="link_button" href="/contact">Build With
-                        Nadcab Labs</a>
+                        Veridaxlabs</a>
                 </div>
             </div>
             <div class="hidden md:block absolute right-0 bottom-0 w-[40%] h-full"><img

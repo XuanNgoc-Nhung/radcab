@@ -967,9 +967,9 @@
     <section class="py-12 sm:py-16 px-4">
         <div class="text-center mb-12 sm:mb-16">
             <h2 class="gradient-text text-xl sm:text-2xl md:text-4xl md:leading-snug mb-2 max-w-5xl mx-auto">What Makes
-                Nadcab Labs the Right Cryptocurrency MLM Software Development Company for Your Business?</h2>
+                Veridaxlabs the Right Cryptocurrency MLM Software Development Company for Your Business?</h2>
             <p class="text-muted-foreground text-sm sm:text-base md:text-lg max-w-4xl mx-auto  [&amp;_a]:text-blue-600">
-                <p><span style="font-weight: 400;">Nadcab Labs, a premier Crypto MLM Software Development Company and <a
+                <p><span style="font-weight: 400;">Veridaxlabs, a premier Crypto MLM Software Development Company and <a
                             href="https://www.nadcab.com/blockchain-development-company">blockchain development
                             company</a>, empowers businesses to build transparent, automated, and globally scalable MLM
                         ecosystems. Some of the main benefits include:</span></p>
@@ -2562,7 +2562,7 @@
                 <div class="w-full md:w-1/2 pt-12 pb-12 lg:py-14 px-4">
                     <h2 class="text-lg md:text-4xl font-unbounded font-semibold lg:leading-snug mb-2 text-white">
                         Expertise in Building Secure Crypto MLM Platforms</h2>
-                    <p class="font-medium text-lg mb-6 text-white">Maximise your cryptocurrency ROI with Nadcab Labs’
+                    <p class="font-medium text-lg mb-6 text-white">Maximise your cryptocurrency ROI with Veridaxlabs’
                         advanced Cryptocurrency MLM Software Development services. Our Crypto MLM development company
                         supports major blockchain networks including Bitcoin, Ethereum, Solana, TRON, Polygon, and
                         Binance Smart Chain, enabling businesses to launch powerful and scalable MLM systems. From

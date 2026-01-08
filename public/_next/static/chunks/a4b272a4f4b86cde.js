@@ -142,7 +142,7 @@
                 className: "w-2/3",
                 children: [(0, s.jsx)("h4", {
                     className: "font-bold text-2xl mb-3 text-gray-900",
-                    children: "About Nadcab Labs"
+                    children: "About Veridaxlabs"
                 }), (0, s.jsx)("p", {
                     className: "text-muted-foreground text-base leading-snug mb-2",
                     children: "A leading blockchain company delivering innovative digital solutions worldwide."

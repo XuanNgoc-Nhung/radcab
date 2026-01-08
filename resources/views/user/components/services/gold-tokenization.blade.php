@@ -125,7 +125,7 @@
                     Tokenization Development Services</h2>
                 <p
                     class="text-muted-foreground text-base max-w-2xl mx-auto  [&amp;_a]:text-blue-600  [&amp;_a:hover]:underline">
-                    <p><span style="font-weight: 400;">At Nadcab Labs, we deliver secure, scalable, and business ready
+                    <p><span style="font-weight: 400;">At Veridaxlabs, we deliver secure, scalable, and business ready
                             gold <a href="https://www.nadcab.com/best-crypto-token-developers">Token Development
                                 Services</a> tailored to your goals. Our team designs end-to-end platforms that convert
                             physical gold into transparent, compliant, and globally tradable digital tokens.</span></p>
@@ -734,10 +734,10 @@
     </section>
     <section class="py-12 px-4 sm:py-16">
         <div class="text-center mb-10 sm:mb-12">
-            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Choose Nadcab Labs as
+            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Choose Veridaxlabs as
                 Your Gold Tokenization Development Partner?</h2>
             <p class="text-muted-foreground text-base max-w-2xl mx-auto [&amp;_a]:text-blue-600">
-                <p>Success in gold tokenization starts with selecting the right development team. Clients rely on Nadcab
+                <p>Success in gold tokenization starts with selecting the right development team. Clients rely on Veridaxlabs
                     Labs for our experience, innovation, and trusted gold tokenization development services.</p>
             </p>
         </div>
@@ -763,7 +763,7 @@
                             Tokenization</h3>
                         <p
                             class="text-gray-800 dark:text-white/80 font-normal text-sm sm:text-base md:text-base flex-1  [&amp;_a]:text-blue-600">
-                            <p>Nadcab Labs has hands-on experience in building secure gold tokenization platforms backed
+                            <p>Veridaxlabs has hands-on experience in building secure gold tokenization platforms backed
                                 by real, audited assets. Our team understands the technical, legal, and operational
                                 challenges involved in tokenizing physical gold, ensuring every token represents true
                                 ownership with full transparency and trust.</p>
@@ -794,7 +794,7 @@
                         <p
                             class="text-gray-800 dark:text-white/80 font-normal text-sm sm:text-base md:text-base flex-1  [&amp;_a]:text-blue-600">
                             <p>From platform planning and smart contract development to wallet integration and
-                                post-launch support, Nadcab Labs delivers complete gold tokenization solutions. We work
+                                post-launch support, Veridaxlabs delivers complete gold tokenization solutions. We work
                                 closely with clients at every stage, ensuring smooth deployment, scalability, and
                                 long-term performance.</p>
                         </p>
@@ -821,7 +821,7 @@
                             Transparent Approach</h3>
                         <p
                             class="text-gray-800 dark:text-white/80 font-normal text-sm sm:text-base md:text-base flex-1  [&amp;_a]:text-blue-600">
-                            <p>We believe in clear communication, realistic timelines, and honest guidance. Nadcab Labs
+                            <p>We believe in clear communication, realistic timelines, and honest guidance. Veridaxlabs
                                 prioritizes your business goals, offering customized gold tokenization solutions that
                                 align with market demand, investor confidence, and future growth without unnecessary
                                 complexity.</p>
@@ -853,7 +853,7 @@
                     <div class="flex flex-col sm:flex-row gap-2 mb-2"><span class="text-muted-foreground text-sm">Jun
                             13, 2025</span></div>
                     <h3 class="text-2xl sm:text-3xl md:text-4xl font-semibold">Open Campus</h3>
-                    <p class="text-muted-foreground dark:text-white/80 text-sm sm:text-base md:text-lg">See how Nadcab
+                    <p class="text-muted-foreground dark:text-white/80 text-sm sm:text-base md:text-lg">See how Veridaxlabs
                         Labs transformed education with Open Campus, using blockchain for secure records &amp; scalable
                         learning. Read full case study.</p><a class="link_button_outline mt-2"
                         href="/case-study/open-campus-blockchain-education">View</a>
@@ -1801,7 +1801,7 @@
             <div class="space-y-6 ">
                 <h2 class="text-3xl sm:text-4xl font-medium">Awards and Achievements That Reflect Our Commitment to
                     Excellence</h2>
-                <p class="text-base sm:text-lg font-normal text-muted-foreground">At Nadcab Labs, we’re proud to be
+                <p class="text-base sm:text-lg font-normal text-muted-foreground">At Veridaxlabs, we’re proud to be
                     recognized as a trusted gold tokenization development company known for innovation in blockchain and
                     digital transformation. Our secure, scalable, and future-ready solutions have earned global
                     appreciation, reflecting our commitment to excellence and the trust of our clients.</p>
@@ -2327,7 +2327,7 @@
                     <h2 class="text-lg md:text-4xl font-unbounded font-semibold lg:leading-snug mb-2 text-white">Make
                         Gold Tokenization Smarter with AI and Automation</h2>
                     <p class="font-medium text-lg mb-6 text-white">Backed by real industry experience, secure
-                        architectures, and advanced blockchain tools, Nadcab Labs is a leading gold tokenization
+                        architectures, and advanced blockchain tools, Veridaxlabs is a leading gold tokenization
                         development company offering secure blockchain platforms that convert physical gold into
                         trusted, compliant, and liquid digital assets with advanced automation, transparency, and global
                         accessibility. We ensure every token is fully audited and backed by verifiable reserves, giving

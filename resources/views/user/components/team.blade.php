@@ -20,10 +20,10 @@
                 <div class="wow animate__animated animate__fadeInUp animate__delay-2s relative flex justify-end w-full z-[2] top-5">
                     <div class="flex flex-col gap-y-8 w-full max-w-xl">
                         <p class="text-white text-sm  leading-[22.4px] md:text-base">Behind every transformative
-                            blockchain solution is a team that dares to dream bigger. At Nadcab Labs, our leaders
+                            blockchain solution is a team that dares to dream bigger. At Veridaxlabs, our leaders
                             inspire a culture of innovation, collaboration, and excellence — empowering talented
                             technologists to build the frameworks that power tomorrow's decentralized world.</p>
-                        <div class="lg:mb-0 mb-8"><a class="link_button_blue" href="/career">Join the Nadcab Team</a>
+                        <div class="lg:mb-0 mb-8"><a class="link_button_blue" href="/career">Join the Veridaxlabs Team</a>
                         </div>
                     </div>
                 </div>
@@ -320,7 +320,7 @@
                     <h3 class="font-medium text-lg sm:text-xl md:text-2xl mb-2 sm:mb-4">Growth-Focused Environment</h3>
                     <p
                         class="text-gray-800 dark:text-white/80 font-normal text-sm sm:text-base md:text-base flex-1  [&amp;_a]:text-blue-600">
-                        We believe in fostering talent. At Nadcab, every team member has the opportunity to grow
+                        We believe in fostering talent. At Veridaxlabs, every team member has the opportunity to grow
                         professionally, take ownership of projects, and work on cutting-edge blockchain, Web3, and DApp
                         initiatives.</p>
                 </div>
@@ -344,7 +344,7 @@
                     <h3 class="font-medium text-lg sm:text-xl md:text-2xl mb-2 sm:mb-4">Be a Change-Maker</h3>
                     <p
                         class="text-gray-800 dark:text-white/80 font-normal text-sm sm:text-base md:text-base flex-1  [&amp;_a]:text-blue-600">
-                        Join a team that's shaping the future of technology. At Nadcab Labs, your ideas matter, and your
+                        Join a team that's shaping the future of technology. At Veridaxlabs, your ideas matter, and your
                         contributions help define the next generation of blockchain applications.</p>
                 </div>
             </div>
@@ -397,9 +397,9 @@
 <div class="py-16 px-6 lg:py-16">
     <div class="wow animate__animated animate__fadeInUp text-center mb-4">
         <h2 class="gradient-text text-2xl lg:leading-snug sm:text-3xl md:text-4xl font-medium">What Our Clients Say
-            About Partnering<br> With Nadcab Labs</h2>
+            About Partnering<br> With Veridaxlabs</h2>
     </div>
-    <p class="wow animate__animated animate__fadeInUp animate__delay-1s text-center max-w-3xl mx-auto font-normal text-base mb-4">Our clients share how collaborating with Nadcab
+    <p class="wow animate__animated animate__fadeInUp animate__delay-1s text-center max-w-3xl mx-auto font-normal text-base mb-4">Our clients share how collaborating with Veridaxlabs
         Labs transformed their blockchain projects — from concept to successful deployment. We don't just build
         technology; we build partnerships that deliver growth.</p>
     <div class="max-w-7xl mx-auto  grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-4 mt-12">
@@ -411,7 +411,7 @@
                         d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z">
                     </path>
                 </svg>
-                <p class="text-muted-foreground text-base leading-relaxed italic--">Nadcab Labs transformed our vision
+                <p class="text-muted-foreground text-base leading-relaxed italic--">Veridaxlabs transformed our vision
                     into reality with their top-notch blockchain solutions. Their expertise and dedication to the
                     project were evident in every step of the process</p>
             </div>
@@ -430,7 +430,7 @@
                         d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z">
                     </path>
                 </svg>
-                <p class="text-muted-foreground text-base leading-relaxed italic--">The onboarding process with Nadcab
+                <p class="text-muted-foreground text-base leading-relaxed italic--">The onboarding process with Veridaxlabs
                     Labs was seamless and efficient. Their team guided us through each step, ensuring that we understood
                     how to use their tools and integrate them with our systems.</p>
             </div>
@@ -450,7 +450,7 @@
                     </path>
                 </svg>
                 <p class="text-muted-foreground text-base leading-relaxed italic--">The blockchain consulting services
-                    by Nadcab Labs provided us with valuable insights and guidance. Their expertise helped us refine our
+                    by Veridaxlabs provided us with valuable insights and guidance. Their expertise helped us refine our
                     project strategy</p>
             </div>
             <div class="flex items-center gap-3 mt-4">
@@ -468,7 +468,7 @@
                         d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z">
                     </path>
                 </svg>
-                <p class="text-muted-foreground text-base leading-relaxed italic--">Nadcab Labs has been a trusted
+                <p class="text-muted-foreground text-base leading-relaxed italic--">Veridaxlabs has been a trusted
                     partner in our journey towards Web3 adoption. Their robust technology and expert team have provided
                     us with the tools and knowledge needed to navigate this new landscape.</p>
             </div>
@@ -487,7 +487,7 @@
                         d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z">
                     </path>
                 </svg>
-                <p class="text-muted-foreground text-base leading-relaxed italic--">Clients consistently commend Nadcab
+                <p class="text-muted-foreground text-base leading-relaxed italic--">Clients consistently commend Veridaxlabs
                     Labs for their project management skills, noting timely deliveries, clear communication, and
                     flexibility in responding to client needs.</p>
             </div>
@@ -506,7 +506,7 @@
                         d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z">
                     </path>
                 </svg>
-                <p class="text-muted-foreground text-base leading-relaxed italic--">Nadcab Labs effectively integrates
+                <p class="text-muted-foreground text-base leading-relaxed italic--">Veridaxlabs effectively integrates
                     new solutions with clients' existing systems, ensuring seamless transitions and minimal disruptions
                     to business operations</p>
             </div>

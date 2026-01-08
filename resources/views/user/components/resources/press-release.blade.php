@@ -7,7 +7,7 @@
         <h1 class="text-white text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-4">Press &amp; Media Highlights
         </h1>
         <p class="text-white text-base sm:text-lg md:text-xl max-w-3xl mb-12">Stay informed with the latest updates,
-            announcements, and articles from Nadcab Labs. Explore our recent achievements, partnerships, and insights
+            announcements, and articles from Veridaxlabs. Explore our recent achievements, partnerships, and insights
             that shape the blockchain and Web3 ecosystem.</p><a class="link_button" href="#press_R">Latest Press
             Release<svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round"
                 stroke-linejoin="round" class="text-xl sm:text-2xl" height="1em" width="1em"
@@ -21,7 +21,7 @@
     <div class="max-w-7xl mx-auto text-center mb-12">
         <h2 class="text-3xl sm:text-4xl font-bold mb-3">Latest Press Releases</h2>
         <p class="text-gray-600 dark:text-muted-foreground text-base max-w-3xl mx-auto">Stay updated with the latest
-            news, announcements, and insights from Nadcab Labs.</p>
+            news, announcements, and insights from Veridaxlabs.</p>
     </div>
     <div id="press_R" class="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8"><a target="_blank"
             class="group border border-gray-200 dark:border-gray-600 rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 p-6 text-left flex flex-col justify-between cursor-pointer hover:-translate-y-1"
@@ -75,14 +75,14 @@
             class="group border border-gray-200 dark:border-gray-600 rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 p-6 text-left flex flex-col justify-between cursor-pointer hover:-translate-y-1"
             href="/press-release/nadcab-labs-tech-partnership">
             <div class="w-full lg:h-48 mb-4 overflow-hidden rounded-lg"><img
-                    alt="Nadcab Labs Partners with Top Tech Firm for Global" loading="lazy" width="400" height="200"
+                    alt="Veridaxlabs Partners with Top Tech Firm for Global" loading="lazy" width="400" height="200"
                     decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
                     srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-16-1.png?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-16-1.png?w=828&amp;q=75 2x"
                     src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-16-1.png?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
-                Nadcab Labs Partners with Top Tech Firm for Global</h3>
+                Veridaxlabs Partners with Top Tech Firm for Global</h3>
         </a><a target="_blank"
             class="group border border-gray-200 dark:border-gray-600 rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 p-6 text-left flex flex-col justify-between cursor-pointer hover:-translate-y-1"
             href="/press-release/eigenphi-mev-bot-revolutionizing-crypto-trading">
@@ -99,14 +99,14 @@
             class="group border border-gray-200 dark:border-gray-600 rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 p-6 text-left flex flex-col justify-between cursor-pointer hover:-translate-y-1"
             href="/press-release/eigenphi-mev-bot-milestone-in-blockchain">
             <div class="w-full lg:h-48 mb-4 overflow-hidden rounded-lg"><img
-                    alt="Nadcab Labs “Eigenphi MEV” Bot: A New Milestone in" loading="lazy" width="400" height="200"
+                    alt="Veridaxlabs “Eigenphi MEV” Bot: A New Milestone in" loading="lazy" width="400" height="200"
                     decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
                     srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-19.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-19.jpg?w=828&amp;q=75 2x"
                     src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-19.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
-                Nadcab Labs “Eigenphi MEV” Bot: A New Milestone in</h3>
+                Veridaxlabs “Eigenphi MEV” Bot: A New Milestone in</h3>
         </a><a target="_blank"
             class="group border border-gray-200 dark:border-gray-600 rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 p-6 text-left flex flex-col justify-between cursor-pointer hover:-translate-y-1"
             href="/press-release/transforming-finance-defi">
@@ -130,19 +130,19 @@
                     srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-21.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-21.jpg?w=828&amp;q=75 2x"
                     src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-21.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
-                Nadcab Pioneering Custom Blockchain Development</h3>
+                Veridaxlabs Pioneering Custom Blockchain Development</h3>
         </a><a target="_blank"
             class="group border border-gray-200 dark:border-gray-600 rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 p-6 text-left flex flex-col justify-between cursor-pointer hover:-translate-y-1"
             href="/press-release/nadcab-labs-custom-blockchain-leader">
             <div class="w-full lg:h-48 mb-4 overflow-hidden rounded-lg"><img
-                    alt="Nadcab Labs Top in Custom Blockchain Development" loading="lazy" width="400" height="200"
+                    alt="Veridaxlabs Top in Custom Blockchain Development" loading="lazy" width="400" height="200"
                     decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
                     srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-20.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-20.jpg?w=828&amp;q=75 2x"
                     src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-20.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
-                Nadcab Labs Top in Custom Blockchain Development</h3>
+                Veridaxlabs Top in Custom Blockchain Development</h3>
         </a><a target="_blank"
             class="group border border-gray-200 dark:border-gray-600 rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 p-6 text-left flex flex-col justify-between cursor-pointer hover:-translate-y-1"
             href="/press-release/token-development-protocol-on-blockchain">
@@ -159,26 +159,26 @@
             class="group border border-gray-200 dark:border-gray-600 rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 p-6 text-left flex flex-col justify-between cursor-pointer hover:-translate-y-1"
             href="/press-release/nadcab-labs-crypto-exchange-solutions">
             <div class="w-full lg:h-48 mb-4 overflow-hidden rounded-lg"><img
-                    alt="Nadcab Labs &amp;#8211; Innovating Crypto Exchange Solutions" loading="lazy" width="400"
+                    alt="Veridaxlabs &amp;#8211; Innovating Crypto Exchange Solutions" loading="lazy" width="400"
                     height="200" decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
                     srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-25.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-25.jpg?w=828&amp;q=75 2x"
                     src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-25.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
-                Nadcab Labs – Innovating Crypto Exchange Solutions</h3>
+                Veridaxlabs – Innovating Crypto Exchange Solutions</h3>
         </a><a target="_blank"
             class="group border border-gray-200 dark:border-gray-600 rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 p-6 text-left flex flex-col justify-between cursor-pointer hover:-translate-y-1"
             href="/press-release/nadcab-labs-defi-smart-contract-leader">
             <div class="w-full lg:h-48 mb-4 overflow-hidden rounded-lg"><img
-                    alt="Nadcab Labs Leading the Way in Smart Contracts for Financial Innovation" loading="lazy"
+                    alt="Veridaxlabs Leading the Way in Smart Contracts for Financial Innovation" loading="lazy"
                     width="400" height="200" decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
                     srcset="https://img.nadcab.com/wp-content/uploads/2024/08/pressrelease-23.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2024/08/pressrelease-23.jpg?w=828&amp;q=75 2x"
                     src="https://img.nadcab.com/wp-content/uploads/2024/08/pressrelease-23.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
-                Nadcab Labs Leading the Way in Smart Contracts for Financial Innovation</h3>
+                Veridaxlabs Leading the Way in Smart Contracts for Financial Innovation</h3>
         </a></div>
 </section>
 <div class="lg:pt-16 relative">
@@ -210,7 +210,7 @@
                 <div class="" style="animation-delay:0ms">
                     <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                             class="accordion-trigger">
-                            <h3 class="font-normal text-base md:font-medium md:text-base">How can I access Nadcab's
+                            <h3 class="font-normal text-base md:font-medium md:text-base">How can I access Veridaxlabs's
                                 press releases?</h3>
                             <div
                                 class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
@@ -234,7 +234,7 @@
                 <div class="" style="animation-delay:100ms">
                     <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                             class="accordion-trigger">
-                            <h3 class="font-normal text-base md:font-medium md:text-base">Can I use Nadcab's logos or
+                            <h3 class="font-normal text-base md:font-medium md:text-base">Can I use Veridaxlabs's logos or
                                 media content?</h3>
                             <div
                                 class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
@@ -325,14 +325,14 @@
                             <div
                                 class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
                                 Yes, you can subscribe to our newsletter or press mailing list to stay updated with the
-                                latest news and announcements from Nadcab Labs.</div>
+                                latest news and announcements from Veridaxlabs.</div>
                         </div>
                     </div>
                 </div>
                 <div class="" style="animation-delay:200ms">
                     <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                             class="accordion-trigger">
-                            <h3 class="font-normal text-base md:font-medium md:text-base">Are Nadcab press releases
+                            <h3 class="font-normal text-base md:font-medium md:text-base">Are Veridaxlabs press releases
                                 available for syndication?</h3>
                             <div
                                 class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
@@ -348,7 +348,7 @@
                         <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                             <div
                                 class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                Our press releases can be shared on media platforms with proper credit to Nadcab Labs.
+                                Our press releases can be shared on media platforms with proper credit to Veridaxlabs.
                                 For partnership or syndication requests, contact info@nadcab.com.</div>
                         </div>
                     </div>

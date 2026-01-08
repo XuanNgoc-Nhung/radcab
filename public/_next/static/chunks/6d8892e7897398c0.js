@@ -300,7 +300,7 @@
                     className: "text-center pt-20 mb-10",
                     children: (0, l.jsx)("h1", {
                         className: "gradient-text lg:leading-snug text-4xl lg:text-5xl sm:text-5xl md:text-2xl mb-6 font-bold",
-                        children: "Nadcab Labs Blog"
+                        children: "Veridaxlabs Blog"
                     })
                 }), (0, l.jsx)("div", {
                     className: "container mx-auto flex flex-wrap justify-center gap-4 py-2",

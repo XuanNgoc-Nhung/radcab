@@ -212,7 +212,7 @@
         </div>
         <section class="lg:py-24 px-4">
             <div class="text-center max-w-3xl mx-auto mb-14 wow animate__animated animate__fadeInUp">
-                <h2 class="text-3xl sm:text-4xl font-semibold">Why Global Brands Choose Nadcab?</h2>
+                <h2 class="text-3xl sm:text-4xl font-semibold">Why Global Brands Choose Veridaxlabs?</h2>
                 <p class="text-gray-500 mt-3 text-base sm:text-lg">Trusted by startups, enterprises, and global brands
                     for secure, scalable, and future-ready digital solutions.
                 </p>
@@ -304,7 +304,7 @@
                                 class="text-muted-foreground text-sm">Sep 12, 2025</span></div>
                         <h3 class="text-2xl sm:text-3xl md:text-4xl font-semibold">RoninChain</h3>
                         <p class="text-muted-foreground dark:text-white/80 text-sm sm:text-base md:text-lg">Wondering
-                            how to build a Layer-1 blockchain for gaming? Nadcab Labs developed RoninChain for Web3
+                            how to build a Layer-1 blockchain for gaming? Veridaxlabs developed RoninChain for Web3
                             games. Read full case study.</p><a class="link_button_outline mt-2"
                             href="/case-study/roninchain-blockchain-for-gaming">View</a>
                     </div><button aria-label="Previous Slide"
@@ -393,7 +393,7 @@
             <div class="max-w-7xl mx-auto">
                 <div class="mb-16">
                     <h5 class="gradient-text text-xl sm:text-2xl md:text-4xl font-medium mb-4 leading-snug mx-auto">
-                        Nadcab Labs Brings Transformation for Global Businesses</h5>
+                        Veridaxlabs Brings Transformation for Global Businesses</h5>
                     <div class="w-24 h-1 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-full"></div>
                     <p class="text-xl md:text-lg leading-relaxed my-6 max-w-5xl">Starting from understanding your
                         business challenges to delivering precise, high-performance solutions, we ensure every project

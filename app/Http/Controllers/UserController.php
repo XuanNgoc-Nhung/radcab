@@ -30,11 +30,11 @@ class UserController extends Controller
                 'answer' => 'Yes, we provide comprehensive post-launch support, updates, performance monitoring, and feature enhancements to ensure your app remains secure, efficient, and aligned with evolving business needs.'
             ],
             [
-                'question' => 'Why choose Nadcab Labs for development?',
-                'answer' => 'Nadcab Labs combines deep technical expertise, agile methodologies, and innovative solutions to deliver scalable, high-quality software and mobile applications that drive growth and digital transformation.'
+                'question' => 'Why choose Veridaxlabs for development?',
+                'answer' => 'Veridaxlabs combines deep technical expertise, agile methodologies, and innovative solutions to deliver scalable, high-quality software and mobile applications that drive growth and digital transformation.'
             ],
             [
-                'question' => 'How does Nadcab Labs ensure ethical AI use?',
+                'question' => 'How does Veridaxlabs ensure ethical AI use?',
                 'answer' => 'We prioritize transparency, fairness, and accountability in AI systems, ensuring ethical data handling, bias-free algorithms, and responsible AI practices aligned with global standard'
             ],
             [
@@ -70,15 +70,15 @@ class UserController extends Controller
     {
         $faqs = [
             [
-                'question' => 'Who can become a partner with Nadcab Labs?',
-                'answer' => 'Nadcab Labs welcomes Web3 startups, enterprises, agencies, investors, NGOs, educational institutions, and accelerators who aim to collaborate on blockchain, Web3, or SaaS-based innovations.'
+                'question' => 'Who can become a partner with Veridaxlabs?',
+                'answer' => 'Veridaxlabs welcomes Web3 startups, enterprises, agencies, investors, NGOs, educational institutions, and accelerators who aim to collaborate on blockchain, Web3, or SaaS-based innovations.'
             ],
             [
-                'question' => 'What are the benefits of partnering with Nadcab Labs?',
+                'question' => 'What are the benefits of partnering with Veridaxlabs?',
                 'answer' => 'Partners gain access to our global network, expert blockchain developers, white-label solutions, co-marketing support, and opportunities for joint product development and revenue growth.'
             ],
             [
-                'question' => 'How can I apply to become a Nadcab Labs partner?',
+                'question' => 'How can I apply to become a Veridaxlabs partner?',
                 'answer' => 'You can submit your partnership request through the \'Become a Partner\' form on our website. Our partnership team will connect with you within 48 hours to discuss collaboration opportunities.'
             ],
             [
@@ -91,15 +91,15 @@ class UserController extends Controller
             ],
             [
                 'question' => 'Is there any cost to join as a partner?',
-                'answer' => 'Joining Nadcab Labs as a partner typically has no upfront cost. Some programs, like SaaS reselling or incubation support, may have revenue-sharing or licensing terms based on collaboration scope.'
+                'answer' => 'Joining Veridaxlabs as a partner typically has no upfront cost. Some programs, like SaaS reselling or incubation support, may have revenue-sharing or licensing terms based on collaboration scope.'
             ],
             [
-                'question' => 'Can startups and small businesses partner with Nadcab Labs?',
+                'question' => 'Can startups and small businesses partner with Veridaxlabs?',
                 'answer' => 'Absolutely. We actively collaborate with startups and small businesses to provide blockchain infrastructure, mentorship, and technical support for faster go-to-market execution.'
             ],
             [
                 'question' => 'Do you provide technical and marketing support to partners?',
-                'answer' => 'Yes. Nadcab Labs offers end-to-end technical, marketing, and training support to ensure smooth collaboration, seamless delivery, and brand visibility for all our partners.'
+                'answer' => 'Yes. Veridaxlabs offers end-to-end technical, marketing, and training support to ensure smooth collaboration, seamless delivery, and brand visibility for all our partners.'
             ]
         ];
 
@@ -109,11 +109,11 @@ class UserController extends Controller
     {
         $faqs = [
             [
-                'question' => 'How can I access Nadcab\'s press releases?',
+                'question' => 'How can I access Veridaxlabs\'s press releases?',
                 'answer' => 'All press releases are available on our Press & Media page. You can view, read, and share the latest updates directly from our website.'
             ],
             [
-                'question' => 'Can I use Nadcab\'s logos or media content?',
+                'question' => 'Can I use Veridaxlabs\'s logos or media content?',
                 'answer' => 'Yes, media and press assets are available for download in our Media Kit. Please ensure proper attribution when using our logos or content.'
             ],
             [
@@ -126,11 +126,11 @@ class UserController extends Controller
             ],
             [
                 'question' => 'Can I subscribe to receive press updates?',
-                'answer' => 'Yes, you can subscribe to our newsletter or press mailing list to stay updated with the latest news and announcements from Nadcab Labs.'
+                'answer' => 'Yes, you can subscribe to our newsletter or press mailing list to stay updated with the latest news and announcements from Veridaxlabs.'
             ],
             [
-                'question' => 'Are Nadcab press releases available for syndication?',
-                'answer' => 'Our press releases can be shared on media platforms with proper credit to Nadcab Labs. For partnership or syndication requests, contact info@nadcab.com.'
+                'question' => 'Are Veridaxlabs press releases available for syndication?',
+                'answer' => 'Our press releases can be shared on media platforms with proper credit to Veridaxlabs. For partnership or syndication requests, contact info@nadcab.com.'
             ]
         ];
 
@@ -148,12 +148,12 @@ class UserController extends Controller
                 'answer' => 'Absolutely! We provide post-launch support, maintenance, and upgrades for all blockchain solutions we deliver.'
             ],
             [
-                'question' => 'What details should I provide when contacting Nadcab?',
+                'question' => 'What details should I provide when contacting Veridaxlabs?',
                 'answer' => 'Provide your project idea, timeline, budget, and any technical requirements. The more details you share, the better we can tailor our proposal.'
             ],
             [
                 'question' => 'Can I request a Non-Disclosure Agreement (NDA)?',
-                'answer' => 'Yes, Nadcab signs an NDA for all potential projects to ensure your ideas and sensitive information remain fully confidential.'
+                'answer' => 'Yes, Veridaxlabs signs an NDA for all potential projects to ensure your ideas and sensitive information remain fully confidential.'
             ],
             [
                 'question' => 'What is the typical response time after submitting a contact form?',
@@ -161,7 +161,7 @@ class UserController extends Controller
             ],
             [
                 'question' => 'Do you provide custom blockchain development solutions?',
-                'answer' => 'Yes, Nadcab specializes in end-to-end custom blockchain solutions, including smart contracts, DApps, DeFi platforms, and NFT projects.'
+                'answer' => 'Yes, Veridaxlabs specializes in end-to-end custom blockchain solutions, including smart contracts, DApps, DeFi platforms, and NFT projects.'
             ],
             [
                 'question' => 'How can I follow up on my existing project inquiry?',

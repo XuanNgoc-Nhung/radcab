@@ -8,7 +8,7 @@
                     class="w-full lg:w-1/2 flex flex-col justify-center border border-gray-700 rounded-2xl bg-black/40 backdrop-blur-md p-6 sm:p-10 lg:p-12 order-2 lg:order-1">
                     <h1 class="text-3xl sm:text-4xl md:text-5xl font-semibold lg:leading-tight mb-6">Nadcab: Your
                         Trusted <br> Blockchain &amp; Web3 Partner</h1>
-                    <p class="text-gray-300 mb-4 text-sm sm:text-base">At Nadcab, we provide end-to-end digital
+                    <p class="text-gray-300 mb-4 text-sm sm:text-base">At Veridaxlabs, we provide end-to-end digital
                         engineering solutions, from strategy to deployment, ensuring seamless execution of your
                         projects. Our approach simplifies the complexity of managing multiple touchpoints. Here’s how we
                         get started.</p>
@@ -204,7 +204,7 @@
         </section>
         <div class="py-16 px-4">
             <div class="text-center lg:mb-8 mb-2">
-                <h2 class="text-gradient font-medium text-2xl sm:text-4xl leading-normal mb-2">Global Presence of Nadcab
+                <h2 class="text-gradient font-medium text-2xl sm:text-4xl leading-normal mb-2">Global Presence of Veridaxlabs
                     Labs</h2>
                 <p class="text-muted-foreground text-sm sm:text-sm md:text-base max-w-4xl mx-auto ">Our experts are
                     always within reach, connecting you to the world.</p>
@@ -380,7 +380,7 @@
                                 A Quick Glimpse of Our Blockchain Expertise</h2>
                             <p
                                 class=" [&amp;_a:hover]:underline mt-3 text-sm sm:text-base max-w-2xl mx-auto lg:mx-0  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                                At Nadcab, we build secure and innovative blockchain solutions tailored to your business
+                                At Veridaxlabs, we build secure and innovative blockchain solutions tailored to your business
                                 needs. From smart contracts and DApps to DeFi, NFT, and Metaverse projects, our team
                                 ensures your ideas turn into reliable, scalable applications.</p>
                         </div>

@@ -373,17 +373,17 @@
             question: "Do you offer support after project delivery?",
             answer: "Absolutely! We provide post-launch support, maintenance, and upgrades for all blockchain solutions we deliver."
         }, {
-            question: "What details should I provide when contacting Nadcab?",
+            question: "What details should I provide when contacting Veridaxlabs?",
             answer: "Provide your project idea, timeline, budget, and any technical requirements. The more details you share, the better we can tailor our proposal."
         }, {
             question: "Can I request a Non-Disclosure Agreement (NDA)?",
-            answer: "Yes, Nadcab signs an NDA for all potential projects to ensure your ideas and sensitive information remain fully confidential."
+            answer: "Yes, Veridaxlabs signs an NDA for all potential projects to ensure your ideas and sensitive information remain fully confidential."
         }, {
             question: "What is the typical response time after submitting a contact form?",
             answer: "Our team usually responds within 24–48 hours to discuss your project requirements and next steps."
         }, {
             question: "Do you provide custom blockchain development solutions?",
-            answer: "Yes, Nadcab specializes in end-to-end custom blockchain solutions, including smart contracts, DApps, DeFi platforms, and NFT projects."
+            answer: "Yes, Veridaxlabs specializes in end-to-end custom blockchain solutions, including smart contracts, DApps, DeFi platforms, and NFT projects."
         }, {
             question: "How can I follow up on my existing project inquiry?",
             answer: "You can reach out via the email you used in the contact form or connect with our support team through WhatsApp or phone. We track all inquiries to provide timely updates."
@@ -403,7 +403,7 @@
                             children: ["Nadcab: Your Trusted ", (0, t.jsx)("br", {}), " Blockchain & Web3 Partner"]
                         }), (0, t.jsx)("p", {
                             className: "text-gray-300 mb-4 text-sm sm:text-base",
-                            children: "At Nadcab, we provide end-to-end digital engineering solutions, from strategy to deployment, ensuring seamless execution of your projects. Our approach simplifies the complexity of managing multiple touchpoints. Here’s how we get started."
+                            children: "At Veridaxlabs, we provide end-to-end digital engineering solutions, from strategy to deployment, ensuring seamless execution of your projects. Our approach simplifies the complexity of managing multiple touchpoints. Here’s how we get started."
                         }), (0, t.jsxs)("p", {
                             className: "text-gray-300 mb-6 text-sm sm:text-base",
                             children: ["For customer support, please use the chat widget at the bottom right of your screen or send an email to", " ", (0, t.jsx)(r.default, {
@@ -455,7 +455,7 @@
                     className: "text-center lg:mb-8 mb-2",
                     children: [(0, t.jsx)("h2", {
                         className: "text-gradient font-medium text-2xl sm:text-4xl leading-normal mb-2",
-                        children: "Global Presence of Nadcab Labs"
+                        children: "Global Presence of Veridaxlabs"
                     }), (0, t.jsx)("p", {
                         className: "text-muted-foreground text-sm sm:text-sm md:text-base max-w-4xl mx-auto ",
                         children: "Our experts are always within reach, connecting you to the world."
@@ -531,7 +531,7 @@
                 })
             }), (0, t.jsx)(u, {
                 title: "A Quick Glimpse of Our Blockchain Expertise",
-                description: "At Nadcab, we build secure and innovative blockchain solutions tailored to your business needs. From smart contracts and DApps to DeFi, NFT, and Metaverse projects, our team ensures your ideas turn into reliable, scalable applications.",
+                description: "At Veridaxlabs, we build secure and innovative blockchain solutions tailored to your business needs. From smart contracts and DApps to DeFi, NFT, and Metaverse projects, our team ensures your ideas turn into reliable, scalable applications.",
                 bulletPoints: ["Custom Blockchain Application Development", "Smart Contract Development & Audits", "DApps & Web3 Solutions, DeFi, NFT, and Metaverse Projects", "Blockchain Consulting & Strategy"],
                 imageSrc: "/quick-glimpse.png",
                 altText: "Our Blockchain Expertise"

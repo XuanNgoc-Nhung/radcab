@@ -318,7 +318,7 @@
                 Partnering With DEX Development Solutions</h2>
             <p
                 class="text-sm sm:text-sm md:text-base max-w-4xl mx-auto mb-8 sm:mb-12 text-foreground/90 max-w-md-- [&amp;_a]:text-blue-600">
-                <p><span style="font-weight: 400;">Nadcab Labs is recognized as one of the best DEX development
+                <p><span style="font-weight: 400;">Veridaxlabs is recognized as one of the best DEX development
                         companies, specializing in providing advanced </span>decentralized exchange development
                     services<span style="font-weight: 400;">.</span></p>
             </p>
@@ -530,10 +530,10 @@
     </section>
     <section class="py-12 px-4 sm:py-16">
         <div class="text-center mb-10 sm:mb-12">
-            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Choose Nadcab Labs for
+            <h2 class="gradient-text text-2xl sm:text-3xl md:text-4xl max-w-4xl mx-auto mb-3">Why Choose Veridaxlabs for
                 Your Decentralized Exchange Development Solution?</h2>
             <p class="text-muted-foreground text-base max-w-2xl mx-auto [&amp;_a]:text-blue-600">
-                <p><span style="font-weight: 400;">Nadcab Labs offers high-performance and secure DEX platforms that are
+                <p><span style="font-weight: 400;">Veridaxlabs offers high-performance and secure DEX platforms that are
                         scalable and utilize audited smart contracts with superior and advanced trading architecture,
                         multi-chain support, and fluctuation and liquidity features for dependable global digital asset
                         trading for institutional purposes.</span></p>
@@ -637,7 +637,7 @@
                 <p class="text-white/80 text-sm md:text-base leading-relaxed">The client reviews we’ve received
                     demonstrate the trust businesses place in our core decentralized exchange development solution.
                     These ratings reflect our ability to build secure, scalable, and high-performance DEX platforms that
-                    help teams create dependable trading ecosystems, grow rapidly, and confidently choose Nadcab Labs as
+                    help teams create dependable trading ecosystems, grow rapidly, and confidently choose Veridaxlabs as
                     their long-term blockchain technology partner.</p>
             </div>
             <div class="md:w-1/2 w-full grid grid-cols-2 sm:grid-cols-2 md:grid-cols-1 gap-4"><a target="_blank"
@@ -1047,7 +1047,7 @@
                 and Efficient DEXs</h2>
             <p
                 class="max-w-4xl mx-auto font-normal text-foreground/80 text-sm sm:text-base text-center [&amp;_a]:text-blue-600 ">
-                <p>Nadcab Labs delivers a powerful, decentralized exchange development Solution across leading
+                <p>Veridaxlabs delivers a powerful, decentralized exchange development Solution across leading
                     blockchain networks with multi-chain support, audited smart contracts, fast architecture, and
                     scalable security for custom, reliable DEX platforms.</p>
             </p>
@@ -1223,7 +1223,7 @@
                     Our Decentralized Exchange Tech Stack</h2>
                 <p class="max-w-4xl mx-auto font-normal text-muted-foreground text-sm sm:text-base text-center ">Build
                     decentralized exchanges that are secure, robust, and ready to scale with growing user activity. With
-                    Nadcab Labs’ advanced multi-chain technology stack and decentralized exchange development company,
+                    Veridaxlabs’ advanced multi-chain technology stack and decentralized exchange development company,
                     we create reliable trading ecosystems using modern blockchain frameworks and optimized
                     infrastructure.</p>
             </div>
@@ -2055,8 +2055,8 @@
                 class="max-w-full-- mx-auto px-4 md:px-0 flex flex-col md:flex-row items-start relative z-10 container">
                 <div class="w-full md:w-1/2 pt-12 pb-12 lg:py-14 px-4">
                     <h2 class="text-lg md:text-4xl font-unbounded font-semibold lg:leading-snug mb-2 text-white">Why
-                        Nadcab Labs is a Preferred Choice for Decentralized Exchange Development</h2>
-                    <p class="font-medium text-lg mb-6 text-white">Nadcab Labs excels as a top decentralized exchange
+                        Veridaxlabs is a Preferred Choice for Decentralized Exchange Development</h2>
+                    <p class="font-medium text-lg mb-6 text-white">Veridaxlabs excels as a top decentralized exchange
                         development company, delivering secure, scalable, and feature-rich DEX platforms designed for
                         seamless trading experiences.</p><a class="link_button"
                         href="https://www.nadcab.com/contact">Launch Your DEX Now</a>

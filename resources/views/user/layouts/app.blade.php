@@ -9,14 +9,14 @@
         data-precedence="next">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Nadcab Labs | Top AI &amp; Blockchain Development Company USA</title>
+    <title>Veridaxlabs | Top AI &amp; Blockchain Development Company USA</title>
     <meta name="description"
-        content="Build smart Web3 platforms &amp; intelligent systems with Nadcab Labs. Providing blockchain solutions, DeFi apps &amp; AI integration for secure, scalable innovations.">
+        content="Build smart Web3 platforms &amp; intelligent systems with Veridaxlabs. Providing blockchain solutions, DeFi apps &amp; AI integration for secure, scalable innovations.">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://www.nadcab.com">
-    <meta property="og:title" content="Nadcab Labs | Top AI &amp; Blockchain Development Company USA">
+    <meta property="og:title" content="Veridaxlabs | Top AI &amp; Blockchain Development Company USA">
     <meta property="og:description"
-        content="Build smart Web3 platforms &amp; intelligent systems with Nadcab Labs. Providing blockchain solutions, DeFi apps &amp; AI integration for secure, scalable innovations.">
+        content="Build smart Web3 platforms &amp; intelligent systems with Veridaxlabs. Providing blockchain solutions, DeFi apps &amp; AI integration for secure, scalable innovations.">
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="icon" href="/favicon.ico">
     <link rel="apple-touch-icon" href="/favicon.ico">

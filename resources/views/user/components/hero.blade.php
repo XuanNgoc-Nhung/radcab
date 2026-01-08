@@ -31,7 +31,7 @@
                 and Decentralized Innovation</h1>
             <div
                 class="text-gray-600 dark:text-gray-200 max-w-2xl mx-auto  mt-4 sm:mt-6 text-base sm:text-lg md:text-xl  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                <p>Nadcab Labs is a global technology company delivering future-ready solutions across AI, Machine
+                <p>Veridaxlabs is a global technology company delivering future-ready solutions across AI, Machine
                     Learning, Blockchain, <a href="/cloud-management-services">Cloud Infrastructure</a>, <a
                         href="/big-data-services">Big Data</a>, <a href="/mobile-app-development-services">Mobile
                         Apps</a>, and Gaming.</p>

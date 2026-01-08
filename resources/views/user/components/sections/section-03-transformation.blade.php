@@ -90,7 +90,7 @@
                                 class="w-full lg:w-7/12 flex items-center dark:bg-white dark:text-black dark:shadow-none">
                                 <div class="p-6 lg:p-8 space-y-3">
                                     <h4 class="font-medium text-xl sm:text-xl md:text-3xl">Pioneering the AI-Native
-                                        Future with Nadcab Labs</h4>
+                                        Future with Veridaxlabs</h4>
                                     <p class="text-base sm:text-sm [&amp;_a]:text-blue-600 ">The future of business is
                                         intelligent, leveraging AI, from LLMs to MLOps, with our certified experts and
                                         customized solutions.

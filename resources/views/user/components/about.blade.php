@@ -11,7 +11,7 @@
         <h1 class="wow animate__animated animate__fadeInUp lg:leading-snug max-w-7xl font-bold text-xl sm:text-4xl md:text-6xl lg:text-7xl text-center mb-4  "
             style="color:#f2f2f2">Blockchain Innovator Powering the Future of Web3</h1>
         <p class="wow animate__animated animate__fadeInUp animate__delay-1s text-sm sm:text-base md:text-lg mb-4 sm:mb-6 md:mb-6 max-w-5xl  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400"
-            style="color:#FFFFFF">From blockchain development to decentralized finance (DeFi) innovation — Nadcab Labs
+            style="color:#FFFFFF">From blockchain development to decentralized finance (DeFi) innovation — Veridaxlabs
             has been transforming digital ecosystems since 2017, bridging the gap between crypto and traditional finance
             through innovation and trust.</p>
         <div class="flex sm:flex-row flex-col gap-4 sm:gap-6 justify-center"></div>
@@ -55,7 +55,7 @@
             AI-Powered <br>Solutions Across the Globe</h2>
         <p
             class="wow animate__animated animate__fadeInUp animate__delay-1s text-muted-foreground text-sm sm:text-sm md:text-base max-w-4xl mx-auto ">
-            Nadcab Labs is a leading
+            Veridaxlabs is a leading
             AI-driven IT service provider, helping companies redefine their digital potential for nearly a decade. With
             a team of 1,600+ tech experts, we build intelligent, AI-native digital infrastructure that empowers our
             clients to become market leaders in their industries.</p>
@@ -364,9 +364,9 @@
     <section class="w-full py-6 sm:py-16 px-4">
         <div class="max-w-7xl mx-auto flex flex-col lg:flex-row lg:items-center lg:gap-10">
             <div class="wow animate__animated animate__fadeInLeft mb-8 lg:mb-0 lg:w-5/12 space-y-4 sm:space-y-6">
-                <h2 class="text-2xl sm:text-3xl lg:text-4xl font-medium leading-snug">Nadcab Labs: Transforming Finance
+                <h2 class="text-2xl sm:text-3xl lg:text-4xl font-medium leading-snug">Veridaxlabs: Transforming Finance
                     Through Blockchain</h2>
-                <p class="text-sm sm:text-base text-foreground/90 max-w-md [&amp;_a]:text-blue-600">At Nadcab Labs,
+                <p class="text-sm sm:text-base text-foreground/90 max-w-md [&amp;_a]:text-blue-600">At Veridaxlabs,
                     we're transforming the way the world interacts with money. Since 2017, we've been building secure
                     and innovative blockchain and Web3 solutions that connect the cryptocurrency ecosystem with
                     traditional finance. With teams in the UK and India, our 160+ experts are shaping a transparent,
@@ -459,7 +459,7 @@
                     </button>
                     <div class="accordion-content overflow-hidden transition-all duration-300 max-h-0">
                         <div class="p-4 sm:px-8 sm:pb-4 sm:pt-0 pt-0 text-sm sm:text-base [&amp;_a]:text-blue-600">At
-                            Nadcab Labs, innovation is at the heart of everything we do. We foster a culture that
+                            Veridaxlabs, innovation is at the heart of everything we do. We foster a culture that
                             encourages experimentation, continuous learning, and creative problem-solving. Our team
                             members are empowered to explore new technologies, share knowledge, and contribute to the
                             evolution of blockchain solutions that make a real impact.</div>
@@ -600,7 +600,7 @@
                             </div>
                             <div id="timeline-description"
                                 class="wow animate__animated animate__fadeInRight text-sm lg:text-lg leading-relaxed transition-all duration-500">
-                                Nadcab Labs was founded in
+                                Veridaxlabs was founded in
                                 the year 2017 with the vision to revolutionize blockchain development in India. Starting
                                 with a small team, we focused on research-oriented services in smart contracts, ICOs,
                                 and custom token creation, providing a base to advance solutions when the Indian market
@@ -683,22 +683,22 @@
                         '2017': {
                             image: '/year/2017.jpg?w=3840&q=75',
                             imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
-                            description: 'Nadcab Labs was founded in the year 2017 with the vision to revolutionize blockchain development in India. Starting with a small team, we focused on research-oriented services in smart contracts, ICOs, and custom token creation, providing a base to advance solutions when the Indian market was still warming up to decentralized technologies.'
+                            description: 'Veridaxlabs was founded in the year 2017 with the vision to revolutionize blockchain development in India. Starting with a small team, we focused on research-oriented services in smart contracts, ICOs, and custom token creation, providing a base to advance solutions when the Indian market was still warming up to decentralized technologies.'
                         },
                         '2018': {
                             image: '/year/2017.jpg?w=3840&q=75',
                             imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
-                            description: 'In 2018, Nadcab Labs expanded its services and began building stronger partnerships in the blockchain ecosystem. We launched several successful ICO projects and established ourselves as a trusted name in smart contract development, helping clients navigate the rapidly evolving cryptocurrency landscape.'
+                            description: 'In 2018, Veridaxlabs expanded its services and began building stronger partnerships in the blockchain ecosystem. We launched several successful ICO projects and established ourselves as a trusted name in smart contract development, helping clients navigate the rapidly evolving cryptocurrency landscape.'
                         },
                         '2019': {
                             image: '/year/2017.jpg?w=3840&q=75',
                             imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
-                            description: 'The year 2019 marked significant growth for Nadcab Labs as we diversified into DeFi solutions and cross-chain interoperability. Our team expanded, and we delivered innovative blockchain solutions to clients across multiple industries, solidifying our position as a leading blockchain development company.'
+                            description: 'The year 2019 marked significant growth for Veridaxlabs as we diversified into DeFi solutions and cross-chain interoperability. Our team expanded, and we delivered innovative blockchain solutions to clients across multiple industries, solidifying our position as a leading blockchain development company.'
                         },
                         '2020': {
                             image: '/year/2017.jpg?w=3840&q=75',
                             imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
-                            description: 'Despite global challenges in 2020, Nadcab Labs continued to innovate and adapt. We accelerated our focus on enterprise blockchain solutions and helped businesses transition to digital-first operations. Our remote-first approach enabled us to serve clients globally while maintaining high-quality standards.'
+                            description: 'Despite global challenges in 2020, Veridaxlabs continued to innovate and adapt. We accelerated our focus on enterprise blockchain solutions and helped businesses transition to digital-first operations. Our remote-first approach enabled us to serve clients globally while maintaining high-quality standards.'
                         },
                         '2021': {
                             image: '/year/2017.jpg?w=3840&q=75',
@@ -708,22 +708,22 @@
                         '2022': {
                             image: '/year/2017.jpg?w=3840&q=75',
                             imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
-                            description: 'In 2022, Nadcab Labs became a recognized leader in metaverse development and blockchain gaming solutions. We integrated AI capabilities into our services and launched innovative DeFi protocols. Our client base expanded to 57 countries, and we achieved significant milestones in cross-chain technology.'
+                            description: 'In 2022, Veridaxlabs became a recognized leader in metaverse development and blockchain gaming solutions. We integrated AI capabilities into our services and launched innovative DeFi protocols. Our client base expanded to 57 countries, and we achieved significant milestones in cross-chain technology.'
                         },
                         '2023': {
                             image: '/year/2017.jpg?w=3840&q=75',
                             imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
-                            description: '2023 saw Nadcab Labs reach new heights with over 500 cryptocurrencies integrated and 20+ blockchain networks supported. We launched advanced security auditing services and became a trusted partner for major enterprises. Our team of 160+ experts delivered cutting-edge solutions across fintech, healthcare, and supply chain industries.'
+                            description: '2023 saw Veridaxlabs reach new heights with over 500 cryptocurrencies integrated and 20+ blockchain networks supported. We launched advanced security auditing services and became a trusted partner for major enterprises. Our team of 160+ experts delivered cutting-edge solutions across fintech, healthcare, and supply chain industries.'
                         },
                         '2024': {
                             image: '/year/2017.jpg?w=3840&q=75',
                             imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
-                            description: 'In 2024, Nadcab Labs continued to push boundaries in blockchain innovation. We expanded our AI-powered solutions and launched comprehensive Web3 platforms. With 150+ currencies listed in CoinMarketCap and CoinGecko, and over $100M in client funds raised, we solidified our position as a global blockchain leader.'
+                            description: 'In 2024, Veridaxlabs continued to push boundaries in blockchain innovation. We expanded our AI-powered solutions and launched comprehensive Web3 platforms. With 150+ currencies listed in CoinMarketCap and CoinGecko, and over $100M in client funds raised, we solidified our position as a global blockchain leader.'
                         },
                         '2025': {
                             image: '/year/2017.jpg?w=3840&q=75',
                             imageSrcset: '/year/2017.jpg?w=640&q=75 640w, /year/2017.jpg?w=750&q=75 750w, /year/2017.jpg?w=828&q=75 828w, /year/2017.jpg?w=1080&q=75 1080w, /year/2017.jpg?w=1200&q=75 1200w, /year/2017.jpg?w=1920&q=75 1920w, /year/2017.jpg?w=2048&q=75 2048w, /year/2017.jpg?w=3840&q=75 3840w',
-                            description: 'Looking ahead to 2025, Nadcab Labs is positioned to lead the next wave of blockchain innovation. We are investing in quantum-resistant cryptography, advanced DeFi protocols, and sustainable blockchain solutions. Our vision is to make Web3 accessible to everyone, everywhere, while maintaining the highest standards of security and innovation.'
+                            description: 'Looking ahead to 2025, Veridaxlabs is positioned to lead the next wave of blockchain innovation. We are investing in quantum-resistant cryptography, advanced DeFi protocols, and sustainable blockchain solutions. Our vision is to make Web3 accessible to everyone, everywhere, while maintaining the highest standards of security and innovation.'
                         }
                     };
 
@@ -799,7 +799,7 @@
         <div class="text-center mb-8">
             <h2
                 class="wow animate__animated animate__fadeInUp gradient-text text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-12">
-                Nadcab Lab continually enhances its
+                Veridaxlabs Lab continually enhances its
                 workplace to drive<br> innovation, collaboration, and performance</h2>
             <p class="text-muted-foreground text-sm sm:text-sm md:text-base max-w-4xl mx-auto mb-8 sm:mb-12"></p>
         </div>
@@ -993,7 +993,7 @@
                     <h2 class="text-lg md:text-4xl font-unbounded font-semibold lg:leading-snug mb-2 text-white">Want to
                         meet the founding members and key drivers of our success till now?</h2>
                     <p class="font-medium text-lg mb-6 text-white">Meet the visionary founding members and the key
-                        drivers behind our success, and discover the people shaping Nadcab Labs' journey. </p><a
+                        drivers behind our success, and discover the people shaping Veridaxlabs' journey. </p><a
                         class="link_button" href="/nadcab-team">Meet Our Core Team</a>
                 </div>
             </div>
@@ -1016,7 +1016,7 @@
                     <div class="wow animate__animated animate__fadeInUp" style="animation-delay:0ms">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">When was Nadcab Labs
+                                <h3 class="font-normal text-base md:font-medium md:text-base">When was Veridaxlabs
                                     founded?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
@@ -1032,7 +1032,7 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    Nadcab Labs was founded in 2017 with the vision of simplifying blockchain technology
+                                    Veridaxlabs was founded in 2017 with the vision of simplifying blockchain technology
                                     for businesses and enabling secure, decentralized applications across industries.
                                 </div>
                             </div>
@@ -1043,7 +1043,7 @@
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
                                 <h3 class="font-normal text-base md:font-medium md:text-base">What industries does
-                                    Nadcab Labs serve?</h3>
+                                    Veridaxlabs serve?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
@@ -1068,7 +1068,7 @@
                         style="animation-delay:200ms">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">What makes Nadcab Labs
+                                <h3 class="font-normal text-base md:font-medium md:text-base">What makes Veridaxlabs
                                     different from other blockchain companies?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
@@ -1084,7 +1084,7 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    Nadcab Labs stands out through its client-centric approach, technical excellence,
+                                    Veridaxlabs stands out through its client-centric approach, technical excellence,
                                     and commitment to long-term partnerships. We don’t just build — we innovate and
                                     support beyond delivery.</div>
                             </div>
@@ -1095,7 +1095,7 @@
                     <div class="wow animate__animated animate__fadeInUp" style="animation-delay:0ms">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">Does Nadcab Labs offer
+                                <h3 class="font-normal text-base md:font-medium md:text-base">Does Veridaxlabs offer
                                     end-to-end development?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
@@ -1121,7 +1121,7 @@
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
                                 <h3 class="font-normal text-base md:font-medium md:text-base">What technologies does
-                                    Nadcab Labs work with?</h3>
+                                    Veridaxlabs work with?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
@@ -1146,7 +1146,7 @@
                         style="animation-delay:200ms">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">Is Nadcab Labs involved in
+                                <h3 class="font-normal text-base md:font-medium md:text-base">Is Veridaxlabs involved in
                                     Web3 and metaverse projects?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">

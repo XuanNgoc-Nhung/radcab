@@ -148,7 +148,7 @@
                 </div>
                 <div
                     class="text-sm md:text-lg text-muted-foreground mb-4 prose prose-lg max-w-none  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                    <p>At Nadcab Labs our dedicated LLM engineers merge deep learning knowledge with practical
+                    <p>At Veridaxlabs our dedicated LLM engineers merge deep learning knowledge with practical
                         engineering skills. They build robust scalable and intelligent systems designed to meet your
                         specific business requirements and drive measurable impact.</p>
                 </div>
@@ -823,7 +823,7 @@
                         class="font-semibold text-2xl md:text-3xl lg:text-4xl lg:leading-snug text-black dark:text-white">
                         Ready to Discuss Your AI Project?</h2>
                     <p class="text-base leading-6 text-black dark:text-white [&amp;_a]:text-blue-600">Let’s build the
-                        next breakthrough together. Reach out today and collaborate with Nadcab Labs’ expert LLM
+                        next breakthrough together. Reach out today and collaborate with Veridaxlabs’ expert LLM
                         Engineers to bring your AI vision to life.</p>
                     <div class="grid grid-cols-1 sm:grid-cols-2  gap-y-4">
                         <div class="flex items-start gap-3">
@@ -1088,7 +1088,7 @@
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
                                 <h3 class="font-normal text-base md:font-medium md:text-base">Why should I hire LLM
-                                    engineers from Nadcab Labs?</h3>
+                                    engineers from Veridaxlabs?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div

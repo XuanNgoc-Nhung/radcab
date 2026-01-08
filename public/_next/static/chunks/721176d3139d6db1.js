@@ -138,7 +138,7 @@
                         className: "lg:hidden flex items-center gap-3",
                         children: [(0, t.jsx)(n.default, {
                             href: "tel:+919870635001",
-                            "aria-label": "Call Nadcab Labs",
+                            "aria-label": "Call Veridaxlabs",
                             children: (0, t.jsx)("div", {
                                 className: "w-10 h-10 flex items-center justify-center bg-black text-white shadow-lg rounded-lg",
                                 children: (0, t.jsx)(c.FiPhone, {
@@ -525,7 +525,7 @@
                 title: "About Us",
                 url: "/about"
             }, {
-                title: "Nadcab Labs Team",
+                title: "Veridaxlabs Team",
                 url: "/nadcab-team"
             }, {
                 title: "Career",
@@ -752,8 +752,8 @@
             S = Array.isArray(j.social_icons) ? j.social_icons.filter(e => !!e ? .icon) : [],
             L = Array.isArray(e ? .footer.legal_clarity_logos) ? j.legal_clarity_logos.filter(e => !!e ? .image ? .url) : [],
             R = j ? .region ? .text || "Region: International || India",
-            $ = j ? .made_with || "Made with ❤️ by Nadcab Labs",
-            T = j ? .copyright || "© Nadcab Labs. All Rights Reserved.";
+            $ = j ? .made_with || "Made with ❤️ by Veridaxlabs",
+            T = j ? .copyright || "© Veridaxlabs. All Rights Reserved.";
         return (0, t.jsxs)("footer", {
             className: "bg-white dark:bg-black text-center lg:text-left text-foreground",
             children: [(0, t.jsx)("section", {
