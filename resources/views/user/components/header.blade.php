@@ -443,7 +443,7 @@
                                                 class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 ML Engineer
                                             </a>
-                                            <a href="#"
+                                            <a href="{{ route('llmEngineer') }}"
                                                 class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 LLM Engineer
                                             </a>
@@ -451,14 +451,14 @@
                                                 class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 DevOps Engineers
                                             </a>
-                                            <a href="#"
+                                            {{-- <a href="#"
                                                 class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 Game Developers
                                             </a>
                                             <a href="#"
                                                 class="px-4 py-3 bg-gray-50 dark:bg-gray-800 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors text-black dark:text-white font-medium text-sm ">
                                                 E-commerce Developers
-                                            </a>
+                                            </a> --}}
                                         </div>
                                     </div>
                                 </div>

@@ -34,4 +34,8 @@ class HireDevController extends Controller
     {
         return view('user.hire.machine-learning-engineer');
     }
+    public function llmEngineer()
+    {
+        return view('user.hire.llm-engineer');
+    }
 }
