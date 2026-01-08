@@ -1,272 +1,5 @@
     <footer class="bg-white dark:bg-black text-center lg:text-left text-foreground">
-        <section class="relative w-full overflow-hidden bg-[#1E1E1E]">
-            <div class="container w-full py-12 lg:py-16 sm:py-18 mx-auto lg:px-4">
-                <h2 class="text-white text-3xl lg:text-4xl text-center lg:text-start">Our Global Presence</h2>
-                <div class="grid grid-cols-1 md:grid-cols-2 items-center mt-5 px-4 lg:px-0">
-                    <div class="flex flex-wrap lg:gap-2 sm:gap-1 sm:mb-2">
-                        <h3
-                            class="py-2 px-6 text-sm rounded-xl transition-colors duration-200 m-2 bg-blue-800 text-white">
-                            All</h3>
-                        <h3
-                            class="py-2 px-6 text-sm  border border-gray-700 m-2 rounded-xl transition-colors duration-200 cursor-pointer text-white hover:bg-blue-800 hover:border-blue-800 hover:text-white">
-                            India</h3>
-                        <h3
-                            class="py-2 px-6 text-sm  border border-gray-700 m-2 rounded-xl transition-colors duration-200 cursor-pointer text-white hover:bg-blue-800 hover:border-blue-800 hover:text-white">
-                            USA</h3>
-                        <h3
-                            class="py-2 px-6 text-sm  border border-gray-700 m-2 rounded-xl transition-colors duration-200 cursor-pointer text-white hover:bg-blue-800 hover:border-blue-800 hover:text-white">
-                            Australia</h3>
-                        <h3
-                            class="py-2 px-6 text-sm  border border-gray-700 m-2 rounded-xl transition-colors duration-200 cursor-pointer text-white hover:bg-blue-800 hover:border-blue-800 hover:text-white">
-                            Canada</h3>
-                        <h3
-                            class="py-2 px-6 text-sm  border border-gray-700 m-2 rounded-xl transition-colors duration-200 cursor-pointer text-white hover:bg-blue-800 hover:border-blue-800 hover:text-white">
-                            UK</h3>
-                        <h3
-                            class="py-2 px-6 text-sm  border border-gray-700 m-2 rounded-xl transition-colors duration-200 cursor-pointer text-white hover:bg-blue-800 hover:border-blue-800 hover:text-white">
-                            UAE</h3>
-                    </div>
-                    <div class="flex justify-end items-center gap-3"><button
-                            class="w-10 h-10 bg-gray-100 hover:bg-black hover:text-white text-black rounded-full flex items-center justify-center transition-colors shadow-md"
-                            aria-label="prev"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                stroke-linecap="round" stroke-linejoin="round"
-                                class="lucide lucide-chevron-left w-5 h-5" aria-hidden="true">
-                                <path d="m15 18-6-6 6-6"></path>
-                            </svg></button><button
-                            class="w-10 h-10 bg-gray-100 hover:bg-black hover:text-white text-black rounded-full flex items-center justify-center transition-colors shadow-md"
-                            aria-label="next"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                stroke-linecap="round" stroke-linejoin="round"
-                                class="lucide lucide-chevron-right w-5 h-5" aria-hidden="true">
-                                <path d="m9 18 6-6-6-6"></path>
-                            </svg></button></div>
-                </div>
-                <div class="relative mt-10 overflow-hidden">
-                    <div class="flex lg:gap-1 sm:gap-2 md:gap-3" style="transform: translate3d(0px, 0px, 0px);">
-                        <div class="flex-[0_0_100%] sm:flex-[0_0_50%] md:flex-[0_0_25%] xl:flex-[0_0_25%]"><a
-                                class="block" href="https://maps.app.goo.gl/dtPoDCcof7iG8NB67">
-                                <div
-                                    class="relative w-[300px] h-[300px] lg:w-[355px] lg:h-[400px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer transition-all duration-300 mx-auto">
-                                    <div class="relative w-full h-full overflow-hidden"><img alt="Hyderabad"
-                                            loading="lazy" width="355" height="400" decoding="async" data-nimg="1"
-                                            class="object-cover w-full h-full transition-transform duration-300"
-                                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/heydrabad.webp?w=384&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/heydrabad.webp?w=750&amp;q=75 2x"
-                                            src="https://img.nadcab.com/wp-content/uploads/2025/11/heydrabad.webp?w=750&amp;q=75"
-                                            style="color: transparent; transform: scale(1);">
-                                        <div
-                                            class="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent">
-                                        </div>
-                                        <div class="absolute bottom-6 left-6">
-                                            <h3 class="text-2xl font-medium text-white drop-shadow-2xl">Hyderabad</h3>
-                                        </div>
-                                    </div>
-                                    <div
-                                        class="absolute inset-0 bg-blue-600 transition-all duration-500 ease-in-out translate-x-full opacity-0">
-                                        <div class="flex flex-col justify-between p-10 h-full relative">
-                                            <div class="space-y-4 mt-auto relative">
-                                                <p class="text-base text-white font-semibold uppercase tracking-wide">
-                                                    India</p>
-                                                <div>
-                                                    <h4
-                                                        class=" text-xl lg:text-3xl font-bold text-white tracking-tight">
-                                                        Veridaxlabs</h4>
-                                                    <p class="text-sm font-medium text-white tracking-tight">3rd Floor,
-                                                        Oyster Complex Greenlands Road Somajiguda, Begumpet, Hyderabad,
-                                                        Telangana 500016</p>
-                                                    <p class="text-sm font-medium text-white tracking-tight">88404 90443
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a></div>
-                        <div class="flex-[0_0_100%] sm:flex-[0_0_50%] md:flex-[0_0_25%] xl:flex-[0_0_25%]"><a
-                                class="block" href="https://maps.app.goo.gl/2GX5hYA5ZnQC6FKu9">
-                                <div
-                                    class="relative w-[300px] h-[300px] lg:w-[355px] lg:h-[400px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer transition-all duration-300 mx-auto">
-                                    <div class="relative w-full h-full overflow-hidden"><img alt="USA" loading="lazy"
-                                            width="355" height="400" decoding="async" data-nimg="1"
-                                            class="object-cover w-full h-full transition-transform duration-300"
-                                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/usa.webp?w=384&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/usa.webp?w=750&amp;q=75 2x"
-                                            src="https://img.nadcab.com/wp-content/uploads/2025/11/usa.webp?w=750&amp;q=75"
-                                            style="color: transparent; transform: scale(1);">
-                                        <div
-                                            class="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent">
-                                        </div>
-                                        <div class="absolute bottom-6 left-6">
-                                            <h3 class="text-2xl font-medium text-white drop-shadow-2xl">USA</h3>
-                                        </div>
-                                    </div>
-                                    <div
-                                        class="absolute inset-0 bg-blue-600 transition-all duration-500 ease-in-out translate-x-full opacity-0">
-                                        <div class="flex flex-col justify-between p-10 h-full relative">
-                                            <div class="space-y-4 mt-auto relative">
-                                                <p class="text-base text-white font-semibold uppercase tracking-wide">
-                                                    USA</p>
-                                                <div>
-                                                    <h4
-                                                        class=" text-xl lg:text-3xl font-bold text-white tracking-tight">
-                                                        New York</h4>
-                                                    <p class="text-sm font-medium text-white tracking-tight">740 E 13th
-                                                        St, New York, NY 10009, United States</p>
-                                                    <p class="text-sm font-medium text-white tracking-tight">+1
-                                                        646-665-9735</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a></div>
-                        <div class="flex-[0_0_100%] sm:flex-[0_0_50%] md:flex-[0_0_25%] xl:flex-[0_0_25%]"><a
-                                class="block" href="https://maps.app.goo.gl/eSaykknKGyV6T3UZA">
-                                <div
-                                    class="relative w-[300px] h-[300px] lg:w-[355px] lg:h-[400px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer transition-all duration-300 mx-auto">
-                                    <div class="relative w-full h-full overflow-hidden"><img alt="Australia"
-                                            loading="lazy" width="355" height="400" decoding="async" data-nimg="1"
-                                            class="object-cover w-full h-full transition-transform duration-300"
-                                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/australia.webp?w=384&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/australia.webp?w=750&amp;q=75 2x"
-                                            src="https://img.nadcab.com/wp-content/uploads/2025/11/australia.webp?w=750&amp;q=75"
-                                            style="color: transparent; transform: scale(1);">
-                                        <div
-                                            class="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent">
-                                        </div>
-                                        <div class="absolute bottom-6 left-6">
-                                            <h3 class="text-2xl font-medium text-white drop-shadow-2xl">Australia</h3>
-                                        </div>
-                                    </div>
-                                    <div
-                                        class="absolute inset-0 bg-blue-600 transition-all duration-500 ease-in-out translate-x-full opacity-0">
-                                        <div class="flex flex-col justify-between p-10 h-full relative">
-                                            <div class="space-y-4 mt-auto relative">
-                                                <p class="text-base text-white font-semibold uppercase tracking-wide">
-                                                    AUS</p>
-                                                <div>
-                                                    <h4
-                                                        class=" text-xl lg:text-3xl font-bold text-white tracking-tight">
-                                                        Sydney</h4>
-                                                    <p class="text-sm font-medium text-white tracking-tight">38-52
-                                                        Waterloo St, Surry Hills NSW 2010, Australia</p>
-                                                    <p class="text-sm font-medium text-white tracking-tight">+61 488 841
-                                                        730</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a></div>
-                        <div class="flex-[0_0_100%] sm:flex-[0_0_50%] md:flex-[0_0_25%] xl:flex-[0_0_25%]"><a
-                                class="block" href="#">
-                                <div
-                                    class="relative w-[300px] h-[300px] lg:w-[355px] lg:h-[400px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer transition-all duration-300 mx-auto">
-                                    <div class="relative w-full h-full overflow-hidden"><img alt="Canada" loading="lazy"
-                                            width="355" height="400" decoding="async" data-nimg="1"
-                                            class="object-cover w-full h-full transition-transform duration-300"
-                                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/canada.webp?w=384&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/canada.webp?w=750&amp;q=75 2x"
-                                            src="https://img.nadcab.com/wp-content/uploads/2025/11/canada.webp?w=750&amp;q=75"
-                                            style="color: transparent; transform: scale(1);">
-                                        <div
-                                            class="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent">
-                                        </div>
-                                        <div class="absolute bottom-6 left-6">
-                                            <h3 class="text-2xl font-medium text-white drop-shadow-2xl">Canada</h3>
-                                        </div>
-                                    </div>
-                                    <div
-                                        class="absolute inset-0 bg-blue-600 transition-all duration-500 ease-in-out translate-x-full opacity-0">
-                                        <div class="flex flex-col justify-between p-10 h-full relative">
-                                            <div class="space-y-4 mt-auto relative">
-                                                <p class="text-base text-white font-semibold uppercase tracking-wide">
-                                                    Canada</p>
-                                                <div>
-                                                    <h4
-                                                        class=" text-xl lg:text-3xl font-bold text-white tracking-tight">
-                                                    </h4>
-                                                    <p class="text-sm font-medium text-white tracking-tight"></p>
-                                                    <p class="text-sm font-medium text-white tracking-tight"></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a></div>
-                        <div class="flex-[0_0_100%] sm:flex-[0_0_50%] md:flex-[0_0_25%] xl:flex-[0_0_25%]"><a
-                                class="block" href="https://maps.app.goo.gl/459anSuNufgd7sfF9">
-                                <div
-                                    class="relative w-[300px] h-[300px] lg:w-[355px] lg:h-[400px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer transition-all duration-300 mx-auto">
-                                    <div class="relative w-full h-full overflow-hidden"><img alt="UK" loading="lazy"
-                                            width="355" height="400" decoding="async" data-nimg="1"
-                                            class="object-cover w-full h-full transition-transform duration-300"
-                                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/uk.webp?w=384&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/uk.webp?w=750&amp;q=75 2x"
-                                            src="https://img.nadcab.com/wp-content/uploads/2025/11/uk.webp?w=750&amp;q=75"
-                                            style="color: transparent; transform: scale(1);">
-                                        <div
-                                            class="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent">
-                                        </div>
-                                        <div class="absolute bottom-6 left-6">
-                                            <h3 class="text-2xl font-medium text-white drop-shadow-2xl">UK</h3>
-                                        </div>
-                                    </div>
-                                    <div
-                                        class="absolute inset-0 bg-blue-600 transition-all duration-500 ease-in-out translate-x-full opacity-0">
-                                        <div class="flex flex-col justify-between p-10 h-full relative">
-                                            <div class="space-y-4 mt-auto relative">
-                                                <p class="text-base text-white font-semibold uppercase tracking-wide">UK
-                                                </p>
-                                                <div>
-                                                    <h4
-                                                        class=" text-xl lg:text-3xl font-bold text-white tracking-tight">
-                                                        London</h4>
-                                                    <p class="text-sm font-medium text-white tracking-tight">23 New Drum
-                                                        St, London E1 7AY, United Kingdom</p>
-                                                    <p class="text-sm font-medium text-white tracking-tight">+44
-                                                        7453379563</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a></div>
-                        <div class="flex-[0_0_100%] sm:flex-[0_0_50%] md:flex-[0_0_25%] xl:flex-[0_0_25%]"><a
-                                class="block" href="#">
-                                <div
-                                    class="relative w-[300px] h-[300px] lg:w-[355px] lg:h-[400px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer transition-all duration-300 mx-auto">
-                                    <div class="relative w-full h-full overflow-hidden"><img alt="UAE" loading="lazy"
-                                            width="355" height="400" decoding="async" data-nimg="1"
-                                            class="object-cover w-full h-full transition-transform duration-300"
-                                            srcset="https://img.nadcab.com/wp-content/uploads/2025/11/uae.webp?w=384&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/uae.webp?w=750&amp;q=75 2x"
-                                            src="https://img.nadcab.com/wp-content/uploads/2025/11/uae.webp?w=750&amp;q=75"
-                                            style="color: transparent; transform: scale(1);">
-                                        <div
-                                            class="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent">
-                                        </div>
-                                        <div class="absolute bottom-6 left-6">
-                                            <h3 class="text-2xl font-medium text-white drop-shadow-2xl">UAE</h3>
-                                        </div>
-                                    </div>
-                                    <div
-                                        class="absolute inset-0 bg-blue-600 transition-all duration-500 ease-in-out translate-x-full opacity-0">
-                                        <div class="flex flex-col justify-between p-10 h-full relative">
-                                            <div class="space-y-4 mt-auto relative">
-                                                <p class="text-base text-white font-semibold uppercase tracking-wide">
-                                                    UAE</p>
-                                                <div>
-                                                    <h4
-                                                        class=" text-xl lg:text-3xl font-bold text-white tracking-tight">
-                                                    </h4>
-                                                    <p class="text-sm font-medium text-white tracking-tight"></p>
-                                                    <p class="text-sm font-medium text-white tracking-tight"></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a></div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        @include('user.components.global-presence')
         <div class="container mx-auto py-6 lg:pt-12 px-6">
             <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 mb-2">
                 <div class="hidden lg:grid lg:col-span-10 grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4">
@@ -280,65 +13,65 @@
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
                                 href="/press-release">Press Release</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/partners">Partner with us</a><a
+                                href="/partner">Partner with us</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/nadcab-team">Veridaxlabs Team</a></nav>
+                                href="/teams">Veridaxlabs Team</a></nav>
                     </div>
                     <div class="text-left min-h-[180px]">
                         <h3 class="font-semibold text-base lg:text-xl mb-4">Services</h3>
                         <nav class="space-y-2"><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/blockchain-development-company">Blockchain Technology</a><a
+                                href="/services/blockchain-development">Blockchain Development</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/cryptocurrency-exchange-developers">Cryptocurrency Exchange</a><a
+                                href="/services/cryptocurrency-exchange">Cryptocurrency Exchange</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/real-estate-tokenization-company">Real Estate </a><a
+                                href="/services/real-estate-tokenization">Real Estate Tokenization</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/ai-application-developers">AI Development</a><a
+                                href="/services/smart-contract">Smart Contract</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/iot-app-development-company">IoT Development</a></nav>
+                                href="/services/defi-development">DeFi Development</a></nav>
                     </div>
                     <div class="text-left min-h-[180px]">
                         <h3 class="font-semibold text-base lg:text-xl mb-4">Hire</h3>
                         <nav class="space-y-2"><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/hire-solidity-developers">Smart Contract Developer</a><a
+                                href="/hire/smart-contract-developer">Smart Contract Developer</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/hire-llm-engineers">LLM Engineer</a><a
+                                href="/hire/llm-engineer">LLM Engineer</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/hire-devops-engineers">DevOps</a><a
+                                href="/hire/dev-ops-engineer">DevOps Engineer</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/hire-ui-ux-designers">UI/UX Designer</a><a
+                                href="/hire/ui-ux-designer">UI/UX Designer</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/hire-game-developers">Game Engineer</a></nav>
+                                href="/hire/blockchain-developer">Blockchain Developer</a></nav>
                     </div>
                     <div class="text-left min-h-[180px]">
                         <h3 class="font-semibold text-base lg:text-xl mb-4">Resources</h3>
                         <nav class="space-y-2"><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/blog">Blog</a><a
+                                href="/resources/blogs">Blogs</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/case-study">Case Study</a><a
+                                href="/case-studies">Case Studies</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/glossary">Glossary</a><a
+                                href="/resources/podcasts">Podcasts</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/hackathon">Hackathon</a><a
+                                href="/resources/freshworks">Freshworks</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/testimonial">Testimonials</a></nav>
+                                href="/resources/press-release">Press Release</a></nav>
                     </div>
                     <div class="text-left min-h-[180px]">
                         <h3 class="font-semibold text-base lg:text-xl mb-4">Industries</h3>
                         <nav class="space-y-2"><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/blockchain-in-healthcare">Healthcare</a><a
+                                href="/industries/health-care">Healthcare</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/blockchain-supplychain-management">Supply Chain</a><a
+                                href="/industries/supply-chain">Supply Chain</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/bfsi-software-development-company">BFSI</a><a
+                                href="/industries/entertainment">Entertainment</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/depin-development-company">Depin</a><a
+                                href="/industries/education">Education</a><a
                                 class="block text-muted-foreground text-sm lg:text-base hover:text-foreground transition-colors"
-                                href="/blockchain-identity-management">Identity Managment</a></nav>
+                                href="/industries/transport-logistics">Transport & Logistics</a></nav>
                     </div>
                 </div>
                 <div class="hidden lg:flex lg:flex-col lg:col-span-2 text-left">
@@ -387,9 +120,9 @@
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
                                 href="/press-release">Press Release</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/partners">Partner with us</a><a
+                                href="/partner">Partner with us</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/nadcab-team">Veridaxlabs Team</a></nav>
+                                href="/teams">Veridaxlabs Team</a></nav>
                     </details>
                     <details class="group border-b border-gray-200 dark:border-gray-700">
                         <summary
@@ -405,15 +138,15 @@
                                 </svg></span></summary>
                         <nav class="pl-2 pb-3 text-left space-y-2"><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/blockchain-development-company">Blockchain Technology</a><a
+                                href="/services/blockchain-development">Blockchain Development</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/cryptocurrency-exchange-developers">Cryptocurrency Exchange</a><a
+                                href="/services/cryptocurrency-exchange">Cryptocurrency Exchange</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/real-estate-tokenization-company">Real Estate </a><a
+                                href="/services/real-estate-tokenization">Real Estate Tokenization</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/ai-application-developers">AI Development</a><a
+                                href="/services/smart-contract">Smart Contract</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/iot-app-development-company">IoT Development</a></nav>
+                                href="/services/defi-development">DeFi Development</a></nav>
                     </details>
                     <details class="group border-b border-gray-200 dark:border-gray-700">
                         <summary
@@ -429,15 +162,15 @@
                                 </svg></span></summary>
                         <nav class="pl-2 pb-3 text-left space-y-2"><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/hire-solidity-developers">Smart Contract Developer</a><a
+                                href="/hire/smart-contract-developer">Smart Contract Developer</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/hire-llm-engineers">LLM Engineer</a><a
+                                href="/hire/llm-engineer">LLM Engineer</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/hire-devops-engineers">DevOps</a><a
+                                href="/hire/dev-ops-engineer">DevOps Engineer</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/hire-ui-ux-designers">UI/UX Designer</a><a
+                                href="/hire/ui-ux-designer">UI/UX Designer</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/hire-game-developers">Game Engineer</a></nav>
+                                href="/hire/blockchain-developer">Blockchain Developer</a></nav>
                     </details>
                     <details class="group border-b border-gray-200 dark:border-gray-700">
                         <summary
@@ -453,15 +186,15 @@
                                 </svg></span></summary>
                         <nav class="pl-2 pb-3 text-left space-y-2"><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/blog">Blog</a><a
+                                href="/resources/blogs">Blogs</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/case-study">Case Study</a><a
+                                href="/case-studies">Case Studies</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/glossary">Glossary</a><a
+                                href="/resources/podcasts">Podcasts</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/hackathon">Hackathon</a><a
+                                href="/resources/freshworks">Freshworks</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/testimonial">Testimonials</a></nav>
+                                href="/resources/press-release">Press Release</a></nav>
                     </details>
                     <details class="group border-b border-gray-200 dark:border-gray-700">
                         <summary
@@ -477,15 +210,15 @@
                                 </svg></span></summary>
                         <nav class="pl-2 pb-3 text-left space-y-2"><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/blockchain-in-healthcare">Healthcare</a><a
+                                href="/industries/health-care">Healthcare</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/blockchain-supplychain-management">Supply Chain</a><a
+                                href="/industries/supply-chain">Supply Chain</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/bfsi-software-development-company">BFSI</a><a
+                                href="/industries/entertainment">Entertainment</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/depin-development-company">Depin</a><a
+                                href="/industries/education">Education</a><a
                                 class="block text-muted-foreground text-sm hover:text-foreground transition-colors"
-                                href="/blockchain-identity-management">Identity Managment</a></nav>
+                                href="/industries/transport-logistics">Transport & Logistics</a></nav>
                     </details>
                     <details class="group border-b border-gray-200 dark:border-gray-700">
                         <summary
