@@ -38,4 +38,8 @@ class HireDevController extends Controller
     {
         return view('user.hire.llm-engineer');
     }
+    public function devOpsEngineer()
+    {
+        return view('user.hire.dev-ops-engineer');
+    }
 }
