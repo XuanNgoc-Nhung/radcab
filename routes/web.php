@@ -49,4 +49,5 @@ Route::group(['prefix' => 'hire'], function () {
     Route::get('/application-developers', [HireDev::class, 'applicationDevelopers'])->name('applicationDevelopers');
     Route::get('/ui-ux-designer', [HireDev::class, 'uiUxDesigner'])->name('uiUxDesigner');
     Route::get('/frontend-developer', [HireDev::class, 'frontendDeveloper'])->name('frontendDeveloper');
+    Route::get('/backend-developer', [HireDev::class, 'backendDeveloper'])->name('backendDeveloper');
 });

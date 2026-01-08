@@ -18,4 +18,8 @@ class HireDevController extends Controller
     {
         return view('user.hire.frontend-developer');
     }
+    public function backendDeveloper()
+    {
+        return view('user.hire.backend-developer');
+    }
 }
