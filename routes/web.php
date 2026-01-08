@@ -5,6 +5,7 @@ use App\Http\Controllers\UserController as User;
 use App\Http\Controllers\ServicesController as Services;
 use App\Http\Controllers\IndustriesController as Industries;
 use App\Http\Controllers\ResourcesController as Resources;
+use App\Http\Controllers\HireDevController as HireDev;
 
 Route::get('/', [User::class, 'homepage']);
 Route::get('/about', [User::class, 'about'])->name('about');
@@ -43,4 +44,7 @@ Route::group(['prefix' => 'resources'], function () {
     Route::get('/podcasts', [Resources::class, 'podcasts'])->name('podcasts');
     Route::get('/press-release', [Resources::class, 'pressRelease'])->name('pressRelease');
 
+});
+Route::group(['prefix' => 'hire'], function () {
+    Route::get('/application-developers', [HireDev::class, 'applicationDevelopers'])->name('applicationDevelopers');
 });
