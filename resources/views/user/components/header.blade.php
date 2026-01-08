@@ -520,27 +520,27 @@
                             </svg>
                         </button>
                         <div id="about-mobile-menu" class="hidden pl-4 space-y-1 overflow-hidden">
-                            <a href="#"
+                            <a href="{{ route('about') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 About Us
                             </a>
-                            <a href="#"
+                            <a href="{{ route('team') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Veridaxlabs Team
                             </a>
-                            <a href="#"
+                            <a href="{{ route('career') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Career
                             </a>
-                            <a href="#"
+                            <a href="{{ route('partners') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Partner with Us
                             </a>
-                            <a href="#"
+                            <a href="{{ route('pressRelease') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Press Release
                             </a>
-                            <a href="#"
+                            <a href="{{ route('contact') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Contact Us
                             </a>
@@ -557,23 +557,23 @@
                             </svg>
                         </button>
                         <div id="services-mobile-menu" class="hidden pl-4 space-y-1 overflow-hidden">
-                            <a href="#"
+                            <a href="{{ route('blockchainDevelopment') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Blockchain Development
                             </a>
-                            <a href="#"
+                            <a href="{{ route('tokenCoin') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Token & Coin
                             </a>
-                            <a href="#"
+                            <a href="{{ route('smartContract') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Smart Contract
                             </a>
-                            <a href="#"
+                            <a href="{{ route('dappDevelopment') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 DApp Development
                             </a>
-                            <a href="#"
+                            <a href="{{ route('defiDevelopment') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 DeFi Development
                             </a>
@@ -590,23 +590,23 @@
                             </svg>
                         </button>
                         <div id="industries-mobile-menu" class="hidden pl-4 space-y-1 overflow-hidden">
-                            <a href="#"
+                            <a href="{{ route('entertainment') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Entertainment
                             </a>
-                            <a href="#"
+                            <a href="{{ route('education') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Education
                             </a>
-                            <a href="#"
+                            <a href="{{ route('transportLogistics') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Transport & Logistics
                             </a>
-                            <a href="#"
+                            <a href="{{ route('supplyChain') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Supply Chain
                             </a>
-                            <a href="#"
+                            <a href="{{ route('healthCare') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Health Care
                             </a>
@@ -623,19 +623,19 @@
                             </svg>
                         </button>
                         <div id="resources-mobile-menu" class="hidden pl-4 space-y-1 overflow-hidden">
-                            <a href="#"
+                            <a href="{{ route('freshworks') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Freshwork
                             </a>
-                            <a href="#"
+                            <a href="{{ route('podcasts') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Podcast
                             </a>
-                            <a href="#"
+                            <a href="{{ route('blogs') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Blog
                             </a>
-                            <a href="#"
+                            <a href="{{ route('pressRelease') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Press Release
                             </a>
@@ -652,39 +652,39 @@
                             </svg>
                         </button>
                         <div id="hire-developers-mobile-menu" class="hidden pl-4 space-y-1 overflow-hidden">
-                            <a href="#"
+                            <a href="{{ route('applicationDevelopers') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Application Developers
                             </a>
-                            <a href="#"
+                            <a href="{{ route('backendDeveloper') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Backend Developers
                             </a>
-                            <a href="#"
+                            <a href="{{ route('frontendDeveloper') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Frontend Developers
                             </a>
-                            <a href="#"
+                            <a href="{{ route('uiUxDesigner') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 UI/UX Designer
                             </a>
-                            <a href="#"
+                            <a href="{{ route('blockchainDeveloper') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Blockchain Developers
                             </a>
-                            <a href="#"
+                            <a href="{{ route('smartContractDeveloper') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 Smart Contract Developers
                             </a>
-                            <a href="#"
+                            <a href="{{ route('machineLearningEngineer') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 ML Engineer
                             </a>
-                            <a href="#"
+                            <a href="{{ route('llmEngineer') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 LLM Engineer
                             </a>
-                            <a href="#"
+                            <a href="{{ route('devOpsEngineer') }}"
                                 class="block px-4 py-2 text-sm text-gray-600 dark:text-gray-400 hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 transform translate-x-2 opacity-0">
                                 DevOps Engineers
                             </a>
@@ -698,11 +698,11 @@
                             </a>
                         </div>
                     </div>
-                    <a href="/case-study"
+                    <a href="{{ route('caseStudies') }}"
                         class="mobile-menu-item block px-4 py-3 text-base font-semibold text-black dark:text-white hover:text-primary rounded-lg hover:bg-gray-50 dark:hover:bg-gray-800 transition-all duration-200 opacity-0 transform translate-x-4">
                         Portfolio
                     </a>
-                    <a href="/contact"
+                    <a href="{{ route('contact') }}"
                         class="mobile-menu-item block px-4 py-3 mt-4  text-sm font-semibold bg-gray-900 dark:bg-white rounded-md text-white dark:text-black transition-all duration-200 opacity-0 transform translate-x-4">
                         Consult Our Expert
                     </a>
