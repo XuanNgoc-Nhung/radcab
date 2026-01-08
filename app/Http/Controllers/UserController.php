@@ -175,4 +175,8 @@ class UserController extends Controller
 
         return view('user.contact', compact('faqs'));
     }
+    public function caseStudies()
+    {
+        return view('user.case-studies');
+    }
 }

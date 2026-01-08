@@ -14,6 +14,7 @@ Route::get('/career', [User::class, 'career'])->name('career');
 Route::get('/partner', [User::class, 'partner'])->name('partners');
 Route::get('/press-release', [User::class, 'pressRelease'])->name('pressRelease');
 Route::get('/contact', [User::class, 'contact'])->name('contact');
+Route::get('/case-studies', [User::class, 'caseStudies'])->name('caseStudies');
 Route::group(['prefix' => 'services'], function () {
     Route::get('/blockchain-development', [Services::class, 'blockchainDevelopment'])->name('blockchainDevelopment');
     Route::get('/token-coin', [Services::class, 'tokenCoin'])->name('tokenCoin');

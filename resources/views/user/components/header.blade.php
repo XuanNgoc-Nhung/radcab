@@ -467,6 +467,7 @@
                     </div>
                 </div>
                 <div class="relative"><a
+                    href="{{ route('caseStudies') }}"
                         class="inline-flex items-center h-12 font-semibold text-sm md:text-base text-black dark:text-white hover:text-primary whitespace-nowrap transition-all duration-300 ease-in-out hover:bg-gray-50 dark:hover:bg-gray-800 rounded-lg px-3 -mx-3"
                         aria-haspopup="false" aria-expanded="false" href="/case-study">Portfolio</a></div>
             </nav>
