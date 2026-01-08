@@ -32,21 +32,6 @@
                             data-region="UAE">
                             UAE</h3>
                     </div>
-                    <div class="flex justify-end items-center gap-3"><button
-                            class="w-10 h-10 bg-gray-100 hover:bg-black hover:text-white text-black rounded-full flex items-center justify-center transition-colors shadow-md"
-                            aria-label="prev"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                stroke-linecap="round" stroke-linejoin="round"
-                                class="lucide lucide-chevron-left w-5 h-5" aria-hidden="true">
-                                <path d="m15 18-6-6 6-6"></path>
-                            </svg></button><button
-                            class="w-10 h-10 bg-gray-100 hover:bg-black hover:text-white text-black rounded-full flex items-center justify-center transition-colors shadow-md"
-                            aria-label="next"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-                                viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                stroke-linecap="round" stroke-linejoin="round"
-                                class="lucide lucide-chevron-right w-5 h-5" aria-hidden="true">
-                                <path d="m9 18 6-6-6-6"></path>
-                            </svg></button></div>
                 </div>
                 <div class="relative mt-10 overflow-hidden">
                     <div class="flex lg:gap-1 sm:gap-2 md:gap-3" id="location-cards" style="transform: translate3d(0px, 0px, 0px);">
