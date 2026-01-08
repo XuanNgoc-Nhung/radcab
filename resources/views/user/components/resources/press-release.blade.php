@@ -31,8 +31,8 @@
                     height="200" decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
-                    srcset="/wp-content/uploads/2025/06/pressrelease-31.jpg 1x, /wp-content/uploads/2025/06/pressrelease-31.jpg 2x"
-                    src="/wp-content/uploads/2025/06/pressrelease-31.jpg"></div>
+                    srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-31.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-31.jpg?w=828&amp;q=75 2x"
+                    src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-31.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
                 Blockchain Revolution: Remodeling Finance and Supply chain</h3>
         </a><a target="_blank"
@@ -43,8 +43,8 @@
                     width="400" height="200" decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
-                    srcset="/wp-content/uploads/2025/06/pressrelease-30.jpg 1x, /wp-content/uploads/2025/06/pressrelease-30.jpg 2x"
-                    src="/wp-content/uploads/2025/06/pressrelease-30.jpg"></div>
+                    srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-30.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-30.jpg?w=828&amp;q=75 2x"
+                    src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-30.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
                 Blockchain Solutions to Transform Ideas into Scalable, Trusted Innovations</h3>
         </a><a target="_blank"
@@ -55,8 +55,8 @@
                     width="400" height="200" decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
-                    srcset="/wp-content/uploads/2025/06/pressrelease-33.jpg 1x, /wp-content/uploads/2025/06/pressrelease-33.jpg 2x"
-                    src="/wp-content/uploads/2025/06/pressrelease-33.jpg"></div>
+                    srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-33.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-33.jpg?w=828&amp;q=75 2x"
+                    src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-33.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
                 Ripple $RLUSD – Redefining Global Payments with 24/7 Crypto Access</h3>
         </a><a target="_blank"
@@ -67,8 +67,8 @@
                     height="200" decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
-                    srcset="/wp-content/uploads/2025/06/pressrelease-32.jpg 1x, /wp-content/uploads/2025/06/pressrelease-32.jpg 2x"
-                    src="/wp-content/uploads/2025/06/pressrelease-32.jpg"></div>
+                    srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-32.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-32.jpg?w=828&amp;q=75 2x"
+                    src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-32.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
                 Revolutionising Industry Supply Chain with Custom Smart Contract</h3>
         </a><a target="_blank"
@@ -79,8 +79,8 @@
                     decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
-                    srcset="/wp-content/uploads/2025/06/pressrelease-16-1.png 1x, /wp-content/uploads/2025/06/pressrelease-16-1.png 2x"
-                    src="/wp-content/uploads/2025/06/pressrelease-16-1.png"></div>
+                    srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-16-1.png?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-16-1.png?w=828&amp;q=75 2x"
+                    src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-16-1.png?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
                 Nadcab Labs Partners with Top Tech Firm for Global</h3>
         </a><a target="_blank"
@@ -91,8 +91,8 @@
                     height="200" decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
-                    srcset="/wp-content/uploads/2025/06/pressrelease-18.jpg 1x, /wp-content/uploads/2025/06/pressrelease-18.jpg 2x"
-                    src="/wp-content/uploads/2025/06/pressrelease-18.jpg"></div>
+                    srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-18.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-18.jpg?w=828&amp;q=75 2x"
+                    src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-18.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
                 Eigenphi MEV Bot – Revolutionizing Crypto Trading</h3>
         </a><a target="_blank"
@@ -103,8 +103,8 @@
                     decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
-                    srcset="/wp-content/uploads/2025/06/pressrelease-19.jpg 1x, /wp-content/uploads/2025/06/pressrelease-19.jpg 2x"
-                    src="/wp-content/uploads/2025/06/pressrelease-19.jpg"></div>
+                    srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-19.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-19.jpg?w=828&amp;q=75 2x"
+                    src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-19.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
                 Nadcab Labs “Eigenphi MEV” Bot: A New Milestone in</h3>
         </a><a target="_blank"
@@ -115,8 +115,8 @@
                     decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
-                    srcset="/wp-content/uploads/2025/06/pressrelease-17.jpg 1x, /wp-content/uploads/2025/06/pressrelease-17.jpg 2x"
-                    src="/wp-content/uploads/2025/06/pressrelease-17.jpg"></div>
+                    srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-17.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-17.jpg?w=828&amp;q=75 2x"
+                    src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-17.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
                 Transforming Finance and Virtual Worlds with Block</h3>
         </a><a target="_blank"
@@ -127,8 +127,8 @@
                     decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
-                    srcset="/wp-content/uploads/2025/06/pressrelease-21.jpg 1x, /wp-content/uploads/2025/06/pressrelease-21.jpg 2x"
-                    src="/wp-content/uploads/2025/06/pressrelease-21.jpg"></div>
+                    srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-21.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-21.jpg?w=828&amp;q=75 2x"
+                    src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-21.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
                 Nadcab Pioneering Custom Blockchain Development</h3>
         </a><a target="_blank"
@@ -139,8 +139,8 @@
                     decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
-                    srcset="/wp-content/uploads/2025/06/pressrelease-20.jpg 1x, /wp-content/uploads/2025/06/pressrelease-20.jpg 2x"
-                    src="/wp-content/uploads/2025/06/pressrelease-20.jpg"></div>
+                    srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-20.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-20.jpg?w=828&amp;q=75 2x"
+                    src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-20.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
                 Nadcab Labs Top in Custom Blockchain Development</h3>
         </a><a target="_blank"
@@ -151,8 +151,8 @@
                     decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
-                    srcset="/wp-content/uploads/2025/06/pressrelease-24.jpg 1x, /wp-content/uploads/2025/06/pressrelease-24.jpg 2x"
-                    src="/wp-content/uploads/2025/06/pressrelease-24.jpg"></div>
+                    srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-24.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-24.jpg?w=828&amp;q=75 2x"
+                    src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-24.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
                 Token Development Protocol on Blockchain</h3>
         </a><a target="_blank"
@@ -163,8 +163,8 @@
                     height="200" decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
-                    srcset="/wp-content/uploads/2025/06/pressrelease-25.jpg 1x, /wp-content/uploads/2025/06/pressrelease-25.jpg 2x"
-                    src="/wp-content/uploads/2025/06/pressrelease-25.jpg"></div>
+                    srcset="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-25.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-25.jpg?w=828&amp;q=75 2x"
+                    src="https://img.nadcab.com/wp-content/uploads/2025/06/pressrelease-25.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
                 Nadcab Labs – Innovating Crypto Exchange Solutions</h3>
         </a><a target="_blank"
@@ -175,8 +175,8 @@
                     width="400" height="200" decoding="async" data-nimg="1"
                     class="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
                     style="color:transparent"
-                    srcset="/wp-content/uploads/2024/08/pressrelease-23.jpg 1x, /wp-content/uploads/2024/08/pressrelease-23.jpg 2x"
-                    src="/wp-content/uploads/2024/08/pressrelease-23.jpg"></div>
+                    srcset="https://img.nadcab.com/wp-content/uploads/2024/08/pressrelease-23.jpg?w=640&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2024/08/pressrelease-23.jpg?w=828&amp;q=75 2x"
+                    src="https://img.nadcab.com/wp-content/uploads/2024/08/pressrelease-23.jpg?w=828&amp;q=75"></div>
             <h3 class="text-lg sm:text-xl font-semibold mb-3 group-hover:text-blue-600 transition-colors duration-300">
                 Nadcab Labs Leading the Way in Smart Contracts for Financial Innovation</h3>
         </a></div>

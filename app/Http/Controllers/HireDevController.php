@@ -26,4 +26,8 @@ class HireDevController extends Controller
     {
         return view('user.hire.blockchain-developer');
     }
+    public function smartContractDeveloper()
+    {
+        return view('user.hire.smart-contract-developer');
+    }
 }
