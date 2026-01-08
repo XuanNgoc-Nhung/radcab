@@ -21,5 +21,9 @@ class HireDevController extends Controller
     public function backendDeveloper()
     {
         return view('user.hire.backend-developer');
+    }   
+    public function blockchainDeveloper()
+    {
+        return view('user.hire.blockchain-developer');
     }
 }
