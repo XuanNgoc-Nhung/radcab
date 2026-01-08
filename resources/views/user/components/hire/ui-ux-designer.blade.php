@@ -1,19 +1,18 @@
     <div class="relative w-full bg-black overflow-hidden mb-10 pt-16 lg:pt-10">
         <div class="flex flex-col md:flex-row items-center justify-between min-h-[70vh]">
             <div class="max-w-2xl mx-auto md:w-1/2 w-full text-center md:text-left px-6 md:px-12 py-12 md:py-0">
-                <h1 class="text-4xl md:text-6xl font-extrabold text-white mb-5">Hire Experienced Application Developers
-                </h1>
+                <h1 class="text-4xl md:text-6xl font-extrabold text-white mb-5">Hire UI/UX Designers test</h1>
                 <p class="text-base md:text-lg text-gray-300 mb-8 leading-relaxed">
                     <div>
-                        <p><span style="font-weight: 400;">Your product deserves an application that’s fast, reliable,
-                                and user-friendly, whether it’s built for mobile, web, or enterprise use.</span></p>
+                        <p><span style="font-weight: 400;">Hire mobile UI/UX designers team to create top-notch and
+                                user-friendly apps and web solutions.</span></p>
                     </div>
-                </p><a class="link_button_blue" href="#hire-developer-form"> Get Started Today</a>
+                </p><a class="link_button_blue" href="#hire-developer-form">Hire UI/UX Experts</a>
                 <p class="text-gray-400 text-sm mt-3">100% Confidential &amp; Secure</p>
             </div>
             <div class="relative w-full md:w-1/2 h-[250px] md:h-[70vh]"><img alt="Hire section"
                     class="absolute inset-0 w-full h-full object-cover" fetchpriority="high"
-                    src="/wp-content/uploads/2025/11/hire-app-developer.webp"></div>
+                    src="/wp-content/uploads/2025/11/UIUX-hire-best-ui-developer1.webp"></div>
         </div>
     </div>
     <section class="relative ">
@@ -23,8 +22,7 @@
                 Businesses across 57 Countries</h2>
             <div class="flex-1 h-px bg-gradient-to-r from-transparent via-gray-400 to-transparent"></div>
         </div>
-        <div class="relative max-w-7xl mx-auto overflow-x-auto cursor-grab active:cursor-grabbing scrollbar-hide"
-            style="cursor: grab;">
+        <div class="relative max-w-7xl mx-auto overflow-x-auto cursor-grab active:cursor-grabbing scrollbar-hide">
             <div class="flex gap-8 w-max py-3 px-4 select-none">
                 <div
                     class="text-card-foreground card-shadow flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-3 h-12 md:h-16 lg:h-14 w-32 md:w-36 lg:w-40 shadow-sm dark:shadow-none transition-transform duration-200 hover:scale-105">
@@ -32,7 +30,7 @@
                         class="w-20 h-6 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                         sizes="(max-width: 768px) 80px, (max-width: 1024px) 100px, 120px"
                         srcset="/partners/Coinccino.webp?w=16&amp;q=75 16w, /partners/Coinccino.webp?w=32&amp;q=75 32w, /partners/Coinccino.webp?w=48&amp;q=75 48w, /partners/Coinccino.webp?w=64&amp;q=75 64w, /partners/Coinccino.webp?w=96&amp;q=75 96w, /partners/Coinccino.webp?w=128&amp;q=75 128w, /partners/Coinccino.webp?w=256&amp;q=75 256w, /partners/Coinccino.webp?w=384&amp;q=75 384w, /partners/Coinccino.webp?w=640&amp;q=75 640w, /partners/Coinccino.webp?w=750&amp;q=75 750w, /partners/Coinccino.webp?w=828&amp;q=75 828w, /partners/Coinccino.webp?w=1080&amp;q=75 1080w, /partners/Coinccino.webp?w=1200&amp;q=75 1200w, /partners/Coinccino.webp?w=1920&amp;q=75 1920w, /partners/Coinccino.webp?w=2048&amp;q=75 2048w, /partners/Coinccino.webp?w=3840&amp;q=75 3840w"
-                        src="/partners/Coinccino.webp"
+                        src="/partners/Coinccino.webp?w=3840&amp;q=75"
                         style="color: transparent;"></div>
                 <div
                     class="text-card-foreground card-shadow flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-3 h-12 md:h-16 lg:h-14 w-32 md:w-36 lg:w-40 shadow-sm dark:shadow-none transition-transform duration-200 hover:scale-105">
@@ -40,7 +38,7 @@
                         class="w-20 h-6 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                         sizes="(max-width: 768px) 80px, (max-width: 1024px) 100px, 120px"
                         srcset="/partners/Phantashma.webp?w=16&amp;q=75 16w, /partners/Phantashma.webp?w=32&amp;q=75 32w, /partners/Phantashma.webp?w=48&amp;q=75 48w, /partners/Phantashma.webp?w=64&amp;q=75 64w, /partners/Phantashma.webp?w=96&amp;q=75 96w, /partners/Phantashma.webp?w=128&amp;q=75 128w, /partners/Phantashma.webp?w=256&amp;q=75 256w, /partners/Phantashma.webp?w=384&amp;q=75 384w, /partners/Phantashma.webp?w=640&amp;q=75 640w, /partners/Phantashma.webp?w=750&amp;q=75 750w, /partners/Phantashma.webp?w=828&amp;q=75 828w, /partners/Phantashma.webp?w=1080&amp;q=75 1080w, /partners/Phantashma.webp?w=1200&amp;q=75 1200w, /partners/Phantashma.webp?w=1920&amp;q=75 1920w, /partners/Phantashma.webp?w=2048&amp;q=75 2048w, /partners/Phantashma.webp?w=3840&amp;q=75 3840w"
-                        src="/partners/Phantashma.webp"
+                        src="/partners/Phantashma.webp?w=3840&amp;q=75"
                         style="color: transparent;"></div>
                 <div
                     class="text-card-foreground card-shadow flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-3 h-12 md:h-16 lg:h-14 w-32 md:w-36 lg:w-40 shadow-sm dark:shadow-none transition-transform duration-200 hover:scale-105">
@@ -48,7 +46,7 @@
                         class="w-20 h-6 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                         sizes="(max-width: 768px) 80px, (max-width: 1024px) 100px, 120px"
                         srcset="/partners/SeedX.webp?w=16&amp;q=75 16w, /partners/SeedX.webp?w=32&amp;q=75 32w, /partners/SeedX.webp?w=48&amp;q=75 48w, /partners/SeedX.webp?w=64&amp;q=75 64w, /partners/SeedX.webp?w=96&amp;q=75 96w, /partners/SeedX.webp?w=128&amp;q=75 128w, /partners/SeedX.webp?w=256&amp;q=75 256w, /partners/SeedX.webp?w=384&amp;q=75 384w, /partners/SeedX.webp?w=640&amp;q=75 640w, /partners/SeedX.webp?w=750&amp;q=75 750w, /partners/SeedX.webp?w=828&amp;q=75 828w, /partners/SeedX.webp?w=1080&amp;q=75 1080w, /partners/SeedX.webp?w=1200&amp;q=75 1200w, /partners/SeedX.webp?w=1920&amp;q=75 1920w, /partners/SeedX.webp?w=2048&amp;q=75 2048w, /partners/SeedX.webp?w=3840&amp;q=75 3840w"
-                        src="/partners/SeedX.webp" style="color: transparent;">
+                        src="/partners/SeedX.webp?w=3840&amp;q=75" style="color: transparent;">
                 </div>
                 <div
                     class="text-card-foreground card-shadow flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-3 h-12 md:h-16 lg:h-14 w-32 md:w-36 lg:w-40 shadow-sm dark:shadow-none transition-transform duration-200 hover:scale-105">
@@ -56,7 +54,7 @@
                         class="w-20 h-6 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                         sizes="(max-width: 768px) 80px, (max-width: 1024px) 100px, 120px"
                         srcset="/partners/INRx.webp?w=16&amp;q=75 16w, /partners/INRx.webp?w=32&amp;q=75 32w, /partners/INRx.webp?w=48&amp;q=75 48w, /partners/INRx.webp?w=64&amp;q=75 64w, /partners/INRx.webp?w=96&amp;q=75 96w, /partners/INRx.webp?w=128&amp;q=75 128w, /partners/INRx.webp?w=256&amp;q=75 256w, /partners/INRx.webp?w=384&amp;q=75 384w, /partners/INRx.webp?w=640&amp;q=75 640w, /partners/INRx.webp?w=750&amp;q=75 750w, /partners/INRx.webp?w=828&amp;q=75 828w, /partners/INRx.webp?w=1080&amp;q=75 1080w, /partners/INRx.webp?w=1200&amp;q=75 1200w, /partners/INRx.webp?w=1920&amp;q=75 1920w, /partners/INRx.webp?w=2048&amp;q=75 2048w, /partners/INRx.webp?w=3840&amp;q=75 3840w"
-                        src="/partners/INRx.webp" style="color: transparent;">
+                        src="/partners/INRx.webp?w=3840&amp;q=75" style="color: transparent;">
                 </div>
                 <div
                     class="text-card-foreground card-shadow flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-3 h-12 md:h-16 lg:h-14 w-32 md:w-36 lg:w-40 shadow-sm dark:shadow-none transition-transform duration-200 hover:scale-105">
@@ -64,7 +62,7 @@
                         class="w-20 h-6 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                         sizes="(max-width: 768px) 80px, (max-width: 1024px) 100px, 120px"
                         srcset="/partners/Tarality.webp?w=16&amp;q=75 16w, /partners/Tarality.webp?w=32&amp;q=75 32w, /partners/Tarality.webp?w=48&amp;q=75 48w, /partners/Tarality.webp?w=64&amp;q=75 64w, /partners/Tarality.webp?w=96&amp;q=75 96w, /partners/Tarality.webp?w=128&amp;q=75 128w, /partners/Tarality.webp?w=256&amp;q=75 256w, /partners/Tarality.webp?w=384&amp;q=75 384w, /partners/Tarality.webp?w=640&amp;q=75 640w, /partners/Tarality.webp?w=750&amp;q=75 750w, /partners/Tarality.webp?w=828&amp;q=75 828w, /partners/Tarality.webp?w=1080&amp;q=75 1080w, /partners/Tarality.webp?w=1200&amp;q=75 1200w, /partners/Tarality.webp?w=1920&amp;q=75 1920w, /partners/Tarality.webp?w=2048&amp;q=75 2048w, /partners/Tarality.webp?w=3840&amp;q=75 3840w"
-                        src="/partners/Tarality.webp" style="color: transparent;">
+                        src="/partners/Tarality.webp?w=3840&amp;q=75" style="color: transparent;">
                 </div>
                 <div
                     class="text-card-foreground card-shadow flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-3 h-12 md:h-16 lg:h-14 w-32 md:w-36 lg:w-40 shadow-sm dark:shadow-none transition-transform duration-200 hover:scale-105">
@@ -72,7 +70,7 @@
                         class="w-20 h-6 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                         sizes="(max-width: 768px) 80px, (max-width: 1024px) 100px, 120px"
                         srcset="/partners/O3Swap.webp?w=16&amp;q=75 16w, /partners/O3Swap.webp?w=32&amp;q=75 32w, /partners/O3Swap.webp?w=48&amp;q=75 48w, /partners/O3Swap.webp?w=64&amp;q=75 64w, /partners/O3Swap.webp?w=96&amp;q=75 96w, /partners/O3Swap.webp?w=128&amp;q=75 128w, /partners/O3Swap.webp?w=256&amp;q=75 256w, /partners/O3Swap.webp?w=384&amp;q=75 384w, /partners/O3Swap.webp?w=640&amp;q=75 640w, /partners/O3Swap.webp?w=750&amp;q=75 750w, /partners/O3Swap.webp?w=828&amp;q=75 828w, /partners/O3Swap.webp?w=1080&amp;q=75 1080w, /partners/O3Swap.webp?w=1200&amp;q=75 1200w, /partners/O3Swap.webp?w=1920&amp;q=75 1920w, /partners/O3Swap.webp?w=2048&amp;q=75 2048w, /partners/O3Swap.webp?w=3840&amp;q=75 3840w"
-                        src="/partners/O3Swap.webp" style="color: transparent;">
+                        src="/partners/O3Swap.webp?w=3840&amp;q=75" style="color: transparent;">
                 </div>
                 <div
                     class="text-card-foreground card-shadow flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-3 h-12 md:h-16 lg:h-14 w-32 md:w-36 lg:w-40 shadow-sm dark:shadow-none transition-transform duration-200 hover:scale-105">
@@ -80,7 +78,7 @@
                         class="w-20 h-6 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                         sizes="(max-width: 768px) 80px, (max-width: 1024px) 100px, 120px"
                         srcset="/partners/Merckel-Chain.webp?w=16&amp;q=75 16w, /partners/Merckel-Chain.webp?w=32&amp;q=75 32w, /partners/Merckel-Chain.webp?w=48&amp;q=75 48w, /partners/Merckel-Chain.webp?w=64&amp;q=75 64w, /partners/Merckel-Chain.webp?w=96&amp;q=75 96w, /partners/Merckel-Chain.webp?w=128&amp;q=75 128w, /partners/Merckel-Chain.webp?w=256&amp;q=75 256w, /partners/Merckel-Chain.webp?w=384&amp;q=75 384w, /partners/Merckel-Chain.webp?w=640&amp;q=75 640w, /partners/Merckel-Chain.webp?w=750&amp;q=75 750w, /partners/Merckel-Chain.webp?w=828&amp;q=75 828w, /partners/Merckel-Chain.webp?w=1080&amp;q=75 1080w, /partners/Merckel-Chain.webp?w=1200&amp;q=75 1200w, /partners/Merckel-Chain.webp?w=1920&amp;q=75 1920w, /partners/Merckel-Chain.webp?w=2048&amp;q=75 2048w, /partners/Merckel-Chain.webp?w=3840&amp;q=75 3840w"
-                        src="/partners/Merckel-Chain.webp"
+                        src="/partners/Merckel-Chain.webp?w=3840&amp;q=75"
                         style="color: transparent;"></div>
                 <div
                     class="text-card-foreground card-shadow flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-3 h-12 md:h-16 lg:h-14 w-32 md:w-36 lg:w-40 shadow-sm dark:shadow-none transition-transform duration-200 hover:scale-105">
@@ -88,7 +86,7 @@
                         class="w-20 h-6 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                         sizes="(max-width: 768px) 80px, (max-width: 1024px) 100px, 120px"
                         srcset="/partners/Certick.webp?w=16&amp;q=75 16w, /partners/Certick.webp?w=32&amp;q=75 32w, /partners/Certick.webp?w=48&amp;q=75 48w, /partners/Certick.webp?w=64&amp;q=75 64w, /partners/Certick.webp?w=96&amp;q=75 96w, /partners/Certick.webp?w=128&amp;q=75 128w, /partners/Certick.webp?w=256&amp;q=75 256w, /partners/Certick.webp?w=384&amp;q=75 384w, /partners/Certick.webp?w=640&amp;q=75 640w, /partners/Certick.webp?w=750&amp;q=75 750w, /partners/Certick.webp?w=828&amp;q=75 828w, /partners/Certick.webp?w=1080&amp;q=75 1080w, /partners/Certick.webp?w=1200&amp;q=75 1200w, /partners/Certick.webp?w=1920&amp;q=75 1920w, /partners/Certick.webp?w=2048&amp;q=75 2048w, /partners/Certick.webp?w=3840&amp;q=75 3840w"
-                        src="/partners/Certick.webp" style="color: transparent;">
+                        src="/partners/Certick.webp?w=3840&amp;q=75" style="color: transparent;">
                 </div>
                 <div
                     class="text-card-foreground card-shadow flex-shrink-0 rounded-full bg-transparent flex items-center justify-center p-3 h-12 md:h-16 lg:h-14 w-32 md:w-36 lg:w-40 shadow-sm dark:shadow-none transition-transform duration-200 hover:scale-105">
@@ -96,7 +94,7 @@
                         class="w-20 h-6 md:w-24 md:h-10 lg:w-28 lg:h-12 object-contain dark:invert dark:brightness-0"
                         sizes="(max-width: 768px) 80px, (max-width: 1024px) 100px, 120px"
                         srcset="/partners/spectrum.webp?w=16&amp;q=75 16w, /partners/spectrum.webp?w=32&amp;q=75 32w, /partners/spectrum.webp?w=48&amp;q=75 48w, /partners/spectrum.webp?w=64&amp;q=75 64w, /partners/spectrum.webp?w=96&amp;q=75 96w, /partners/spectrum.webp?w=128&amp;q=75 128w, /partners/spectrum.webp?w=256&amp;q=75 256w, /partners/spectrum.webp?w=384&amp;q=75 384w, /partners/spectrum.webp?w=640&amp;q=75 640w, /partners/spectrum.webp?w=750&amp;q=75 750w, /partners/spectrum.webp?w=828&amp;q=75 828w, /partners/spectrum.webp?w=1080&amp;q=75 1080w, /partners/spectrum.webp?w=1200&amp;q=75 1200w, /partners/spectrum.webp?w=1920&amp;q=75 1920w, /partners/spectrum.webp?w=2048&amp;q=75 2048w, /partners/spectrum.webp?w=3840&amp;q=75 3840w"
-                        src="/partners/spectrum.webp" style="color: transparent;">
+                        src="/partners/spectrum.webp?w=3840&amp;q=75" style="color: transparent;">
                 </div>
             </div>
         </div>
@@ -110,48 +108,50 @@
                         <div class="mt-3 text-sm sm:text-lg lg:text-xl">Years of Experience</div>
                     </div>
                     <div class="">
-                        <div class="font-medium text-3xl sm:text-5xl lg:text-7xl">2100+</div>
+                        <div class="font-medium text-3xl sm:text-5xl lg:text-7xl">1200+</div>
                         <div class="mt-3 text-sm sm:text-lg lg:text-xl">Satisfied Clients</div>
                     </div>
                     <div class="">
-                        <div class="font-medium text-3xl sm:text-5xl lg:text-7xl">180+</div>
+                        <div class="font-medium text-3xl sm:text-5xl lg:text-7xl">150+</div>
                         <div class="mt-3 text-sm sm:text-lg lg:text-xl">Skilled Developers</div>
                     </div>
                     <div class="">
-                        <div class="font-medium text-3xl sm:text-5xl lg:text-7xl">30+</div>
+                        <div class="font-medium text-3xl sm:text-5xl lg:text-7xl">20+</div>
                         <div class="mt-3 text-sm sm:text-lg lg:text-xl">Countries We Served</div>
                     </div>
                     <div class="col-span-full lg:mt-6 sm:mt-8 flex justify-center sm:justify-start"><a
-                            class="link_button_dark" href="#hire-developer-form">Hire Application Developers</a></div>
+                            class="link_button_dark" href="#hire-developer-form">Hire UI/UX Designers</a></div>
                 </div>
             </div>
             <div class="flex-1 w-full">
                 <div class="relative w-full h-56 sm:h-80 md:h-96 lg:h-[400px] overflow-hidden rounded-md"><img
                         alt="Statistics Illustration" decoding="async" data-nimg="fill" class="object-cover rounded-md"
                         sizes="100vw"
-                        srcset="/wp-content/uploads/2025/11/mobile-ios-to-android-large.jpeg"
-                        src="/wp-content/uploads/2025/11/mobile-ios-to-android-large.jpeg"
+                        srcset="https://img.nadcab.com/wp-content/uploads/2025/11/figma-ui-ux-designer.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/figma-ui-ux-designer.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/figma-ui-ux-designer.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/figma-ui-ux-designer.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/figma-ui-ux-designer.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/figma-ui-ux-designer.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/figma-ui-ux-designer.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/figma-ui-ux-designer.webp?w=3840&amp;q=75 3840w"
+                        src="/wp-content/uploads/2025/11/figma-ui-ux-designer.webp?w=3840&amp;q=75"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
             </div>
         </div>
     </section>
     <section class="md:my-16 px-4 md:px-0 max-w-7xl mx-auto">
         <div class="max-w-6xl mx-auto">
-            <h2 class="text-3xl md:text-5xl font-unbounded text-center mb-12 lg:leading-snug">Hire Dedicated Application
-                Developers to Power Your Product with Innovation &amp; Performance</h2>
+            <h2 class="text-3xl md:text-5xl font-unbounded text-center mb-12 lg:leading-snug">Build the Future with Our
+                Expert UI/UX Designer!</h2>
         </div>
         <div class="flex flex-col md:flex-row gap-8 lg:gap-12">
             <div class="w-full md:w-8/12 lg:w-7/12">
                 <div
                     class="text-sm md:text-lg text-muted-foreground mb-4 prose prose-lg max-w-none  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                    <p>Your application is the front door to your business. We create apps that engage users, showcase
-                        your brand, and provide intuitive, seamless experiences that leave a lasting impression.</p>
+                    <p>Hire highly skilled UI/UX designers who create visually stunning, intuitive, and
+                        conversion-focused digital experiences. We design clean, modern, and easy-to-navigate interfaces
+                        that make your website, web app, or mobile app feel natural and enjoyable to use.</p>
                 </div>
                 <div
                     class="text-sm md:text-lg text-muted-foreground mb-4 prose prose-lg max-w-none  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                    <p>Our developers build scalable, secure apps with seamless performance, combining technical
-                        expertise and creative insight for engaging, reliable experiences across all devices and
-                        platforms.</p>
+                    <p>Our team works with the latest tools like Figma, Adobe XD, Illustrator, and Photoshop, paired
+                        with strong front-end skills in HTML, CSS, Tailwind, JavaScript, React, and Next.js etc. We
+                        focus on performance, responsiveness, and pixel perfect detail delivering premium UI/UX quality
+                        at a budget-friendly cost.</p>
                 </div>
             </div>
             <div class="w-full md:w-4/12 lg:w-5/12">
@@ -162,8 +162,8 @@
                                 fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                 stroke-linejoin="round" class="lucide lucide-check" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
-                            </svg></span><span class="text-sm md:text-base text-muted-foreground leading-relaxed">API
-                            integration &amp; backend connectivity</span></li>
+                            </svg></span><span class="text-sm md:text-base text-muted-foreground leading-relaxed">5+
+                            years experienced expert designers</span></li>
                     <li class="flex items-start gap-3"><span
                             class="w-6 h-6 bg-card card-shadow rounded-full flex items-center justify-center flex-shrink-0 mt-0.5"><svg
                                 xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
@@ -171,8 +171,8 @@
                                 stroke-linejoin="round" class="lucide lucide-check" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
                             </svg></span><span
-                            class="text-sm md:text-base text-muted-foreground leading-relaxed">Scalable architecture for
-                            future growth</span></li>
+                            class="text-sm md:text-base text-muted-foreground leading-relaxed">Flexible hiring models
+                            (hourly, monthly, project-based)</span></li>
                     <li class="flex items-start gap-3"><span
                             class="w-6 h-6 bg-card card-shadow rounded-full flex items-center justify-center flex-shrink-0 mt-0.5"><svg
                                 xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
@@ -180,25 +180,16 @@
                                 stroke-linejoin="round" class="lucide lucide-check" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
                             </svg></span><span
-                            class="text-sm md:text-base text-muted-foreground leading-relaxed">Performance monitoring
-                            &amp; bug resolution</span></li>
+                            class="text-sm md:text-base text-muted-foreground leading-relaxed">Dedicated project manager
+                            &amp; support</span></li>
                     <li class="flex items-start gap-3"><span
                             class="w-6 h-6 bg-card card-shadow rounded-full flex items-center justify-center flex-shrink-0 mt-0.5"><svg
                                 xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
                                 fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                 stroke-linejoin="round" class="lucide lucide-check" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
-                            </svg></span><span class="text-sm md:text-base text-muted-foreground leading-relaxed">Native
-                            &amp; cross-platform app development</span></li>
-                    <li class="flex items-start gap-3"><span
-                            class="w-6 h-6 bg-card card-shadow rounded-full flex items-center justify-center flex-shrink-0 mt-0.5"><svg
-                                xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
-                                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                                stroke-linejoin="round" class="lucide lucide-check" aria-hidden="true">
-                                <path d="M20 6 9 17l-5-5"></path>
-                            </svg></span><span
-                            class="text-sm md:text-base text-muted-foreground leading-relaxed">End-to-end UI/UX design
-                            &amp; implementation</span></li>
+                            </svg></span><span class="text-sm md:text-base text-muted-foreground leading-relaxed">Strict
+                            quality checks &amp; design reviews</span></li>
                     <li class="flex items-start gap-3"><span
                             class="w-6 h-6 bg-card card-shadow rounded-full flex items-center justify-center flex-shrink-0 mt-0.5"><svg
                                 xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
@@ -206,8 +197,8 @@
                                 stroke-linejoin="round" class="lucide lucide-check" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
                             </svg></span><span
-                            class="text-sm md:text-base text-muted-foreground leading-relaxed">Cloud-based app
-                            deployment &amp; optimization</span></li>
+                            class="text-sm md:text-base text-muted-foreground leading-relaxed">Transparent communication
+                            with regular updates</span></li>
                 </ul>
             </div>
         </div>
@@ -215,13 +206,13 @@
     <section class="py-16 lg:py-16 overflow-hidden px-6 lg:px-0">
         <div class="max-w-7xl mx-auto">
             <div class="max-w-6xl mx-auto px-6 text-center">
-                <h2 class="text-3xl md:text-5xl font-unbounded mb-2 md:leading-snug">Why Teams Trust Our Application
-                    Developers</h2>
+                <h2 class="text-3xl md:text-5xl font-unbounded mb-2 md:leading-snug">Hire UI/UX Designers in 4 Simple
+                    Steps at Nadcab Labs</h2>
                 <div
                     class="max-w-4xl mx-auto mb-12 text-lg text-muted-foreground  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                    <p>Our developers build scalable, secure apps with seamless performance, combining technical
-                        expertise and creative insight for engaging, reliable experiences across all devices and
-                        platforms.</p>
+                    <p><span style="font-weight: 400;">Need some of our talents to glorify your development team? Follow
+                            quick and easy steps that can help you Hire UI/UX Designers from our team of
+                            proficients.</span></p>
                 </div>
             </div>
             <div class="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -231,14 +222,15 @@
                         class="w-20 h-20 rounded-full flex items-center justify-center mx-auto mb-4 bg-gray-100 dark:bg-gray-800">
                         <img alt="Get In Touch" loading="lazy" width="60" height="60" decoding="async" data-nimg="1"
                             class="object-contain"
-                            srcset="/wp-content/uploads/2025/09/Get-In-Touch.webp"
-                            src="/wp-content/uploads/2025/09/Get-In-Touch.webp"
+                            srcset="https://img.nadcab.com/wp-content/uploads/2025/09/Get-In-Touch.webp?w=64&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/09/Get-In-Touch.webp?w=128&amp;q=75 2x"
+                            src="/wp-content/uploads/2025/09/Get-In-Touch.webp?w=128&amp;q=75"
                             style="color: transparent;"></div>
-                    <h3 class="text-xl font-medium mb-3">Share Your Requirements</h3>
+                    <h3 class="text-xl font-medium mb-3">Get In Touch</h3>
                     <div
                         class="text-sm text-muted-foreground leading-relaxed  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                        <p>Share your app goals, tech stack, and desired features, React Native, Flutter, Swift, Kotlin,
-                            or others, so our team can build the perfect solution.</p>
+                        <p><span style="font-weight: 400;">Connect with our team and share your UI/UX design
+                                requirements. We’ll analyze your goals and recommend the most effective design strategy
+                                tailored to your brand and user needs.</span></p>
                     </div>
                 </div>
                 <div
@@ -247,15 +239,15 @@
                         class="w-20 h-20 rounded-full flex items-center justify-center mx-auto mb-4 bg-gray-100 dark:bg-gray-800">
                         <img alt="Team Allocation" loading="lazy" width="60" height="60" decoding="async" data-nimg="1"
                             class="object-contain"
-                            srcset="/wp-content/uploads/2025/09/Team-Allocation.webp"
-                            src="/wp-content/uploads/2025/09/Team-Allocation.webp"
+                            srcset="https://img.nadcab.com/wp-content/uploads/2025/09/Team-Allocation.webp?w=64&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/09/Team-Allocation.webp?w=128&amp;q=75 2x"
+                            src="/wp-content/uploads/2025/09/Team-Allocation.webp?w=128&amp;q=75"
                             style="color: transparent;"></div>
                     <h3 class="text-xl font-medium mb-3">Team Allocation</h3>
                     <div
                         class="text-sm text-muted-foreground leading-relaxed  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                        <p><span style="font-weight: 400;">We match you with skilled application developers experienced
-                                in your niche, from fintech and healthcare to gaming, retail, and enterprise
-                                apps.</span></p>
+                        <p><span style="font-weight: 400;">We assign UI/UX Designers whose expertise matches your
+                                project needs. Our carefully selected professionals bring the right skills and design
+                                insight to ensure efficient and impactful execution.</span></p>
                     </div>
                 </div>
                 <div
@@ -264,15 +256,15 @@
                         class="w-20 h-20 rounded-full flex items-center justify-center mx-auto mb-4 bg-gray-100 dark:bg-gray-800">
                         <img alt="Schedule an Interview" loading="lazy" width="60" height="60" decoding="async"
                             data-nimg="1" class="object-contain"
-                            srcset="/wp-content/uploads/2025/09/Schedule-an-Interview.webp"
-                            src="/wp-content/uploads/2025/09/Schedule-an-Interview.webp"
+                            srcset="https://img.nadcab.com/wp-content/uploads/2025/09/Schedule-an-Interview.webp?w=64&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/09/Schedule-an-Interview.webp?w=128&amp;q=75 2x"
+                            src="/wp-content/uploads/2025/09/Schedule-an-Interview.webp?w=128&amp;q=75"
                             style="color: transparent;"></div>
                     <h3 class="text-xl font-medium mb-3">Schedule an Interview</h3>
                     <div
                         class="text-sm text-muted-foreground leading-relaxed  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                        <p><span style="font-weight: 400;">Meet developers who’ve already built and deployed similar
-                                applications. They ensure clean code, performance optimization, and a scalable
-                                architecture.</span></p>
+                        <p><span style="font-weight: 400;">Interview the shortlisted UI/UX Designers to evaluate their
+                                design skills, communication abilities, and cultural fit. You stay in control while we
+                                simplify and streamline the hiring process.</span></p>
                     </div>
                 </div>
                 <div
@@ -281,16 +273,15 @@
                         class="w-20 h-20 rounded-full flex items-center justify-center mx-auto mb-4 bg-gray-100 dark:bg-gray-800">
                         <img alt="Team Onboarding" loading="lazy" width="60" height="60" decoding="async" data-nimg="1"
                             class="object-contain"
-                            srcset="/wp-content/uploads/2025/09/Team-Onboarding.webp"
-                            src="/wp-content/uploads/2025/09/Team-Onboarding.webp"
+                            srcset="https://img.nadcab.com/wp-content/uploads/2025/09/Team-Onboarding.webp?w=64&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/09/Team-Onboarding.webp?w=128&amp;q=75 2x"
+                            src="/wp-content/uploads/2025/09/Team-Onboarding.webp?w=128&amp;q=75"
                             style="color: transparent;"></div>
                     <h3 class="text-xl font-medium mb-3">Team Onboarding</h3>
                     <div
                         class="text-sm text-muted-foreground leading-relaxed  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                        <p><span style="font-weight: 400;">Once hired, your application developer joins your workflow
-                                with full tool alignment, repository access, and sprint setup.</span><span
-                                style="font-weight: 400;"><br>
-                            </span></p>
+                        <p><span style="font-weight: 400;">After selection, we swiftly onboard your UI/UX Designers with
+                                all the necessary tools and design guidelines, ensuring a smooth start and continuous
+                                support throughout the design journey.</span></p>
                     </div>
                 </div>
             </div>
@@ -300,7 +291,7 @@
         <div class="max-w-7xl mx-auto px-6 lg:px-0">
             <h2
                 class="gradient-text text-xl sm:text-2xl md:text-4xl md:leading-snug mb-5 max-w-5xl mx-auto text-center">
-                Application Development That Delivers Real Impact</h2>
+                Hire Dedicated UI UX Designers to Get End-to-end App and Web Design Services</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div
                     class="text-card-foreground card-shadow flex flex-col items-center text-center bg-card rounded-xl card-shadow p-4 sm:p-6 h-full hover:shadow-lg transition-shadow duration-300">
@@ -308,20 +299,18 @@
                         class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center mb-3 sm:mb-4">
                         <div
                             class="w-10 sm:w-16 h-10 sm:h-16 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center">
-                            <img alt="Custom Theme Design" loading="lazy" width="40" height="40" decoding="async"
+                            <img alt="UI/UX Design Optimization" loading="lazy" width="40" height="40" decoding="async"
                                 data-nimg="1" class="object-contain dark:invert"
-                                srcset="/wp-content/uploads/2025/10/Custom-Theme-Design.webp"
-                                src="/wp-content/uploads/2025/10/Custom-Theme-Design.webp"
+                                srcset="https://img.nadcab.com/wp-content/uploads/2025/10/UI-UX-Design-Optimization.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/10/UI-UX-Design-Optimization.webp?w=96&amp;q=75 2x"
+                                src="/wp-content/uploads/2025/10/UI-UX-Design-Optimization.webp?w=96&amp;q=75"
                                 style="color: transparent;"></div>
                     </div>
-                    <h3 class="font-semibold text-base sm:text-lg mb-2 sm:mb-3">Custom Application Design &amp;
-                        Development</h3>
+                    <h3 class="font-semibold text-base sm:text-lg mb-2 sm:mb-3">App Redesign Services</h3>
                     <div
                         class="text-muted-foreground text-xs sm:text-sm text-center leading-5 flex-1  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                        <p><span style="font-weight: 400;">We craft tailored applications that align with your business
-                                goals and user expectations, built for speed, scalability, and engagement. </span><span
-                                style="font-weight: 400;">Our developers focus on clean design, optimized performance,
-                                and seamless navigation to ensure long-term user retention.</span></p>
+                        <p>Need a fresh look? We evaluate your existing app or website and redesign it to meet modern
+                            UI/UX standards. Expect cleaner layouts, better performance, and a design that resonates
+                            with users.</p>
                     </div>
                 </div>
                 <div
@@ -330,20 +319,19 @@
                         class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center mb-3 sm:mb-4">
                         <div
                             class="w-10 sm:w-16 h-10 sm:h-16 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center">
-                            <img alt="Cross-Platform Development" loading="lazy" width="40" height="40" decoding="async"
+                            <img alt="Custom UI/UX Design ICON" loading="lazy" width="40" height="40" decoding="async"
                                 data-nimg="1" class="object-contain dark:invert"
-                                srcset="/wp-content/uploads/2025/10/Cross-Platform-Development-2.webp"
-                                src="/wp-content/uploads/2025/10/Cross-Platform-Development-2.webp"
+                                srcset="https://img.nadcab.com/wp-content/uploads/2025/08/Custom-UI-UX-Design.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/08/Custom-UI-UX-Design.webp?w=96&amp;q=75 2x"
+                                src="/wp-content/uploads/2025/08/Custom-UI-UX-Design.webp?w=96&amp;q=75"
                                 style="color: transparent;"></div>
                     </div>
-                    <h3 class="font-semibold text-base sm:text-lg mb-2 sm:mb-3">Cross-Platform &amp; Native App
-                        Development</h3>
+                    <h3 class="font-semibold text-base sm:text-lg mb-2 sm:mb-3">UI Wireframe Design</h3>
                     <div
                         class="text-muted-foreground text-xs sm:text-sm text-center leading-5 flex-1  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                        <p><span style="font-weight: 400;">Our experts build apps for Android, iOS, and Web using
-                                Flutter, React Native, Swift, and Kotlin, ensuring consistent performance everywhere.
-                            </span><span style="font-weight: 400;">We leverage platform-specific advantages while
-                                maintaining unified logic and design consistency.</span></p>
+                        <p><span style="font-weight: 400;">We begin by crafting detailed wireframes and visual sketches
+                                that offer a clear vision of your final app or website. Our skilled UI/UX designers
+                                create intuitive wireframes that lay the foundation for engaging and user-friendly
+                                interfaces.</span></p>
                     </div>
                 </div>
                 <div
@@ -352,20 +340,18 @@
                         class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center mb-3 sm:mb-4">
                         <div
                             class="w-10 sm:w-16 h-10 sm:h-16 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center">
-                            <img alt="Cloud Integration" loading="lazy" width="40" height="40" decoding="async"
-                                data-nimg="1" class="object-contain dark:invert"
-                                srcset="/wp-content/uploads/2025/10/Cloud-Integration-2.webp"
-                                src="/wp-content/uploads/2025/10/Cloud-Integration-2.webp"
+                            <img alt="IDO Consulting &amp; Strategy" loading="lazy" width="40" height="40"
+                                decoding="async" data-nimg="1" class="object-contain dark:invert"
+                                srcset="https://img.nadcab.com/wp-content/uploads/2025/10/IDO-Consulting-Strategy.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/10/IDO-Consulting-Strategy.webp?w=96&amp;q=75 2x"
+                                src="/wp-content/uploads/2025/10/IDO-Consulting-Strategy.webp?w=96&amp;q=75"
                                 style="color: transparent;"></div>
                     </div>
-                    <h3 class="font-semibold text-base sm:text-lg mb-2 sm:mb-3">Cloud Integration &amp; Backend
-                        Connectivity</h3>
+                    <h3 class="font-semibold text-base sm:text-lg mb-2 sm:mb-3">UX Strategy &amp; Consulting</h3>
                     <div
                         class="text-muted-foreground text-xs sm:text-sm text-center leading-5 flex-1  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                        <p><span style="font-weight: 400;">We integrate cloud services like AWS, Firebase, and Azure to
-                                ensure real-time sync, secure data storage, and fast response times. </span><span
-                                style="font-weight: 400;">Our developers build robust backend systems that support
-                                high-traffic, multi-user environments effortlessly.</span></p>
+                        <p><span style="font-weight: 400;">Our expert consultants guide you in building digital products
+                                that align with user behavior and business goals. From user journeys to product flows,
+                                we help shape strategies that enhance usability and drive results.</span></p>
                     </div>
                 </div>
                 <div
@@ -374,20 +360,18 @@
                         class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center mb-3 sm:mb-4">
                         <div
                             class="w-10 sm:w-16 h-10 sm:h-16 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center">
-                            <img alt="Optimized Performance" loading="lazy" width="40" height="40" decoding="async"
+                            <img alt="Website to Mobile App" loading="lazy" width="40" height="40" decoding="async"
                                 data-nimg="1" class="object-contain dark:invert"
-                                srcset="/wp-content/uploads/2025/10/Optimized-Performance.webp"
-                                src="/wp-content/uploads/2025/10/Optimized-Performance.webp"
+                                srcset="https://img.nadcab.com/wp-content/uploads/2025/10/Website-to-Mobile-App.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/10/Website-to-Mobile-App.webp?w=96&amp;q=75 2x"
+                                src="/wp-content/uploads/2025/10/Website-to-Mobile-App.webp?w=96&amp;q=75"
                                 style="color: transparent;"></div>
                     </div>
-                    <h3 class="font-semibold text-base sm:text-lg mb-2 sm:mb-3">Performance Optimization &amp; Testing
-                    </h3>
+                    <h3 class="font-semibold text-base sm:text-lg mb-2 sm:mb-3">Website Design Services</h3>
                     <div
                         class="text-muted-foreground text-xs sm:text-sm text-center leading-5 flex-1  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                        <p><span style="font-weight: 400;">Every application undergoes rigorous testing, performance
-                                tuning, and code review before deployment. </span><span style="font-weight: 400;">We
-                                optimize for low latency, battery efficiency, and high FPS to ensure your app runs
-                                smoothly on all devices.</span></p>
+                        <p><span style="font-weight: 400;">We specialize in delivering interactive and
+                                conversion-focused website designs. Our UI/UX professionals create seamless, visually
+                                appealing sites tailored to your brand’s identity and functional needs.</span></p>
                     </div>
                 </div>
                 <div
@@ -396,20 +380,18 @@
                         class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center mb-3 sm:mb-4">
                         <div
                             class="w-10 sm:w-16 h-10 sm:h-16 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center">
-                            <img alt="Maintenance &amp; Support" loading="lazy" width="40" height="40" decoding="async"
-                                data-nimg="1" class="object-contain dark:invert"
-                                srcset="/wp-content/uploads/2025/10/Maintenance-Support.webp"
-                                src="/wp-content/uploads/2025/10/Maintenance-Support.webp"
+                            <img alt="Custom Platform Design Icon" loading="lazy" width="40" height="40"
+                                decoding="async" data-nimg="1" class="object-contain dark:invert"
+                                srcset="https://img.nadcab.com/wp-content/uploads/2025/08/Custom-Platform-Design.png?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/08/Custom-Platform-Design.png?w=96&amp;q=75 2x"
+                                src="/wp-content/uploads/2025/08/Custom-Platform-Design.png?w=96&amp;q=75"
                                 style="color: transparent;"></div>
                     </div>
-                    <h3 class="font-semibold text-base sm:text-lg mb-2 sm:mb-3">Maintenance &amp; Continuous Updates
-                    </h3>
+                    <h3 class="font-semibold text-base sm:text-lg mb-2 sm:mb-3">Custom Design Solutions</h3>
                     <div
                         class="text-muted-foreground text-xs sm:text-sm text-center leading-5 flex-1  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                        <p><span style="font-weight: 400;">We provide long-term maintenance, version upgrades, and bug
-                                fixes to keep your app running flawlessly. </span><span style="font-weight: 400;">Our
-                                engineers monitor performance metrics and continuously enhance stability, speed, and
-                                compatibility.</span></p>
+                        <p><span style="font-weight: 400;">Looking for something unique? Our designers use advanced
+                                tools to build customized UI/UX solutions that perfectly reflect your brand’s values and
+                                meet specific business requirements.</span></p>
                     </div>
                 </div>
                 <div
@@ -418,20 +400,18 @@
                         class="w-16 sm:w-20 h-16 sm:h-20 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center mb-3 sm:mb-4">
                         <div
                             class="w-10 sm:w-16 h-10 sm:h-16 bg-card rounded-xl card-shadow dark:shadow-none flex items-center justify-center">
-                            <img alt="Security &amp; Compliance" loading="lazy" width="40" height="40" decoding="async"
-                                data-nimg="1" class="object-contain dark:invert"
-                                srcset="/wp-content/uploads/2025/10/Security-Compliance-1.webp"
-                                src="/wp-content/uploads/2025/10/Security-Compliance-1.webp"
+                            <img alt="Cross-Platform Compatibility" loading="lazy" width="40" height="40"
+                                decoding="async" data-nimg="1" class="object-contain dark:invert"
+                                srcset="https://img.nadcab.com/wp-content/uploads/2025/10/Cross-Platform-Compatibility.webp?w=48&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/10/Cross-Platform-Compatibility.webp?w=96&amp;q=75 2x"
+                                src="/wp-content/uploads/2025/10/Cross-Platform-Compatibility.webp?w=96&amp;q=75"
                                 style="color: transparent;"></div>
                     </div>
-                    <h3 class="font-semibold text-base sm:text-lg mb-2 sm:mb-3">Security &amp; Compliance Implementation
-                    </h3>
+                    <h3 class="font-semibold text-base sm:text-lg mb-2 sm:mb-3">Cross-Platform Compatibility</h3>
                     <div
                         class="text-muted-foreground text-xs sm:text-sm text-center leading-5 flex-1  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                        <p><span style="font-weight: 400;">We integrate advanced security protocols, including data
-                                encryption, authentication, and OWASP practices. </span><span
-                                style="font-weight: 400;">Your application stays compliant with industry standards like
-                                GDPR, HIPAA, and ISO for maximum trust and safety.</span></p>
+                        <p><span style="font-weight: 400;">Our designs ensure consistent user experiences across all
+                                platforms and devices. We follow standard UI/UX principles to create responsive,
+                                functional interfaces optimized for both mobile and web.</span></p>
                     </div>
                 </div>
             </div>
@@ -451,19 +431,19 @@
                                     <path d="M7 16h8"></path>
                                     <path d="M7 11h12"></path>
                                     <path d="M7 6h3"></path>
-                                </svg></span>Trusted by 2100+ startups, enterprises, and innovators</div>
-                        <h4 class="font-medium text-xl sm:text-xl md:text-3xl">High-Performance Applications Require
-                            Experienced Hands</h4>
-                        <p class="text-base sm:text-sm [&amp;_a]:text-blue-600 ">Work with specialists who understand
-                            architecture, optimization, and user engagement.</p>
-                        <div class="pt-2"><a class="link_button_blue" href="#hire-developer-form">Talk to an Application
-                                Technical Lead!</a></div>
+                                </svg></span>Trusted By 2200+ Businesses</div>
+                        <h4 class="font-medium text-xl sm:text-xl md:text-3xl">Launch your project smoothly with expert
+                            design ! </h4>
+                        <p class="text-base sm:text-sm [&amp;_a]:text-blue-600 ">Get flawless development, and a
+                            seamless delivery experience.</p>
+                        <div class="pt-2"><a class="link_button_blue" href="#hire-developer-form">Hire UI/UX
+                                Designers</a></div>
                     </div>
                 </div>
                 <div class="relative w-full lg:w-5/12 h-72"><img alt="Feature Image" loading="lazy" decoding="async"
                         data-nimg="fill" class="object-cover" sizes="100vw"
-                        srcset="/wp-content/uploads/2025/11/hire-app-developer-6915e293a70e3.webp"
-                        src="/wp-content/uploads/2025/11/hire-app-developer-6915e293a70e3.webp"
+                        srcset="https://img.nadcab.com/wp-content/uploads/2025/11/ui-uxflow-scaled.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/ui-uxflow-scaled.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/ui-uxflow-scaled.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/ui-uxflow-scaled.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/ui-uxflow-scaled.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/ui-uxflow-scaled.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/ui-uxflow-scaled.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/ui-uxflow-scaled.webp?w=3840&amp;q=75 3840w"
+                        src="/wp-content/uploads/2025/11/ui-uxflow-scaled.webp?w=3840&amp;q=75"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
             </div>
         </div>
@@ -473,17 +453,16 @@
             <div class="text-center mb-10">
                 <h2
                     class="gradient-text text-xl sm:text-2xl md:text-4xl font-medium mb-4 leading-snug max-w-5xl mx-auto">
-                    Technologies, Platforms &amp; Frameworks We Build Apps On</h2>
-                <p class="max-w-4xl mx-auto font-normal text-muted-foreground text-sm sm:text-base text-center ">We use
-                    the right technologies, frameworks, and design patterns for each project’s functionality,
-                    scalability, and user experience, ensuring your applications are fast, secure, and production-ready.
+                    Technologies, Networks &amp; Frameworks we Work With</h2>
+                <p class="max-w-4xl mx-auto font-normal text-muted-foreground text-sm sm:text-base text-center ">We
+                    apply the right tools for each protocol's logic, performance requirements, and security assumptions
                 </p>
             </div>
             <div class="sm:hidden max-w-7xl mx-auto">
                 <div class="rounded-xl bg-card text-card-foreground card-shadow mb-4">
                     <div class="flex items-center justify-between p-4 cursor-pointer">
                         <div class="flex gap-3 items-center">
-                            <h3 class="text-base font-medium">Libraries / Frameworks</h3>
+                            <h3 class="text-base font-medium">Design Tools / Software</h3>
                         </div><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 20 20"
                             aria-hidden="true" class="transition-transform duration-300 " height="20" width="20"
                             xmlns="http://www.w3.org/2000/svg">
@@ -522,7 +501,7 @@
                 <div class="rounded-xl bg-card text-card-foreground card-shadow mb-4">
                     <div class="flex items-center justify-between p-4 cursor-pointer">
                         <div class="flex gap-3 items-center">
-                            <h3 class="text-base font-medium">Collaboration &amp; Workflow</h3>
+                            <h3 class="text-base font-medium">Collaboration &amp; Team Workflow</h3>
                         </div><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 20 20"
                             aria-hidden="true" class="transition-transform duration-300 " height="20" width="20"
                             xmlns="http://www.w3.org/2000/svg">
@@ -535,7 +514,7 @@
                 <div class="rounded-xl bg-card text-card-foreground card-shadow mb-4">
                     <div class="flex items-center justify-between p-4 cursor-pointer">
                         <div class="flex gap-3 items-center">
-                            <h3 class="text-base font-medium">Deployment Platforms</h3>
+                            <h3 class="text-base font-medium">Delivery &amp; Handoff Platforms</h3>
                         </div><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 20 20"
                             aria-hidden="true" class="transition-transform duration-300 " height="20" width="20"
                             xmlns="http://www.w3.org/2000/svg">
@@ -548,7 +527,7 @@
                 <div class="rounded-xl bg-card text-card-foreground card-shadow mb-4">
                     <div class="flex items-center justify-between p-4 cursor-pointer">
                         <div class="flex gap-3 items-center">
-                            <h3 class="text-base font-medium">Version Control &amp; CI/CD</h3>
+                            <h3 class="text-base font-medium">Version Control &amp; Workflow</h3>
                         </div><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 20 20"
                             aria-hidden="true" class="transition-transform duration-300 " height="20" width="20"
                             xmlns="http://www.w3.org/2000/svg">
@@ -567,7 +546,7 @@
                         <div class="space-y-4">
                             <div>
                                 <div class="clickable-row bg-blue-400">
-                                    <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">Libraries / Frameworks</h3>
+                                    <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">Design Tools / Software</h3>
                                     <span class="ml-auto text-xl sm:text-2xl lg:text-3xl"><svg stroke="currentColor"
                                             fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em"
                                             width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -592,21 +571,22 @@
                             </div>
                             <div>
                                 <div class="clickable-row hover:bg-blue-400">
-                                    <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">Collaboration &amp; Workflow
-                                    </h3>
+                                    <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">Collaboration &amp; Team
+                                        Workflow</h3>
                                 </div>
                                 <div class="my-4"></div>
                             </div>
                             <div>
                                 <div class="clickable-row hover:bg-blue-400">
-                                    <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">Deployment Platforms</h3>
+                                    <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">Delivery &amp; Handoff
+                                        Platforms</h3>
                                 </div>
                                 <div class="my-4"></div>
                             </div>
                             <div>
                                 <div class="clickable-row hover:bg-blue-400">
-                                    <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">Version Control &amp; CI/CD
-                                    </h3>
+                                    <h3 class="font-normal text-lg sm:text-xl lg:text-2xl">Version Control &amp;
+                                        Workflow</h3>
                                 </div>
                             </div>
                         </div>
@@ -615,45 +595,71 @@
                         <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
                             <div
                                 class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
-                                <img alt="React" loading="lazy" width="30" height="30" decoding="async" data-nimg="1"
+                                <img alt="Figma" loading="lazy" width="30" height="30" decoding="async" data-nimg="1"
                                     class="flex-shrink-0 "
-                                    srcset="/wp-content/uploads/2025/11/React1.webp"
-                                    src="/wp-content/uploads/2025/11/React1.webp"
+                                    srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Figma.webp?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Figma.webp?w=64&amp;q=75 2x"
+                                    src="/wp-content/uploads/2025/11/Figma.webp?w=64&amp;q=75"
                                     style="color: transparent;"><span
-                                    class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">React</span></div>
+                                    class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Figma</span></div>
                             <div
                                 class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
-                                <img alt="Vue.js" loading="lazy" width="30" height="30" decoding="async" data-nimg="1"
+                                <img alt="Adobe XD" loading="lazy" width="30" height="30" decoding="async" data-nimg="1"
                                     class="flex-shrink-0 "
-                                    srcset="/wp-content/uploads/2025/11/Vue.js1-removebg-preview.webp"
-                                    src="/wp-content/uploads/2025/11/Vue.js1-removebg-preview.webp"
+                                    srcset="https://img.nadcab.com/wp-content/uploads/2025/11/adobe-xd.svg?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/adobe-xd.svg?w=64&amp;q=75 2x"
+                                    src="/wp-content/uploads/2025/11/adobe-xd.svg?w=64&amp;q=75"
                                     style="color: transparent;"><span
-                                    class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Vue.js</span></div>
+                                    class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Adobe XD</span></div>
                             <div
                                 class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
-                                <img alt="Angular JS" loading="lazy" width="30" height="30" decoding="async"
+                                <img alt="Sketch" loading="lazy" width="30" height="30" decoding="async" data-nimg="1"
+                                    class="flex-shrink-0 "
+                                    srcset="https://img.nadcab.com/wp-content/uploads/2025/11/sketch.svg?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/sketch.svg?w=64&amp;q=75 2x"
+                                    src="/wp-content/uploads/2025/11/sketch.svg?w=64&amp;q=75"
+                                    style="color: transparent;"><span
+                                    class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Sketch</span></div>
+                            <div
+                                class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
+                                <img alt="Illustrator" loading="lazy" width="30" height="30" decoding="async"
                                     data-nimg="1" class="flex-shrink-0 "
-                                    srcset="/wp-content/uploads/2025/11/angularjs1.webp"
-                                    src="/wp-content/uploads/2025/11/angularjs1.webp"
+                                    srcset="https://img.nadcab.com/wp-content/uploads/2025/11/illustrator-original.svg?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/illustrator-original.svg?w=64&amp;q=75 2x"
+                                    src="/wp-content/uploads/2025/11/illustrator-original.svg?w=64&amp;q=75"
                                     style="color: transparent;"><span
-                                    class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Angular JS</span>
+                                    class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Illustrator</span>
                             </div>
                             <div
                                 class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
-                                <img alt="Kotlin" loading="lazy" width="30" height="30" decoding="async" data-nimg="1"
-                                    class="flex-shrink-0 "
-                                    srcset="/wp-content/uploads/2025/11/Kotlin.webp"
-                                    src="/wp-content/uploads/2025/11/Kotlin.webp"
+                                <img alt="Photoshop" loading="lazy" width="30" height="30" decoding="async"
+                                    data-nimg="1" class="flex-shrink-0 "
+                                    srcset="https://img.nadcab.com/wp-content/uploads/2025/11/photoshop.svg?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/photoshop.svg?w=64&amp;q=75 2x"
+                                    src="/wp-content/uploads/2025/11/photoshop.svg?w=64&amp;q=75"
                                     style="color: transparent;"><span
-                                    class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Kotlin</span></div>
+                                    class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Photoshop</span>
+                            </div>
                             <div
                                 class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
-                                <img alt="flutter" loading="lazy" width="30" height="30" decoding="async" data-nimg="1"
-                                    class="flex-shrink-0 "
-                                    srcset="/wp-content/uploads/2025/11/Flutter.webp"
-                                    src="/wp-content/uploads/2025/11/Flutter.webp"
+                                <img alt="CorelDRAW" loading="lazy" width="30" height="30" decoding="async"
+                                    data-nimg="1" class="flex-shrink-0 "
+                                    srcset="https://img.nadcab.com/wp-content/uploads/2025/11/CorelDRAW.webp?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/CorelDRAW.webp?w=64&amp;q=75 2x"
+                                    src="/wp-content/uploads/2025/11/CorelDRAW.webp?w=64&amp;q=75"
                                     style="color: transparent;"><span
-                                    class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">flutter</span></div>
+                                    class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">CorelDRAW</span>
+                            </div>
+                            <div
+                                class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
+                                <img alt="Canva" loading="lazy" width="30" height="30" decoding="async" data-nimg="1"
+                                    class="flex-shrink-0 "
+                                    srcset="https://img.nadcab.com/wp-content/uploads/2025/11/Canva.webp?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/Canva.webp?w=64&amp;q=75 2x"
+                                    src="/wp-content/uploads/2025/11/Canva.webp?w=64&amp;q=75"
+                                    style="color: transparent;"><span
+                                    class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">Canva</span></div>
+                            <div
+                                class="bg-card text-card-foreground card-shadow h-16 sm:h-14 lg:h-20 rounded-lg flex items-center gap-3 sm:gap-1 px-4 sm:px-6 dark:bg-gray-400/10 dark:text-black dark:shadow-none">
+                                <img alt="InVision" loading="lazy" width="30" height="30" decoding="async" data-nimg="1"
+                                    class="flex-shrink-0 "
+                                    srcset="https://img.nadcab.com/wp-content/uploads/2025/11/InVision.webp?w=32&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/11/InVision.webp?w=64&amp;q=75 2x"
+                                    src="/wp-content/uploads/2025/11/InVision.webp?w=64&amp;q=75"
+                                    style="color: transparent;"><span
+                                    class="font-medium text-sm sm:text-sm lg:text-lg line-clamp-2">InVision</span></div>
                         </div>
                     </div>
                 </div>
@@ -663,21 +669,24 @@
     <div class="space-y-section"></div>
     <section class="relative bg-black text-white py-16 px-6 lg:px-32 lg:py-24 lg:mb-24">
         <div class="max-w-7xl mx-auto">
-            <h2 class="text-3xl lg:text-5xl font-bold mb-4">Pay for expertise, not experiments. Get the right people
-                from day one</h2>
+            <h2 class="text-3xl lg:text-5xl font-bold mb-4">Approx Cost To Hire Dedicated UI/UX Designers</h2>
             <div class="text-base mb-12  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                <p><span style="font-weight: 400;">We don’t outsource. We assign in-house application developers with
-                        proven mobile and web experience.</span></p>
+                <p>Hire Dedicated resources from Nadcab Labs Starts from</p>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div class="relative rounded-2xl p-8 border border-gray-700 bg-white text-black">
+                    <div class="w-16 h-16 mb-4"><img alt="Back end Developer" loading="lazy" width="64" height="64"
+                            decoding="async" data-nimg="1" class="object-contain"
+                            srcset="https://img.nadcab.com/wp-content/uploads/2025/06/backend-developer.png?w=64&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/backend-developer.png?w=128&amp;q=75 2x"
+                            src="/wp-content/uploads/2025/06/backend-developer.png?w=128&amp;q=75"
+                            style="color: transparent;"></div>
                     <h3 class="text-2xl font-bold mb-5">Monthly Package</h3>
                     <p class="text-sm mb-2">Price: Starts from</p>
                     <div class="text-3xl font-extrabold text-blue-500 mb-4"><span class="hprice">$2399.00/</span> <span
                             class="prm">Month</span></div>
                     <p class="text-sm mb-4  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                        <p><span style="font-weight: 400;">Hire Application Developers monthly to build apps with
-                                consistent updates and high-end functionality.</span></p>
+                        <p><span style="font-weight: 400;">Hire UI/UX Designers through our monthly hiring model to
+                                build a cost-friendly and long-term relationship with us.</span></p>
                     </p>
                     <ul class="space-y-3 mb-6">
                         <li class="flex items-center gap-3 text-sm"><svg xmlns="http://www.w3.org/2000/svg" width="24"
@@ -685,25 +694,31 @@
                                 stroke-linecap="round" stroke-linejoin="round"
                                 class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
-                            </svg>Assured Code Quality</li>
+                            </svg>Agile</li>
                         <li class="flex items-center gap-3 text-sm"><svg xmlns="http://www.w3.org/2000/svg" width="24"
                                 height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                                 stroke-linecap="round" stroke-linejoin="round"
                                 class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
-                            </svg>Dedicated Project Manager</li>
+                            </svg>Dedicated PM</li>
                         <li class="flex items-center gap-3 text-sm"><svg xmlns="http://www.w3.org/2000/svg" width="24"
                                 height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                                 stroke-linecap="round" stroke-linejoin="round"
                                 class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
-                            </svg>Flexible Time Zone Support</li>
+                            </svg>QA</li>
                         <li class="flex items-center gap-3 text-sm"><svg xmlns="http://www.w3.org/2000/svg" width="24"
                                 height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                                 stroke-linecap="round" stroke-linejoin="round"
                                 class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
-                            </svg>Agile Development Process</li>
+                            </svg>Flexible Time</li>
+                        <li class="flex items-center gap-3 text-sm"><svg xmlns="http://www.w3.org/2000/svg" width="24"
+                                height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                stroke-linecap="round" stroke-linejoin="round"
+                                class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
+                                <path d="M20 6 9 17l-5-5"></path>
+                            </svg>Updates</li>
                     </ul><a
                         class="block text-center py-3 rounded-lg font-semibold transition-colors bg-black text-white hover:bg-gray-800"
                         href="#hire-developer-form">Get Started</a>
@@ -712,13 +727,19 @@
                     <span
                         class="absolute top-3 right-4 bg-blue-500 text-white text-xs px-3 py-1 rounded-full font-semibold">MOST
                         POPULAR</span>
+                    <div class="w-16 h-16 mb-4"><img alt="Game Developers" loading="lazy" width="64" height="64"
+                            decoding="async" data-nimg="1" class="object-contain"
+                            srcset="https://img.nadcab.com/wp-content/uploads/2025/06/game-developer.png?w=64&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/game-developer.png?w=128&amp;q=75 2x"
+                            src="/wp-content/uploads/2025/06/game-developer.png?w=128&amp;q=75"
+                            style="color: transparent;"></div>
                     <h3 class="text-2xl font-bold mb-5">Quarterly Package</h3>
                     <p class="text-sm mb-2">Price: Starts from</p>
-                    <div class="text-3xl font-extrabold text-blue-500 mb-4"><span class="hprice">$6599.00/</span> <span
+                    <div class="text-3xl font-extrabold text-blue-500 mb-4"><span class="hprice">$7599.00/</span> <span
                             class="prm">Quarter</span></div>
                     <p class="text-sm mb-4  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                        <p><span style="font-weight: 400;">Choose our quarterly plan for continuous development,
-                                optimization, and feature scalability.</span></p>
+                        <p><span style="font-weight: 400;">Hire UI/UX Designers on a quarterly basis to get all the
+                                support or guidance you need for your constantly changing development
+                                requirements.</span></p>
                     </p>
                     <ul class="space-y-3 mb-6">
                         <li class="flex items-center gap-3 text-sm"><svg xmlns="http://www.w3.org/2000/svg" width="24"
@@ -726,37 +747,48 @@
                                 stroke-linecap="round" stroke-linejoin="round"
                                 class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
-                            </svg>Quality Code Guarantee</li>
+                            </svg>Agile</li>
                         <li class="flex items-center gap-3 text-sm"><svg xmlns="http://www.w3.org/2000/svg" width="24"
                                 height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                                 stroke-linecap="round" stroke-linejoin="round"
                                 class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
-                            </svg>Regular Sprint Reviews</li>
+                            </svg>Dedicated PM</li>
                         <li class="flex items-center gap-3 text-sm"><svg xmlns="http://www.w3.org/2000/svg" width="24"
                                 height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                                 stroke-linecap="round" stroke-linejoin="round"
                                 class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
-                            </svg>Multi-Platform Support</li>
+                            </svg>QA</li>
                         <li class="flex items-center gap-3 text-sm"><svg xmlns="http://www.w3.org/2000/svg" width="24"
                                 height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                                 stroke-linecap="round" stroke-linejoin="round"
                                 class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
-                            </svg>Dedicated Project Manager</li>
+                            </svg>Flexible Time</li>
+                        <li class="flex items-center gap-3 text-sm"><svg xmlns="http://www.w3.org/2000/svg" width="24"
+                                height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                stroke-linecap="round" stroke-linejoin="round"
+                                class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
+                                <path d="M20 6 9 17l-5-5"></path>
+                            </svg>Updates</li>
                     </ul><a
                         class="block text-center py-3 rounded-lg font-semibold transition-colors bg-blue-600 text-white hover:bg-blue-300"
                         href="#hire-developer-form">Get Started</a>
                 </div>
                 <div class="relative rounded-2xl p-8 border border-gray-700 bg-white text-black">
+                    <div class="w-16 h-16 mb-4"><img alt="Front End Developer" loading="lazy" width="64" height="64"
+                            decoding="async" data-nimg="1" class="object-contain"
+                            srcset="https://img.nadcab.com/wp-content/uploads/2025/06/frontend-developer.png?w=64&amp;q=75 1x, https://img.nadcab.com/wp-content/uploads/2025/06/frontend-developer.png?w=128&amp;q=75 2x"
+                            src="/wp-content/uploads/2025/06/frontend-developer.png?w=128&amp;q=75"
+                            style="color: transparent;"></div>
                     <h3 class="text-2xl font-bold mb-5">Yearly Package</h3>
                     <p class="text-sm mb-2">Price: Starts from</p>
-                    <div class="text-3xl font-extrabold text-blue-500 mb-4"><span class="hprice">$23999.00/</span> <span
+                    <div class="text-3xl font-extrabold text-blue-500 mb-4"><span class="hprice">$22999.00/</span> <span
                             class="prm">Year</span></div>
                     <p class="text-sm mb-4  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                        <p><span style="font-weight: 400;">Opt for our yearly plan to hire dedicated Application
-                                Developers for long-term collaboration.</span></p>
+                        <p><span style="font-weight: 400;">Hire skilled UI/UX Designer within budget from the top app
+                                development company for all your long term needs.</span></p>
                     </p>
                     <ul class="space-y-3 mb-6">
                         <li class="flex items-center gap-3 text-sm"><svg xmlns="http://www.w3.org/2000/svg" width="24"
@@ -764,25 +796,31 @@
                                 stroke-linecap="round" stroke-linejoin="round"
                                 class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
-                            </svg>Agile Methodology</li>
+                            </svg>Agile</li>
                         <li class="flex items-center gap-3 text-sm"><svg xmlns="http://www.w3.org/2000/svg" width="24"
                                 height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                                 stroke-linecap="round" stroke-linejoin="round"
                                 class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
-                            </svg>Dedicated Manager</li>
+                            </svg>Dedicated PM</li>
                         <li class="flex items-center gap-3 text-sm"><svg xmlns="http://www.w3.org/2000/svg" width="24"
                                 height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                                 stroke-linecap="round" stroke-linejoin="round"
                                 class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
-                            </svg>Quality Code Assurance</li>
+                            </svg>QA</li>
                         <li class="flex items-center gap-3 text-sm"><svg xmlns="http://www.w3.org/2000/svg" width="24"
                                 height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                                 stroke-linecap="round" stroke-linejoin="round"
                                 class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                                 <path d="M20 6 9 17l-5-5"></path>
-                            </svg>Global Time Zone Coverage</li>
+                            </svg>Flexible Time</li>
+                        <li class="flex items-center gap-3 text-sm"><svg xmlns="http://www.w3.org/2000/svg" width="24"
+                                height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                stroke-linecap="round" stroke-linejoin="round"
+                                class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
+                                <path d="M20 6 9 17l-5-5"></path>
+                            </svg>Updates</li>
                     </ul><a
                         class="block text-center py-3 rounded-lg font-semibold transition-colors bg-black text-white hover:bg-gray-800"
                         href="#hire-developer-form">Get Started</a>
@@ -796,10 +834,10 @@
                 <div class="lg:w-1/2 flex flex-col justify-center space-y-4 px-6 sm:px-8 lg:px-10 py-8">
                     <h2
                         class="font-semibold text-2xl md:text-3xl lg:text-4xl lg:leading-snug text-black dark:text-white">
-                        Ready to Discuss Your Project?</h2>
-                    <p class="text-base leading-6 text-black dark:text-white [&amp;_a]:text-blue-600">Let’s build
-                        innovative, scalable, and high-performing applications together. Reach out today and get started
-                        with Nadcab’s expert team.</p>
+                        Ready to Create a Design Your Users Will Love?</h2>
+                    <p class="text-base leading-6 text-black dark:text-white [&amp;_a]:text-blue-600">We create clean,
+                        modern, and user-friendly UI/UX designs that feel smooth, visually appealing, and simple for
+                        users to understand and engage with.</p>
                     <div class="grid grid-cols-1 sm:grid-cols-2  gap-y-4">
                         <div class="flex items-start gap-3">
                             <div
@@ -810,7 +848,8 @@
                                         d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                         clip-rule="evenodd"></path>
                                 </svg></div>
-                            <p class="text-base leading-6 text-black dark:text-white">1200+ Skilled Developers</p>
+                            <p class="text-base leading-6 text-black dark:text-white">Designs based on real user
+                                behavior &amp; psychology</p>
                         </div>
                         <div class="flex items-start gap-3">
                             <div
@@ -821,7 +860,8 @@
                                         d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                         clip-rule="evenodd"></path>
                                 </svg></div>
-                            <p class="text-base leading-6 text-black dark:text-white">2700+ Global Clients</p>
+                            <p class="text-base leading-6 text-black dark:text-white">Structured design process with
+                                clear checkpoints</p>
                         </div>
                         <div class="flex items-start gap-3">
                             <div
@@ -832,7 +872,8 @@
                                         d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                         clip-rule="evenodd"></path>
                                 </svg></div>
-                            <p class="text-base leading-6 text-black dark:text-white">End-to-End App Support</p>
+                            <p class="text-base leading-6 text-black dark:text-white">Collaborative communication with
+                                screen-by-screen approval</p>
                         </div>
                         <div class="flex items-start gap-3">
                             <div
@@ -843,7 +884,8 @@
                                         d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                         clip-rule="evenodd"></path>
                                 </svg></div>
-                            <p class="text-base leading-6 text-black dark:text-white">97% Success Rate</p>
+                            <p class="text-base leading-6 text-black dark:text-white">Performance-focused layouts for
+                                smooth user interactions</p>
                         </div>
                         <div class="flex items-start gap-3">
                             <div
@@ -854,26 +896,16 @@
                                         d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                         clip-rule="evenodd"></path>
                                 </svg></div>
-                            <p class="text-base leading-6 text-black dark:text-white">Expert Tech Knowledge</p>
-                        </div>
-                        <div class="flex items-start gap-3">
-                            <div
-                                class="w-6 h-6 bg-card card-shadow dark:shadow-none dark:bg-blue-500 rounded-full flex items-center justify-center shrink-0">
-                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 20 20"
-                                    aria-hidden="true" height="18" width="18" xmlns="http://www.w3.org/2000/svg">
-                                    <path fill-rule="evenodd"
-                                        d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                                        clip-rule="evenodd"></path>
-                                </svg></div>
-                            <p class="text-base leading-6 text-black dark:text-white">Flexible Engagement Models</p>
+                            <p class="text-base leading-6 text-black dark:text-white">Accessibility, responsiveness, and
+                                brand consistency maintained</p>
                         </div>
                     </div><a class="link_button_dark w-fit mt-8 inline-flex px-6 py-3 text-center"
-                        href="https://www.nadcab.com/contact">Consult Our Experts</a>
+                        href="/contact">Consult Our AI Experts</a>
                 </div>
-                <div class="lg:w-1/2 relative"><img alt="hire best application developer" loading="lazy"
-                        decoding="async" data-nimg="fill" class="object-cover" sizes="(max-width: 1024px) 100vw, 50vw"
-                        srcset="/wp-content/uploads/2025/11/hire-best-application-developer.webp"
-                        src="/wp-content/uploads/2025/11/hire-best-application-developer.webp"
+                <div class="lg:w-1/2 relative"><img alt="Hire UIUX developer" loading="lazy" decoding="async"
+                        data-nimg="fill" class="object-cover" sizes="(max-width: 1024px) 100vw, 50vw"
+                        srcset="https://img.nadcab.com/wp-content/uploads/2025/11/UIUX-developer-scaled.webp?w=384&amp;q=75 384w, https://img.nadcab.com/wp-content/uploads/2025/11/UIUX-developer-scaled.webp?w=640&amp;q=75 640w, https://img.nadcab.com/wp-content/uploads/2025/11/UIUX-developer-scaled.webp?w=750&amp;q=75 750w, https://img.nadcab.com/wp-content/uploads/2025/11/UIUX-developer-scaled.webp?w=828&amp;q=75 828w, https://img.nadcab.com/wp-content/uploads/2025/11/UIUX-developer-scaled.webp?w=1080&amp;q=75 1080w, https://img.nadcab.com/wp-content/uploads/2025/11/UIUX-developer-scaled.webp?w=1200&amp;q=75 1200w, https://img.nadcab.com/wp-content/uploads/2025/11/UIUX-developer-scaled.webp?w=1920&amp;q=75 1920w, https://img.nadcab.com/wp-content/uploads/2025/11/UIUX-developer-scaled.webp?w=2048&amp;q=75 2048w, https://img.nadcab.com/wp-content/uploads/2025/11/UIUX-developer-scaled.webp?w=3840&amp;q=75 3840w"
+                        src="/wp-content/uploads/2025/11/UIUX-developer-scaled.webp?w=3840&amp;q=75"
                         style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"></div>
             </div>
         </div>
@@ -881,12 +913,12 @@
     <div id="hire-developer-form" class="bg-black text-white py-16 px-6 lg:px-16 lg:mt-16">
         <div class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
             <div class="lg:col-span-5">
-                <h1 class="text-3xl sm:text-5xl md:text-6xl font-semibold mb-6">Ready to Build a Powerful Application?
-                </h1>
+                <h1 class="text-3xl sm:text-5xl md:text-6xl font-semibold mb-6">Hire UI/UX Designers</h1>
                 <div
                     class="text-gray-300 mb-6 prose prose-invert  [&amp;_a]:text-blue-600 dark:[&amp;_a]:text-blue-400">
-                    <p><span style="font-weight: 400;">We collaborate with startups, enterprises, and global teams to
-                            deliver applications that combine creativity, performance, and reliability.</span></p>
+                    <p>Bring your idea to life with smooth, modern, and user-friendly design. Our UI/UX experts craft
+                        experiences that look beautiful and feel effortless so your users stay engaged, trust your
+                        product, and love using it.</p>
                 </div>
                 <ul class="space-y-3 text-gray-300">
                     <li class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
@@ -894,31 +926,37 @@
                             stroke-linecap="round" stroke-linejoin="round"
                             class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                             <path d="M20 6 9 17l-5-5"></path>
-                        </svg>2700+ Successful App Launches</li>
+                        </svg>Why Work With Our UI/UX Team</li>
                     <li class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                             viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                             stroke-linecap="round" stroke-linejoin="round"
                             class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                             <path d="M20 6 9 17l-5-5"></path>
-                        </svg>1200+ Skilled Developers Across Frameworks</li>
+                        </svg>Human centered design that connects with users</li>
                     <li class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                             viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                             stroke-linecap="round" stroke-linejoin="round"
                             class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                             <path d="M20 6 9 17l-5-5"></path>
-                        </svg>97% Client Retention &amp; Long-Term Partnerships</li>
+                        </svg>Pixel-perfect screens matched to your brand</li>
                     <li class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                             viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                             stroke-linecap="round" stroke-linejoin="round"
                             class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                             <path d="M20 6 9 17l-5-5"></path>
-                        </svg>Flexible Collaboration Models That Fit Your Workflow</li>
+                        </svg>Smooth flows &amp; fast-loading, responsive layouts</li>
                     <li class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                             viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                             stroke-linecap="round" stroke-linejoin="round"
                             class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
                             <path d="M20 6 9 17l-5-5"></path>
-                        </svg>End-to-End Support from Design → Development → Deployment</li>
+                        </svg>Collaborative process with clear drafts &amp; approvals</li>
+                    <li class="flex items-start gap-2"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                            viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                            stroke-linecap="round" stroke-linejoin="round"
+                            class="lucide lucide-check text-blue-400 w-5 h-5" aria-hidden="true">
+                            <path d="M20 6 9 17l-5-5"></path>
+                        </svg>Designs ready for development implementation</li>
                 </ul>
             </div>
             <div class="lg:col-span-7 bg-white rounded-2xl text-black p-8 shadow-xl">
@@ -962,8 +1000,8 @@
                     </div>
                     <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
                         <div class="flex items-center gap-3 bg-gray-50 px-3 py-2 rounded-md border border-gray-200">
-                            <span class="font-medium">7</span><span class="font-medium">+</span><span
-                                class="font-medium">10</span><span class="font-medium">=</span><input
+                            <span class="font-medium">4</span><span class="font-medium">+</span><span
+                                class="font-medium">9</span><span class="font-medium">=</span><input
                                 class="w-16 bg-transparent border-b border-gray-300 text-center focus:outline-none focus:border-blue-600"
                                 type="text" name="captcha"><button type="button"
                                 class="inline-flex items-center px-2 py-1 hover:bg-gray-100"><svg stroke="currentColor"
@@ -989,8 +1027,8 @@
                     <div class="" style="animation-delay: 0ms;">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">What does an application
-                                    developer do?</h3>
+                                <h3 class="font-normal text-base md:font-medium md:text-base">How is UI different from
+                                    UX?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
@@ -1005,17 +1043,17 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    An application developer designs, builds, tests, and maintains software applications
-                                    for web, mobile, or desktop platforms. They ensure functionality, performance, and a
-                                    smooth user experience.</div>
+                                    UI focuses on visual design and layout, while UX centers on user behavior,
+                                    usability, and experience flow. Together, they create seamless, engaging, and
+                                    functional digital interactions.</div>
                             </div>
                         </div>
                     </div>
                     <div class="" style="animation-delay: 100ms;">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">Do you build both web and
-                                    mobile applications?</h3>
+                                <h3 class="font-normal text-base md:font-medium md:text-base">What do UI/UX designers
+                                    do?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
@@ -1030,17 +1068,17 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    Absolutely. Our team specializes in developing responsive web apps, Android and iOS
-                                    mobile apps, and cross-platform solutions with a focus on performance and user
-                                    experience.</div>
+                                    A UI/UX developer designs user interfaces and experiences that are visually
+                                    appealing, intuitive, and responsive, ensuring smooth interaction between users and
+                                    software across web, mobile, and desktop platforms.</div>
                             </div>
                         </div>
                     </div>
                     <div class="" style="animation-delay: 200ms;">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">What technologies do your
-                                    app developers use?</h3>
+                                <h3 class="font-normal text-base md:font-medium md:text-base">What tools do UI/UX
+                                    designers use?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
@@ -1055,34 +1093,9 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    We work with modern stacks like React, Angular, Node.js, Python, Flutter, Kotlin,
-                                    Swift, and .NET to create reliable applications for both startups and
-                                    enterprise-level businesses.</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="" style="animation-delay: 300ms;">
-                        <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
-                                class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">How long does it take to
-                                    develop an application?</h3>
-                                <div
-                                    class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
-                                    <div
-                                        class="w-7 h-7 flex items-center justify-center bg-card card-shadow dark:shadow-none rounded-md ">
-                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0"
-                                            viewBox="0 0 512 512" class="w-6 h-6 transition-transform duration-300 "
-                                            height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M128 192l128 128 128-128z"></path>
-                                        </svg></div>
-                                </div>
-                            </button>
-                            <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
-                                <div
-                                    class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    The development timeline depends on the project’s complexity, features, and
-                                    platform. On average, a standard application takes 8–16 weeks from planning to
-                                    deployment.</div>
+                                    They use Figma, Adobe XD, Sketch, InVision, and Zeplin for design and prototyping,
+                                    alongside HTML, CSS, and JavaScript for front-end development and seamless
+                                    implementation.</div>
                             </div>
                         </div>
                     </div>
@@ -1091,8 +1104,8 @@
                     <div class="" style="animation-delay: 0ms;">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">Will I get post-launch
-                                    support for my application?</h3>
+                                <h3 class="font-normal text-base md:font-medium md:text-base">Why is UI/UX important for
+                                    websites and apps?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
@@ -1107,17 +1120,17 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    Yes. Nadcab Labs offers complete post-launch support, including updates,
-                                    maintenance, performance optimization, and security monitoring to keep your app
-                                    running smoothly.</div>
+                                    Good UI/UX boosts user satisfaction, retention, and conversions. It ensures
+                                    accessibility, intuitive navigation, and visually cohesive design, directly
+                                    influencing business success and brand perception.</div>
                             </div>
                         </div>
                     </div>
                     <div class="" style="animation-delay: 100ms;">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">Can your developers
-                                    integrate APIs and third-party tools?</h3>
+                                <h3 class="font-normal text-base md:font-medium md:text-base">How do UI/UX designers
+                                    improve user engagement?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
@@ -1132,17 +1145,17 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    Yes. Our developers are skilled in integrating APIs, payment gateways, CRMs, and
-                                    analytics tools to enhance functionality and user engagement within your
-                                    application.</div>
+                                    They analyze user behavior, create intuitive flows, design accessible layouts, and
+                                    ensure responsive performance, enhancing satisfaction, reducing friction, and
+                                    guiding users toward desired actions efficiently.</div>
                             </div>
                         </div>
                     </div>
                     <div class="" style="animation-delay: 200ms;">
                         <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
                                 class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">Why should I hire
-                                    application developers from Nadcab Labs?</h3>
+                                <h3 class="font-normal text-base md:font-medium md:text-base">What skills are required
+                                    to become a successful UI/UX designer?</h3>
                                 <div
                                     class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
                                     <div
@@ -1157,34 +1170,9 @@
                             <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
                                 <div
                                     class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    Our developers combine creativity with technical excellence. They build scalable,
-                                    secure, and high-performance applications tailored to your business goals and
-                                    industry requirements.</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="" style="animation-delay: 300ms;">
-                        <div class="accordion-item bg-card rounded-lg card-shadow overflow-hidden"><button
-                                class="accordion-trigger">
-                                <h3 class="font-normal text-base md:font-medium md:text-base">How do I hire dedicated
-                                    application developers from Nadcab Labs?</h3>
-                                <div
-                                    class="flex-shrink-0 w-9 h-9 bg-card card-shadow dark:shadow-none flex items-center justify-center rounded-md">
-                                    <div
-                                        class="w-7 h-7 flex items-center justify-center bg-card card-shadow dark:shadow-none rounded-md ">
-                                        <svg stroke="currentColor" fill="currentColor" stroke-width="0"
-                                            viewBox="0 0 512 512" class="w-6 h-6 transition-transform duration-300 "
-                                            height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M128 192l128 128 128-128z"></path>
-                                        </svg></div>
-                                </div>
-                            </button>
-                            <div class="accordion-content px-6 overflow-hidden transition-all duration-300 max-h-0">
-                                <div
-                                    class="text-muted-foreground  [&amp;_a]:text-blue-600 [&amp;_ul]:list-disc  [&amp;_ul]:ml-5  [&amp;_ol]:list-decimal  [&amp;_ol]:ml-5 [&amp;_a:hover]:underline ">
-                                    Simply share your requirements, and we’ll match you with experienced developers
-                                    within 48 hours. Once approved, you can start collaborating immediately with your
-                                    dedicated team.</div>
+                                    A good UI/UX designer needs skills like creativity, visual design knowledge,
+                                    wireframing, prototyping, user research, problem-solving, communication, and
+                                    familiarity with design tools like Figma or Adobe XD.</div>
                             </div>
                         </div>
                     </div>

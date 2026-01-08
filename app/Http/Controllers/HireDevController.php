@@ -10,4 +10,8 @@ class HireDevController extends Controller
     {
         return view('user.hire.application-developers');
     }
+    public function uiUxDesigner()
+    {
+        return view('user.hire.ui-ux-designer');
+    }
 }
