@@ -30,4 +30,8 @@ class HireDevController extends Controller
     {
         return view('user.hire.smart-contract-developer');
     }
+    public function machineLearningEngineer()
+    {
+        return view('user.hire.machine-learning-engineer');
+    }
 }
